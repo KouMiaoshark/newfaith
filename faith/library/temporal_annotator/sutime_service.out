@@ -1,0 +1,37 @@
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Registering annotator sutime with class edu.stanford.nlp.time.TimeAnnotator
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator tokenize
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator ssplit
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator pos
+[main] INFO edu.stanford.nlp.tagger.maxent.MaxentTagger - Loading POS tagger from edu/stanford/nlp/models/pos-tagger/english-left3words-distsim.tagger ... done [1.0 sec].
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator lemma
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator ner
+[main] INFO edu.stanford.nlp.sequences.SeqClassifierFlags - sutime.includeRange=true
+[main] INFO edu.stanford.nlp.sequences.SeqClassifierFlags - Unknown property: |sutime.includeRange|
+[main] INFO edu.stanford.nlp.sequences.SeqClassifierFlags - sutime.language=english
+[main] INFO edu.stanford.nlp.sequences.SeqClassifierFlags - sutime.markTimeRanges=true
+[main] INFO edu.stanford.nlp.sequences.SeqClassifierFlags - Unknown property: |sutime.markTimeRanges|
+[main] INFO edu.stanford.nlp.sequences.SeqClassifierFlags - Unknown property: |sutime.includeRange|
+[main] INFO edu.stanford.nlp.sequences.SeqClassifierFlags - Unknown property: |sutime.markTimeRanges|
+[main] INFO edu.stanford.nlp.ie.AbstractSequenceClassifier - Loading classifier from edu/stanford/nlp/models/ner/english.all.3class.distsim.crf.ser.gz ... done [1.7 sec].
+[main] INFO edu.stanford.nlp.sequences.SeqClassifierFlags - Unknown property: |sutime.includeRange|
+[main] INFO edu.stanford.nlp.sequences.SeqClassifierFlags - Unknown property: |sutime.markTimeRanges|
+[main] INFO edu.stanford.nlp.ie.AbstractSequenceClassifier - Loading classifier from edu/stanford/nlp/models/ner/english.muc.7class.distsim.crf.ser.gz ... done [0.5 sec].
+[main] INFO edu.stanford.nlp.sequences.SeqClassifierFlags - Unknown property: |sutime.includeRange|
+[main] INFO edu.stanford.nlp.sequences.SeqClassifierFlags - Unknown property: |sutime.markTimeRanges|
+[main] INFO edu.stanford.nlp.ie.AbstractSequenceClassifier - Loading classifier from edu/stanford/nlp/models/ner/english.conll.4class.distsim.crf.ser.gz ... done [0.6 sec].
+[main] INFO edu.stanford.nlp.time.JollyDayHolidays - Initializing JollyDayHoliday for SUTime from classpath edu/stanford/nlp/models/sutime/jollyday/Holidays_sutime.xml as sutime.binder.1.
+[main] INFO edu.stanford.nlp.time.TimeExpressionExtractorImpl - Using following SUTime rules: edu/stanford/nlp/models/sutime/defs.sutime.txt,edu/stanford/nlp/models/sutime/english.sutime.txt,edu/stanford/nlp/models/sutime/english.holidays.sutime.txt
+[main] INFO edu.stanford.nlp.pipeline.TokensRegexNERAnnotator - ner.fine.regexner: Read 580705 unique entries out of 581864 from edu/stanford/nlp/models/kbp/english/gazetteers/regexner_caseless.tab, 0 TokensRegex patterns.
+[main] INFO edu.stanford.nlp.pipeline.TokensRegexNERAnnotator - ner.fine.regexner: Read 4869 unique entries out of 4869 from edu/stanford/nlp/models/kbp/english/gazetteers/regexner_cased.tab, 0 TokensRegex patterns.
+[main] INFO edu.stanford.nlp.pipeline.TokensRegexNERAnnotator - ner.fine.regexner: Read 585574 unique entries from 2 files
+[main] INFO edu.stanford.nlp.pipeline.NERCombinerAnnotator - Using numeric classifiers: true
+[main] INFO edu.stanford.nlp.pipeline.NERCombinerAnnotator - Using SUTime: true
+[main] INFO edu.stanford.nlp.pipeline.NERCombinerAnnotator - Using fine grained: true
+[main] INFO edu.stanford.nlp.pipeline.StanfordCoreNLP - Adding annotator sutime
+[main] INFO edu.stanford.nlp.time.JollyDayHolidays - Initializing JollyDayHoliday for SUTime from classpath edu/stanford/nlp/models/sutime/jollyday/Holidays_sutime.xml as sutime.binder.1.
+[main] INFO edu.stanford.nlp.time.TimeExpressionExtractorImpl - Using following SUTime rules: edu/stanford/nlp/models/sutime/defs.sutime.txt,edu/stanford/nlp/models/sutime/english.sutime.txt,edu/stanford/nlp/models/sutime/english.holidays.sutime.txt
+ * Serving Flask app 'sutime_date_annotator_service'
+ * Debug mode: off
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://localhost:7779
+INFO:werkzeug:[33mPress CTRL+C to quit[0m

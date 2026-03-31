@@ -1,0 +1,35 @@
+name: faith
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - numpy=1.23
+  - scipy
+  - pandas
+  - matplotlib
+  - networkx
+  - tqdm
+  - scikit-learn
+  - pytorch=1.13.1
+  - pytorch-cuda=11.6
+  - torchvision
+  - torchaudio
+  - cudnn
+  - pip:
+      - transformers==4.26.1
+      - datasets==2.9.0
+      - sentence-transformers==2.2.2
+      - spacy==3.5.0
+      - nltk==3.8.1
+      - graphviz==0.20.1
+      - torchviz
+      - flask
+      - hdt==2.3
+      - wikipedia2vec==1.0.5
+      - rank-bm25==0.2.2
+      - sutime==1.0.1
+      - mwparserfromhell
+      - jieba

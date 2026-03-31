@@ -1,0 +1,1332 @@
+[
+    {
+        "Id": 8913,
+        "Question": "During the 140-day Battle of the Somme, which countries had forces taking part in the battle?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q43287",
+                "WikidataLabel": "German Empire",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/German_Empire"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1916-07-01",
+                "1916-11-18"
+            ]
+        ]
+    },
+    {
+        "Id": 8205,
+        "Question": "After London, which city did Henry Raeburn move to for his work?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q220",
+                "WikidataLabel": "Rome",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Rome"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1784-01-01",
+                "1784-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 20519,
+        "Question": "When Carlo Muscetta enrolled at the University of Naples Literature faculty?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "text",
+        "evidence": "Carlo Muscetta, In 1931 he enrolled as a student at the University of Naples Literature faculty.",
+        "timespan": [
+            19310101,
+            19311231
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1931-01-01T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 20272,
+        "Question": "When Tommy Troelsen joined his first Danish Cup final?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "text",
+        "evidence": "Tommy Troelsen, Troelsen became the youngest player ever to participate in a Danish Cup final, as he was only 17 years old when he and Vejle won 3–2 in the 1958 final against KB.",
+        "timespan": [
+            19580101,
+            19581231
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1958-01-01T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 9829,
+        "Question": "What was the margin of victory for William Nyallau Badak as Member of Parliament for Lubok Antu at the Malaysian general election?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q6742054",
+                "WikidataLabel": "Malaysian general election, 2013",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2013_Malaysian_general_election"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2008-03-08",
+                "2018-05-09"
+            ]
+        ]
+    },
+    {
+        "Id": 9144,
+        "Question": "What country was Shamshad Begum a citizen of during her active years?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q668",
+                "WikidataLabel": "India",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/India"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1933-01-01",
+                "1976-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8840,
+        "Question": "Who was the chairperson of the NATO Parliamentary Assembly before Hugh Bayley?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q118715",
+                "WikidataLabel": "Karl A. Lamers",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Karl_A._Lamers"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2012-01-01",
+                "2014-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 12468,
+        "Question": "When Gyula Szapáry's tenure with the Liberal Party ended end date?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "info",
+        "evidence": "Gyula Szap%C3%A1ry, Personal details, Political party, Address Party (1861–1865) Liberal Party (1875–1892)",
+        "timespan": [
+            18610101,
+            18651231
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1865-01-01T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 8713,
+        "Question": "During Korea's colonization period by Japan, who was the governor of Korea, Chōsen 조선 Chosŏn?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q34479",
+                "WikidataLabel": "Hirohito",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Hirohito"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q315559",
+                "WikidataLabel": "Terauchi Masatake",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Terauchi_Masatake"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q315574",
+                "WikidataLabel": "Nobuyuki Abe",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Nobuyuki_Abe"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1910-01-01",
+                "1945-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 11457,
+        "Question": "When the German submarine U-366 was being used for training purposes start date?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "kb",
+        "evidence": "German submarine U-366, has use, education, end time, 29 February 1944",
+        "timespan": [
+            19430716,
+            19440229
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1943-07-16T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 8261,
+        "Question": "What was Edward Gurney's role before he resigned following the influence peddling scandal?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q4416090",
+                "WikidataLabel": "United States senator",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/United_States_senator"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1974-12-31",
+                "1974-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8245,
+        "Question": "After living in the Duke Ellington House, which award did Duke Ellington receive?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q17144",
+                "WikidataLabel": "Presidential Medal of Freedom",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Presidential_Medal_of_Freedom"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1939-01-01",
+                "1969-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8768,
+        "Question": "While Andreas Brehme was playing for 1 FC Kaiserslautern, what season did the club win the German Cup but suffer relegation?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q8466",
+                "WikidataLabel": "1. FC Kaiserslautern",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/1._FC_Kaiserslautern"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1996-01-01",
+                "1996-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 9792,
+        "Question": "What country was Gorzów Wielkopolski located in when it was part of the Landkreis Landsberg administrative territorial entity?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q27306",
+                "WikidataLabel": "Kingdom of Prussia",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Prussia"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1818-01-01",
+                "1945-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 9906,
+        "Question": "What position did Gustave Maria Blanche hold at the Ecole St. Jean in Versailles at the time when he was Catholic?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q250867",
+                "WikidataLabel": "Catholic priest",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Catholic_priest"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1878-01-01",
+                "1878-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 12140,
+        "Question": "When Avedis Yapoudjian was employed at Arev end date?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "kb",
+        "evidence": "Avedis Yapoudjian, employer, Arev, start time, 1949",
+        "timespan": [
+            19490101,
+            19661231
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1966-01-01T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 8218,
+        "Question": "Which football club did Geoff Vowden manage before Kettering Town?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q18711",
+                "WikidataLabel": "Aston Villa F.C.",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Aston_Villa_F.C."
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1974-01-01",
+                "1975-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 9629,
+        "Question": "What was Eddie Morgan's affiliation to the Wales national rugby union team during his four national team appearances?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q733600",
+                "WikidataLabel": "British and Irish Lions",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/British_%26_Irish_Lions"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1938-01-15",
+                "1939-01-21"
+            ]
+        ]
+    },
+    {
+        "Id": 12465,
+        "Question": "When did Georgi Dzhikiya's youth career start  end date?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "text",
+        "evidence": "2009, May 12–16 – The Eurovision Song Contest 2009 takes place in Moscow, Russia, and is won by Norwegian entrant Alexander Rybak with the song \"Fairytale\".",
+        "timespan": [
+            20090512,
+            20090516
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "2009-05-16T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 11437,
+        "Question": "When Lou Polli was a professional baseball relief pitcher start date?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "text",
+        "evidence": "Lou Polli, Louis Americo Polli (July 9, 1901 – December 19, 2000), nicknamed \"Crip\", was a professional baseball relief pitcher.",
+        "timespan": [
+            19010709,
+            20001219
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1901-07-09T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 9806,
+        "Question": "At the time of the survey, which major city had experienced the completion of the second branch of the Internet in Russia?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1794",
+                "WikidataLabel": "Frankfurt",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Frankfurt"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2013-03-01",
+                "2013-03-31"
+            ]
+        ]
+    },
+    {
+        "Id": 11680,
+        "Question": "When Manna Dey was actively working start date?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "info",
+        "evidence": "Manna Dey, Manna Dey BB PS PB, Years active, 1938–2013",
+        "timespan": [
+            19380101,
+            20131231
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1938-01-01T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 20544,
+        "Question": "When Raymond Moore reached the quarterfinals of a Grand Slam singles event during his time as a professional tennis player?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "kb",
+        "evidence": "Raymond Moore, work period (start), 1968",
+        "timespan": [
+            19680101,
+            19681231
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1968-01-01T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 8054,
+        "Question": "What region was Changtu County located in after Liaobei Province?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1054752",
+                "WikidataLabel": "Liaoxi Province",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Liaoxi"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1946-04-01",
+                "1948-12-25"
+            ]
+        ]
+    },
+    {
+        "Id": 9308,
+        "Question": "Which basketball team did Roy Tarpley work for before ending his career with the Mayhem?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q6837797",
+                "WikidataLabel": "Michigan Wolverines men's basketball",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Michigan_Wolverines_men%27s_basketball"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2006-01-01",
+                "2006-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 21728,
+        "Question": "When France won the World Cup and European Championship consecutively?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "text",
+        "evidence": "2000, July 2 – France defeats Italy 2–1 after extra time in the final of the European Championship, becoming the first team to win the World Cup and European Championship consecutively.",
+        "timespan": [
+            20000702,
+            20000702
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "2000-07-02T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 21053,
+        "Question": "When the United States Census reported the population of Bloomingdale, New Jersey, with the percentage of water area at +4.9265?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "kb",
+        "evidence": "Bloomingdale, water as percent of area, +4.9265, point in time, 1 April 2010",
+        "timespan": [
+            20100401,
+            20100401
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "2010-04-01T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 20542,
+        "Question": "When Ghulam Mohammed Sadiq died in office due to a heart attack?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "text",
+        "evidence": "Ghulam Mohammed Sadiq, He died in office following a heart attack on December 12, 1971.",
+        "timespan": [
+            19711212,
+            19711212
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1971-12-12T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 9274,
+        "Question": "Prior to Amintore Fanfani becoming Prime Minister of Italy, what Italian general election saw him serve as Minister of the Interior?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q2053440",
+                "WikidataLabel": "1953 Italian general election",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/1953_Italian_general_election"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1954-01-19",
+                "1954-02-10"
+            ]
+        ]
+    },
+    {
+        "Id": 9764,
+        "Question": "During the season, with which cricket team did Dick Barlow play one match against the United North of England Eleven?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q2725657",
+                "WikidataLabel": "Lancashire County Cricket Club",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Lancashire_County_Cricket_Club"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1875-01-01",
+                "1875-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 10758,
+        "Question": "When the Vratsa region became part of the Kingdom of Bulgaria end date?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "kb",
+        "evidence": "Vratsa, country, Kingdom of Bulgaria, end time, 15 September 1946",
+        "timespan": [
+            19080922,
+            19460915
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1946-09-15T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 8838,
+        "Question": "What International organization was Botswana a member of when its BTI Governance Index was +7.01?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1043527",
+                "WikidataLabel": "Multilateral Investment Guarantee Agency",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Multilateral_Investment_Guarantee_Agency"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q899770",
+                "WikidataLabel": "International Centre for Settlement of Investment Disputes",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/International_Centre_for_Settlement_of_Investment_Disputes"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q7809",
+                "WikidataLabel": "UNESCO",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/UNESCO"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2014-01-01",
+                "2014-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8760,
+        "Question": "After Liepāja became part of Latvia, what was it formerly known as?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q15180",
+                "WikidataLabel": "Soviet Union",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Soviet_Union"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1918-11-18",
+                "1940-08-05"
+            ]
+        ]
+    },
+    {
+        "Id": 11113,
+        "Question": "When Piotr Zieliński moved from Zagłębie Lubin after his youth career end date?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "info",
+        "evidence": "Piotr Zieli%C5%84ski, Youth career, 2007–2011, Zagłębie Lubin",
+        "timespan": [
+            20070101,
+            20111231
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "2011-01-01T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 8793,
+        "Question": "After the British Raj, which country was Sukumar Azhikode a citizen of?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1775277",
+                "WikidataLabel": "Dominion of India",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Dominion_of_India"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1947-08-14",
+                "1947-08-14"
+            ]
+        ]
+    },
+    {
+        "Id": 10941,
+        "Question": "When Joseph P Teasdale became the 48th Governor of Missouri end date?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "info",
+        "evidence": "Joseph P. Teasdale, 48th Governor of Missouri, In office January 10, 1977 – January 12, 1981",
+        "timespan": [
+            19770110,
+            19810112
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1981-01-12T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 21083,
+        "Question": "When John Gould FRS was born in Lyme Regis, England?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "info",
+        "evidence": "John Gould, John Gould FRS, Born, ( 1804-09-14 ) 14 September 1804 Lyme Regis , England",
+        "timespan": [
+            18040914,
+            18040914
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1804-09-14T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 10167,
+        "Question": "When Eötvös Loránd University moved from Pest start date?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "kb",
+        "evidence": "Eötvös Loránd University, headquarters location, Pest, end time, 1873",
+        "timespan": [
+            17840101,
+            18731231
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1784-01-01T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 8356,
+        "Question": "When Gaspard Ulliel became a part of the Order of Arts and Letters in France, what was the Wikimedia project page about him?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q8615138",
+                "WikidataLabel": "Help:IPA for French",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Help:IPA/French"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2015-01-01",
+                "2015-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 22029,
+        "Question": "When the British Raj ended?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "kb",
+        "evidence": "Dhyan Chand, country of citizenship, British Raj, end time, 14 August 1947",
+        "timespan": [
+            19470814,
+            19470814
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1947-08-14T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 12393,
+        "Question": "When the German Empire fell in Göttingen start date?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "kb",
+        "evidence": "Göttingen, country, German Empire, end time, 8 November 1919",
+        "timespan": [
+            18710118,
+            19191108
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1871-01-18T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 9023,
+        "Question": "What country was Izhevsk a part of when it was founded?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q34266",
+                "WikidataLabel": "Russian Empire",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Russian_Empire"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1760-04-10",
+                "1760-04-10"
+            ]
+        ]
+    },
+    {
+        "Id": 21366,
+        "Question": "When the physical trading floor at Exchange Square of Hong Kong Stock Exchange was closed?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "text",
+        "evidence": "Hong Kong Stock Exchange, The physical trading floor at Exchange Square was closed in October 2017.",
+        "timespan": [
+            20171001,
+            20171031
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "2017-10-01T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 8646,
+        "Question": "What was Paolo De Stefano's country of citizenship before Italy?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q172579",
+                "WikidataLabel": "Kingdom of Italy",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Italy"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1946-06-18",
+                "1985-10-13"
+            ]
+        ]
+    },
+    {
+        "Id": 20667,
+        "Question": "When the Social Democratic Party Sotsiaaldemokraatlik Erakond (Estonia) was founded?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "info",
+        "evidence": "Social Democratic Party (Estonia), Social Democratic Party Sotsiaaldemokraatlik Erakond, Founded, 8 September 1990 ; 32 years ago ( 1990-09-08 )",
+        "timespan": [
+            19900908,
+            19900908
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1990-09-08T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 21228,
+        "Question": "When Syrian president Hafez al-Assad orders to purge the city of Harran of the Muslim Brotherhood?",
+        "Temporal signal": [
+            "No signal"
+        ],
+        "Temporal question type": [
+            "Temp.Ans"
+        ],
+        "source": "text",
+        "evidence": "1982, February 3 – Syrian president Hafez al-Assad orders the army to purge the city of Harran of the Muslim Brotherhood.",
+        "timespan": [
+            19820203,
+            19820203
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Value",
+                "AnswerArgument": "1982-02-03T00:00:00Z"
+            }
+        ],
+        "Data source": "TIQ-temporal-value-question",
+        "Question creation date": "2023-07-15",
+        "Data set": "test"
+    },
+    {
+        "Id": 9576,
+        "Question": "Which country came to power in Bielefeld after the German Reich?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q713750",
+                "WikidataLabel": "West Germany",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/West_Germany"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1871-01-18",
+                "1949-05-23"
+            ]
+        ]
+    },
+    {
+        "Id": 8570,
+        "Question": "Which country was Germany at war with before German troops occupied Luxembourg in accordance with the Schlieffen Plan?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q34266",
+                "WikidataLabel": "Russian Empire",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Russian_Empire"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1914-08-02",
+                "1914-08-02"
+            ]
+        ]
+    },
+    {
+        "Id": 8376,
+        "Question": "What was the method of determining the number of households in Helena, Montana in the census of 13457?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q523716",
+                "WikidataLabel": "2010 United States Census",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2010-04-01",
+                "2010-04-01"
+            ]
+        ]
+    },
+    {
+        "Id": 9867,
+        "Question": "During the period when Erlangen officially became a major city with a population over 100,000, which country did Erlangen belong to?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q713750",
+                "WikidataLabel": "West Germany",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/West_Germany"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1974-01-01",
+                "1974-12-31"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,554 @@
+[
+    {
+        "Id": 8001,
+        "Question": "On what Wikimedia project page can you find information about Jane Wyatt, who was born Jane Waddington Wyatt in Franklin Lakes, New Jersey, USA?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q10966671",
+                "WikidataLabel": "Wikipedia:English pronunciation respelling key",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1910-08-12",
+                "1910-08-12"
+            ]
+        ]
+    },
+    {
+        "Id": 8002,
+        "Question": "In which Grand Slam tournament did Simona Halep record wins in the singles draw during her time playing for the Fed Cup team?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q41520",
+                "WikidataLabel": "Wimbledon Championships",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Wimbledon_Championships"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2019-01-01",
+                "2019-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8003,
+        "Question": "When The New York Times (originally the New-York Daily Times) was founded, who was publishing it?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q2529982",
+                "WikidataLabel": "The New York Times Company",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/The_New_York_Times_Company"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1851-09-18",
+                "1851-09-18"
+            ]
+        ]
+    },
+    {
+        "Id": 8004,
+        "Question": "What occupation did Jaime Sin pursue in the Catholic Church after being ordained a priest of the Archdiocese of Jaro?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q250867",
+                "WikidataLabel": "Catholic priest",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Catholic_priest"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1954-04-03",
+                "1954-04-03"
+            ]
+        ]
+    },
+    {
+        "Id": 8005,
+        "Question": "After Raúl earned 44 caps for the Spain national under-21 football team, what international team did he become a member of?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q42267",
+                "WikidataLabel": "Spain national association football team",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Spain_national_football_team"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1995-01-01",
+                "1996-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8006,
+        "Question": "When Tommy Troelsen joined his first Danish Cup final at the age of seventeen, which football team was he playing for?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q3873525",
+                "WikidataLabel": "Denmark national under-19 football team",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Denmark_national_under-19_football_team"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1958-01-01",
+                "1958-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8007,
+        "Question": "What was the country of Ambikagiri Raichoudhury's citizenship when he was elected president of the Assam Sahitya Sabha?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q668",
+                "WikidataLabel": "India",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/India"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1775277",
+                "WikidataLabel": "Dominion of India",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Dominion_of_India"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1950-01-01",
+                "1950-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8008,
+        "Question": "What country was Klaipėda a part of prior to the German Empire?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q27306",
+                "WikidataLabel": "Kingdom of Prussia",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Prussia"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1871-01-18",
+                "1918-11-09"
+            ]
+        ]
+    },
+    {
+        "Id": 8009,
+        "Question": "While Rigoberto Urán was a professional cyclist, which UCI WorldTeam was he a member of?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q645032",
+                "WikidataLabel": "Etixx-Quick Step",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Soudal_Quick-Step"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2014-01-01",
+                "2015-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8010,
+        "Question": "While the German submarine U-165 was in use, which U-boat flotilla was it part of?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q2522022",
+                "WikidataLabel": "10th U-boat Flotilla",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/10th_U-boat_Flotilla"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1942-09-01",
+                "1942-09-27"
+            ]
+        ]
+    },
+    {
+        "Id": 8011,
+        "Question": "Before Angelo Gremo joined the Pirelli Professional cycling team, which one was he part of?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1928802",
+                "WikidataLabel": "Bianchi",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Bianchi_(cycling_team)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1922-01-01",
+                "1922-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8012,
+        "Question": "What country was Pula a part of during the Bronze Age (BC) when the hill-top fortifications known as 'gradine' first appeared in Istria?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q153136",
+                "WikidataLabel": "Habsburg Monarchy",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Habsburg_monarchy"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q4948",
+                "WikidataLabel": "Republic of Venice",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Republic_of_Venice"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1800-01-01",
+                "1000-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8013,
+        "Question": "At the time of the United States Census in Ann Arbor, how were the number of households determined?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q523716",
+                "WikidataLabel": "2010 United States Census",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2010-04-01",
+                "2010-04-01"
+            ]
+        ]
+    },
+    {
+        "Id": 8014,
+        "Question": "Which country had more Serbs in its population - North Macedonia or Serbia?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q215",
+                "WikidataLabel": "Slovenia",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Slovenia"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2002-01-01",
+                "2002-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8015,
+        "Question": "What football club did Dan Petrescu make his senior debut with in the year France became the first team to win the World Cup and European Championship consecutively?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q48879",
+                "WikidataLabel": "Bradford City A.F.C.",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Bradford_City_A.F.C."
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2000-07-02",
+                "2000-07-02"
+            ]
+        ]
+    },
+    {
+        "Id": 8016,
+        "Question": "What was Clelia Lollini's country of citizenship as she finished her medical degree?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q172579",
+                "WikidataLabel": "Kingdom of Italy",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Italy"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1915-01-01",
+                "1915-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8017,
+        "Question": "During the United States Census in George, Iowa, what was the percentage of water in the area?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q523716",
+                "WikidataLabel": "2010 United States Census",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2010-04-01",
+                "2010-04-01"
+            ]
+        ]
+    },
+    {
+        "Id": 8018,
+        "Question": "What breed was Ten Most Wanted, the race horse and sire that was moved to the United States for stud duty in late?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q210826",
+                "WikidataLabel": "Thoroughbred",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Thoroughbred"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2012-11-01",
+                "2012-11-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8019,
+        "Question": "Who was the leader of the German Confederation Deutscher Bund during the Duchy of Zator's time in the Confederation?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q130834",
+                "WikidataLabel": "Francis II, Holy Roman Emperor",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Francis_II,_Holy_Roman_Emperor"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1818-01-01",
+                "1818-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8020,
+        "Question": "What publisher was Alfred Russel Wallace with when he was elected as a Fellow of the Royal Society?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q123885",
+                "WikidataLabel": "Royal Society",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Royal_Society"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1893-06-01",
+                "1893-06-01"
+            ]
+        ]
+    }
+]

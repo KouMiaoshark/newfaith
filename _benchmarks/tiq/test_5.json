@@ -1,0 +1,137 @@
+[
+    {
+        "Id": 8001,
+        "Question": "On what Wikimedia project page can you find information about Jane Wyatt, who was born Jane Waddington Wyatt in Franklin Lakes, New Jersey, USA?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q10966671",
+                "WikidataLabel": "Wikipedia:English pronunciation respelling key",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1910-08-12",
+                "1910-08-12"
+            ]
+        ]
+    },
+    {
+        "Id": 8002,
+        "Question": "In which Grand Slam tournament did Simona Halep record wins in the singles draw during her time playing for the Fed Cup team?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q41520",
+                "WikidataLabel": "Wimbledon Championships",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Wimbledon_Championships"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2019-01-01",
+                "2019-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8003,
+        "Question": "When The New York Times (originally the New-York Daily Times) was founded, who was publishing it?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q2529982",
+                "WikidataLabel": "The New York Times Company",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/The_New_York_Times_Company"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1851-09-18",
+                "1851-09-18"
+            ]
+        ]
+    },
+    {
+        "Id": 8004,
+        "Question": "What occupation did Jaime Sin pursue in the Catholic Church after being ordained a priest of the Archdiocese of Jaro?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q250867",
+                "WikidataLabel": "Catholic priest",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Catholic_priest"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1954-04-03",
+                "1954-04-03"
+            ]
+        ]
+    },
+    {
+        "Id": 8005,
+        "Question": "After Raúl earned 44 caps for the Spain national under-21 football team, what international team did he become a member of?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q42267",
+                "WikidataLabel": "Spain national association football team",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Spain_national_football_team"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1995-01-01",
+                "1996-12-31"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,11 @@
+CLocQ/
+_data/
+model/
+out/
+_results/
+_intermediate_representations/
+__pycache__/
+*.pyc
+.idea/
+faith.egg-info/
+screenlog.0

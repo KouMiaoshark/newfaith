@@ -1,0 +1,5510 @@
+[
+    {
+        "Id": 8101,
+        "Question": "Which doubles tournament at the Grand Slams did Elena Dementieva win during her career?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q123577",
+                "WikidataLabel": "US Open",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/US_Open_(tennis)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2002-01-01",
+                "2002-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8102,
+        "Question": "What page on Wikimedia project follows the page about Jerry Siegel, the American comic book writer who was born in Cleveland Ohio?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q10966671",
+                "WikidataLabel": "Wikipedia:English pronunciation respelling key",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1914-10-17",
+                "1914-10-17"
+            ]
+        ]
+    },
+    {
+        "Id": 8103,
+        "Question": "What country was Komárno part of before the First Czechoslovak Republic?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q28513",
+                "WikidataLabel": "Austria-Hungary",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Austria-Hungary"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1918-10-29",
+                "1938-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8104,
+        "Question": "At what association football club did Co Adriaanse work as manager before taking the job at Willem II?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1770361",
+                "WikidataLabel": "Jong Ajax",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Jong_Ajax"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1997-01-01",
+                "1997-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8105,
+        "Question": "What ministerial portfolio did Golda Meir assume after the Labour Party?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1431423",
+                "WikidataLabel": "Ministry of Foreign Affairs of Israel",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Ministry_of_Foreign_Affairs_(Israel)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1949-01-01",
+                "1956-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8106,
+        "Question": "What political party did Thad Cochran belong to while he was Chair of the Senate Appropriations Committee?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q29468",
+                "WikidataLabel": "Republican Party",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2005-01-03",
+                "2007-01-03"
+            ]
+        ]
+    },
+    {
+        "Id": 8107,
+        "Question": "After Mohammed Daoud Khan became head of state, what country was formed in Afghanistan in 27–?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q476757",
+                "WikidataLabel": "Democratic Republic of Afghanistan",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Democratic_Republic_of_Afghanistan"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1973-07-17",
+                "1978-04-27"
+            ]
+        ]
+    },
+    {
+        "Id": 8108,
+        "Question": "After Kevin-Prince Boateng's senior career, which football club did he join on loan?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q19604",
+                "WikidataLabel": "Portsmouth F.C.",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Portsmouth_F.C."
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2009-01-01",
+                "2009-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8109,
+        "Question": "In his 11th senior match with Ferrie Bodde, what team did he score his first competitive goal against?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q24904",
+                "WikidataLabel": "ADO Den Haag",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/ADO_Den_Haag"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q18659",
+                "WikidataLabel": "Swansea City A.F.C.",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Swansea_City_A.F.C."
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2007-10-01",
+                "2007-10-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8110,
+        "Question": "Before joining Twente, for which football club did Ronald de Boer make 14 appearances?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q81888",
+                "WikidataLabel": "AFC Ajax",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/AFC_Ajax"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1991-01-01",
+                "1993-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8111,
+        "Question": "What national rugby union team did Gary Seear play on when he was a member of the Fracasso San Dona club?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q55801",
+                "WikidataLabel": "New Zealand national rugby union team",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/New_Zealand_national_rugby_union_team"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1979-01-01",
+                "1979-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8112,
+        "Question": "What New Zealand general election was Marian Hobbs the Minister for the Environment and the 20th Minister of Broadcasting?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q7016166",
+                "WikidataLabel": "1999 New Zealand general election",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/1999_New_Zealand_general_election"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1999-12-10",
+                "2005-10-19"
+            ]
+        ]
+    },
+    {
+        "Id": 8113,
+        "Question": "What was Josef Breuer's country of citizenship after he passed his medical exams and worked as an assistant to the internist Johann Oppolzer at the university?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q28513",
+                "WikidataLabel": "Austria-Hungary",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Austria-Hungary"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1867-01-01",
+                "1867-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8114,
+        "Question": "What happened during the time German submarine U-346 was in the 8th U-boat Flotilla?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q30880545",
+                "WikidataLabel": "sinking",
+                "WikipediaURL": ""
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1943-09-20",
+                "1943-09-20"
+            ]
+        ]
+    },
+    {
+        "Id": 8115,
+        "Question": "What was Luigi Agnolin's country of citizenship when he was inducted into the Italian Football Hall of Fame?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q38",
+                "WikidataLabel": "Italy",
+                "WikipediaURL": "Q7265349"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2012-01-01",
+                "2012-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8116,
+        "Question": "At which club did Julián Navas have a loan during his senior career at Independiente Rivadavia?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q266962",
+                "WikidataLabel": "Wiener Sport-Club",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Wiener_Sport-Club"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2013-01-01",
+                "2020-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8117,
+        "Question": "During Khvicha Kvaratskhelia's senior football career, which team did he go on loan to for 7 (1) matches?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q29115",
+                "WikidataLabel": "FC Lokomotiv Moscow",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/FC_Lokomotiv_Moscow"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2019-01-01",
+                "2019-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8118,
+        "Question": "What cricket team did Sanjay Manjrekar play for while he was a middle order batsman for India?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1378539",
+                "WikidataLabel": "Mumbai cricket team",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Mumbai_cricket_team"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1987-01-01",
+                "1987-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8119,
+        "Question": "After Leopold and Helen's wedding in St. George's Chapel Windsor Castle, what noble title did Princess Helen of Waldeck and Pyrmont receive?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q102208413",
+                "WikidataLabel": "Duchess of Albany",
+                "WikipediaURL": ""
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q4593319",
+                "WikidataLabel": "duchess",
+                "WikipediaURL": ""
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q579431",
+                "WikidataLabel": "British Princess",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/British_princess"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1252328",
+                "WikidataLabel": "Royal Highness",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Royal_Highness"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1882-04-27",
+                "1882-04-27"
+            ]
+        ]
+    },
+    {
+        "Id": 8120,
+        "Question": "Which association football club did Charlie Adam play for after Dundee Downfield in his senior career?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q268776",
+                "WikidataLabel": "St Johnstone F.C.",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/St_Johnstone_F.C."
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1983-01-01",
+                "1985-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8121,
+        "Question": "What country was Amsterdam the capital of at the time when a Nigerian terrorist planned to bomb Northwest Airlines Flight 253 on its route from Amsterdam to Detroit?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q29999",
+                "WikidataLabel": "Kingdom of the Netherlands",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_the_Netherlands"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2009-12-25",
+                "2009-12-25"
+            ]
+        ]
+    },
+    {
+        "Id": 8122,
+        "Question": "What team was Red Klotz playing for during his basketball career?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q3493213",
+                "WikidataLabel": "Philadelphia Sphas",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Philadelphia_Sphas"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1942-01-01",
+                "1989-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8123,
+        "Question": "What international football team did Benjamin Mendy join after securing a world-record transfer fee of £52 million to English club Manchester City?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q47774",
+                "WikidataLabel": "France national association football team",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/France_national_football_team"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2017-01-01",
+                "2017-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8124,
+        "Question": "What Grand Slam singles tournament did Juan Carlos Ferrero have a highest ranking of F while his highest doubles ranking was No. 198?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q123577",
+                "WikidataLabel": "US Open",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/US_Open_(tennis)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2003-02-03",
+                "2003-02-03"
+            ]
+        ]
+    },
+    {
+        "Id": 8125,
+        "Question": "During Peter Lorimer's 17 year senior career, which football club did he captain?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1128631",
+                "WikidataLabel": "Leeds United F.C.",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Leeds_United_F.C."
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1984-01-01",
+                "1984-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8126,
+        "Question": "Whose term as the head of government in Ankara overlapped with the assassination of Andrei Karlov, the Russian ambassador to Turkey?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q366274",
+                "WikidataLabel": "Melih Gökçek",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Melih_G%C3%B6k%C3%A7ek"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2016-12-19",
+                "2016-12-19"
+            ]
+        ]
+    },
+    {
+        "Id": 8127,
+        "Question": "What position did Andrew Jackson hold before becoming the seventh President of the United States?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1467287",
+                "WikidataLabel": "President-Elect of the United States",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/President-elect_of_the_United_States"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1829-03-04",
+                "1837-03-04"
+            ]
+        ]
+    },
+    {
+        "Id": 8128,
+        "Question": "What was the UK general election in office when Justine Greening was the Right Honourable Member of Parliament for Putney?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q30173038",
+                "WikidataLabel": "2019 United Kingdom general election",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2019_United_Kingdom_general_election"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2017-01-01",
+                "2017-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8129,
+        "Question": "During the Sepoy Mutiny, what province of British India did the Azamgarh district belong to?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q138521",
+                "WikidataLabel": "North-Western Provinces",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/North-Western_Provinces"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1857-01-01",
+                "1857-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8130,
+        "Question": "In which city was The Lego Group founded and headquartered when they had 8,178 employees?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q84",
+                "WikidataLabel": "London",
+                "WikipediaURL": "Q232904"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1996-01-01",
+                "1996-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8131,
+        "Question": "Before Delacroix painted Liberty Leading the People in the autumn, which country hosted an exhibition displaying it and many other 148 works?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q142",
+                "WikidataLabel": "France",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/France"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1830-01-01",
+                "1830-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8132,
+        "Question": "What grade of the Order of Saint Anna did Johann Wolfgang von Goethe receive before being awarded the Order?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q10855195",
+                "WikidataLabel": "Officer of the Legion of Honour",
+                "WikipediaURL": ""
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1808-10-15",
+                "1808-10-15"
+            ]
+        ]
+    },
+    {
+        "Id": 8133,
+        "Question": "During its existence, what company was BP Canada a subsidiary of?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q152057",
+                "WikidataLabel": "BP",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/BP"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1955-06-15",
+                "1955-06-15"
+            ]
+        ]
+    },
+    {
+        "Id": 8134,
+        "Question": "During Lim Kit Siang's tenure as Leader of the Opposition, which Malaysian general election took place?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q564313",
+                "WikidataLabel": "1999 Malaysian general election",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/1999_Malaysian_general_election"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q6742047",
+                "WikidataLabel": "1974 Malaysian general election",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/1974_Malaysian_general_election"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1977-01-01",
+                "1977-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8135,
+        "Question": "What was David G. O'Connell's occupational field in the Catholic Church when he was in Los Angeles, studying for his Master's of Spirituality at Mount St. Mary's College?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q25393460",
+                "WikidataLabel": "Catholic deacon",
+                "WikipediaURL": ""
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1987-01-01",
+                "1987-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8136,
+        "Question": "What judicial district was Bollnäs Municipality part of at the time of the Bollnäs Municipality Area Area?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q61663374",
+                "WikidataLabel": "Q61663374",
+                "WikipediaURL": ""
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2014-01-01",
+                "2014-01-01"
+            ]
+        ]
+    },
+    {
+        "Id": 8137,
+        "Question": "During Raul Roco's time as Member of the House of Representatives from Camarines Sur's 2nd District, what country did he serve as a political figure?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q928",
+                "WikidataLabel": "Philippines",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Philippines"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1987-06-30",
+                "1992-06-30"
+            ]
+        ]
+    },
+    {
+        "Id": 8138,
+        "Question": "During the Third Republic of the Dominican Republic, which specialized United Nations agency was it a member of?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q191384",
+                "WikidataLabel": "International Bank for Reconstruction and Development",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/International_Bank_for_Reconstruction_and_Development"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q827525",
+                "WikidataLabel": "International Development Association",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/International_Development_Association"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q170424",
+                "WikidataLabel": "World Meteorological Organization",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/World_Meteorological_Organization"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1924-01-01",
+                "1965-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8139,
+        "Question": "What award did Fraser Stoddart receive in recognition of his efforts, which included the King Faisal International Prize in Science?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q30120085",
+                "WikidataLabel": "King Faisal International Prize in Science",
+                "WikipediaURL": ""
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2007-01-01",
+                "2007-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8140,
+        "Question": "During Pierre Littbarski's time at 1 FC Köln, who did they face in the DFB-Pokal final when he scored the winning goal?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q104770",
+                "WikidataLabel": "1. FC Köln",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/1._FC_K%C3%B6ln"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1983-01-01",
+                "1983-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8141,
+        "Question": "Where is the headquarters of Eötvös Loránd University located now, after it moved from Pest?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1781",
+                "WikidataLabel": "Budapest",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Budapest"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1784-01-01",
+                "1873-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8142,
+        "Question": "During the Economy of Uganda, what index number was attributed to External FDI stock of $ 10.909 billion?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q162455",
+                "WikidataLabel": "Gini coefficient",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Gini_coefficient"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2016-01-01",
+                "2016-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8143,
+        "Question": "What was the administrative territory of Kakegawa before it replaced Soga?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q7079825",
+                "WikidataLabel": "Ogasa district",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Ogasa_District,_Shizuoka"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1954-03-31",
+                "1954-03-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8144,
+        "Question": "After being a Member of the Assembly of Experts, which position did Ali Khamenei fill?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q332486",
+                "WikidataLabel": "Supreme Leader of Iran",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Supreme_Leader_of_Iran"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1983-08-15",
+                "1989-06-04"
+            ]
+        ]
+    },
+    {
+        "Id": 8145,
+        "Question": "During the Right Honourable The Lord Dalton PC Dalton's time as Member of Parliament for Bishop Auckland, which United Kingdom general election took place?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q918378",
+                "WikidataLabel": "1935 United Kingdom general election",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/1935_United_Kingdom_general_election"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1940-01-01",
+                "1940-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8146,
+        "Question": "For which national cricket team was William Evans a member while playing for the Oxford University Cricket Club?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1321565",
+                "WikidataLabel": "England cricket team",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/England_cricket_team"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1902-01-01",
+                "1905-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8147,
+        "Question": "What was Tim Carpenter's position before he became a Member of the Wisconsin State Assembly?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q18526160",
+                "WikidataLabel": "member of the Wisconsin State Assembly",
+                "WikipediaURL": ""
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1993-01-04",
+                "2003-01-03"
+            ]
+        ]
+    },
+    {
+        "Id": 8148,
+        "Question": "At what population count did the United States census take of the Morristown area in +7.839231?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q523716",
+                "WikidataLabel": "2010 United States Census",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2010-04-01",
+                "2010-04-01"
+            ]
+        ]
+    },
+    {
+        "Id": 8149,
+        "Question": "What was the number of households in Omaha, Nebraska as determined by the census in Orlando 121254?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q523716",
+                "WikidataLabel": "2010 United States Census",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2010-04-01",
+                "2010-04-01"
+            ]
+        ]
+    },
+    {
+        "Id": 8150,
+        "Question": "After playing with the Brazil U20, which senior club did Cássio Ramos join?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q11938",
+                "WikidataLabel": "PSV Eindhoven",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/PSV_Eindhoven"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2007-01-01",
+                "2007-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8151,
+        "Question": "What were the results of Wesley Moodie's doubles competition at the US Open, while he reached the Grand Slam doubles F?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q43605",
+                "WikidataLabel": "French Open",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/French_Open"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2009-01-01",
+                "2009-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8152,
+        "Question": "What major city did Michelangelo work in during his lifetime?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q220",
+                "WikidataLabel": "Rome",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Rome"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1475-03-06",
+                "1564-02-18"
+            ]
+        ]
+    },
+    {
+        "Id": 8153,
+        "Question": "During Danilo Avelar's loan at Karpaty Lviv, which football club did he come up from?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q32494",
+                "WikidataLabel": "FC Schalke 04",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/FC_Schalke_04"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2011-01-01",
+                "2011-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8154,
+        "Question": "What heritage designation was given to Abraham Lincoln's tomb at Oak Ridge Cemetery during his lifetime?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q624232",
+                "WikidataLabel": "National Historic Landmark",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/National_Historic_Landmark"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q19558910",
+                "WikidataLabel": "National Register of Historic Places listed place",
+                "WikipediaURL": ""
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2005-07-01",
+                "2005-07-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8155,
+        "Question": "After the commissioning of the German submarine U-712, which U-boat flotilla did it become part of?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q2764565",
+                "WikidataLabel": "8th U-boat Flotilla",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/8th_U-boat_Flotilla"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1942-11-05",
+                "1942-11-05"
+            ]
+        ]
+    },
+    {
+        "Id": 8156,
+        "Question": "What country was Bad Mergentheim part of before Nazi Germany?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q41304",
+                "WikidataLabel": "Weimar Republic",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Weimar_Republic"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1933-01-30",
+                "1945-04-21"
+            ]
+        ]
+    },
+    {
+        "Id": 8157,
+        "Question": "What political party was Charles de Gaulle affiliated with when he visited Algeria as French Prime Minister?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q7223378",
+                "WikidataLabel": "Union for the New Republic",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Union_for_the_New_Republic"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1958-06-04",
+                "1958-06-04"
+            ]
+        ]
+    },
+    {
+        "Id": 8158,
+        "Question": "Prior to becoming part of the United Kingdom of Great Britain and Ireland, what country was Cornwall?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q161885",
+                "WikidataLabel": "Great Britain",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Great_Britain"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1801-01-01",
+                "1922-12-05"
+            ]
+        ]
+    },
+    {
+        "Id": 8159,
+        "Question": "During the Amritsar Massacre, to which country was the 9 Gorkha Rifles sworn allegiance?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q8680",
+                "WikidataLabel": "British Empire",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/British_Empire"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1919-04-13",
+                "1919-04-13"
+            ]
+        ]
+    },
+    {
+        "Id": 8160,
+        "Question": "In which country was Heraklion located when it was reported by Euromonitor to be the fastest growing tourism destination in Europe in terms of international arrivals (11.2% growth)?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q41",
+                "WikidataLabel": "Greece",
+                "WikipediaURL": "Q64358102"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q12560",
+                "WikidataLabel": "Ottoman Empire",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Ottoman_Empire"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q4948",
+                "WikidataLabel": "Republic of Venice",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Republic_of_Venice"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2017-01-01",
+                "2017-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8161,
+        "Question": "After spending seven seasons at Celtic, for which football club was David van Zanten freed?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q319136",
+                "WikidataLabel": "St. Mirren F.C.",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/St_Mirren_F.C."
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2003-01-01",
+                "2003-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8162,
+        "Question": "In what Grand Slam doubles tournament did Jakob Hlasek achieve a semifinal result simultaneously while also helping Switzerland win the World Team Cup?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q60874",
+                "WikidataLabel": "Australian Open",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Australian_Open"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1996-01-01",
+                "1996-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8163,
+        "Question": "After pitching for the Chinatrust Brothers, which baseball team did Armando Galarraga join on a minor league deal?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q329816",
+                "WikidataLabel": "Texas Rangers",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Texas_Rangers_(baseball)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2014-01-01",
+                "2014-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8164,
+        "Question": "Which domestic cricket team was Brian Close playing for when he was selected to play against New Zealand at age 18?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q3177444",
+                "WikidataLabel": "Yorkshire County Cricket Club",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Yorkshire_County_Cricket_Club"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1949-07-01",
+                "1949-07-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8165,
+        "Question": "What country did Vijay Tendulkar gain citizenship in after the British Raj?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1775277",
+                "WikidataLabel": "Dominion of India",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Dominion_of_India"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1947-08-14",
+                "1947-08-14"
+            ]
+        ]
+    },
+    {
+        "Id": 8166,
+        "Question": "Prior to The British Desert Mounted Corps beginning their Battle of Tel el Khuweilfe, which country was Hebron part of?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q12560",
+                "WikidataLabel": "Ottoman Empire",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Ottoman_Empire"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1917-01-01",
+                "1917-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8167,
+        "Question": "What was Alziro Bergonzo's country of citizenship when he was an Italian architect and painter?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q172579",
+                "WikidataLabel": "Kingdom of Italy",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Italy"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1906-12-30",
+                "1997-05-22"
+            ]
+        ]
+    },
+    {
+        "Id": 8168,
+        "Question": "Which professional cycling team was Denis Menchov riding for when he won the Tour de l'Avenir?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q6175",
+                "WikidataLabel": "Movistar Team",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Movistar_Team_(men%27s_team)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2001-01-01",
+                "2001-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8169,
+        "Question": "When Ray Charles received his lifetime achievement award, which award was it?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1789030",
+                "WikidataLabel": "National Medal of Arts",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/National_Medal_of_Arts"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1993-06-02",
+                "1993-06-02"
+            ]
+        ]
+    },
+    {
+        "Id": 8170,
+        "Question": "What Grand Slam mixed doubles did Natela Dzalamidze compete in when her doubles ranking was No. 43?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q43605",
+                "WikidataLabel": "French Open",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/French_Open"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2022-05-16",
+                "2022-05-16"
+            ]
+        ]
+    },
+    {
+        "Id": 8171,
+        "Question": "After having citizenship in the British Raj, which country Chaturanan Mishra belonged to?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1775277",
+                "WikidataLabel": "Dominion of India",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Dominion_of_India"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1947-08-14",
+                "1947-08-14"
+            ]
+        ]
+    },
+    {
+        "Id": 8172,
+        "Question": "What political party did Richard M. Daley have the backing of when he was appointed to the Illinois Senate, upon Edward Nihill stepping down?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q29552",
+                "WikidataLabel": "Democratic Party",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Democratic_Party_(United_States)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1972-01-01",
+                "1972-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8173,
+        "Question": "What position did Tom Marino hold in Congress before resigning to work in the private sector?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q13218630",
+                "WikidataLabel": "United States representative",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/United_States_Representative"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2019-01-23",
+                "2019-01-23"
+            ]
+        ]
+    },
+    {
+        "Id": 8174,
+        "Question": "During William Justice Ford's time as a cricketer, what domestic team did he play for?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q585149",
+                "WikidataLabel": "Marylebone Cricket Club",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Marylebone_Cricket_Club"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1886-01-01",
+                "1886-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8175,
+        "Question": "What was the GDP of Australia in the Economy of Australia Statistics 33 0 medium during that time?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q162455",
+                "WikidataLabel": "Gini coefficient",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Gini_coefficient"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2021-06-01",
+                "2021-06-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8176,
+        "Question": "When did France become a member of what international organization with an area of 0.86 km^2?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q7809",
+                "WikidataLabel": "UNESCO",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/UNESCO"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2015-01-01",
+                "2015-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8177,
+        "Question": "During the Quintinshill rail disaster, which region in Scotland was the site of the tragic accident that resulted in 226 fatalities?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q174193",
+                "WikidataLabel": "United Kingdom of Great Britain and Ireland",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1915-05-22",
+                "1915-05-22"
+            ]
+        ]
+    },
+    {
+        "Id": 8178,
+        "Question": "What recurring tournament did Kel Nagle win, which resulted in his greatest success in major championships (winning 1)?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q848797",
+                "WikidataLabel": "The Open Championship",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/The_Open_Championship"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1960-01-01",
+                "1960-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8179,
+        "Question": "When Freddie Kitchens was head coach of the Cleveland Browns, which professional sports league were they playing in?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1215884",
+                "WikidataLabel": "National Football League",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/National_Football_League"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2019-01-12",
+                "2019-12-29"
+            ]
+        ]
+    },
+    {
+        "Id": 8180,
+        "Question": "What position did Roy Mason take on after holding the Secretary of State for Northern Ireland?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q7460599",
+                "WikidataLabel": "Shadow Secretary of State for Northern Ireland",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Shadow_Secretary_of_State_for_Northern_Ireland"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1976-09-10",
+                "1979-05-04"
+            ]
+        ]
+    },
+    {
+        "Id": 8181,
+        "Question": "In which season did Gina Gogean win the World Championship in San Juan for floor exercise while competing in the Olympic Games in Atlanta as part of her team?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q2955407",
+                "WikidataLabel": "1996 World Artistic Gymnastics Championships",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/1996_World_Artistic_Gymnastics_Championships"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1996-01-01",
+                "1996-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8182,
+        "Question": "Prior to Kandahar becoming part of the Islamic State of Afghanistan, what country was it located in?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q476757",
+                "WikidataLabel": "Democratic Republic of Afghanistan",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Democratic_Republic_of_Afghanistan"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1992-04-28",
+                "2002-06-19"
+            ]
+        ]
+    },
+    {
+        "Id": 8183,
+        "Question": "After managing Hapoel Kfar Saba's U19 team, which national association football team did Eli Ohana go on to manage?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q191406",
+                "WikidataLabel": "Israel national football team",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Israel_national_football_team"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2006-01-01",
+                "2008-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8184,
+        "Question": "What club did Ruud Gullit manage after his senior career at Chelsea?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q18716",
+                "WikidataLabel": "Newcastle United F.C.",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Newcastle_United_F.C."
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1995-01-01",
+                "1998-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8185,
+        "Question": "After leaving Ajax, what football club did Rinus Michels become head coach of?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q81888",
+                "WikidataLabel": "AFC Ajax",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/AFC_Ajax"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1964-01-01",
+                "1965-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8186,
+        "Question": "At what club did C3%81rp%C3%A1d Weisz manage before he joined Bari?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q631",
+                "WikidataLabel": "Inter Milan",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Inter_Milan"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1931-01-01",
+                "1932-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8187,
+        "Question": "What political party was Effi Eitam representing in the Knesset after his term as a Member of the Knesset?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1501088",
+                "WikidataLabel": "National Religious Party",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/National_Religious_Party"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2003-01-01",
+                "2003-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8188,
+        "Question": "What team did Denny Crum Head coach at the World University Games in Sofia?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q26879782",
+                "WikidataLabel": "Louisville Cardinals men's basketball",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Louisville_Cardinals_men%27s_basketball"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1977-01-01",
+                "1977-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8189,
+        "Question": "During the efforts to impeach Donald Trump, what body initiated the process of his impeachment?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q11701",
+                "WikidataLabel": "United States House of Representatives",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/United_States_House_of_Representatives"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2019-12-18",
+                "2019-12-18"
+            ]
+        ]
+    },
+    {
+        "Id": 8190,
+        "Question": "When Dolly Parton received the Grammy Award for Best Female Country Vocal Performance, which award did she get inducted into?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q861660",
+                "WikidataLabel": "Songwriters Hall of Fame",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Songwriters_Hall_of_Fame"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2001-01-01",
+                "2001-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8191,
+        "Question": "At the time the Australian Conservatives were deregistered, what portion of the senate did they hold?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q783330",
+                "WikidataLabel": "Senate of Australia",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Australian_Senate"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2019-06-25",
+                "2019-06-25"
+            ]
+        ]
+    },
+    {
+        "Id": 8192,
+        "Question": "During Lou Vincent's T20I debut (cap 19) against West Indies, which domestic team did he play for?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q2725667",
+                "WikidataLabel": "Worcestershire County Cricket Club",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Worcestershire_County_Cricket_Club"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2006-02-16",
+                "2006-02-16"
+            ]
+        ]
+    },
+    {
+        "Id": 8193,
+        "Question": "During the Kingdom of Italy, what currency did the country use?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q391980",
+                "WikidataLabel": "Free Territory of Trieste",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Free_Territory_of_Trieste"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1861-03-17",
+                "1942-06-13"
+            ]
+        ]
+    },
+    {
+        "Id": 8194,
+        "Question": "During Burry Stander's performance in the London Summer Olympics, what place did he finish in the cross-country mountain bike race?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q8577",
+                "WikidataLabel": "2012 Summer Olympics",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2012_Summer_Olympics"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2012-01-01",
+                "2012-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8195,
+        "Question": "During the United States Census in Prattville, Alabama, what were the population, the number of households, and the number of families residing in the Prattville area?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q523716",
+                "WikidataLabel": "2010 United States Census",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2010-04-01",
+                "2010-04-01"
+            ]
+        ]
+    },
+    {
+        "Id": 8196,
+        "Question": "What was Bonaventura Gargiulo's occupation in the Catholic Church when he died?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q250867",
+                "WikidataLabel": "Catholic priest",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Catholic_priest"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q611644",
+                "WikidataLabel": "Catholic bishop",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Bishops_in_the_Catholic_Church"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1904-05-09",
+                "1904-05-09"
+            ]
+        ]
+    },
+    {
+        "Id": 8197,
+        "Question": "When Greg Bird was playing rugby league, which team was he a member of?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q3003720",
+                "WikidataLabel": "Cronulla-Sutherland Sharks",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Cronulla-Sutherland_Sharks"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2003-01-01",
+                "2003-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8198,
+        "Question": "What Grand Slam tournament did Hana Šromová reach the second round of singles and third round of doubles in?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q43605",
+                "WikidataLabel": "French Open",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/French_Open"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2006-01-01",
+                "2006-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8199,
+        "Question": "What team did Basil Butcher play for during his time in British Guiana?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q912881",
+                "WikidataLabel": "West Indies cricket team",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/West_Indies_cricket_team"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1955-01-01",
+                "1966-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8200,
+        "Question": "What edition of the FIFA World Cup was Hungary's national football team qualified for during their 64-year-long absence?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q34",
+                "WikidataLabel": "Sweden",
+                "WikipediaURL": "Q229959"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1958-01-01",
+                "1958-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8201,
+        "Question": "Which country was Trier part of when it was the capital of Trier-Saarburg?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q27306",
+                "WikidataLabel": "Kingdom of Prussia",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Prussia"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1816-01-01",
+                "2050-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8202,
+        "Question": "What association footballl club did Lucas Deaux join for an 18-month contract in the Championnat National while in his senior career?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q503317",
+                "WikidataLabel": "Dijon FCO",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Dijon_FCO"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2023-01-13",
+                "2023-01-13"
+            ]
+        ]
+    },
+    {
+        "Id": 8203,
+        "Question": "What was the outcome of Mahesh Bhupathi's Grand Slam doubles results at the French Open?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q41520",
+                "WikidataLabel": "Wimbledon Championships",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Wimbledon_Championships"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1999-01-01",
+                "1999-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8204,
+        "Question": "What was Lloyds Banking Group's equity-to-asset ratio when their total equity was £47.5 billion?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q570938",
+                "WikidataLabel": "Net income",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Net_income"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2022-01-01",
+                "2022-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8205,
+        "Question": "After London, which city did Henry Raeburn move to for his work?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q220",
+                "WikidataLabel": "Rome",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Rome"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1784-01-01",
+                "1784-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8206,
+        "Question": "What rank did Dave Elliott Severance achieve in the United States Marine Corps after he was born in Milwaukee, Wisconsin?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q2984198",
+                "WikidataLabel": "colonel",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Colonel_(United_States)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1919-02-04",
+                "1919-02-04"
+            ]
+        ]
+    },
+    {
+        "Id": 8207,
+        "Question": "What was Angelo Patri's country of citizenship when he became the principal of Public School 45 in Bronx, New York?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q172579",
+                "WikidataLabel": "Kingdom of Italy",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Italy"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1913-01-01",
+                "1913-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8208,
+        "Question": "In what magazine did the National The Best Colleges report list UCLA as first among public universities while postgraduates for Fall were 13,994?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q848629",
+                "WikidataLabel": "U.S. News & World Report",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/U.S._News_%26_World_Report"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2021-01-01",
+                "2021-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8209,
+        "Question": "What was the number of households in Marseilles, Ohio according to the census taken in that year?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q523716",
+                "WikidataLabel": "2010 United States Census",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2010-04-01",
+                "2010-04-01"
+            ]
+        ]
+    },
+    {
+        "Id": 8210,
+        "Question": "To which standards organisation did Jordan belong when it declared its independence from the United Kingdom and its current constitution?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q376150",
+                "WikidataLabel": "International Telecommunication Union",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/International_Telecommunication_Union"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1952-01-11",
+                "1952-01-11"
+            ]
+        ]
+    },
+    {
+        "Id": 8211,
+        "Question": "Who was the Plaid Cymru chairperson around the time Raymond Williams was a member of the party?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q3405033",
+                "WikidataLabel": "Adam Price",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Adam_Price"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1969-01-01",
+                "2050-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8212,
+        "Question": "What was Carlo Muscetta's nationality when he enrolled at the University of Naples Literature faculty?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q172579",
+                "WikidataLabel": "Kingdom of Italy",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Italy"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1931-01-01",
+                "1931-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8213,
+        "Question": "What district was Magdeburg located in while it was a part of the German Democratic Republic?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q48083",
+                "WikidataLabel": "Magdeburg District",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Bezirk_Magdeburg"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q27916627",
+                "WikidataLabel": "Saxony-Anhalt",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Saxony-Anhalt_(1945%E2%80%931952)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1949-10-07",
+                "1990-10-02"
+            ]
+        ]
+    },
+    {
+        "Id": 8214,
+        "Question": "After emigrating from Mainland China to Hong Kong, which country was Lee Cheuk-yan's country of citizenship?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1054923",
+                "WikidataLabel": "British Hong Kong",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/British_Hong_Kong"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1959-01-01",
+                "1959-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8215,
+        "Question": "What television show did Lady Gaga perform \"Bad Romance\" on, when it was released as part of the EP The Fame Monster?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q13979",
+                "WikidataLabel": "Saturday Night Live",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q4744536",
+                "WikidataLabel": "American Music Awards of 2009",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/American_Music_Awards_of_2009"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2009-10-19",
+                "2009-10-19"
+            ]
+        ]
+    },
+    {
+        "Id": 8216,
+        "Question": "For which club did Karen Dokhoyan score his most famous goal - one that drew 1-1 against Romania - in a World Cup qualification match?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q274778",
+                "WikidataLabel": "FC Krylia Sovetov Samara",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/PFC_Krylia_Sovetov_Samara"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2006-01-01",
+                "2006-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8217,
+        "Question": "What was the number of households in Meridian, Idaho, according to the census in Stow, determined by the census method?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q523716",
+                "WikidataLabel": "2010 United States Census",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2010-04-01",
+                "2010-04-01"
+            ]
+        ]
+    },
+    {
+        "Id": 8218,
+        "Question": "Which football club did Geoff Vowden manage before Kettering Town?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q18711",
+                "WikidataLabel": "Aston Villa F.C.",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Aston_Villa_F.C."
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1974-01-01",
+                "1975-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8219,
+        "Question": "What party did Binyamin Ben-Eliezer represent in the Knesset prior to becoming the leader of the Israeli Labor Party?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q801",
+                "WikidataLabel": "Israel",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Israel"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2001-01-01",
+                "2001-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8220,
+        "Question": "Which non-governmental organization listed Internet in Myanmar as an Internet enemy when censorship levels in Burma began significantly decreasing?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q154330",
+                "WikidataLabel": "Reporters Without Borders",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Reporters_Without_Borders"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2011-09-01",
+                "2011-09-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8221,
+        "Question": "In which domestic cricket team was Johan Botha playing when he last Test v Pakistan?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1209990",
+                "WikidataLabel": "Rajasthan Royals",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Rajasthan_Royals"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2010-11-20",
+                "2010-11-20"
+            ]
+        ]
+    },
+    {
+        "Id": 8222,
+        "Question": "What was Justin Tuveri's country of citizenship when he was drafted and fought in the Sassari campaign?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q172579",
+                "WikidataLabel": "Kingdom of Italy",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Italy"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1917-01-01",
+                "1917-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8223,
+        "Question": "Who founded the City Football Group with former Economy Vice President Ferran Soriano, leading to the announcement of New York City FC as Major League Soccer's 20th expansion side?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q7156",
+                "WikidataLabel": "FC Barcelona",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/FC_Barcelona"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2013-05-01",
+                "2013-05-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8224,
+        "Question": "When Suriname had a life expectancy of 68.48, which specialized United Nations agency was it a member of?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q170424",
+                "WikidataLabel": "World Meteorological Organization",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/World_Meteorological_Organization"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2004-01-01",
+                "2004-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8225,
+        "Question": "Following his 77 appearances and 33 goals for Barcelona, which football club did David Villa transfer to where he won another La Liga title?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q8701",
+                "WikidataLabel": "Atlético Madrid",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Atl%C3%A9tico_Madrid"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2010-01-01",
+                "2013-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8226,
+        "Question": "Following its addition to the NRHP, what heritage designation was Dealey Plaza given, resulting in the naming of the Dealey Plaza Historic District?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q19558910",
+                "WikidataLabel": "National Register of Historic Places listed place",
+                "WikipediaURL": ""
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1993-04-19",
+                "1993-04-19"
+            ]
+        ]
+    },
+    {
+        "Id": 8227,
+        "Question": "Before Chongqing became part of China, what country did it belong to?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q13426199",
+                "WikidataLabel": "Republic of China",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Republic_of_China_(1912%E2%80%931949)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1949-11-30",
+                "1954-06-30"
+            ]
+        ]
+    },
+    {
+        "Id": 8228,
+        "Question": "When Jason Gillespie married Anna (née McEvoy), which sports team was he a member of?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q142555",
+                "WikidataLabel": "Australia national cricket team",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Australia_national_cricket_team"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2003-01-01",
+                "2003-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8229,
+        "Question": "What municipality of Norway does Sandnes share a border with during its time adjacent to Bykle?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q281835",
+                "WikidataLabel": "Sirdal",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Sirdal"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2020-01-01",
+                "2050-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8230,
+        "Question": "Who was the parent organization of PizzaExpress when it was announced that the Wardour Street branch would shut?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q19892711",
+                "WikidataLabel": "Hony Capital",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Hony_Capital"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2020-01-01",
+                "2020-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8231,
+        "Question": "What standards organisation was Samoa a member of during their independence from New Zealand and name change from Western Samoa to Samoa?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q376150",
+                "WikidataLabel": "International Telecommunication Union",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/International_Telecommunication_Union"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1997-07-04",
+                "1997-07-04"
+            ]
+        ]
+    },
+    {
+        "Id": 8232,
+        "Question": "What was the nationality of Ghulam Mohammed Sadiq when he died in office due to a heart attack?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q668",
+                "WikidataLabel": "India",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/India"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1971-12-12",
+                "1971-12-12"
+            ]
+        ]
+    },
+    {
+        "Id": 8233,
+        "Question": "Which region of Ethiopia is Sheka Zone located in after being part of Southern Nations, Nationalities, and Peoples' Region?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q109788993",
+                "WikidataLabel": "South West Ethiopia People's Region",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/South_West_Ethiopia_Peoples%27_Region"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2021-11-23",
+                "2021-11-23"
+            ]
+        ]
+    },
+    {
+        "Id": 8234,
+        "Question": "What Grand Slam singles event did Raymond Moore reach the quarterfinals in during his time as a professional tennis player?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q41520",
+                "WikidataLabel": "Wimbledon Championships",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Wimbledon_Championships"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1968-01-01",
+                "1968-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8235,
+        "Question": "How much water is present in Ridgewood, New Jersey according to the United States census figures?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q523716",
+                "WikidataLabel": "2010 United States Census",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2010-04-01",
+                "2010-04-01"
+            ]
+        ]
+    },
+    {
+        "Id": 8236,
+        "Question": "What organisation succeeded the Maastricht Treaty to formally establish the European Union?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q52847",
+                "WikidataLabel": "European Economic Community",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/European_Economic_Community"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1993-11-01",
+                "1993-11-01"
+            ]
+        ]
+    },
+    {
+        "Id": 8237,
+        "Question": "What Grand Slam singles event did Jan Lehane reach the quarterfinals of during her time with the Australian Fed Cup team?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q41520",
+                "WikidataLabel": "Wimbledon Championships",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Wimbledon_Championships"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1963-01-01",
+                "1963-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8238,
+        "Question": "After the Cabinet of Petr Fiala was formed, which parts comprised Petr Fiala's Cabinet?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q23908965",
+                "WikidataLabel": "Anna Hubáčková",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Anna_Hub%C3%A1%C4%8Dkov%C3%A1"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q13434626",
+                "WikidataLabel": "Marian Jurečka",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Marian_Jure%C4%8Dka"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2021-12-17",
+                "2021-12-17"
+            ]
+        ]
+    },
+    {
+        "Id": 8239,
+        "Question": "What political party was John Connally affiliated with at the time of his death in Houston, Texas in (year)?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q29468",
+                "WikidataLabel": "Republican Party",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1993-06-15",
+                "1993-06-15"
+            ]
+        ]
+    },
+    {
+        "Id": 8240,
+        "Question": "Which large city did Guillaume Apollinaire live in before Monaco?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q220",
+                "WikidataLabel": "Rome",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Rome"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1887-01-01",
+                "1895-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8241,
+        "Question": "What position did Nicholas John Brown hold when he was appointed as one of the Tasmanian representatives in the Federal Council?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q19007285",
+                "WikidataLabel": "Member of the Tasmanian House of Assembly",
+                "WikipediaURL": ""
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1886-03-01",
+                "1886-03-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8242,
+        "Question": "In which country did The Jungle Book get published after France?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q183",
+                "WikidataLabel": "Germany",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Germany"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1968-12-11",
+                "1968-12-11"
+            ]
+        ]
+    },
+    {
+        "Id": 8243,
+        "Question": "What country hosted the 4th Commonwealth Prime Minister's Conference prior to it taking place?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q145",
+                "WikidataLabel": "United Kingdom",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/United_Kingdom"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1949-01-01",
+                "1949-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8244,
+        "Question": "When AB de Villiers last played an ODI against India, which team was he playing for domestically?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1156897",
+                "WikidataLabel": "Royal Challengers Bangalore",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Royal_Challengers_Bangalore"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q60750691",
+                "WikidataLabel": "Tshwane Spartans",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Tshwane_Spartans"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2018-02-16",
+                "2018-02-16"
+            ]
+        ]
+    },
+    {
+        "Id": 8245,
+        "Question": "After living in the Duke Ellington House, which award did Duke Ellington receive?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q17144",
+                "WikidataLabel": "Presidential Medal of Freedom",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Presidential_Medal_of_Freedom"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1939-01-01",
+                "1969-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8246,
+        "Question": "What Grand Slam event did Markus Hipfl reach the second round of at the time he broke into the top 100 for the first time on the ATP Tour?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q123577",
+                "WikidataLabel": "US Open",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/US_Open_(tennis)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1999-01-01",
+                "1999-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8247,
+        "Question": "Who discovered or invented uranium dioxide when it was still a pure substance?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q160196",
+                "WikidataLabel": "Martin Heinrich Klaproth",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Martin_Heinrich_Klaproth"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1789-01-01",
+                "1789-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8248,
+        "Question": "What position was Émile Moreau holding when he was Governor of the Banque de France?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q132050",
+                "WikidataLabel": "governor",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Governor"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1926-01-01",
+                "1930-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8249,
+        "Question": "What country did Shamima Begum have citizenship in when she was born in London, England at the age of 23?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q145",
+                "WikidataLabel": "United Kingdom",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/United_Kingdom"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1999-08-25",
+                "1999-08-25"
+            ]
+        ]
+    },
+    {
+        "Id": 8250,
+        "Question": "After Robert Schuman became Prime Minister of France, what position did he replace André Marie in?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q3409212",
+                "WikidataLabel": "President of the Council",
+                "WikipediaURL": ""
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1948-09-05",
+                "1948-09-05"
+            ]
+        ]
+    },
+    {
+        "Id": 8251,
+        "Question": "What role did Jo Churchill assume after she became the Member of Parliament for Bury St Edmunds?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q30524718",
+                "WikidataLabel": "Member of the 56th Parliament of the United Kingdom",
+                "WikipediaURL": ""
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2015-05-07",
+                "2015-05-07"
+            ]
+        ]
+    },
+    {
+        "Id": 8252,
+        "Question": "After his Ordination by Pietro Respighi, what Catholic religious occupation did Anton Durcovici pursue?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q250867",
+                "WikidataLabel": "Catholic priest",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Catholic_priest"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1910-09-24",
+                "1910-09-24"
+            ]
+        ]
+    },
+    {
+        "Id": 8253,
+        "Question": "What role did Trond Helleland have in the Conservative Party of Norway before he became the representative of Buskerud in the Storting?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q16159375",
+                "WikidataLabel": "deputy member of the Parliament of Norway",
+                "WikipediaURL": ""
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1997-01-01",
+                "1997-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8254,
+        "Question": "What was Francis Xavier Vira Arpondratana's role in the church prior to his appointment as bishop?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1144278",
+                "WikidataLabel": "diocesan bishop",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Diocesan_bishop"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1988-01-01",
+                "2009-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8255,
+        "Question": "Before Lilian Greenwood was appointed Chair of the Commons Finance Committee, what United Kingdom general election did she serve as Chair of the Transport Select Committee?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q25052149",
+                "WikidataLabel": "2017 United Kingdom general election",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2017_United_Kingdom_general_election"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2020-01-29",
+                "2021-05-25"
+            ]
+        ]
+    },
+    {
+        "Id": 8256,
+        "Question": "During the radioactive fallout from the accident, which international organization was Belarus a member of?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q7809",
+                "WikidataLabel": "UNESCO",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/UNESCO"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1986-01-01",
+                "1986-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8257,
+        "Question": "After the Grand Duchy of Lithuania, which country was Vinnytsia part of?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q171348",
+                "WikidataLabel": "Crown of the Kingdom of Poland",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Crown_of_the_Kingdom_of_Poland"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1363-01-01",
+                "1569-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8258,
+        "Question": "What Grand Slam singles results did Deidre Catt achieve while a member of the British Federation Cup team?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q123577",
+                "WikidataLabel": "US Open",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/US_Open_(tennis)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1963-01-01",
+                "1963-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8259,
+        "Question": "What was Kanan Devi's country of citizenship after the British Raj?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1775277",
+                "WikidataLabel": "Dominion of India",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Dominion_of_India"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1947-08-14",
+                "1947-08-14"
+            ]
+        ]
+    },
+    {
+        "Id": 8260,
+        "Question": "During Frank Sinatra's political affiliations, what party was he registered with?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q29552",
+                "WikidataLabel": "Democratic Party",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Democratic_Party_(United_States)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1972-01-01",
+                "1972-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8261,
+        "Question": "What was Edward Gurney's role before he resigned following the influence peddling scandal?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q4416090",
+                "WikidataLabel": "United States senator",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/United_States_senator"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1974-12-31",
+                "1974-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8262,
+        "Question": "What place was listed in the National Register of Historic Places as part of the Illinois and Michigan Canal heritage designation?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q624232",
+                "WikidataLabel": "National Historic Landmark",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/National_Historic_Landmark"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1966-10-15",
+                "2050-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8263,
+        "Question": "Before Dan Murray joined Cork City, which association football club had he played 5 ( 0 ) games for?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q19495",
+                "WikidataLabel": "Peterborough United F.C.",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Peterborough_United_F.C."
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2002-01-01",
+                "2009-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8264,
+        "Question": "After Hassan Aboud's death, what organization did Ahrar al-Sham begin to fight with after previously having worked with them?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q2429253",
+                "WikidataLabel": "Islamic State",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Islamic_State"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2014-01-01",
+                "2014-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8265,
+        "Question": "During the United States Census, what was the percentage of water in Eldon, Iowa?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q523716",
+                "WikidataLabel": "2010 United States Census",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2010-04-01",
+                "2010-04-01"
+            ]
+        ]
+    },
+    {
+        "Id": 8266,
+        "Question": "Before playing for Al Ain, which football club did Yassine Meriah senior career represent for one season?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q19628",
+                "WikidataLabel": "Olympiacos F.C.",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Olympiacos_F.C."
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q272712",
+                "WikidataLabel": "Çaykur Rizespor",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/%C3%87aykur_Rizespor"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2021-01-01",
+                "2022-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8267,
+        "Question": "Prior to its admission to the United Nations, which international organization was Switzerland a member of?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q663492",
+                "WikidataLabel": "Eurocontrol",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Eurocontrol"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q7809",
+                "WikidataLabel": "UNESCO",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/UNESCO"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2002-01-01",
+                "2002-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8268,
+        "Question": "What U-boat flotilla was the German submarine U-1200 a part of during the Kriegsmarine's operation?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q169975",
+                "WikidataLabel": "11th U-boat Flotilla",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/11th_U-boat_Flotilla"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1944-01-05",
+                "1944-11-12"
+            ]
+        ]
+    },
+    {
+        "Id": 8269,
+        "Question": "What position did Ruth Born play in the All-American Girls Professional Baseball League when she read an advertisement in the local newspaper?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1048902",
+                "WikidataLabel": "pitcher",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Pitcher"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1943-01-01",
+                "1943-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8270,
+        "Question": "After Jim McLean appeared in 7 games, for which club did he play 90 games?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q210961",
+                "WikidataLabel": "Kilmarnock F.C.",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Kilmarnock_F.C."
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1965-01-01",
+                "1968-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8271,
+        "Question": "What football club did Terry Venables play for before his loan to Canterbury-Marrickville Olympic?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q18723",
+                "WikidataLabel": "Queens Park Rangers F.C.",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Queens_Park_Rangers_F.C."
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1974-01-01",
+                "1974-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8272,
+        "Question": "What was Bernard Fellay's occupation when he held the title \"The Most Reverend Bernard Fellay SSPX\" around this time?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q250867",
+                "WikidataLabel": "Catholic priest",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Catholic_priest"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2008-01-01",
+                "2008-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8273,
+        "Question": "During the UNESCO World Heritage Site's 8th Session inscription in Córdoba, Spain, who was the head of government?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q2545691",
+                "WikidataLabel": "Julio Anguita",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Julio_Anguita"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1984-01-01",
+                "1984-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8274,
+        "Question": "What was Giacinto Auriti's country of citizenship when he became a founding teacher and dean at the University of Teramo?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q38",
+                "WikidataLabel": "Italy",
+                "WikipediaURL": "Q7265349"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1993-01-01",
+                "1993-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8275,
+        "Question": "After Jimmy Thomson's Senior career with Petershill, which association football club did he play for?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q18716",
+                "WikidataLabel": "Newcastle United F.C.",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Newcastle_United_F.C."
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1967-01-01",
+                "1968-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8276,
+        "Question": "What was Bai Hua's country of citizenship when his twin brother Ye Nan became a successful movie scriptwriter in the 1980s?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q148",
+                "WikidataLabel": "People's Republic of China",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/China"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1930-01-01",
+                "2003-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8277,
+        "Question": "Prior to its dissolution, what was the official name of the Operational Zone of the Adriatic Littoral?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q84614",
+                "WikidataLabel": "Friedrich Rainer",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Friedrich_Rainer"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1945-01-01",
+                "1945-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8278,
+        "Question": "What was the value of the argument of perihelion for CB's orbital characteristics 2?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q6277491",
+                "WikidataLabel": "Uncertainty Parameter U",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Uncertainty_parameter"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2018-01-01",
+                "2018-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8279,
+        "Question": "What occupation was Solly Zuckerman, Baron Zuckerman, prior to his passing in London, England, at 88 years of age?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q18952564",
+                "WikidataLabel": "Member of the House of Lords",
+                "WikipediaURL": ""
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1993-04-01",
+                "1993-04-01"
+            ]
+        ]
+    },
+    {
+        "Id": 8280,
+        "Question": "What did Luigi Locati become after he was ordained as a priest in the village Vinzaglio of northern Italy?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q250867",
+                "WikidataLabel": "Catholic priest",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Catholic_priest"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1952-06-29",
+                "1952-06-29"
+            ]
+        ]
+    },
+    {
+        "Id": 8281,
+        "Question": "What was the number of households in Issaquah, Washington according to the census in Brandon, Mississippi?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q523716",
+                "WikidataLabel": "2010 United States Census",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2010-04-01",
+                "2010-04-01"
+            ]
+        ]
+    },
+    {
+        "Id": 8282,
+        "Question": "At the time when Paul Anka married Anna Anka in Sardinia, which award did he receive?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q861660",
+                "WikidataLabel": "Songwriters Hall of Fame",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Songwriters_Hall_of_Fame"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2008-07-26",
+                "2010-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8283,
+        "Question": "During the United States Census, what was the population, number of households, and number of families living in the Glassboro area (23.882149)?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q523716",
+                "WikidataLabel": "2010 United States Census",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2010-04-01",
+                "2010-04-01"
+            ]
+        ]
+    },
+    {
+        "Id": 8284,
+        "Question": "Where was the University of Ulyanovsk founded, and in which administrative territorial entity?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q4475180",
+                "WikidataLabel": "Ulyanovsk State Agricultural Academy",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Ulyanovsk_State_Agricultural_Academy"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1943-01-19",
+                "2050-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8285,
+        "Question": "During Archie MacLaren's last Test match against Australia, which national cricket team was he a member of?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1321565",
+                "WikidataLabel": "England cricket team",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/England_cricket_team"
+            },
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q2725657",
+                "WikidataLabel": "Lancashire County Cricket Club",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Lancashire_County_Cricket_Club"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1909-08-11",
+                "1909-08-11"
+            ]
+        ]
+    },
+    {
+        "Id": 8286,
+        "Question": "Who was the head coach of U.C. Sampdoria when Bruno Fornaroli was a member of the sports team?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q370838",
+                "WikidataLabel": "Walter Mazzarri",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Walter_Mazzarri"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2008-01-01",
+                "2008-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8287,
+        "Question": "During Vladimir Putin's second tenure as president of Russia, which election took place?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q19760074",
+                "WikidataLabel": "Russian presidential election, 2018",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/2018_Russian_presidential_election"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2012-05-07",
+                "2012-05-07"
+            ]
+        ]
+    },
+    {
+        "Id": 8288,
+        "Question": "During Ujjal Dosanjh's time as Member of the British Columbia Legislative Assembly for Vancouver-Kensington, which British Columbia general election did he win in the Vancouver-Kensington riding?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q4969816",
+                "WikidataLabel": "1991 British Columbia general election",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/1991_British_Columbia_general_election"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1991-10-17",
+                "2001-05-16"
+            ]
+        ]
+    },
+    {
+        "Id": 8289,
+        "Question": "What is the financial ratio of Boruto: Naruto Next Generations sales of editions/translations from Shueisha (¥37 56 billion) during its publication by Shueisha?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q570938",
+                "WikidataLabel": "Net income",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Net_income"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2016-08-04",
+                "2050-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8290,
+        "Question": "What country was Vladimir Shatalov a citizen of before the dissolution of the Warsaw Pact in Prague Czechoslovakia?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q15180",
+                "WikidataLabel": "Soviet Union",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Soviet_Union"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1991-01-01",
+                "1991-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8291,
+        "Question": "During Kevin Ullyett's time in mixed doubles at the Grand Slams, which tournament did he win with Daniela Hantuchová?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q60874",
+                "WikidataLabel": "Australian Open",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Australian_Open"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2002-01-01",
+                "2002-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8292,
+        "Question": "What cricket team was David Hughes playing for while he was a member of MCC?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q2725657",
+                "WikidataLabel": "Lancashire County Cricket Club",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Lancashire_County_Cricket_Club"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1971-01-01",
+                "1972-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8293,
+        "Question": "What sport did Frank Gifford play before becoming an actor and television sports commentator?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q41323",
+                "WikidataLabel": "American football",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/American_football"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "2015-08-09",
+                "2015-08-09"
+            ]
+        ]
+    },
+    {
+        "Id": 8294,
+        "Question": "After being formed as the 11th Separate Air Assault Brigade and participating in the Soviet-Afghan War, what sovereign state did the 11th Guards Air Assault Brigade belong to?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q159",
+                "WikidataLabel": "Russia",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Russia"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1968-01-01",
+                "1968-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8295,
+        "Question": "What role did John William Wright Patman hold before his death?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q13218630",
+                "WikidataLabel": "United States representative",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/United_States_Representative"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1976-03-07",
+                "1976-03-07"
+            ]
+        ]
+    },
+    {
+        "Id": 8296,
+        "Question": "Which title did Margrethe II of Denmark hold before she succeeded her father?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q863048",
+                "WikidataLabel": "princess",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Princess"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1972-01-14",
+                "1972-01-14"
+            ]
+        ]
+    },
+    {
+        "Id": 8297,
+        "Question": "Who took ownership of Gatorade after it was bought by the Quaker Oats Company?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q334800",
+                "WikidataLabel": "PepsiCo",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/PepsiCo"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1983-01-01",
+                "2000-12-31"
+            ]
+        ]
+    },
+    {
+        "Id": 8298,
+        "Question": "What country was Bergen once part of after Denmark-Norway?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q2597352",
+                "WikidataLabel": "Kingdom of Norway (1814)",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Norway_(1814)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1814-01-13",
+                "1814-01-13"
+            ]
+        ]
+    },
+    {
+        "Id": 8299,
+        "Question": "Who assisted in the founding of the Russian Academy of Sciences, formerly the St Petersburg Academy of Sciences, 299 years ago in Saint Petersburg, Russia?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q8479",
+                "WikidataLabel": "Peter the Great",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Peter_the_Great"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1724-02-08",
+                "1724-02-08"
+            ]
+        ]
+    },
+    {
+        "Id": 8300,
+        "Question": "What major championships did Roberto De Vicenzo win during his career in which he secured a record of 229 tournament victories?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q848797",
+                "WikidataLabel": "The Open Championship",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/The_Open_Championship"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "test",
+        "gold_constraint": [
+            [
+                "1967-01-01",
+                "1967-12-31"
+            ]
+        ]
+    }
+]
