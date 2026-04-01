@@ -1,0 +1,303 @@
+[
+    {
+        "Id": 5240,
+        "Question": "What Olympic sport was Herb Brooks coaching before his death in a car accident?",
+        "relation": "What Olympic sport was coaching before his death in a car accident",
+        "human_relation": "coaching"
+    },
+    {
+        "Id": 913,
+        "Question": "For which literary award did George Carlin posthumously receive during his lifetime?",
+        "relation": "For which literary award did posthumously receive during his lifetime",
+        "human_relation":"receive"
+    },
+    {
+        "Id": 205,
+        "Question": "According to a research done by IHL Group during the retail apocalypse, what principle was true regarding the 20 stores announcing the most closures?",
+        "relation": "According to a research done by IHL Group during the retail apocalypse what was true regarding the 20 stores announcing the most closures",
+        "human_relation": "was"
+    },
+    {
+        "Id": 2007,
+        "Question": "What football club did Carlos Vinícius play for before Santos in his youth career?",
+        "relation": "What football club did Carlos play for before Santos in his career",
+        "human_relation":"play for"
+    },
+    {
+        "Id": 1829,
+        "Question": "What award did Francis Collins receive when he was the 2nd director of the National Human Genome Research Institute?",
+        "relation": "What award did receive when he was the 2nd director of the",
+        "human_relation":"receive"
+    },
+    {
+        "Id": 1144,
+        "Question": "At which award ceremony did Drake receive the Album of the Year and Best Hip-Hop Video awards while performing?",
+        "relation": "At which award ceremony did receive the and Best Hip-Hop Video awards while performing",
+        "human_relation":"receive"
+    },
+    {
+        "Id": 840,
+        "Question": "Who was Dave Tollner's chief minister when he was Deputy Chief Minister of the Northern Territory?",
+        "relation": "Who was chief minister when he was of the Northern Territory",
+        "human_relation":"was"
+    },
+    {
+        "Id": 5545,
+        "Question": "Who founded the Columbia University Orchestra when the campus was moved to Morningside Heights and renamed Columbia University?",
+        "relation": "Who founded the Orchestra when the campus was moved to Morningside Heights and renamed Columbia University",
+        "human_relation":"founded"
+    },
+    {
+        "Id": 4469,
+        "Question": "Who was the head of government in Sauherad before Bordalen was located in the administrative territorial entity Sauherad?",
+        "relation": "Who was the head of government in before Bordalen was located in the administrative territorial entity Sauherad",
+        "human_relation":"was"
+    },
+    {
+        "Id": 713,
+        "Question": "What city did Frank Kelly live in for most of his life when he was born in South County Dublin?",
+        "relation": "What city did live in for most of his life when he was born in South",
+        "human_relation":"live in"
+    },
+    {
+        "Id": 4839,
+        "Question": "Who did P Chidambaram replace as Finance Minister when he was appointed Minister of Home Affairs?",
+        "relation": "Who did replace as Finance Minister when he was appointed Minister of Home Affairs",
+        "human_relation":"replace"
+    },
+    {
+        "Id": 3458,
+        "Question": "What position did John Parnell Thomas take after his two-year term in the New Jersey General Assembly?",
+        "relation": "What position did take after his two-year term in the New Jersey",
+        "human_relation":"take"
+    },
+    {
+        "Id": 261,
+        "Question": "Who succeeded Gary Bowyer as head coach of Bradford City A.F.C.?",
+        "relation": "Who succeeded Gary Bowyer as head coach of",
+        "human_relation":"succeeded"
+    },
+    {
+        "Id": 245,
+        "Question": "Who was the head coach of the Netherlands national football team when Michel Vorm was a member?",
+        "relation": "Who was the head coach of the when was a member",
+        "human_relation":"was"
+    },
+    {
+        "Id": 768,
+        "Question": "Who was the editor of Physical Review when it was founded by Ernest Merritt and co-founder?",
+        "relation": "Who was the editor of when it was founded by and",
+        "human_relation":"was"
+    },
+    {
+        "Id": 1792,
+        "Question": "In which Scottish council area was Bathgate located after it was moved to West Lothian?",
+        "relation": "In which was located after it was moved to",
+        "human_relation":"located"
+    },
+    {
+        "Id": 1906,
+        "Question": "Who held the position of Minority Whip in the Pennsylvania State Senate Leadership while Ryan Aument was Majority Whip?",
+        "relation": "Who held the position of Minority Whip in the Leadership while Ryan Aument was Majority Whip",
+        "human_relation":"held"
+    },
+    {
+        "Id": 4141,
+        "Question": "Before the Sydney Olympics, what international team was Carla Overbeck representing with her 170 caps?",
+        "relation": "Before the Sydney Olympics what international team was representing with her 170 caps",
+        "human_relation": "representing"
+    },
+    {
+        "Id": 4933,
+        "Question": "After his time with Bury, which football club did Tony McNamara join?",
+        "relation": "After his time with Bury which football club did join",
+        "human_relation":"join"
+    },
+    {
+        "Id": 218,
+        "Question": "After his loan with Derby County, what team did Avi Nimni become the coach of?",
+        "relation": "After his loan with Derby County what team did become the coach of",
+        "human_relation":"become the coach of"
+    },
+    {
+        "Id": 4599,
+        "Question": "What military rank did Fernando Figueroa have when one of his sons married Marcela Gutiérrez, the daughter of General Rafael Antonio Gutiérrez?",
+        "relation": "What did have when one of his sons married Marcela Gutiérrez the daughter of Rafael Antonio Gutiérrez",
+        "human_relation":"have"
+    },
+    {
+        "Id": 1629,
+        "Question": "What country took over Wismar after Nazi Germany?",
+        "relation": "What country took over after Nazi Germany",
+        "human_relation":"took over"
+    },
+    {
+        "Id": 5867,
+        "Question": "When Elza Moreira de Sá Peixoto was a teacher, which football club was founded on 1 May in Manaus?",
+        "relation": "When Elza Moreira de Sá Peixoto was a teacher which football club was founded on 1 May in",
+        "human_relation":"was founded"
+    },
+    {
+        "Id": 5325,
+        "Question": "Who succeeded Dan Jiránek as the head of government in Kladno?",
+        "relation": "Who succeeded Dan Jiránek as the head of government in",
+        "human_relation":"succeeded"
+    },
+    {
+        "Id": 5747,
+        "Question": "What canton was Lugano located in after the political municipality of Lugano was created?",
+        "relation": "What was located in after the political municipality of Lugano was created",
+        "human_relation":"located in"
+    },
+    {
+        "Id": 4466,
+        "Question": "Who was Wilbur Ross' partner before he founded WL Ross & Co and became known as the 'King of Bankruptcy'?",
+        "relation": "Who was partner before he founded & Co and became known as the King of Bankruptcy",
+        "human_relation":"was"
+    },
+    {
+        "Id": 3438,
+        "Question": "After Atlas Air had 4,056 employees and operated to more than 300 global destinations, what business did they purchase four additional 747-8 freighters from?",
+        "relation": "After had 4056 employees and operated to more than 300 global destinations what business did they purchase four additional freighters from",
+        "human_relation":"purchase"
+
+    },
+    {
+        "Id": 1806,
+        "Question": "When Uraga was dissolved, what municipality in Japan replaced it?",
+        "relation": null,
+        "human_relation":"replaced"
+    },
+    {
+        "Id": 3681,
+        "Question": "What high school did Greg Gard work at as an assistant coach after coaching at Southwestern HS?",
+        "relation": "What high school did work at as an assistant coach after coaching at Southwestern HS",
+        "human_relation":"work at"
+    },
+    {
+        "Id": 4829,
+        "Question": "During Rafael Correa's time at his employer Carlos Baca Mancheno, which university awarded him an honorary doctorate?",
+        "relation": "During time at his employer Carlos Baca Mancheno which university awarded him an honorary doctorate",
+        "human_relation":"awarded"
+    },
+    {
+        "Id": 2279,
+        "Question": "Who was leading the State of Buenos Aires Estado de Buenos Aires when the Battle of Cepeda occurred?",
+        "relation": "Who was leading the Estado de Buenos Aires when the Battle of Cepeda occurred",
+        "human_relation":"was leading"
+    },
+    {
+        "Id": 54,
+        "Question": "What event in which Olympic sports discipline did Paavo Aaltonen compete at the London Olympic Games as part of the Team?",
+        "relation": "What event in which Olympic sports discipline did compete at the London Olympic Games as part of the Team",
+        "human_relation":"compete"
+    },
+    {
+        "Id": 1308,
+        "Question": "What was New York University's ranking in the US in terms of budget when it was ahead of Cornell and had a budget of $14.7 billion?",
+        "relation": "What was ranking in the US in terms of budget when it was ahead of and had a budget of $147 billion",
+        "human_relation":"ranking"
+    },
+    {
+        "Id": 5721,
+        "Question": "In which general election did Nurul Izzah Anwar get elected as Member of Parliament for Lembah Pantai while representing the Pakatan Harapan faction in Dewan Rakyat?",
+        "relation": "In which general election did get elected as Member of Parliament for while representing the faction in",
+        "human_relation":"get elected"
+    },
+    {
+        "Id": 3464,
+        "Question": "Before Antti Rinne was appointed as Prime Minister, who did he replace as First Deputy Speaker of the Parliament?",
+        "relation": "Before was appointed as Prime Minister who did he replace as First Deputy Speaker of the Parliament",
+        "human_relation":"replace"
+    },
+    {
+        "Id": 2789,
+        "Question": "Where was the Nakhichevan Autonomous Soviet Socialist Republic located after being detached from the Sharur District?",
+        "relation": "Where was the located after being detached from the",
+        "human_relation":"located"
+    },
+    {
+        "Id": 2277,
+        "Question": "During the area +142.52826446393738 of Smøla, who was the head of government?",
+        "relation": "During the area +14252826446393738 of who was the head of government",
+        "human_relation":"was"
+    },
+    {
+        "Id": 1274,
+        "Question": "During Ethiopia's total fertility rate of +5.693, which general election returned Meles to power?",
+        "relation": null,
+        "human_relation":"returned"
+    },
+    {
+        "Id": 1764,
+        "Question": "What professional cycling team was Cadel Evans a member of as he was progressing through the ranks?",
+        "relation": "What was a member of as he was progressing through the ranks",
+        "human_relation":"member of"
+    },
+    {
+        "Id": 2759,
+        "Question": "During Gema Igual's time as Alcalde (PP) in Santander, Spain, who was the head of the government?",
+        "relation": "During Iguals time as Alcalde (PP) in who was the head of the government",
+        "human_relation":"was"
+    },
+    {
+        "Id": 838,
+        "Question": "What medal did Heinrich Louis d'Arrest receive after becoming the director/manager of the Østervold Observatory?",
+        "relation": "What medal did receive after becoming the director/manager of the Østervold Observatory",
+        "human_relation":"receive"
+    },
+    {
+        "Id": 760,
+        "Question": "Who was the Speaker of the House of Representatives when Deputy Sharon Claydon was the incumbent?",
+        "relation": "Who was the Speaker of the when Deputy Sharon Claydon was the incumbent",
+        "human_relation":"was"
+    },
+    {
+        "Id": 3114,
+        "Question": "What football club was Jay Bothroyd playing for when he earned his only cap for the England national team?",
+        "relation": "What football club was playing for when he earned his only cap for the",
+        "human_relation":"playing for"
+    },
+    {
+        "Id": 793,
+        "Question": "After Harold Hunter finished his basketball career, what middle school did he coach?",
+        "relation": "After finished his career what middle school did he coach",
+        "human_relation":"coach"
+    },
+    {
+        "Id": 2942,
+        "Question": "Who was the chairperson of the International Mathematical Union prior to Carlos Kenig?",
+        "relation": "Who was the chairperson of the prior to Carlos Kenig",
+        "human_relation":"was"
+    },
+    {
+        "Id": 2819,
+        "Question": "Who was the head of government in Bourges when Yann Galut served as the mayor?",
+        "relation": "Who was the head of government in when served as the mayor",
+        "human_relation":"was"
+    },
+    {
+        "Id": 4947,
+        "Question": "Prior to joining Atlante UTN, which club did Federico Mancinelli play for in his senior career?",
+        "relation": "Prior to joining Atlante UTN which club did Federico play for in his senior career",
+        "human_relation":"play for"
+    },
+    {
+        "Id": 2167,
+        "Question": "Which Olympic event did Gunhild Hoffmeister win two silver and one bronze medal in at the Munich Olympic Games, becoming the only German distance runner to do so?",
+        "relation": "Which Olympic event did win two silver and one in at the becoming the only German distance runner to do so",
+        "human_relation":"win"
+    },
+    {
+        "Id": 356,
+        "Question": "What ISO standard was Enoch Powell complying with when he was the Minister of Health?",
+        "relation": "What was complying with when he was the Minister of Health",
+        "human_relation":"complying with"
+    },
+    {
+        "Id": 316,
+        "Question": "Who published The Essential Dave Allen London during Dave Allen's career as a comedian and actor?",
+        "relation": "Who published The Essential during Dave Allens career as a comedian and actor",
+        "human_relation": "published"
+    }
+]

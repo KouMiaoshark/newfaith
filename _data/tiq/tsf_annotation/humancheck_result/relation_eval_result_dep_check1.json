@@ -1,0 +1,265 @@
+{
+  "summary": {
+    "gold_file": "/home/koumiao/FAITH-main/_data/tiq/tsf_annotation/322_50_1_weici_human_check.json",
+    "pred_file": "/home/koumiao/FAITH-main/_data/tiq/tsf_annotation/227dep_relation_train_6000.json",
+    "output_file": "/home/koumiao/FAITH-main/_data/tiq/tsf_annotation/humancheck_result/relation_eval_result_dep_check1.json",
+    "gold_total_items": 50,
+    "pred_total_items": 5999,
+    "gold_unique_ids": 50,
+    "pred_unique_ids": 5999,
+    "matched_by_id": 50,
+    "gold_duplicate_id_count": 0,
+    "pred_duplicate_id_count": 0,
+    "strict_match_count": 22,
+    "gold_contains_pred_count": 22,
+    "pred_contains_gold_count": 22,
+    "strict_accuracy": 0.44,
+    "gold_contains_pred_rate": 0.44,
+    "pred_contains_gold_rate": 0.44
+  },
+  "mismatches": [
+    {
+      "Id": 54,
+      "Question": "What event in which Olympic sports discipline did Paavo Aaltonen compete at the London Olympic Games as part of the Team?",
+      "human_relation_normalized": "compete",
+      "pred_relation_normalized": "compete at",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 218,
+      "Question": "After his loan with Derby County, what team did Avi Nimni become the coach of?",
+      "human_relation_normalized": "become the coach of",
+      "pred_relation_normalized": "become coach of",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 356,
+      "Question": "What ISO standard was Enoch Powell complying with when he was the Minister of Health?",
+      "human_relation_normalized": "complying with",
+      "pred_relation_normalized": "was",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 913,
+      "Question": "For which literary award did George Carlin posthumously receive during his lifetime?",
+      "human_relation_normalized": "receive",
+      "pred_relation_normalized": "do for",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 1144,
+      "Question": "At which award ceremony did Drake receive the Album of the Year and Best Hip-Hop Video awards while performing?",
+      "human_relation_normalized": "receive",
+      "pred_relation_normalized": "receive at",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 1274,
+      "Question": "During Ethiopia's total fertility rate of +5.693, which general election returned Meles to power?",
+      "human_relation_normalized": "returned",
+      "pred_relation_normalized": "during",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 1308,
+      "Question": "What was New York University's ranking in the US in terms of budget when it was ahead of Cornell and had a budget of $14.7 billion?",
+      "human_relation_normalized": "ranking",
+      "pred_relation_normalized": "was",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 1764,
+      "Question": "What professional cycling team was Cadel Evans a member of as he was progressing through the ranks?",
+      "human_relation_normalized": "member of",
+      "pred_relation_normalized": "was",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 1792,
+      "Question": "In which Scottish council area was Bathgate located after it was moved to West Lothian?",
+      "human_relation_normalized": "located",
+      "pred_relation_normalized": "was in",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 2167,
+      "Question": "Which Olympic event did Gunhild Hoffmeister win two silver and one bronze medal in at the Munich Olympic Games, becoming the only German distance runner to do so?",
+      "human_relation_normalized": "win",
+      "pred_relation_normalized": "win in",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 2277,
+      "Question": "During the area +142.52826446393738 of Smøla, who was the head of government?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "during",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 2279,
+      "Question": "Who was leading the State of Buenos Aires Estado de Buenos Aires when the Battle of Cepeda occurred?",
+      "human_relation_normalized": "was leading",
+      "pred_relation_normalized": "lead",
+      "strict_equal": false,
+      "gold_contains_pred": true,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 2759,
+      "Question": "During Gema Igual's time as Alcalde (PP) in Santander, Spain, who was the head of the government?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "during",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 2789,
+      "Question": "Where was the Nakhichevan Autonomous Soviet Socialist Republic located after being detached from the Sharur District?",
+      "human_relation_normalized": "located",
+      "pred_relation_normalized": "was",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 3114,
+      "Question": "What football club was Jay Bothroyd playing for when he earned his only cap for the England national team?",
+      "human_relation_normalized": "playing for",
+      "pred_relation_normalized": "was",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 3438,
+      "Question": "After Atlas Air had 4,056 employees and operated to more than 300 global destinations, what business did they purchase four additional 747-8 freighters from?",
+      "human_relation_normalized": "purchase",
+      "pred_relation_normalized": "purchase from",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 3464,
+      "Question": "Before Antti Rinne was appointed as Prime Minister, who did he replace as First Deputy Speaker of the Parliament?",
+      "human_relation_normalized": "replace",
+      "pred_relation_normalized": "appoint as",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 4141,
+      "Question": "Before the Sydney Olympics, what international team was Carla Overbeck representing with her 170 caps?",
+      "human_relation_normalized": "representing",
+      "pred_relation_normalized": "was",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 4829,
+      "Question": "During Rafael Correa's time at his employer Carlos Baca Mancheno, which university awarded him an honorary doctorate?",
+      "human_relation_normalized": "awarded",
+      "pred_relation_normalized": "during",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 4839,
+      "Question": "Who did P Chidambaram replace as Finance Minister when he was appointed Minister of Home Affairs?",
+      "human_relation_normalized": "replace",
+      "pred_relation_normalized": "replace as",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 4933,
+      "Question": "After his time with Bury, which football club did Tony McNamara join?",
+      "human_relation_normalized": "join",
+      "pred_relation_normalized": "after",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 4947,
+      "Question": "Prior to joining Atlante UTN, which club did Federico Mancinelli play for in his senior career?",
+      "human_relation_normalized": "play for",
+      "pred_relation_normalized": "prior to",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 5240,
+      "Question": "What Olympic sport was Herb Brooks coaching before his death in a car accident?",
+      "human_relation_normalized": "coaching",
+      "pred_relation_normalized": "was",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 5325,
+      "Question": "Who succeeded Dan Jiránek as the head of government in Kladno?",
+      "human_relation_normalized": "succeeded",
+      "pred_relation_normalized": "succeed as",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 5721,
+      "Question": "In which general election did Nurul Izzah Anwar get elected as Member of Parliament for Lembah Pantai while representing the Pakatan Harapan faction in Dewan Rakyat?",
+      "human_relation_normalized": "get elected",
+      "pred_relation_normalized": "do in",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 5747,
+      "Question": "What canton was Lugano located in after the political municipality of Lugano was created?",
+      "human_relation_normalized": "located in",
+      "pred_relation_normalized": "was",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 5867,
+      "Question": "When Elza Moreira de Sá Peixoto was a teacher, which football club was founded on 1 May in Manaus?",
+      "human_relation_normalized": "was founded",
+      "pred_relation_normalized": "was",
+      "strict_equal": false,
+      "gold_contains_pred": true,
+      "pred_contains_gold": false
+    }
+  ]
+}

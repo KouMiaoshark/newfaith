@@ -1,0 +1,3842 @@
+[
+  {
+    "Id": 18244,
+    "Question": "When Robin van Persie made 14 appearances for the Netherlands U21 during his senior career at Feyenoord start date?",
+    "relation": "When made 14 appearances for the during his at date",
+    "Relation": "made appearances for",
+    "model_rela": "When made 14 appearances for the Netherlands U21 during his senior career at start date",
+    "solu1_model_rela":"made appearances for"
+  },
+  {
+    "Id": 18245,
+    "Question": "When Robin van Persie made 14 appearances for the Netherlands U21 during his senior career at Feyenoord end date?",
+    "relation": "When made 14 appearances for the during his career at",
+    "Relation": "made appearances for",
+    "model_rela": "When made 14 appearances for the Netherlands U21 during his career at date",
+    "solu1_model_rela":"made appearances for"
+  },
+  {
+    "Id": 18246,
+    "Question": "When Stephen Timms was the Chief Secretary to the Treasury  start date?",
+    "relation": "When was the Chief start date",
+    "Relation": "was the Chief Secretary to the Treasury",
+    "model_rela": "When was the Chief Secretary to the Treasury start date",
+    "solu1_model_rela":"was the Chief Secretary to the Treasury"
+  },
+  {
+    "Id": 18247,
+    "Question": "When Stephen Timms was the Chief Secretary to the Treasury  end date?",
+    "relation": "When was the Chief end date",
+    "Relation": "was the Chief Secretary to the Treasury",
+    "model_rela": "When was the Chief Secretary to the Treasury end date",
+    "solu1_model_rela":"was the Chief Secretary to the Treasury"
+  },
+  {
+    "Id": 18248,
+    "Question": "When Ahmad Reza Abedzadeh made 78 appearances and played in the FIFA World Cup?",
+    "relation": "When 78 and played in the",
+    "Relation": "made appearances",
+    "model_rela": "When made 78 appearances and played in the",
+    "solu1_model_rela":"made 78 appearances and played in"
+  },
+  {
+    "Id": 18249,
+    "Question": "When Mike Ryan (catcher) played?",
+    "relation": "When () played",
+    "Relation": "played",
+    "model_rela": "When (catcher) played",
+    "solu1_model_rela":"played"
+  },
+  {
+    "Id": 18250,
+    "Question": "When Christopher Martins Pereira was part of Olympique Lyonnais start date?",
+    "relation": "When was of date",
+    "Relation": "was part of",
+    "model_rela": "When was part of start date",
+    "solu1_model_rela":"was part of"
+  },
+  {
+    "Id": 18251,
+    "Question": "When Christopher Martins Pereira was part of Olympique Lyonnais end date?",
+    "relation": "When was part of date",
+    "Relation": "was part of",
+    "model_rela": "When was of date",
+    "solu1_model_rela":"was part of"
+  },
+  {
+    "Id": 18252,
+    "Question": "When the Soviet battleship Novorossiysk exploded in Sevastopol Bay?",
+    "relation": null,
+    "Relation": "exploded",
+    "model_rela": "When the battleship exploded in",
+    "solu1_model_rela":"exploded in"
+  },
+  {
+    "Id": 18253,
+    "Question": "When Hal Smith became a World Series champion?",
+    "relation": "When became a",
+    "Relation": "became a World Series champion",
+    "model_rela": "When became a",
+    "solu1_model_rela":"became a World Series champion"
+  },
+  {
+    "Id": 18254,
+    "Question": "When Croatia adopted the euro and joined the Schengen Area?",
+    "relation": "When Croatia adopted the and joined the",
+    "Relation": "adopted the euro and joined the Schengen Area",
+    "model_rela": "When adopted the and joined the",
+    "solu1_model_rela":"adopted the euro"
+  },
+  {
+    "Id": 18255,
+    "Question": "When the Whalers won the National Challenge Cup final 8-5 on aggregate?",
+    "relation": "When the won the National Challenge Cup final 8-5 on aggregate",
+    "Relation": "won the National Challenge Cup final",
+    "model_rela": "When the won the on aggregate",
+    "solu1_model_rela":"won"
+  },
+  {
+    "Id": 18256,
+    "Question": "When Arnaud Clément's highest ranking was No. 8?",
+    "relation": "When highest ranking was No 8",
+    "Relation": "highest ranking was",
+    "model_rela": "When highest ranking was No 8",
+    "solu1_model_rela":"was ranked No. 8"
+  },
+  {
+    "Id": 18257,
+    "Question": "When Franca Dominici was born in Bologna, Italy?",
+    "relation": "When was born in",
+    "Relation": "was born",
+    "model_rela": "When was born in",
+    "solu1_model_rela":"was born in"
+  },
+  {
+    "Id": 18258,
+    "Question": "When Hangzhou located in Chekiang Province was occupied by the Republic of China start date?",
+    "relation": "When located in was occupied by the start date",
+    "Relation": "was occupied by",
+    "model_rela": "When located in was occupied by the start date",
+    "solu1_model_rela":"was located in"
+  },
+  {
+    "Id": 18259,
+    "Question": "When Hangzhou located in Chekiang Province was occupied by the Republic of China end date?",
+    "relation": "When located in was occupied by the Republic of China end date",
+    "Relation": "was occupied by",
+    "model_rela": "When located in was occupied by the end date",
+    "solu1_model_rela":"was located in"
+  },
+  {
+    "Id": 18260,
+    "Question": "When league football resumed?",
+    "relation": null,
+    "Relation": "resumed",
+    "model_rela": "When resumed",
+    "solu1_model_rela":"sports season"
+  },
+  {
+    "Id": 18261,
+    "Question": "When Michael Brand succeeded Martin Hohmann as Member of the Bundestag for Hesse (Fulda;) start date?",
+    "relation": "When succeeded as Member of the for Hesse (;) date",
+    "Relation": "succeeded as Member of the Bundestag",
+    "model_rela": "When succeeded Martin Hohmann as Member of the for (Fulda start date",
+    "solu1_model_rela":"succeeded as Member of"
+  },
+  {
+    "Id": 18262,
+    "Question": "When Michael Brand succeeded Martin Hohmann as Member of the Bundestag for Hesse (Fulda;) end date?",
+    "relation": "When succeeded as of the for Hesse (;)",
+    "Relation": "succeeded as Member of the Bundestag",
+    "model_rela": "When succeeded Martin Hohmann as Member of the for (Fulda end date",
+    "solu1_model_rela":"succeeded as Member of"
+  },
+  {
+    "Id": 18263,
+    "Question": "When The Gambia gained independence and the Senegambia Confederation was dissolved?",
+    "relation": "When The Gambia gained independence and the was dissolved",
+    "Relation": "gained independence and the Confederation was dissolved",
+    "model_rela": "When The Gambia gained independence and the was dissolved",
+    "solu1_model_rela":"was dissolved"
+  },
+  {
+    "Id": 18264,
+    "Question": "When Victoria Azarenka's singles highest ranking was No. 1?",
+    "relation": "When highest ranking was No 1",
+    "Relation": "had singles highest ranking",
+    "model_rela": "When singles highest ranking was No 1",
+    "solu1_model_rela":"was No. 1"
+  },
+  {
+    "Id": 18265,
+    "Question": "When the University of Arizona had 38,528 enrolled students and a $1.2 billion endowment?",
+    "relation": "When the had 38528 enrolled and a $12 endowment",
+    "Relation": "had enrolled students and endowment",
+    "model_rela": "When the had 38528 enrolled students and a $14 billion endowment",
+    "solu1_model_rela":"was enrolled in"
+  },
+  {
+    "Id": 18266,
+    "Question": "When Neustrelitz country became part of the Soviet occupation zone of Germany start date?",
+    "relation": "When country became part of the of start date",
+    "Relation": "became part of",
+    "model_rela": "When country became part of the of start date",
+    "solu1_model_rela":"became part of"
+  },
+  {
+    "Id": 18267,
+    "Question": "When Neustrelitz country became part of the Soviet occupation zone of Germany end date?",
+    "relation": "When country became part of the of end date",
+    "Relation": "became part of",
+    "model_rela": "When country became part of the of end date",
+    "solu1_model_rela":"became part of"
+  },
+  {
+    "Id": 18268,
+    "Question": "When Bryn Jones joined Norwich City? start date?",
+    "relation": "When joined start date",
+    "Relation": "joined",
+    "model_rela": "When date",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18269,
+    "Question": "When Bryn Jones joined Norwich City? end date?",
+    "relation": "When joined date",
+    "Relation": "joined",
+    "model_rela": "When",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18270,
+    "Question": "When Ricardo Villa finished his 18-year senior career start date?",
+    "relation": "When finished his 18-year senior career start date",
+    "Relation": "finished senior career",
+    "model_rela": "When finished his 18-year career date",
+    "solu1_model_rela":"finished"
+  },
+  {
+    "Id": 18271,
+    "Question": "When Ricardo Villa finished his 18-year senior career end date?",
+    "relation": "When finished his 18-year senior career date",
+    "Relation": "finished senior career",
+    "model_rela": "When finished his 18-year career date",
+    "solu1_model_rela":"finished"
+  },
+  {
+    "Id": 18272,
+    "Question": "When Tom Cartwright played his last Test match against South Africa?",
+    "relation": "When played his last Test match against",
+    "Relation": "played Test match",
+    "model_rela": "When played his last Test match against",
+    "solu1_model_rela":"played his last Test match against"
+  },
+  {
+    "Id": 18273,
+    "Question": "When the Constitution of the People's Republic was introduced?",
+    "relation": "When the of the was introduced",
+    "Relation": "was introduced",
+    "model_rela": "When the was introduced",
+    "solu1_model_rela":"was introduced"
+  },
+  {
+    "Id": 18274,
+    "Question": "When was Paul Erdős alive?",
+    "relation": "When was",
+    "Relation": "was alive",
+    "model_rela": "When was alive",
+    "solu1_model_rela":"was alive"
+  },
+  {
+    "Id": 18275,
+    "Question": "When Paolo Emilio Taviani was the Prime Minister of Italy?",
+    "relation": null,
+    "Relation": "was the Prime Minister of",
+    "model_rela": "When was the",
+    "solu1_model_rela":"was the Prime Minister of"
+  },
+  {
+    "Id": 18276,
+    "Question": "When the percentage of water in the city area of Corsicana, Texas was +4.3794?",
+    "relation": "When the percentage of water in of was +43794",
+    "Relation": "percentage of water in",
+    "model_rela": "When the percentage of water in the city area of was +37694",
+    "solu1_model_rela":"was the percentage of water in"
+  },
+  {
+    "Id": 18277,
+    "Question": "When Bruno Bianchi finished fifth in the Dragon with the Italian boat Ausonia?",
+    "relation": "When fifth in the Dragon with the boat",
+    "Relation": "finished fifth in",
+    "model_rela": "When finished fifth in the Dragon with the",
+    "solu1_model_rela":"finished fifth in"
+  },
+  {
+    "Id": 18278,
+    "Question": "When B.D. Sharma served as the 7th governor of Madhya Pradesh start date?",
+    "relation": null,
+    "Relation": "served as the governor of",
+    "model_rela": "When served as the 7th governor of start date",
+    "solu1_model_rela":"served as the 7th governor of"
+  },
+  {
+    "Id": 18279,
+    "Question": "When B.D. Sharma served as the 7th governor of Madhya Pradesh end date?",
+    "relation": "When BD Sharma served as the 7th of Madhya Pradesh end date",
+    "Relation": "served as the governor of",
+    "model_rela": "When served as the 7th governor of end date",
+    "solu1_model_rela":"served as the 7th governor of"
+  },
+  {
+    "Id": 18280,
+    "Question": "When Rodrygo made his senior debut for Brazil at age 18?",
+    "relation": "When made his senior debut for at age",
+    "Relation": "made his senior debut for",
+    "model_rela": "When made his debut for at age 18",
+    "solu1_model_rela":"made his senior debut for"
+  },
+  {
+    "Id": 18281,
+    "Question": "When Abby Wambach became the first American woman in ten years to win FIFA World Player of the Year?",
+    "relation": "When became the in years",
+    "Relation": "became the FIFA World Player of the Year",
+    "model_rela": "When became the first American woman in ten years to win",
+    "solu1_model_rela":"became the first American woman in ten years to win FIFA World Player of the Year"
+  },
+  {
+    "Id": 18282,
+    "Question": "When Giannis Pathiakakis recruited Milen Petkov for AEK Athens?",
+    "relation": "When recruited for",
+    "Relation": "recruited for",
+    "model_rela": "When recruited for",
+    "solu1_model_rela":" recruited for"
+  },
+  {
+    "Id": 18283,
+    "Question": "When Steve McClaren left his second stint with Twente on unsatisfactory terms?",
+    "relation": "When his with on unsatisfactory",
+    "Relation": "left",
+    "model_rela": "When his on",
+    "solu1_model_rela":"left his second stint with"
+  },
+  {
+    "Id": 18284,
+    "Question": "When Greenock Morton F.C. finished second and won the Scottish Cup during the 1916–17 season?",
+    "relation": "When finished and won the during the 1916–17 season",
+    "Relation": "finished second and won",
+    "model_rela": "When finished second and won the during the 1916–17 season",
+    "solu1_model_rela":"finished second"
+  },
+  {
+    "Id": 18285,
+    "Question": "When the kingdom of Bulgaria was established in the country of Pernik start date?",
+    "relation": "When the was established in the country of start date",
+    "Relation": "was established in",
+    "model_rela": "When the was established in the country of start date",
+    "solu1_model_rela":"was established in"
+  },
+  {
+    "Id": 18286,
+    "Question": "When the kingdom of Bulgaria was established in the country of Pernik end date?",
+    "relation": "When the was established in the country of end date",
+    "Relation": "was established in",
+    "model_rela": "When the was established in the country of end date",
+    "solu1_model_rela":"was established in"
+  },
+  {
+    "Id": 18287,
+    "Question": "When Company rule in India ended start date?",
+    "relation": "When ended start date",
+    "Relation": "ended",
+    "model_rela": "When rule in India ended start date",
+    "solu1_model_rela":"declared start date"
+  },
+  {
+    "Id": 18288,
+    "Question": "When Company rule in India ended end date?",
+    "relation": "When ended end date",
+    "Relation": "ended",
+    "model_rela": "When rule in India ended end date",
+    "solu1_model_rela":"declared end date"
+  },
+  {
+    "Id": 18289,
+    "Question": "When the U.S. declared war and the crew of the SMS Cormoran was prompted to scuttle her?",
+    "relation": "When the US declared war and the crew of the was prompted to scuttle her",
+    "Relation": "declared war and prompted to scuttle",
+    "model_rela": "When the US declared war and the crew of the was prompted to scuttle her",
+    "solu1_model_rela":"was prompted to scuttle"
+  },
+  {
+    "Id": 18290,
+    "Question": "When Nirmala Srivastava passed away?",
+    "relation": "When passed away",
+    "Relation": "passed away",
+    "model_rela": "When passed away",
+    "solu1_model_rela":"passed away"
+  },
+  {
+    "Id": 18291,
+    "Question": "When Nevada became an organized United States territory?",
+    "relation": "When became an organized United States",
+    "Relation": "became an organized territory",
+    "model_rela": "When became an organized",
+    "solu1_model_rela":"became an organized United States territory"
+  },
+  {
+    "Id": 18292,
+    "Question": "When Alexander Volkov achieved a fourth-round result in a Grand Slam singles event?",
+    "relation": "When achieved a fourth-round result in a event",
+    "Relation": "achieved a result in",
+    "model_rela": "When achieved a fourth-round result in a",
+    "solu1_model_rela":" achieved a fourth-round result in"
+  },
+  {
+    "Id": 18293,
+    "Question": "When Benjamin Wittes was born?",
+    "relation": "When was born",
+    "Relation": "was born",
+    "model_rela": "When was born",
+    "solu1_model_rela":"was born"
+  },
+  {
+    "Id": 18294,
+    "Question": "When President Benigno Aquino III's term started?",
+    "relation": "When President",
+    "Relation": "term started",
+    "model_rela": "When President term started",
+    "solu1_model_rela":"started"
+  },
+  {
+    "Id": 18295,
+    "Question": "When Karl Moritz Schumann was the curator of the Botanisches Museum in Berlin-Dahlem?",
+    "relation": "When was the curator of the in",
+    "Relation": "was the curator of",
+    "model_rela": "When was the curator of the in",
+    "solu1_model_rela":"was the curator of"
+  },
+  {
+    "Id": 18296,
+    "Question": "When Tübingen was seen from above in the Swabian dialect of Tübingen Dibenga?",
+    "relation": "When was seen from above in the Swabian dialect of Tübingen",
+    "Relation": "seen from above",
+    "model_rela": "When was seen from above in the of",
+    "solu1_model_rela":"was seen from above in"
+  },
+  {
+    "Id": 18297,
+    "Question": "When Lusia Harris attended Delta State start date?",
+    "relation": "When attended date",
+    "Relation": "attended",
+    "model_rela": "When attended start date",
+    "solu1_model_rela":"attended"
+  },
+  {
+    "Id": 18298,
+    "Question": "When Lusia Harris attended Delta State end date?",
+    "relation": "When atted end date",
+    "Relation": "attended",
+    "model_rela": "When attended date",
+    "solu1_model_rela":"attended"
+  },
+  {
+    "Id": 18299,
+    "Question": "When Gliwice was part of the Kingdom of Bohemia start date?",
+    "relation": "When was part of the start date",
+    "Relation": "was part of",
+    "model_rela": "When was part of the start date",
+    "solu1_model_rela":"was part of"
+  },
+  {
+    "Id": 18300,
+    "Question": "When Gliwice was part of the Kingdom of Bohemia end date?",
+    "relation": "When was part of the end date",
+    "Relation": "was part of",
+    "model_rela": "When was part of the end date",
+    "solu1_model_rela":"was part of"
+  },
+  {
+    "Id": 18301,
+    "Question": "When ITN'sfinancial reporting period?",
+    "relation": "When sfinancial reporting period",
+    "Relation": "financial reporting period",
+    "model_rela": "When",
+    "solu1_model_rela":"reporting period"
+  },
+  {
+    "Id": 18302,
+    "Question": "When was the Tham Luang cave rescue?",
+    "relation": "When was the",
+    "Relation": "was",
+    "model_rela": "When was the cave rescue",
+    "solu1_model_rela":"was the"
+  },
+  {
+    "Id": 18303,
+    "Question": "When Ench's place of publication was moved to Sweden?",
+    "relation": null,
+    "Relation": "place of publication was moved to",
+    "model_rela": "When was moved to",
+    "solu1_model_rela":"was moved to"
+  },
+  {
+    "Id": 18304,
+    "Question": "When Elena Rybakina, the first player from Kazakhstan to win a title, got her first win?",
+    "relation": "When the player from a title her",
+    "Relation": "got first win",
+    "model_rela": "When the first player from to win a title got her first win",
+    "solu1_model_rela":"got her first win"
+  },
+  {
+    "Id": 18305,
+    "Question": "When Leipzig was a major publishing center?",
+    "relation": "When was a major center",
+    "Relation": "was a publishing center",
+    "model_rela": "When was a",
+    "solu1_model_rela":"was a major publishing center"
+  },
+  {
+    "Id": 18306,
+    "Question": "When the murder of George Floyd caused protests in a US city?",
+    "relation": "When the murder of caused in a US city",
+    "Relation": "caused protests",
+    "model_rela": "When the murder of caused in a US city",
+    "solu1_model_rela":"made protests in"
+  },
+  {
+    "Id": 18307,
+    "Question": "When Zhou Xiaoyan caused a regime change by following Premier Zhou Enlai's directive to teach voice at Shanghai Conservatory of Music?",
+    "relation": "When caused a by following Premier directive to teach voice at",
+    "Relation": "caused a regime change",
+    "model_rela": "When caused a regime change by following Premier Zhou Enlai directive to teach voice at",
+    "solu1_model_rela":"caused a regime change by following"
+  },
+  {
+    "Id": 18308,
+    "Question": "When The Rev was published in Austria?",
+    "relation": null,
+    "Relation": "was published",
+    "model_rela": "When was in",
+    "solu1_model_rela":"was published in"
+  },
+  {
+    "Id": 18309,
+    "Question": "When Victoria Prentis was elected Member of Parliament for Banbury?",
+    "relation": "When was elected Member of Parliament for Banbury",
+    "Relation": "was elected Member of Parliament",
+    "model_rela": "When was elected Member of Parliament for",
+    "solu1_model_rela":"was elected Member of Parliament for"
+  },
+  {
+    "Id": 18310,
+    "Question": "When Uruguay declared independence from Brazil and adopted its current constitution?",
+    "relation": "When Uruguay declared independence from Brazil and adopted its current constitution",
+    "Relation": "declared independence",
+    "model_rela": "When declared independence from and adopted its",
+    "solu1_model_rela":"declared independence from"
+  },
+  {
+    "Id": 18311,
+    "Question": "When Ben Carson gained fame for leading a team of surgeons to separate conjoined twins?",
+    "relation": "When gained for of to separate",
+    "Relation": "gained fame",
+    "model_rela": "When gained fame for leading a team of surgeons to separate conjoined twins",
+    "solu1_model_rela":"won fame for leading"
+  },
+  {
+    "Id": 18312,
+    "Question": "When Mxolisi Dukwana was the Premier of the Free State?",
+    "relation": null,
+    "Relation": "was the Premier",
+    "model_rela": "When was the Premier of the",
+    "solu1_model_rela":"was the Premier of"
+  },
+  {
+    "Id": 18313,
+    "Question": "When John Alexander received the Medal of the Order of Australia?",
+    "relation": "When received the",
+    "Relation": "received the Medal",
+    "model_rela": "When received the of",
+    "solu1_model_rela":"received the Medal of the Order of Australia"
+  },
+  {
+    "Id": 18314,
+    "Question": "When Ottmar Hitzfeld had 66 senior appearances?",
+    "relation": "When had senior appearances",
+    "Relation": "had senior appearances",
+    "model_rela": "When had 66 senior appearances",
+    "solu1_model_rela":"had"
+  },
+  {
+    "Id": 18315,
+    "Question": "When German submarine U-333 was sunk in the English Channel by British warships with a Squid?",
+    "relation": "When German submarine was in the English Channel by British warships with a",
+    "Relation": "was sunk by",
+    "model_rela": "When was in the by British warships with a Squid",
+    "solu1_model_rela":"was sunk in the English Channel by British warships with a Squid"
+  },
+  {
+    "Id": 18316,
+    "Question": "When Fiorenzo Magni was with the Voluntary Military Forces of National Security?",
+    "relation": "When was with the Voluntary Military Forces of National Security",
+    "Relation": "was with",
+    "model_rela": "When Fiorenzo was with the",
+    "solu1_model_rela":"was with"
+  },
+  {
+    "Id": 18317,
+    "Question": "When John Hollins made over 500 appearances for Chelsea Football Club start date?",
+    "relation": "When made over appearances for start date",
+    "Relation": "made appearances for",
+    "model_rela": "When over appearances for date",
+    "solu1_model_rela":"made appearances for"
+  },
+  {
+    "Id": 18318,
+    "Question": "When John Hollins made over 500 appearances for Chelsea Football Club end date?",
+    "relation": "When made over appearances for date",
+    "Relation": "made appearances for",
+    "model_rela": "When made over 500 appearances for date",
+    "solu1_model_rela":"made appearances for"
+  },
+  {
+    "Id": 18319,
+    "Question": "When Eleonora Sears reached the finals during her Grand Slam singles career?",
+    "relation": "When reached the finals during her singles career",
+    "Relation": "reached the finals during",
+    "model_rela": "When reached the finals during her Grand Slam singles career",
+    "solu1_model_rela":" reached the finals during"
+  },
+  {
+    "Id": 18320,
+    "Question": "When Qaroon Thapar curated an exhibition called \"Privately Ara\" in Mumbai featuring 22 K.H. Ara works?",
+    "relation": "When Qaroon curated an in 22 works",
+    "Relation": "curated an exhibition called",
+    "model_rela": "When curated an exhibition calledPrivately Ara in Mumbai featuring 22 KH Ara works",
+    "solu1_model_rela":"curated"
+  },
+  {
+    "Id": 18321,
+    "Question": "When Maria Tallchief received an award from the National Women's Hall of Fame?",
+    "relation": "When received an from the",
+    "Relation": "received an award from",
+    "model_rela": "When received an from the",
+    "solu1_model_rela":"received an award from"
+  },
+  {
+    "Id": 18322,
+    "Question": "When Gerry Alexander made his Test debut (cap 96) against England?",
+    "relation": "When made his Test debut (cap 96) against England",
+    "Relation": "made his Test debut against",
+    "model_rela": "When made his (cap 96) against",
+    "solu1_model_rela":"made his Test debut against England"
+  },
+  {
+    "Id": 18323,
+    "Question": "When Robinhood Markets transferred $4 billion from FTX?",
+    "relation": null,
+    "Relation": "transferred from",
+    "model_rela": "When transferred $4 billion from",
+    "solu1_model_rela":"succeeded from"
+  },
+  {
+    "Id": 18324,
+    "Question": "When Steve Redgrave competed in the World Championships in Copenhagen?",
+    "relation": "When in the in",
+    "Relation": "competed in",
+    "model_rela": "When competed in the World Championships in",
+    "solu1_model_rela":"competed in"
+  },
+  {
+    "Id": 18325,
+    "Question": "When the Mexican Revolution occurred start date?",
+    "relation": "When the occurred start date",
+    "Relation": "occurred start date",
+    "model_rela": "When the occurred start date",
+    "solu1_model_rela":"belonged start date"
+  },
+  {
+    "Id": 18326,
+    "Question": "When the Mexican Revolution occurred end date?",
+    "relation": "When the occurred end date",
+    "Relation": "occurred end date",
+    "model_rela": "When the occurred end date",
+    "solu1_model_rela":"belonged end date"
+  },
+  {
+    "Id": 18327,
+    "Question": "When Gambia, Ghana, Guinea, Nigeria, and Sierra Leone sent peacekeepers to intervene in the First Liberian Civil War?",
+    "relation": null,
+    "Relation": "sent peacekeepers to",
+    "model_rela": "When Gambia Ghana Guinea Nigeria and sent peacekeepers to intervene in the",
+    "solu1_model_rela":"sent peacekeepers to intervene in"
+  },
+  {
+    "Id": 18328,
+    "Question": "When Maria Verschoor won the European Championship Amstelveen and received the Knight of the Order of Orange-Nassau?",
+    "relation": "When Maria won the European Championship Amstelveen and received the",
+    "Relation": "won and received",
+    "model_rela": "When won the European Championship Amstelveen and received the",
+    "solu1_model_rela":"won"
+  },
+  {
+    "Id": 18329,
+    "Question": "When Dani Alves won the FIFA Confederations Cup in South Africa?",
+    "relation": "When the in",
+    "Relation": "won",
+    "model_rela": "When won the in",
+    "solu1_model_rela":"won"
+  },
+  {
+    "Id": 18330,
+    "Question": "When St Andrews object held the role of a Scottish civil parish?",
+    "relation": "When object held the role of a Scottish",
+    "Relation": "held the role of",
+    "model_rela": "When object held the role of a",
+    "solu1_model_rela":"held the role of"
+  },
+  {
+    "Id": 18331,
+    "Question": "When Zoltán Czibor joined AS Roma?",
+    "relation": "When joined",
+    "Relation": "joined",
+    "model_rela": "When joined",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18332,
+    "Question": "When Nottingham Forest signed David Needham?",
+    "relation": "When signed",
+    "Relation": "signed",
+    "model_rela": "When signed",
+    "solu1_model_rela":"signed"
+  },
+  {
+    "Id": 18333,
+    "Question": "When Bruno Metsu took the job at Al Wasl?",
+    "relation": "When the at",
+    "Relation": "took the job at",
+    "model_rela": "When took the job at",
+    "solu1_model_rela":"took the job at"
+  },
+  {
+    "Id": 18334,
+    "Question": "When Alan Pardew took the helm at Newcastle United?",
+    "relation": "When the at",
+    "Relation": "took the helm at",
+    "model_rela": "When took the at",
+    "solu1_model_rela":"took the helm at"
+  },
+  {
+    "Id": 18335,
+    "Question": "When the largest observed tsunami hit several Asian countries?",
+    "relation": "When the hit several",
+    "Relation": "hit",
+    "model_rela": "When the hit several",
+    "solu1_model_rela":"hit several Asian countries"
+  },
+  {
+    "Id": 18336,
+    "Question": "When Fort Wadsworth remained the longest continually garrisoned military installation in the United States?",
+    "relation": "When remained the continually military installation in the United States",
+    "Relation": "remained",
+    "model_rela": "When remained the longest continually garrisoned military installation in the United States",
+    "solu1_model_rela":"remained the longest continually garrisoned military installation in the United States"
+  },
+  {
+    "Id": 18337,
+    "Question": "When was the US Census conducted?",
+    "relation": "When was the US conducted",
+    "Relation": "was conducted",
+    "model_rela": "When was the conducted",
+    "solu1_model_rela":"was conducted"
+  },
+  {
+    "Id": 18338,
+    "Question": "When Deng Liqun's involvement in the Party's propaganda work during the 1980s?",
+    "relation": "When involvement in during the",
+    "Relation": "involvement in",
+    "model_rela": "When involvement in the during the 1980s",
+    "solu1_model_rela":"was involved in"
+  },
+  {
+    "Id": 18339,
+    "Question": "When Orenburg was a part of the Russian Empire?",
+    "relation": "When was a part of the",
+    "Relation": "was a part of",
+    "model_rela": "When was a part of the",
+    "solu1_model_rela":"was a part of"
+  },
+  {
+    "Id": 18340,
+    "Question": "When Joel Villanueva became Senate Majority Leader?",
+    "relation": "When became Senate Majority Leader",
+    "Relation": "became",
+    "model_rela": "When became Senate Majority Leader",
+    "solu1_model_rela":"became Senate Majority Leader"
+  },
+  {
+    "Id": 18341,
+    "Question": "When the first European Games were held start date?",
+    "relation": "When the were held start date",
+    "Relation": "were held",
+    "model_rela": "When the first were date",
+    "solu1_model_rela":"was held start date"
+  },
+  {
+    "Id": 18342,
+    "Question": "When the first European Games were held end date?",
+    "relation": "When the first were held end date",
+    "Relation": "were held",
+    "model_rela": "When the first were date",
+    "solu1_model_rela":"held end date"
+  },
+  {
+    "Id": 18343,
+    "Question": "When Berhanu Nega was in office as Mayor-elect of Addis Ababa start date?",
+    "relation": "When was in office as Mayor-elect of start date",
+    "Relation": "was in office as",
+    "model_rela": "When was in office as Mayor-elect of start date",
+    "solu1_model_rela":"was in office as"
+  },
+  {
+    "Id": 18344,
+    "Question": "When Berhanu Nega was in office as Mayor-elect of Addis Ababa end date?",
+    "relation": "When was in office as Mayor-elect of end date",
+    "Relation": "was Mayor-elect of",
+    "model_rela": "When was in office as Mayor-elect of end date",
+    "solu1_model_rela":"was in office as"
+  },
+  {
+    "Id": 18345,
+    "Question": "When Gene Mako's highest ranking according to A. Wallis Myers was 8?",
+    "relation": "When highest ranking according to was 8",
+    "Relation": "highest ranking according to",
+    "model_rela": "When highest ranking according to was 8",
+    "solu1_model_rela":"was highest ranking"
+  },
+  {
+    "Id": 18346,
+    "Question": "When Gérard Tremblay died in Montreal, Quebec, Canada?",
+    "relation": "When died in",
+    "Relation": "died in",
+    "model_rela": "When died in Canada",
+    "solu1_model_rela":"died in"
+  },
+  {
+    "Id": 18347,
+    "Question": "When the Treaty of London was signed?",
+    "relation": null,
+    "Relation": "was signed",
+    "model_rela": "When the was signed",
+    "solu1_model_rela":"was signed"
+  },
+  {
+    "Id": 18348,
+    "Question": "When Princess Sophia of Gloucester was born in Mayfair Middlesex?",
+    "relation": "When was born in",
+    "Relation": "was born in",
+    "model_rela": "When was born in",
+    "solu1_model_rela":"was born in"
+  },
+  {
+    "Id": 18349,
+    "Question": "When Phyllis Fox worked for Newark College of Engineering start date?",
+    "relation": "When for start date",
+    "Relation": "worked for",
+    "model_rela": "When worked for start date",
+    "solu1_model_rela":"worked for"
+  },
+  {
+    "Id": 18350,
+    "Question": "When Phyllis Fox worked for Newark College of Engineering end date?",
+    "relation": "When worked for date",
+    "Relation": "worked for",
+    "model_rela": "When worked for date",
+    "solu1_model_rela":"worked for"
+  },
+  {
+    "Id": 18351,
+    "Question": "When Dennis Rommedahl made his debut for PSV Eindhoven in the 1–0 home loss against Heerenveen on 22 March?",
+    "relation": "When his debut for in the loss against on 22 March",
+    "Relation": "made debut for",
+    "model_rela": "When made his debut for in the 1–0 home loss against on 22 March",
+    "solu1_model_rela":"made his debut for"
+  },
+  {
+    "Id": 18352,
+    "Question": "When Giovanni Gioviale made more than 50 recordings in the United States?",
+    "relation": "When made more than 50 recordings in the",
+    "Relation": "made recordings in",
+    "model_rela": "When made more than 50 recordings in the United States",
+    "solu1_model_rela":"made more than 50 recordings in the United States"
+  },
+  {
+    "Id": 18353,
+    "Question": "When was Tim Henman's career?",
+    "relation": "When was career",
+    "Relation": "was career",
+    "model_rela": "When was career",
+    "solu1_model_rela":"was career"
+  },
+  {
+    "Id": 18354,
+    "Question": "When Mike Denness became a Wisden Cricketer of the Year?",
+    "relation": "When became a of the Year",
+    "Relation": "became a Wisden Cricketer of the Year",
+    "model_rela": "When became a",
+    "solu1_model_rela":"became a Wisden Cricketer of the Year"
+  },
+  {
+    "Id": 18355,
+    "Question": "When Veliko Tarnovo was an old capital of Bulgaria?",
+    "relation": "When was an old capital of",
+    "Relation": "was an old capital of",
+    "model_rela": "When was an of",
+    "solu1_model_rela":"was an old capital of Bulgaria"
+  },
+  {
+    "Id": 18356,
+    "Question": "When Pskov became a country start date?",
+    "relation": "When became a country start date",
+    "Relation": "became a country start date",
+    "model_rela": "When became a country start date",
+    "solu1_model_rela":"became a country start date"
+  },
+  {
+    "Id": 18357,
+    "Question": "When Pskov became a country end date?",
+    "relation": "When became a country end date",
+    "Relation": "became a country end date",
+    "model_rela": "When became a country end date",
+    "solu1_model_rela":"became a country end date"
+  },
+  {
+    "Id": 18358,
+    "Question": "When Michael Bevan competed in the Commonwealth Games where cricket was added as an event for the first time?",
+    "relation": "When in the where was as an for the",
+    "Relation": "competed in the Commonwealth Games",
+    "model_rela": "When in the where was as an event for the",
+    "solu1_model_rela":"competed in"
+  },
+  {
+    "Id": 18359,
+    "Question": "When Laurie Baker acquired citizenship with the Dominion of India start date?",
+    "relation": "When acquired citizenship with the start date",
+    "Relation": "acquired citizenship with",
+    "model_rela": "When acquired citizenship with the start date",
+    "solu1_model_rela":"acquired citizenship with"
+  },
+  {
+    "Id": 18360,
+    "Question": "When Laurie Baker acquired citizenship with the Dominion of India end date?",
+    "relation": "When acquired citizenship with the end date",
+    "Relation": "acquired citizenship with",
+    "model_rela": "When acquired citizenship with the end date",
+    "solu1_model_rela":"acquired citizenship with"
+  },
+  {
+    "Id": 18361,
+    "Question": "When AZT was approved by the US FDA for HIV/AIDS treatment?",
+    "relation": "When was approved by the US FDA for HIV/AIDS treatment",
+    "Relation": "was approved by the US FDA for",
+    "model_rela": "When was by the for",
+    "solu1_model_rela":"was approved by"
+  },
+  {
+    "Id": 18362,
+    "Question": "When Mehdi Mahdavikia was appointed as AFC Grassroots Ambassador?",
+    "relation": "When was appointed as AFC Grassroots Ambassador",
+    "Relation": "was appointed as AFC Grassroots Ambassador",
+    "model_rela": "When was appointed as",
+    "solu1_model_rela":"was appointed as"
+  },
+  {
+    "Id": 18363,
+    "Question": "When Sabine Lisicki achieved her career-high world ranking?",
+    "relation": "When achieved her",
+    "Relation": "achieved career-high world ranking",
+    "model_rela": "When achieved her career-high",
+    "solu1_model_rela":" achieved career-high world ranking"
+  },
+  {
+    "Id": 18364,
+    "Question": "When Tashkent was destroyed?",
+    "relation": "When was destroyed",
+    "Relation": "was destroyed",
+    "model_rela": "When was destroyed",
+    "solu1_model_rela":"was destroyed"
+  },
+  {
+    "Id": 18365,
+    "Question": "When Juan Sinforiano Bogarín passed away?",
+    "relation": "When passed away",
+    "Relation": "passed away",
+    "model_rela": "When passed away",
+    "solu1_model_rela":"passed away"
+  },
+  {
+    "Id": 18366,
+    "Question": "When Jack Kramer died at 77 in Metairie, Louisiana?",
+    "relation": "When died at 77 in",
+    "Relation": "died",
+    "model_rela": "When died at 77 in",
+    "solu1_model_rela":"died at"
+  },
+  {
+    "Id": 18367,
+    "Question": "When Walt Disney World was founded?",
+    "relation": "When was founded",
+    "Relation": "was founded",
+    "model_rela": "When was founded",
+    "solu1_model_rela":"was founded"
+  },
+  {
+    "Id": 18368,
+    "Question": "When Benito Juárez's tenure as President of the Supreme Court ended start date?",
+    "relation": "When tenure as President of the Supreme Court ended start date",
+    "Relation": "tenure ended start date",
+    "model_rela": "When tenure as President of the Supreme Court ended start date",
+    "solu1_model_rela":"declared tenure as President of"
+  },
+  {
+    "Id": 18369,
+    "Question": "When Benito Juárez's tenure as President of the Supreme Court ended end date?",
+    "relation": "When tenure as President of the Supreme Court ended end date",
+    "Relation": "tenure ended end date",
+    "model_rela": "When tenure as President of the Supreme Court ended end date",
+    "solu1_model_rela":"declared tenure as President of"
+  },
+  {
+    "Id": 18370,
+    "Question": "When Ronnie O'Sullivan was made an Officer of the Order of the British Empire?",
+    "relation": "When was an",
+    "Relation": "was made an Officer",
+    "model_rela": "When was made an of",
+    "solu1_model_rela":"was made an Officer of"
+  },
+  {
+    "Id": 18371,
+    "Question": "When the current constitution of Oman was enacted?",
+    "relation": "When the current constitution of Oman was enacted",
+    "Relation": "was enacted",
+    "model_rela": "When the current was enacted",
+    "solu1_model_rela":"was enacted"
+  },
+  {
+    "Id": 18372,
+    "Question": "When the police occupied the offices of Der Spiegel during the Spiegel scandal?",
+    "relation": null,
+    "Relation": "occupied",
+    "model_rela": "When the police occupied the offices of during the",
+    "solu1_model_rela":"occupied the offices of"
+  },
+  {
+    "Id": 18373,
+    "Question": "When Margot Wallström was the Minister for Consumer Affairs start date?",
+    "relation": "When was the Minister for start date",
+    "Relation": "was the Minister start date",
+    "model_rela": "When was the Minister for Consumer Affairs start date",
+    "solu1_model_rela":"was the Minister for Consumer Affairs start date"
+  },
+  {
+    "Id": 18374,
+    "Question": "When Margot Wallström was the Minister for Consumer Affairs end date?",
+    "relation": "When was the Minister for end date",
+    "Relation": "was the Minister for Consumer Affairs",
+    "model_rela": "When was the Minister for Consumer Affairs end date",
+    "solu1_model_rela":"was the Minister for Consumer Affairs end date"
+  },
+  {
+    "Id": 18375,
+    "Question": "When David Meyler started his loan matches?",
+    "relation": "When his matches",
+    "Relation": "started his loan matches",
+    "model_rela": "When started his matches",
+    "solu1_model_rela":"started loan matches"
+  },
+  {
+    "Id": 18376,
+    "Question": "When Tommy Anderson's senior career with Barrow ended start date?",
+    "relation": "When senior career with ended start date",
+    "Relation": "senior career with Barrow ended",
+    "model_rela": "When senior career with ended start date",
+    "solu1_model_rela":"declared senior career with"
+  },
+  {
+    "Id": 18377,
+    "Question": "When Tommy Anderson's senior career with Barrow ended end date?",
+    "relation": "When senior career with ed end date",
+    "Relation": "senior career with Barrow ended",
+    "model_rela": "When senior career with end date",
+    "solu1_model_rela":"declared career with"
+  },
+  {
+    "Id": 18378,
+    "Question": "When Archibald Douglas ceased to be the commander of the Swedish Army start date?",
+    "relation": "When ceased to be the of the start date",
+    "Relation": "ceased to be the commander of the Swedish Army",
+    "model_rela": "When ceased to be the commander of the start date",
+    "solu1_model_rela":"continued to be the commander of"
+  },
+  {
+    "Id": 18379,
+    "Question": "When Archibald Douglas ceased to be the commander of the Swedish Army end date?",
+    "relation": "When ceased to be the of the date",
+    "Relation": "ceased to be the commander of the Swedish Army",
+    "model_rela": "When ceased to be the commander of the end date",
+    "solu1_model_rela":"became the commander of"
+  },
+  {
+    "Id": 18380,
+    "Question": "When the Cauca State's administrative territorial entity included the city of Cali start date?",
+    "relation": "When the administrative territorial entity included the city of start date",
+    "Relation": "administrative territorial entity included the city of Cali",
+    "model_rela": "When the administrative territorial entity included the city of start date",
+    "solu1_model_rela":"was included in"
+  },
+  {
+    "Id": 18381,
+    "Question": "When the Cauca State's administrative territorial entity included the city of Cali end date?",
+    "relation": "When the administrative territorial entity included the city of end date",
+    "Relation": "administrative territorial entity included the city of Cali",
+    "model_rela": "When the administrative territorial entity included the city of end date",
+    "solu1_model_rela":"was included in"
+  },
+  {
+    "Id": 18382,
+    "Question": "When Anna Smashnova had her first round result at the previous tournament?",
+    "relation": "When had her result at the",
+    "Relation": "had her first round result at the previous tournament",
+    "model_rela": "When had her first round result at the previous tournament",
+    "solu1_model_rela":"had"
+  },
+  {
+    "Id": 18383,
+    "Question": "When János Flesch died?",
+    "relation": "When died",
+    "Relation": "died",
+    "model_rela": "When died",
+    "solu1_model_rela":"died when"
+  },
+  {
+    "Id": 18384,
+    "Question": "When William Joyce joined the National Socialist League start date?",
+    "relation": "When joined the date",
+    "Relation": "joined",
+    "model_rela": "When joined the start date",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18385,
+    "Question": "When William Joyce joined the National Socialist League end date?",
+    "relation": "When joined the date",
+    "Relation": "joined",
+    "model_rela": "When joined the date",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18386,
+    "Question": "When the census was taken in Filley Nebraska?",
+    "relation": "When the was in",
+    "Relation": "was taken in",
+    "model_rela": "When the was taken in",
+    "solu1_model_rela":"was taken in"
+  },
+  {
+    "Id": 18387,
+    "Question": "When Doris Lessing won the Nobel Prize in Literature?",
+    "relation": "When the",
+    "Relation": "won",
+    "model_rela": "When won the",
+    "solu1_model_rela":"won the Nobel Prize in Literature"
+  },
+  {
+    "Id": 18388,
+    "Question": "When Gottlob Frege received his education at the University of Jena start date?",
+    "relation": "When received his education at the start date",
+    "Relation": "received education at",
+    "model_rela": "When received his education at the start date",
+    "solu1_model_rela":"received his education at"
+  },
+  {
+    "Id": 18389,
+    "Question": "When Gottlob Frege received his education at the University of Jena end date?",
+    "relation": "When received his education at the end date",
+    "Relation": "received education at",
+    "model_rela": "When received his education at the date",
+    "solu1_model_rela":"received education at"
+  },
+  {
+    "Id": 18390,
+    "Question": "When Hasan Mahmud was selected in Bangladesh's squad for their home series against Ireland?",
+    "relation": null,
+    "Relation": "was selected in",
+    "model_rela": "When was selected in Bangladeshs squad for their home series against Ireland",
+    "solu1_model_rela":"was selected in"
+  },
+  {
+    "Id": 18391,
+    "Question": "When Uzbekistan joined an international organization during its formation?",
+    "relation": "When Uzbekistan joined an international organization during its formation",
+    "Relation": "joined",
+    "model_rela": "When joined an during its formation",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18392,
+    "Question": "When Bongbong Marcos replaced Imee Marcos as Governor of Ilocos Norte start date?",
+    "relation": "When replaced as Governor of Ilocos Norte start date",
+    "Relation": "replaced as",
+    "model_rela": "When replaced as Governor of start date",
+    "solu1_model_rela":"replaced"
+  },
+  {
+    "Id": 18393,
+    "Question": "When Bongbong Marcos replaced Imee Marcos as Governor of Ilocos Norte end date?",
+    "relation": "When replaced as Governor of Ilocos Norte end date",
+    "Relation": "replaced as",
+    "model_rela": "When replaced Imee Marcos as Governor of end date",
+    "solu1_model_rela":"replaced"
+  },
+  {
+    "Id": 18394,
+    "Question": "When Libert H. Boeynaems was ordained to the priesthood by the Congregation of the Sacred Hearts of Jesus and Mary?",
+    "relation": "When was ordained to the priesthood by the Congregation of the Sacred Hearts of Jesus and Mary",
+    "Relation": "was ordained to the priesthood by",
+    "model_rela": "When was ordained to the priesthood by the",
+    "solu1_model_rela":"was ordained to the priesthood"
+  },
+  {
+    "Id": 18395,
+    "Question": "When Colin McDonald was a member of Burnley F.C. start date?",
+    "relation": "When was a of start date",
+    "Relation": "was a member of",
+    "model_rela": "When was a of date",
+    "solu1_model_rela":"was a member of"
+  },
+  {
+    "Id": 18396,
+    "Question": "When Colin McDonald was a member of Burnley F.C. end date?",
+    "relation": "When was a member of date",
+    "Relation": "was a member of",
+    "model_rela": "When was a member of date",
+    "solu1_model_rela":"was a member of"
+  },
+  {
+    "Id": 18397,
+    "Question": "When the United Nations Climate Change Conference organized by Chile and Spain was held?",
+    "relation": "When the organized by and was held",
+    "Relation": "was organized by",
+    "model_rela": "When the organized by and was",
+    "solu1_model_rela":"was held"
+  },
+  {
+    "Id": 18398,
+    "Question": "When Yuka Saso was representing Japan in LPGA major championships?",
+    "relation": "When Saso was in",
+    "Relation": "was representing",
+    "model_rela": "When was representing in LPGA",
+    "solu1_model_rela":"was representing"
+  },
+  {
+    "Id": 18399,
+    "Question": "When Peter Heatly competed in 10 m platform in both the British Empire Games and European Championships in Turin?",
+    "relation": "When competed in 10 m platform in both the and European Championships in",
+    "Relation": "competed in",
+    "model_rela": "When competed in 10 m platform in both the British Empire Games and European Championships in",
+    "solu1_model_rela":"competed in"
+  },
+  {
+    "Id": 18400,
+    "Question": "When Nir Zidkyahu became a member of Stiltskin?",
+    "relation": "When a member of",
+    "Relation": "became a member of",
+    "model_rela": "When became a member of",
+    "solu1_model_rela":"became a member of"
+  },
+  {
+    "Id": 18401,
+    "Question": "When Belize had over 10,025 out-of-school children?",
+    "relation": "When had over 10025 out-of-school",
+    "Relation": "had",
+    "model_rela": "When had over 10000",
+    "solu1_model_rela":"had"
+  },
+  {
+    "Id": 18402,
+    "Question": "When T. H. P. Chentharasseri was an Indian historian from Kerala start date?",
+    "relation": "When was an Indian from start date",
+    "Relation": "was an Indian historian from",
+    "model_rela": "When was an Indian historian from Kerala start date",
+    "solu1_model_rela":"was an Indian historian from"
+  },
+  {
+    "Id": 18403,
+    "Question": "When T. H. P. Chentharasseri was an Indian historian from Kerala end date?",
+    "relation": "When was an Indian from end date",
+    "Relation": "was an Indian historian from",
+    "model_rela": "When was an Indian historian from Kerala end date",
+    "solu1_model_rela":"was an Indian historian"
+  },
+  {
+    "Id": 18404,
+    "Question": "When German submarine U-357 sank?",
+    "relation": "When sank",
+    "Relation": "sank",
+    "model_rela": "When sank",
+    "solu1_model_rela":"submarine"
+  },
+  {
+    "Id": 18405,
+    "Question": "When Chennupati Vidya was reelected to the 9th Lok Sabha?",
+    "relation": "When was reelected to the",
+    "Relation": "was reelected to",
+    "model_rela": "When was reelected to the 9th Lok Sabha",
+    "solu1_model_rela":"was reelected to"
+  },
+  {
+    "Id": 18406,
+    "Question": "When Leonid Zhabotinsky won the World Weightlifting Championships +90 kg?",
+    "relation": "When won the kg",
+    "Relation": "won",
+    "model_rela": "When won the World Championships +90 kg",
+    "solu1_model_rela":"won"
+  },
+  {
+    "Id": 18407,
+    "Question": "When Yoav Galant joined the Kulanu faction in Knesset start date?",
+    "relation": "When joined the faction in",
+    "Relation": "joined",
+    "model_rela": "When joined the faction in start date",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18408,
+    "Question": "When Yoav Galant joined the Kulanu faction in Knesset end date?",
+    "relation": "When joined the faction in date",
+    "Relation": "joined",
+    "model_rela": "When joined the in Knesset",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18409,
+    "Question": "When the Plain of Jars was designated a UNESCO World Heritage Site?",
+    "relation": "When the was designated a",
+    "Relation": "was designated",
+    "model_rela": "When the was designated a",
+    "solu1_model_rela":"was designated a UNESCO World Heritage Site"
+  },
+  {
+    "Id": 18410,
+    "Question": "When Dunkirk was published in United Kingdom?",
+    "relation": "When was published in United Kingdom",
+    "Relation": "was published in",
+    "model_rela": "When was published in United Kingdom",
+    "solu1_model_rela":"was published in United Kingdom"
+  },
+  {
+    "Id": 18411,
+    "Question": "When Aktobe Region became part of the the Kazak Autonomous Socialist Soviet Republic start date?",
+    "relation": "When became part of the the start date",
+    "Relation": "became part of",
+    "model_rela": "When became part of the the start date",
+    "solu1_model_rela":"became part of"
+  },
+  {
+    "Id": 18412,
+    "Question": "When Aktobe Region became part of the the Kazak Autonomous Socialist Soviet Republic end date?",
+    "relation": "When became part of the the end date",
+    "Relation": "became part of",
+    "model_rela": "When became part of the the end date",
+    "solu1_model_rela":"became part of"
+  },
+  {
+    "Id": 18413,
+    "Question": "When Dale Gordon scored his first goal for Norwich?",
+    "relation": "When scored his first goal for Norwich",
+    "Relation": "scored",
+    "model_rela": "When his for",
+    "solu1_model_rela":"scored his first goal for"
+  },
+  {
+    "Id": 18414,
+    "Question": "When Walter Smith was managing his pre-Goodison Park football club?",
+    "relation": "When was his pre-Goodison",
+    "Relation": "was managing",
+    "model_rela": "When was managing his pre-",
+    "solu1_model_rela":"managed pre-Goodison Park football club"
+  },
+  {
+    "Id": 18415,
+    "Question": "When Yury Luzhkov was mayor of Moscow?",
+    "relation": "When was mayor of",
+    "Relation": "was mayor of",
+    "model_rela": "When was of",
+    "solu1_model_rela":"was mayor of"
+  },
+  {
+    "Id": 18416,
+    "Question": "When was the period of Square Enix's total assets to total liabilities in yen??",
+    "relation": "When was the period of total assets to total liabilities in",
+    "Relation": "was the period of",
+    "model_rela": "When was the period of total assets to total in yen",
+    "solu1_model_rela":"was the period of total assets to total liabilities in yen"
+  },
+  {
+    "Id": 18417,
+    "Question": "When the +8.5 time zone applies to part of Drammen lake?",
+    "relation": "When the +85 applies to of",
+    "Relation": "applies to",
+    "model_rela": "When the +85 applies to part of",
+    "solu1_model_rela":" applies to part of"
+  },
+  {
+    "Id": 18418,
+    "Question": "When Rameshwar Thakur was President of the Institute of Chartered Accountants of India?",
+    "relation": "When was of the",
+    "Relation": "was President of",
+    "model_rela": "When was of the",
+    "solu1_model_rela":"was President of"
+  },
+  {
+    "Id": 18419,
+    "Question": "When the US Census gathered data of number of households and families in Malheur County, Oregon for the Reno determination method census?",
+    "relation": "When the US gathered data of number of households and families in for the determination method",
+    "Relation": "gathered data of",
+    "model_rela": "When the US Census gathered data of number of households and families in for the Reno determination method census",
+    "solu1_model_rela":"scored data of number of households and families"
+  },
+  {
+    "Id": 18420,
+    "Question": "When U-341 was commissioned?",
+    "relation": "When was",
+    "Relation": "was commissioned",
+    "model_rela": "When was",
+    "solu1_model_rela":"was commissioned"
+  },
+  {
+    "Id": 18421,
+    "Question": "When Fred Spofforth became the first bowler to take 50 Test wickets and a Test hat-trick?",
+    "relation": "When became the first bowler to take 50 wickets and a Test hat-trick",
+    "Relation": "became",
+    "model_rela": "When became the first bowler to take 50 Test wickets and a Test hat-trick",
+    "solu1_model_rela":"was the first bowler to take 50 Test wickets and a Test hat-trick"
+  },
+  {
+    "Id": 18422,
+    "Question": "When John R. Gorman was ordained as a priest for the Archdiocese of Chicago by Cardinal Samuel Stritch?",
+    "relation": "When was ordained as a for the by Cardinal",
+    "Relation": "was ordained as",
+    "model_rela": "When was ordained as a for the by by",
+    "solu1_model_rela":"was ordained as a priest by"
+  },
+  {
+    "Id": 18423,
+    "Question": "When Alan Durban made 404 appearances and scored 110 goals for Derby County?",
+    "relation": "When made 404 appearances and scored goals for Derby County",
+    "Relation": "made appearances and scored goals for",
+    "model_rela": "When made 404 and for",
+    "solu1_model_rela":"made appearances and scored 110 goals for"
+  },
+  {
+    "Id": 18424,
+    "Question": "When there were 9,318 people living in Moundsville, West Virginia?",
+    "relation": "When there were 9318 people living in",
+    "Relation": "population of",
+    "model_rela": "When there were 9318 living in",
+    "solu1_model_rela":"was living in"
+  },
+  {
+    "Id": 18425,
+    "Question": "When Grant Shapps was re-elected with a majority of 10,955 as Secretary of State for Transport start date?",
+    "relation": "When was re-elected with a majority of 10955 as Secretary of State for Transport start date",
+    "Relation": "re-elected as",
+    "model_rela": "When was re-elected with a majority of 10155 as start date",
+    "solu1_model_rela":"was re-elected with a majority of 10,955"
+  },
+  {
+    "Id": 18426,
+    "Question": "When Grant Shapps was re-elected with a majority of 10,955 as Secretary of State for Transport end date?",
+    "relation": "When was re-elected with a majority of 10955 as Secretary of State for Transport end date",
+    "Relation": "re-elected as",
+    "model_rela": "When was re-elected with a majority of 10155 as end date",
+    "solu1_model_rela":"was re-elected with a majority of 10,955"
+  },
+  {
+    "Id": 18427,
+    "Question": "When the three territories in Laos were united under a French protectorate?",
+    "relation": "When the three territories in were under a",
+    "Relation": "united under",
+    "model_rela": "When the three territories in were united under a",
+    "solu1_model_rela":"was united under"
+  },
+  {
+    "Id": 18428,
+    "Question": "When Gavin Grant was under contract at Stevenage Borough?",
+    "relation": "When was under contract at",
+    "Relation": "under contract at",
+    "model_rela": "When was under contract at",
+    "solu1_model_rela":"was under contract at"
+  },
+  {
+    "Id": 18429,
+    "Question": "When Djibouti and Vietnam joined the United Nations?",
+    "relation": null,
+    "Relation": "joined",
+    "model_rela": "When joined the",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18430,
+    "Question": "When Viktor Troicki's Grand Slam singles run at Wimbledon?",
+    "relation": "When at",
+    "Relation": "Grand Slam singles run at",
+    "model_rela": "When Grand Slam at",
+    "solu1_model_rela":"run at"
+  },
+  {
+    "Id": 18431,
+    "Question": "When the Constitutional Conventions and History of Australia was debated in the Australian state?",
+    "relation": "When the and was debated in the state",
+    "Relation": "debated in",
+    "model_rela": "When the was debated in the",
+    "solu1_model_rela":"was debated in"
+  },
+  {
+    "Id": 18432,
+    "Question": "When Hall, Coatdyke Church at 275 Muiryhall Street, Coatbridge became part of Coatbridge?",
+    "relation": "When Hall Church at 275 Street became part of Coatbridge",
+    "Relation": "became part of",
+    "model_rela": "When at 275 Muiryhall Street became part of",
+    "solu1_model_rela":"became part of"
+  },
+  {
+    "Id": 18433,
+    "Question": "When Guillermo Vilas competed in the US Open Grand Slam doubles in January?",
+    "relation": "When in the doubles in January",
+    "Relation": "competed in",
+    "model_rela": "When competed in the doubles in January",
+    "solu1_model_rela":"competed in"
+  },
+  {
+    "Id": 18434,
+    "Question": "When Mülheim was member of the organisation while the area measured +91.28?",
+    "relation": "When was member of the organisation while the measured +9128",
+    "Relation": "was member of",
+    "model_rela": "When was member of the organisation while the area measured +8928",
+    "solu1_model_rela":"was member of"
+  },
+  {
+    "Id": 18435,
+    "Question": "When the 100th United States Congress began start date?",
+    "relation": null,
+    "Relation": "began start date",
+    "model_rela": "When the began start date",
+    "solu1_model_rela":"started start date"
+  },
+  {
+    "Id": 18436,
+    "Question": "When the 100th United States Congress began end date?",
+    "relation": null,
+    "Relation": "began end date",
+    "model_rela": "When the began end date",
+    "solu1_model_rela":"started end date"
+  },
+  {
+    "Id": 18437,
+    "Question": "When the census in Dexter, Iowa was held?",
+    "relation": "When the in was held",
+    "Relation": "was held",
+    "model_rela": "When the census in was held",
+    "solu1_model_rela":"was held"
+  },
+  {
+    "Id": 18438,
+    "Question": "When Krasnodar was the capital of an oblast during the Russian Empire?",
+    "relation": "When was the capital of an oblast during the",
+    "Relation": "was the capital of",
+    "model_rela": "When was the capital of an during the",
+    "solu1_model_rela":"was the capital of"
+  },
+  {
+    "Id": 18439,
+    "Question": "When the city of Wiesbaden had 290,955 inhabitants plus around 21,000 United States citizens?",
+    "relation": "When the city of had 290955 inhabitants plus around 21000 United States citizens",
+    "Relation": "had inhabitants",
+    "model_rela": "When the city of had 291955 inhabitants plus around 21000 United States citizens",
+    "solu1_model_rela":"had"
+  },
+  {
+    "Id": 18440,
+    "Question": "When the US census was taken in Delphos, Ohio?",
+    "relation": "When the US was in",
+    "Relation": "was taken in",
+    "model_rela": "When the US census was taken in",
+    "solu1_model_rela":"was taken in"
+  },
+  {
+    "Id": 18441,
+    "Question": "When U.S. census for El Paso Texas was conducted?",
+    "relation": "When US for was conducted",
+    "Relation": "was conducted",
+    "model_rela": "When for was conducted",
+    "solu1_model_rela":"was conducted"
+  },
+  {
+    "Id": 18442,
+    "Question": "When Ilie Năstase's Grand Slam doubles career started?",
+    "relation": "When doubles career started",
+    "Relation": "started",
+    "model_rela": "When Grand Slam doubles career started",
+    "solu1_model_rela":"started"
+  },
+  {
+    "Id": 18443,
+    "Question": "When the US Census was taken in Shreveport?",
+    "relation": "When the was in",
+    "Relation": "was taken in",
+    "model_rela": "When the was taken in",
+    "solu1_model_rela":"was taken in"
+  },
+  {
+    "Id": 18444,
+    "Question": "When Jaws was published in Germany?",
+    "relation": "When was published in Germany",
+    "Relation": "was published in",
+    "model_rela": "When was in",
+    "solu1_model_rela":"was published in Germany"
+  },
+  {
+    "Id": 18445,
+    "Question": "When Akiva Govrin Faction was represented in the Knesset?",
+    "relation": "When Faction was represented in the",
+    "Relation": "was represented in",
+    "model_rela": "When was represented in the",
+    "solu1_model_rela":"was represented in"
+  },
+  {
+    "Id": 18446,
+    "Question": "When the 2017–21 Qatar diplomatic crisis started?",
+    "relation": "When the 2017–21 Qatar started",
+    "Relation": "started",
+    "model_rela": "When the 2017–21 diplomatic crisis started",
+    "solu1_model_rela":"started"
+  },
+  {
+    "Id": 18447,
+    "Question": "When Nizhny Novgorod was hosting a fair?",
+    "relation": "When was hosting a fair",
+    "Relation": "was hosting",
+    "model_rela": "When was a",
+    "solu1_model_rela":"was hosting a fair"
+  },
+  {
+    "Id": 18448,
+    "Question": "When George Washington resigned his commission at the end of the Revolutionary War?",
+    "relation": "When resigned his commission at the end of the",
+    "Relation": "resigned",
+    "model_rela": "When resigned his commission at the end of the Revolutionary War",
+    "solu1_model_rela":"resigned his commission at the end of"
+  },
+  {
+    "Id": 18449,
+    "Question": "When Helmut Schmidt was a Member of the Bundestag for Hamburg?",
+    "relation": "When was a Member of the for",
+    "Relation": "was a Member of",
+    "model_rela": "When was a Member of the for Hamburg",
+    "solu1_model_rela":"was a Member of"
+  },
+  {
+    "Id": 18450,
+    "Question": "When the Holy See removed Bishop Bill Morris from pastoral care of the diocese?",
+    "relation": "When the removed from pastoral care of the diocese",
+    "Relation": "removed",
+    "model_rela": "When the removed Bishop from pastoral care of the diocese",
+    "solu1_model_rela":"removed from pastoral care of"
+  },
+  {
+    "Id": 18451,
+    "Question": "When Roger Osborne loaned to the Detroit Express in NASL?",
+    "relation": "When to the in",
+    "Relation": "loaned to",
+    "model_rela": "When to the in",
+    "solu1_model_rela":"was loaned to"
+  },
+  {
+    "Id": 18452,
+    "Question": "When the New York Yankees won the World Series?",
+    "relation": "When the the",
+    "Relation": "won",
+    "model_rela": "When the won the",
+    "solu1_model_rela":"won the World Series"
+  },
+  {
+    "Id": 18453,
+    "Question": "When Ai Sugiyama reached the Australian Open quarterfinals in singles?",
+    "relation": "When reached the quarterfinals in",
+    "Relation": "reached",
+    "model_rela": "When reached the quarterfinals in",
+    "solu1_model_rela":"made the Australian Open quarterfinals in singles"
+  },
+  {
+    "Id": 18454,
+    "Question": "When BMW had its trading logo?",
+    "relation": "When had its logo",
+    "Relation": "had",
+    "model_rela": "When had its logo",
+    "solu1_model_rela":"had its trading logo"
+  },
+  {
+    "Id": 18455,
+    "Question": "When Paul Ware's Senior career at Hednesford Town began?",
+    "relation": "When at began",
+    "Relation": "began",
+    "model_rela": "When career at",
+    "solu1_model_rela":"was Senior career at"
+  },
+  {
+    "Id": 18456,
+    "Question": "When The Bahamas became a member of United Nations specialized agency?",
+    "relation": "When The became a member of",
+    "Relation": "became a member of",
+    "model_rela": "When The became a member of specialized agency",
+    "solu1_model_rela":"became a member of"
+  },
+  {
+    "Id": 18457,
+    "Question": "When Mikel Arteta joined Real Sociedad start date?",
+    "relation": "When joined date",
+    "Relation": "joined",
+    "model_rela": "When joined date",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18458,
+    "Question": "When Mikel Arteta joined Real Sociedad end date?",
+    "relation": "When",
+    "Relation": "joined",
+    "model_rela": "When joined date",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18459,
+    "Question": "When Kaifi Azmi became a citizen of India?",
+    "relation": "When became a citizen of",
+    "Relation": "became a citizen of",
+    "model_rela": "When became a citizen of India",
+    "solu1_model_rela":"became a citizen of India"
+  },
+  {
+    "Id": 18460,
+    "Question": "When Amir Peretz Faction represented in the Knesset before Labor start date?",
+    "relation": "When Faction represented in the before date",
+    "Relation": "represented",
+    "model_rela": "When Faction represented in the before Labor start date",
+    "solu1_model_rela":"represented in"
+  },
+  {
+    "Id": 18461,
+    "Question": "When Amir Peretz Faction represented in the Knesset before Labor end date?",
+    "relation": "When Faction represented in the before",
+    "Relation": "represented",
+    "model_rela": "When Faction represented in the before date",
+    "solu1_model_rela":"represented in"
+  },
+  {
+    "Id": 18462,
+    "Question": "When Novosibirsk became the capital of the West Siberian Krai start date?",
+    "relation": "When became the capital of the start date",
+    "Relation": "became the capital of",
+    "model_rela": "When became the capital of the start date",
+    "solu1_model_rela":"became the capital of"
+  },
+  {
+    "Id": 18463,
+    "Question": "When Novosibirsk became the capital of the West Siberian Krai end date?",
+    "relation": "When became the capital of the end date",
+    "Relation": "became the capital of",
+    "model_rela": "When became the capital of the end date",
+    "solu1_model_rela":"became the capital of"
+  },
+  {
+    "Id": 18464,
+    "Question": "When Paul Dobson joined Torquay United start date?",
+    "relation": "When joined date",
+    "Relation": "joined",
+    "model_rela": "When date",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18465,
+    "Question": "When Paul Dobson joined Torquay United end date?",
+    "relation": "When joined date",
+    "Relation": "joined",
+    "model_rela": "When date",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18466,
+    "Question": "When Franck Ribéry began his youth career in Boulogne start date?",
+    "relation": "When began his career in date",
+    "Relation": "began youth career",
+    "model_rela": "When began his career in date",
+    "solu1_model_rela":"was the youth career of"
+  },
+  {
+    "Id": 18467,
+    "Question": "When Franck Ribéry began his youth career in Boulogne end date?",
+    "relation": "When his career in",
+    "Relation": "began youth career",
+    "model_rela": "When began his career in date",
+    "solu1_model_rela":"was the youth career of"
+  },
+  {
+    "Id": 18468,
+    "Question": "When John Neal left King's Lynn start date?",
+    "relation": "When left start date",
+    "Relation": "left",
+    "model_rela": "When left start date",
+    "solu1_model_rela":"left"
+  },
+  {
+    "Id": 18469,
+    "Question": "When John Neal left King's Lynn end date?",
+    "relation": "When left date",
+    "Relation": "left",
+    "model_rela": "When date",
+    "solu1_model_rela":"left"
+  },
+  {
+    "Id": 18470,
+    "Question": "When Hewlett-Packard reported 2 billion US dollars in revenue?",
+    "relation": "When reported 2 billion in",
+    "Relation": "reported revenue",
+    "model_rela": "When reported 2 billion in",
+    "solu1_model_rela":"reported 2 billion US dollars in revenue"
+  },
+  {
+    "Id": 18471,
+    "Question": "When Nanjing became the capital of the Republic of China start date?",
+    "relation": "When became the of the start date",
+    "Relation": "became capital",
+    "model_rela": "When became the capital of the start date",
+    "solu1_model_rela":"became the capital of"
+  },
+  {
+    "Id": 18472,
+    "Question": "When Nanjing became the capital of the Republic of China end date?",
+    "relation": "When became the capital of the date",
+    "Relation": "became capital",
+    "model_rela": "When became the capital of the end date",
+    "solu1_model_rela":"became the capital of"
+  },
+  {
+    "Id": 18473,
+    "Question": "When John Soko's death in the Gabon plane crash?",
+    "relation": "When in the plane crash",
+    "Relation": "death",
+    "model_rela": "When death in the Gabon plane crash",
+    "solu1_model_rela":"succeeded in"
+  },
+  {
+    "Id": 18474,
+    "Question": "When the Labour Party's were defeated in the United Kingdom's biggest ever electoral landslide?",
+    "relation": null,
+    "Relation": "were defeated in",
+    "model_rela": "When the were defeated in the United Kingdoms biggest ever electoral landslide",
+    "solu1_model_rela":"was defeated"
+  },
+  {
+    "Id": 18475,
+    "Question": "When Oslo was part of Denmark-Norway ?",
+    "relation": "When was part of",
+    "Relation": "was part of",
+    "model_rela": "When was of",
+    "solu1_model_rela":"was part of"
+  },
+  {
+    "Id": 18476,
+    "Question": "When Luigi Stipa was born in Appignano del Tronto, Italy?",
+    "relation": "When was born in",
+    "Relation": "was born in",
+    "model_rela": "When was born in Appignano del Tronto Italy",
+    "solu1_model_rela":"was born in"
+  },
+  {
+    "Id": 18477,
+    "Question": "When the Transcaucasian Socialist Federative Soviet Republic was dissolved?",
+    "relation": "When the was dissolved",
+    "Relation": "was dissolved",
+    "model_rela": "When the was dissolved",
+    "solu1_model_rela":"was dissolved"
+  },
+  {
+    "Id": 18478,
+    "Question": "When Terje Pedersen failed to qualify for the final in the Summer Olympic Games and was selected as Norwegian Sportsperson of the Year?",
+    "relation": "When failed to qualify for the final in the and was selected as",
+    "Relation": "failed to qualify for",
+    "model_rela": "When failed to qualify for the final in the Summer Olympic Games and was selected as",
+    "solu1_model_rela":"failed to qualify for the final in"
+  },
+  {
+    "Id": 18479,
+    "Question": "When Paul the Octopus predicted the winner of the FIFA World Cup start date?",
+    "relation": "When predicted the winner of the FIFA World Cup start date",
+    "Relation": "predicted the winner of",
+    "model_rela": "When predicted the winner of the start date",
+    "solu1_model_rela":"predicted the winner of"
+  },
+  {
+    "Id": 18480,
+    "Question": "When Paul the Octopus predicted the winner of the FIFA World Cup end date?",
+    "relation": "When predicted the winner of the FIFA World Cup end date",
+    "Relation": "predicted the winner of",
+    "model_rela": "When predicted the winner of the date",
+    "solu1_model_rela":"predicted the winner of"
+  },
+  {
+    "Id": 18481,
+    "Question": "When German submarine U-487 was active in a U-boat flotilla?",
+    "relation": "When was active in a U-boat",
+    "Relation": "was active in",
+    "model_rela": "When was active in a",
+    "solu1_model_rela":"was active in"
+  },
+  {
+    "Id": 18482,
+    "Question": "When the German submarine U-353 was in service between 22 and 25 September?",
+    "relation": "When the was in service between 22 and 25 September",
+    "Relation": "was in service between",
+    "model_rela": "When the was in service between 22 and 25 September",
+    "solu1_model_rela":"was in service between 22 and 25 September"
+  },
+  {
+    "Id": 18483,
+    "Question": "When the Kingdom of Prussia controlled Kluczbork start date?",
+    "relation": "When the controlled start date",
+    "Relation": "controlled",
+    "model_rela": "When the controlled start date",
+    "solu1_model_rela":"controlled start date"
+  },
+  {
+    "Id": 18484,
+    "Question": "When the Kingdom of Prussia controlled Kluczbork end date?",
+    "relation": "When the controlled end date",
+    "Relation": "controlled",
+    "model_rela": "When the controlled end date",
+    "solu1_model_rela":"controlled end date"
+  },
+  {
+    "Id": 18485,
+    "Question": "When Miroslav Blažević played for Moutier start date?",
+    "relation": "When played for Moutier date",
+    "Relation": "played for",
+    "model_rela": "When for date",
+    "solu1_model_rela":"played for"
+  },
+  {
+    "Id": 18486,
+    "Question": "When Miroslav Blažević played for Moutier end date?",
+    "relation": "When played for Moutier date",
+    "Relation": "played for",
+    "model_rela": "When for",
+    "solu1_model_rela":"played for"
+  },
+  {
+    "Id": 18487,
+    "Question": "When Nicosia became the capital of Cyprus?",
+    "relation": "When became the of",
+    "Relation": "became the capital of",
+    "model_rela": "When became the of",
+    "solu1_model_rela":"became the capital of"
+  },
+  {
+    "Id": 18488,
+    "Question": "When the German submarine U-580 was destroyed in the Baltic Sea?",
+    "relation": "When the was destroyed in the",
+    "Relation": "was destroyed in",
+    "model_rela": "When the was destroyed in the",
+    "solu1_model_rela":"was destroyed in"
+  },
+  {
+    "Id": 18489,
+    "Question": "When U-358 was used for educational purposes start date?",
+    "relation": "When was used for educational purposes start date",
+    "Relation": "was used for",
+    "model_rela": "When was used for educational purposes start date",
+    "solu1_model_rela":"was used for educational purposes start date"
+  },
+  {
+    "Id": 18490,
+    "Question": "When U-358 was used for educational purposes end date?",
+    "relation": "When was used for educational purposes end date",
+    "Relation": "was used for",
+    "model_rela": "When was used for educational purposes end date",
+    "solu1_model_rela":"was used for educational purposes"
+  },
+  {
+    "Id": 18491,
+    "Question": "When Lothar Emmerich joined the Würzburger Kickers start date?",
+    "relation": "When the date",
+    "Relation": "joined",
+    "model_rela": "When joined the",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18492,
+    "Question": "When Lothar Emmerich joined the Würzburger Kickers end date?",
+    "relation": "When joined the date",
+    "Relation": "joined",
+    "model_rela": "When the",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18493,
+    "Question": "When Eastern Rumelia became Yambol start date?",
+    "relation": "When became start date",
+    "Relation": "became",
+    "model_rela": "When became start date",
+    "solu1_model_rela":"became start date"
+  },
+  {
+    "Id": 18494,
+    "Question": "When Eastern Rumelia became Yambol end date?",
+    "relation": "When became end date",
+    "Relation": "became",
+    "model_rela": "When became date",
+    "solu1_model_rela":"became end date"
+  },
+  {
+    "Id": 18495,
+    "Question": "When Chris Hipkins became the 18th Leader of the Labour Party and the 47th Minister of Education??",
+    "relation": "When became the 18th Leader of the and the 47th Minister of Education",
+    "Relation": "became",
+    "model_rela": "When became the 18th Leader of the and the 47th Minister of Education",
+    "solu1_model_rela":"became the 18th Leader of"
+  },
+  {
+    "Id": 18496,
+    "Question": "When Sacky Shanghala became the Attorney General of Namibia?",
+    "relation": "When became the of",
+    "Relation": "became",
+    "model_rela": "When became the",
+    "solu1_model_rela":"became the Attorney General of Namibia"
+  },
+  {
+    "Id": 18497,
+    "Question": "When Guillermo Stábile started playing for Napoli in 20(3) start date?",
+    "relation": "When started playing for in 20(3) start date",
+    "Relation": "started playing for",
+    "model_rela": "When started playing for in 20(3) date",
+    "solu1_model_rela":"started playing for"
+  },
+  {
+    "Id": 18498,
+    "Question": "When Guillermo Stábile started playing for Napoli in 20(3) end date?",
+    "relation": "When started playing for in date",
+    "Relation": "started playing for",
+    "model_rela": "When for in 20(3)",
+    "solu1_model_rela":"started playing for"
+  },
+  {
+    "Id": 18499,
+    "Question": "When Edward Fitzroy was the Member of Parliament for South Northamptonshire?",
+    "relation": "When was the Member of Parliament for South Northamptonshire",
+    "Relation": "was the Member of Parliament for",
+    "model_rela": "When was the Member of Parliament for",
+    "solu1_model_rela":"was the Member of Parliament for"
+  },
+  {
+    "Id": 18500,
+    "Question": "When Albert, Prince Consort, laid the foundation stone of the Birmingham and Midland Institute?",
+    "relation": null,
+    "Relation": "laid the foundation stone of",
+    "model_rela": "When laid the foundation stone of the",
+    "solu1_model_rela":"lay the foundation stone of"
+  },
+  {
+    "Id": 18501,
+    "Question": "When André Weil work for Haverford College start date?",
+    "relation": "When work for start date",
+    "Relation": "work for",
+    "model_rela": "When work for start date",
+    "solu1_model_rela":"worked for"
+  },
+  {
+    "Id": 18502,
+    "Question": "When André Weil work for Haverford College end date?",
+    "relation": "When work for end date",
+    "Relation": "work for",
+    "model_rela": "When work for date",
+    "solu1_model_rela":"worked for"
+  },
+  {
+    "Id": 18503,
+    "Question": "When Euskadi Ta Askatasuna (ETA) got designated as a terrorist group?",
+    "relation": "When () got designated as a terrorist group",
+    "Relation": "got designated as",
+    "model_rela": "When (ETA) got designated as a",
+    "solu1_model_rela":"got designated as a terrorist group"
+  },
+  {
+    "Id": 18504,
+    "Question": "When Dave Gallaher was coaching in Auckland?",
+    "relation": "When was coaching in Auckland",
+    "Relation": "coached in",
+    "model_rela": "When was coaching in",
+    "solu1_model_rela":"was coaching"
+  },
+  {
+    "Id": 18505,
+    "Question": "When Siemens' total assets were €151.502 billion?",
+    "relation": "When total assets were €151502 billion",
+    "Relation": "had total assets of",
+    "model_rela": "When total assets were €14502",
+    "solu1_model_rela":"was total assets"
+  },
+  {
+    "Id": 18506,
+    "Question": "When the British took formal possession of Grenada by the Treaty of Paris during the early colonial period?",
+    "relation": "When the took formal possession of Grenada by the Treaty of Paris during the early colonial period",
+    "Relation": "took formal possession of",
+    "model_rela": "When the took formal possession of by the during the early",
+    "solu1_model_rela":"took formal possession of"
+  },
+  {
+    "Id": 18507,
+    "Question": "When Glenn Turner joined the Marylebone Cricket Club?",
+    "relation": "When joined the",
+    "Relation": "joined",
+    "model_rela": "When joined the",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18508,
+    "Question": "When Ian Porterfield succeeded Alex Ferguson as manager of Aberdeen?",
+    "relation": "When succeeded as of",
+    "Relation": "succeeded as manager of",
+    "model_rela": "When succeeded as",
+    "solu1_model_rela":"succeeded as manager of"
+  },
+  {
+    "Id": 18509,
+    "Question": "When Michael J. Cleary retired in Gambia?",
+    "relation": "When retired in Gambia",
+    "Relation": "retired in",
+    "model_rela": "When retired in",
+    "solu1_model_rela":"retired in"
+  },
+  {
+    "Id": 18510,
+    "Question": "When Pärnu was part of the Estonian Soviet Socialist Republic start date?",
+    "relation": "When was of the start date",
+    "Relation": "was part of",
+    "model_rela": "When was part of the start date",
+    "solu1_model_rela":"was part of"
+  },
+  {
+    "Id": 18511,
+    "Question": "When Pärnu was part of the Estonian Soviet Socialist Republic end date?",
+    "relation": "When was part of the date",
+    "Relation": "was part of",
+    "model_rela": "When was part of the end date",
+    "solu1_model_rela":"was part of"
+  },
+  {
+    "Id": 18512,
+    "Question": "When Jackie Roberts joined Swansea City A.F.C. start date?",
+    "relation": "When joined start date",
+    "Relation": "joined",
+    "model_rela": "When joined start date",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18513,
+    "Question": "When Jackie Roberts joined Swansea City A.F.C. end date?",
+    "relation": "When joined date",
+    "Relation": "joined",
+    "model_rela": "When joined date",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18514,
+    "Question": "When Ted Dumitru's job at Mersin İdmanyurdu began?",
+    "relation": "When at began",
+    "Relation": "job began at",
+    "model_rela": "When job at began",
+    "solu1_model_rela":"started"
+  },
+  {
+    "Id": 18515,
+    "Question": "When Patsy Gallacher's international career with the Irish Football Association began start date?",
+    "relation": "When career with the Irish Football Association began start date",
+    "Relation": "international career began",
+    "model_rela": "When career with the began",
+    "solu1_model_rela":"started career with"
+  },
+  {
+    "Id": 18516,
+    "Question": "When Patsy Gallacher's international career with the Irish Football Association began end date?",
+    "relation": "When career with the began date",
+    "Relation": "international career ended",
+    "model_rela": "When career with the began date",
+    "solu1_model_rela":"was end date of international career"
+  },
+  {
+    "Id": 18517,
+    "Question": "When Peggy Parratt was a player?",
+    "relation": "When was a player",
+    "Relation": "was a player",
+    "model_rela": "When was a player",
+    "solu1_model_rela":"was a player"
+  },
+  {
+    "Id": 18518,
+    "Question": "When Gustave Moreau was a prominent figure in the Symbolist movement start date?",
+    "relation": "When was a prominent figure in the start date",
+    "Relation": "was a prominent figure in",
+    "model_rela": "When was a prominent figure in the start date",
+    "solu1_model_rela":"was a prominent figure in"
+  },
+  {
+    "Id": 18519,
+    "Question": "When Gustave Moreau was a prominent figure in the Symbolist movement end date?",
+    "relation": "When was a prominent figure in the end date",
+    "Relation": "was a prominent figure in",
+    "model_rela": "When was a prominent figure in the end date",
+    "solu1_model_rela":"was a prominent figure in"
+  },
+  {
+    "Id": 18520,
+    "Question": "When Archie Mitchell joined The Football League XI?",
+    "relation": "When joined The",
+    "Relation": "joined",
+    "model_rela": "When joined The",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18521,
+    "Question": "When Liezel Huber set up her foundation 'Liezel's Cause'?",
+    "relation": "When up Liezels Cause",
+    "Relation": "set up foundation",
+    "model_rela": "When set up her Liezels Cause",
+    "solu1_model_rela":"set up her foundation"
+  },
+  {
+    "Id": 18522,
+    "Question": "When Sarah Hughes won the Ladies' Singles Gold Medal for Figure Skating at the Winter Olympics?",
+    "relation": "When the Ladies Singles for Figure Skating at the Winter Olympics",
+    "Relation": "won gold medal for",
+    "model_rela": "When won the Ladies Singles Gold Medal for Figure Skating at the Winter Olympics",
+    "solu1_model_rela":"won the Ladies' Singles Gold Medal for Figure Skating"
+  },
+  {
+    "Id": 18523,
+    "Question": "When Franco Harris was selected as the number 13 pick in the NFL Draft?",
+    "relation": "When was selected as the number 13 pick in the",
+    "Relation": "was selected as pick in",
+    "model_rela": "When was as the number 13 pick in the NFL Draft",
+    "solu1_model_rela":"was selected as the number 13 pick in the NFL Draft"
+  },
+  {
+    "Id": 18524,
+    "Question": "When Elton John was nominated for a Grammy Award for Song of the Year?",
+    "relation": "When was nominated for a",
+    "Relation": "was nominated for",
+    "model_rela": "When was for a for",
+    "solu1_model_rela":"was nominated for a Grammy Award for Song of the Year"
+  },
+  {
+    "Id": 18525,
+    "Question": "When George Davey Smith became a foreign member of the Royal Netherlands Academy of Arts and Sciences?",
+    "relation": "When became a of the",
+    "Relation": "became a foreign member of",
+    "model_rela": "When became a foreign member of the",
+    "solu1_model_rela":"became a foreign member of"
+  },
+  {
+    "Id": 18526,
+    "Question": "When Aurangabad became part of the Maratha Empire start date?",
+    "relation": "When became part of the start date",
+    "Relation": "became part of",
+    "model_rela": "When became part of the start date",
+    "solu1_model_rela":"became part of"
+  },
+  {
+    "Id": 18527,
+    "Question": "When Aurangabad became part of the Maratha Empire end date?",
+    "relation": "When became part of the end date",
+    "Relation": "became part of",
+    "model_rela": "When became part of the end date",
+    "solu1_model_rela":"became part of"
+  },
+  {
+    "Id": 18528,
+    "Question": "When Alan Shearer made his international career with England start date?",
+    "relation": "When made his career with date",
+    "Relation": "made his international career with",
+    "model_rela": "When made his career with date",
+    "solu1_model_rela":"made his international career with"
+  },
+  {
+    "Id": 18529,
+    "Question": "When Alan Shearer made his international career with England end date?",
+    "relation": "When his career with",
+    "Relation": "made his international career with",
+    "model_rela": "When made his career with date",
+    "solu1_model_rela":"made his international career with"
+  },
+  {
+    "Id": 18530,
+    "Question": "When Kripalu Ji Maharaj organized a religious convention for prominent spiritual leaders in India?",
+    "relation": "When Ji organized a religious for spiritual leaders in",
+    "Relation": "organized a religious convention for",
+    "model_rela": "When organized a for prominent spiritual leaders in India",
+    "solu1_model_rela":"organized"
+  },
+  {
+    "Id": 18531,
+    "Question": "When Robert B. Anderson was an American administrator, politician and businessman start date?",
+    "relation": "When was an American administrator politician and start date",
+    "Relation": "was an American administrator, politician and businessman",
+    "model_rela": "When was an American administrator politician and businessman start date",
+    "solu1_model_rela":"was an American administrator, politician and businessman start date"
+  },
+  {
+    "Id": 18532,
+    "Question": "When Robert B. Anderson was an American administrator, politician and businessman end date?",
+    "relation": "When was an American administrator politician and end date",
+    "Relation": "was an American administrator, politician and businessman",
+    "model_rela": "When was an American administrator politician and businessman end date",
+    "solu1_model_rela":"was an American administrator, politician and businessman end date"
+  },
+  {
+    "Id": 18533,
+    "Question": "When Teddy Scholten performed \"n Beetje\" at the Eurovision Song Contest?",
+    "relation": "When performed at the",
+    "Relation": "performed at",
+    "model_rela": "When performed n Beetje at the",
+    "solu1_model_rela":"performed at"
+  },
+  {
+    "Id": 18534,
+    "Question": "When the Equestrian statue of Stonewall Jackson in Charlottesville Virginia was added to the NRHP?",
+    "relation": "When the Equestrian statue of in Charlottesville Virginia was added to the",
+    "Relation": "was added to",
+    "model_rela": "When the Equestrian statue of in Charlottesville Virginia was added to the",
+    "solu1_model_rela":"was added to"
+  },
+  {
+    "Id": 18535,
+    "Question": "When Greg Stanton served his term as mayor of a U.S. city start date?",
+    "relation": "When served his term as mayor of a US city start date",
+    "Relation": "served as mayor of",
+    "model_rela": "When served his term as mayor of a US city start date",
+    "solu1_model_rela":"served as mayor of"
+  },
+  {
+    "Id": 18536,
+    "Question": "When Greg Stanton served his term as mayor of a U.S. city end date?",
+    "relation": "When served his term as mayor of a US city end date",
+    "Relation": "served as mayor of",
+    "model_rela": "When served his term as of a US city end date",
+    "solu1_model_rela":"served as mayor of"
+  },
+  {
+    "Id": 18537,
+    "Question": "When Norman Hogg Baron Hogg of Cumbernauld died at the age of 70?",
+    "relation": "When died at the age of 70",
+    "Relation": "died at the age of",
+    "model_rela": "When Norman died at the age of 70",
+    "solu1_model_rela":"died at the age of 70"
+  },
+  {
+    "Id": 18538,
+    "Question": "When Sheldon Hackney began his educational journey in the Birmingham public school system?",
+    "relation": "When began his educational journey in the public school system",
+    "Relation": "began educational journey in",
+    "model_rela": "When began his educational journey in the",
+    "solu1_model_rela":"begined his educational journey in"
+  },
+  {
+    "Id": 18539,
+    "Question": "When A.A. Raiba won bronze, silver and gold medals from the Bombay Art Society?",
+    "relation": "When won bronze silver and gold medals from the Bombay Art Society",
+    "Relation": "won medals from",
+    "model_rela": "When won bronze silver and from the",
+    "solu1_model_rela":"won bronze, silver and gold medals from"
+  },
+  {
+    "Id": 18540,
+    "Question": "When Tony Jacklin won two major championships?",
+    "relation": "When won",
+    "Relation": "won major championships",
+    "model_rela": "When won",
+    "solu1_model_rela":"won two major championships"
+  },
+  {
+    "Id": 18541,
+    "Question": "When Lamar Jackson went to Louisville start date?",
+    "relation": "When Lamar went to",
+    "Relation": "went to",
+    "model_rela": "When went to start date",
+    "solu1_model_rela":"went to"
+  },
+  {
+    "Id": 18542,
+    "Question": "When Lamar Jackson went to Louisville end date?",
+    "relation": "When Lamar went to",
+    "Relation": "went to",
+    "model_rela": "When went to date",
+    "solu1_model_rela":"went to"
+  },
+  {
+    "Id": 18543,
+    "Question": "When Gjilan became part of the Federal Republic of Yugoslavia start date?",
+    "relation": "When became part of the start date",
+    "Relation": "became part of",
+    "model_rela": "When became part of the start date",
+    "solu1_model_rela":"became part of"
+  },
+  {
+    "Id": 18544,
+    "Question": "When Gjilan became part of the Federal Republic of Yugoslavia end date?",
+    "relation": "When became part of the end date",
+    "Relation": "became part of",
+    "model_rela": "When became part of the end date",
+    "solu1_model_rela":"became part of"
+  },
+  {
+    "Id": 18545,
+    "Question": "When the census in Cherokee, Iowa was conducted?",
+    "relation": "When the in was conducted",
+    "Relation": "census conducted",
+    "model_rela": "When the was conducted",
+    "solu1_model_rela":"was conducted"
+  },
+  {
+    "Id": 18546,
+    "Question": "When the United States Census took population and household figures for Houghton, Michigan?",
+    "relation": "When the United States took population and household figures for",
+    "Relation": "took population and household figures",
+    "model_rela": "When the United States Census took population and household figures for",
+    "solu1_model_rela":"took population and household figures for"
+  },
+  {
+    "Id": 18547,
+    "Question": "When Borislav Stanković coached OKK Belgrade start date?",
+    "relation": "When coached date",
+    "Relation": "coached",
+    "model_rela": "When coached date",
+    "solu1_model_rela":"coached"
+  },
+  {
+    "Id": 18548,
+    "Question": "When Borislav Stanković coached OKK Belgrade end date?",
+    "relation": "When Borislav Stanković coached OKK Belgrade",
+    "Relation": "coached",
+    "model_rela": "When date",
+    "solu1_model_rela":"coached"
+  },
+  {
+    "Id": 18549,
+    "Question": "When Phil Woosnam started his international career for Wales start date?",
+    "relation": "When started his international for start date",
+    "Relation": "started international career",
+    "model_rela": "When started his career for date",
+    "solu1_model_rela":"started his international career for"
+  },
+  {
+    "Id": 18550,
+    "Question": "When Phil Woosnam started his international career for Wales end date?",
+    "relation": "When started his career for date",
+    "Relation": "started international career",
+    "model_rela": "When started his career for date",
+    "solu1_model_rela":"started his international career for"
+  },
+  {
+    "Id": 18551,
+    "Question": "When the Ukrainian People's Republic held jurisdiction over Rivne Oblast start date?",
+    "relation": "When the held jurisdiction over start",
+    "Relation": "held jurisdiction",
+    "model_rela": "When the held jurisdiction over start date",
+    "solu1_model_rela":"held jurisdiction over"
+  },
+  {
+    "Id": 18552,
+    "Question": "When the Ukrainian People's Republic held jurisdiction over Rivne Oblast end date?",
+    "relation": "When the held jurisdiction over date",
+    "Relation": "held jurisdiction",
+    "model_rela": "When the held jurisdiction over end date",
+    "solu1_model_rela":"held jurisdiction over"
+  },
+  {
+    "Id": 18553,
+    "Question": "When Leylah Fernandez achieved a doubles record of 3R in a Grand Slam tournament?",
+    "relation": "When a of 3R in a",
+    "Relation": "achieved doubles record",
+    "model_rela": "When achieved a doubles record of 3R in a Grand Slam tournament",
+    "solu1_model_rela":" achieved a doubles record"
+  },
+  {
+    "Id": 18554,
+    "Question": "When the People's Liberation Army of Macedonia began their National Liberation War of Macedonia?",
+    "relation": "When the Peoples Liberation Army of Macedonia began their",
+    "Relation": "began",
+    "model_rela": "When the began their",
+    "solu1_model_rela":"started"
+  },
+  {
+    "Id": 18555,
+    "Question": "When the Kingdom of Serbs, Croats and Slovenes existed in Nikšić start date?",
+    "relation": "When the existed in start date",
+    "Relation": "existed in",
+    "model_rela": "When the existed in start date",
+    "solu1_model_rela":"belonged in"
+  },
+  {
+    "Id": 18556,
+    "Question": "When the Kingdom of Serbs, Croats and Slovenes existed in Nikšić end date?",
+    "relation": "When the existed in end date",
+    "Relation": "existed in",
+    "model_rela": "When the existed in end date",
+    "solu1_model_rela":"belonged in"
+  },
+  {
+    "Id": 18557,
+    "Question": "When Santokh Singh began his senior career start date?",
+    "relation": "When began his senior career start date",
+    "Relation": "began",
+    "model_rela": "When began his career date",
+    "solu1_model_rela":"became senior career start date"
+  },
+  {
+    "Id": 18558,
+    "Question": "When Santokh Singh began his senior career end date?",
+    "relation": "When began his senior career date",
+    "Relation": "began",
+    "model_rela": "When began his career date",
+    "solu1_model_rela":"became senior career end date"
+  },
+  {
+    "Id": 18559,
+    "Question": "When the Kingdom of Holland bordered Groningen start date?",
+    "relation": "When the bordered start date",
+    "Relation": "bordered",
+    "model_rela": "When the bordered Groningen start date",
+    "solu1_model_rela":"bordered start date"
+  },
+  {
+    "Id": 18560,
+    "Question": "When the Kingdom of Holland bordered Groningen end date?",
+    "relation": "When the bordered end date",
+    "Relation": "bordered",
+    "model_rela": "When the bordered Groningen end date",
+    "solu1_model_rela":"ordered end date"
+  },
+  {
+    "Id": 18561,
+    "Question": "When the German submarine U-251 event occurred in the Kattegat?",
+    "relation": "When the event occurred in the",
+    "Relation": "occurred in",
+    "model_rela": "When the event occurred in the",
+    "solu1_model_rela":"belonged in"
+  },
+  {
+    "Id": 18562,
+    "Question": "When Johnny Temple passed away?",
+    "relation": "When passed away",
+    "Relation": "passed away",
+    "model_rela": "When passed away",
+    "solu1_model_rela":"passed away"
+  },
+  {
+    "Id": 18563,
+    "Question": "When Mick Tingelhoff became a starter in his senior year at Nebraska start date?",
+    "relation": "When became a starter in his senior year at Nebraska start date",
+    "Relation": "became a starter in",
+    "model_rela": "When became a starter in his senior year at date",
+    "solu1_model_rela":"became a starter in"
+  },
+  {
+    "Id": 18564,
+    "Question": "When Mick Tingelhoff became a starter in his senior year at Nebraska end date?",
+    "relation": "When became a starter in his senior year at date",
+    "Relation": "became a starter in",
+    "model_rela": "When became a starter in his senior year at date",
+    "solu1_model_rela":"became a starter in"
+  },
+  {
+    "Id": 18565,
+    "Question": "When Andrés San Martín joined Sportivo Italiano?",
+    "relation": "When joined",
+    "Relation": "joined",
+    "model_rela": "When joined",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18566,
+    "Question": "When Vietnam's 21,819 note was issued?",
+    "relation": "When 21819 was",
+    "Relation": "was issued",
+    "model_rela": "When 21819 note was issued",
+    "solu1_model_rela":"was issued"
+  },
+  {
+    "Id": 18567,
+    "Question": "When Justin Hodges played for Brisbane Broncos?",
+    "relation": "When played for",
+    "Relation": "played for",
+    "model_rela": "When for",
+    "solu1_model_rela":"played for"
+  },
+  {
+    "Id": 18568,
+    "Question": "When did Harold Macmillan make his 'Wind of Change' speech in Cape Town??",
+    "relation": "When did make his in",
+    "Relation": "made",
+    "model_rela": "When did make his speech in",
+    "solu1_model_rela":"made his speech in"
+  },
+  {
+    "Id": 18569,
+    "Question": "When Dave Mackay left Derby County F.C. start date?",
+    "relation": "When left start date",
+    "Relation": "left",
+    "model_rela": "When left start date",
+    "solu1_model_rela":"left"
+  },
+  {
+    "Id": 18570,
+    "Question": "When Dave Mackay left Derby County F.C. end date?",
+    "relation": "When left date",
+    "Relation": "left",
+    "model_rela": "When",
+    "solu1_model_rela":"left"
+  },
+  {
+    "Id": 18571,
+    "Question": "When Adolphe Lechaptois was ordained a priest of the White Fathers by Cardinal Charles Lavigerie?",
+    "relation": "When was ordained a of the by Cardinal",
+    "Relation": "was ordained a priest of",
+    "model_rela": "When was ordained a of the by",
+    "solu1_model_rela":"was ordained a priest of"
+  },
+  {
+    "Id": 18572,
+    "Question": "When Albert Francis Hegenberger served in the Army?",
+    "relation": "When served in the Army",
+    "Relation": "served in",
+    "model_rela": "When served in the",
+    "solu1_model_rela":"served in"
+  },
+  {
+    "Id": 18573,
+    "Question": "When did La Liga season 2019–20 take place start date?",
+    "relation": "When did 2019–20",
+    "Relation": "took place",
+    "model_rela": "When did season 2019–20 take place",
+    "solu1_model_rela":"took place start date"
+  },
+  {
+    "Id": 18574,
+    "Question": "When did La Liga season 2019–20 take place end date?",
+    "relation": "When did season 2019–20 take place end date",
+    "Relation": "took place",
+    "model_rela": "When did season 2019–20 take place date",
+    "solu1_model_rela":"took place end date"
+  },
+  {
+    "Id": 18575,
+    "Question": "When Edward C Meyer was a platoon leader in Company C 25th Armored Infantry Battalion during the Korean War?",
+    "relation": "When was a platoon leader in Company C Battalion during the",
+    "Relation": "was a platoon leader in",
+    "model_rela": "When Edward C Meyer was a platoon leader in during the Korean War",
+    "solu1_model_rela":"was a platoon leader in"
+  },
+  {
+    "Id": 18576,
+    "Question": "When Tomáš Rosický moved to Sparta Prague start date?",
+    "relation": "When to date",
+    "Relation": "moved to",
+    "model_rela": "When moved to start date",
+    "solu1_model_rela":"was moved to"
+  },
+  {
+    "Id": 18577,
+    "Question": "When Tomáš Rosický moved to Sparta Prague end date?",
+    "relation": "When moved to",
+    "Relation": "moved to",
+    "model_rela": "When to date",
+    "solu1_model_rela":"moved to"
+  },
+  {
+    "Id": 18578,
+    "Question": "When Lee Anderson was a politician?",
+    "relation": "When was a",
+    "Relation": "was a politician",
+    "model_rela": "When was a",
+    "solu1_model_rela":"was a politician"
+  },
+  {
+    "Id": 18579,
+    "Question": "When Ron Saunders left Norwich City start date?",
+    "relation": "When date",
+    "Relation": "left",
+    "model_rela": "When left start date",
+    "solu1_model_rela":"left start date"
+  },
+  {
+    "Id": 18580,
+    "Question": "When Ron Saunders left Norwich City end date?",
+    "relation": "When date",
+    "Relation": "left",
+    "model_rela": "When date",
+    "solu1_model_rela":"left end date"
+  },
+  {
+    "Id": 18581,
+    "Question": "When Louise Day Hicks was a Member of the U.S. House of Representatives from Massachusetts' 9th district start date?",
+    "relation": "When was a Member of the US House of Representatives from Massachusetts 9th district start date",
+    "Relation": "was a Member of",
+    "model_rela": "When was a Member of the US House of Representatives from Massachusetts 9th district start date",
+    "solu1_model_rela":"was a Member of"
+  },
+  {
+    "Id": 18582,
+    "Question": "When Louise Day Hicks was a Member of the U.S. House of Representatives from Massachusetts' 9th district end date?",
+    "relation": "When was a Member of the US House of Representatives from end date",
+    "Relation": "was a Member of",
+    "model_rela": "When was a Member of the US House of Representatives from Massachusetts 9th district end date",
+    "solu1_model_rela":"was a Member of"
+  },
+  {
+    "Id": 18583,
+    "Question": "When Dominica was a member of the International Development Association?",
+    "relation": "When Dominica was a member of the",
+    "Relation": "was a member of",
+    "model_rela": "When was a of the",
+    "solu1_model_rela":"was a member of"
+  },
+  {
+    "Id": 18584,
+    "Question": "When Patrick Lyons died in office aged 73?",
+    "relation": "When died in office aged 73",
+    "Relation": "died in office",
+    "model_rela": "When died in aged 73",
+    "solu1_model_rela":"lived in office aged 73"
+  },
+  {
+    "Id": 18585,
+    "Question": "When Aldo Tarlao was a crew member of the Italian boat which won the silver medal in the coxed pair event?",
+    "relation": "When was a member of the boat which won the silver medal in the coxed pair event",
+    "Relation": "was a crew member of",
+    "model_rela": "When Aldo Tarlao was a crew member of the which won the silver medal in the coxed pair event",
+    "solu1_model_rela":"was a crew member of"
+  },
+  {
+    "Id": 18586,
+    "Question": "When Nelson Mandela mentioned the Freedom Charter was an inspiration during the Treason Trial?",
+    "relation": "When mentioned the was an inspiration during the",
+    "Relation": "mentioned",
+    "model_rela": "When Nelson Mandela mentioned the was an inspiration during the Treason Trial",
+    "solu1_model_rela":"was an inspiration"
+  },
+  {
+    "Id": 18587,
+    "Question": "When Polina Astakhova competed in the Floor Exercise at the Summer Olympics?",
+    "relation": "When in the at the",
+    "Relation": "competed in",
+    "model_rela": "When in the Floor Exercise at the Summer Olympics",
+    "solu1_model_rela":"competed in"
+  },
+  {
+    "Id": 18588,
+    "Question": "When Giorgos Pamlidis made 15 senior appearances for a club before Apollon Smyrnis start date?",
+    "relation": "When 15 senior appearances for a before",
+    "Relation": "made senior appearances for",
+    "model_rela": "When Giorgos made 15 senior appearances for a before date",
+    "solu1_model_rela":"made appearances for"
+  },
+  {
+    "Id": 18589,
+    "Question": "When Giorgos Pamlidis made 15 senior appearances for a club before Apollon Smyrnis end date?",
+    "relation": "When Giorgos Pamlidis made 15 senior appearances for a before end date",
+    "Relation": "made senior appearances for",
+    "model_rela": "When made 15 senior appearances for a before date",
+    "solu1_model_rela":"made appearances for"
+  },
+  {
+    "Id": 18590,
+    "Question": "When Jeff Berding was the employer of the Cincinnati Bengals start date?",
+    "relation": "When was the employer of the start",
+    "Relation": "was the employer of",
+    "model_rela": "When was the employer of the date",
+    "solu1_model_rela":"was the employer of"
+  },
+  {
+    "Id": 18591,
+    "Question": "When Jeff Berding was the employer of the Cincinnati Bengals end date?",
+    "relation": "When was the employer of the end date",
+    "Relation": "was the employer of",
+    "model_rela": "When was the employer of the date",
+    "solu1_model_rela":"was the employer of"
+  },
+  {
+    "Id": 18592,
+    "Question": "When Ray Graves' playing career with an American football team started?",
+    "relation": "When playing career with an American football team started",
+    "Relation": "playing career started",
+    "model_rela": "When playing career with an started",
+    "solu1_model_rela":"started playing career with"
+  },
+  {
+    "Id": 18593,
+    "Question": "When Brian Lara won the BBC Overseas Sports Personality of the Year?",
+    "relation": "When won the Overseas",
+    "Relation": "won",
+    "model_rela": "When won the",
+    "solu1_model_rela":"won the BBC Overseas Sports Personality of the Year"
+  },
+  {
+    "Id": 18594,
+    "Question": "When Haim Revivo joined Ashdod FC start date?",
+    "relation": "When",
+    "Relation": "joined",
+    "model_rela": "When date",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18595,
+    "Question": "When Haim Revivo joined Ashdod FC end date?",
+    "relation": "When joined date",
+    "Relation": "joined",
+    "model_rela": "When",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18596,
+    "Question": "When the Scripps company sold UPI?",
+    "relation": "When the sold",
+    "Relation": "sold",
+    "model_rela": "When the sold",
+    "solu1_model_rela":"sold"
+  },
+  {
+    "Id": 18597,
+    "Question": "When Antonio Trillanes filed his candidacy as an independent candidate in the Philippine Senate election start date?",
+    "relation": "When filed his candidacy as an independent candidate in the Philippine Senate election start date",
+    "Relation": "filed candidacy",
+    "model_rela": "When filed his candidacy as an independent candidate in the election start date",
+    "solu1_model_rela":"filed his candidacy as"
+  },
+  {
+    "Id": 18598,
+    "Question": "When Antonio Trillanes filed his candidacy as an independent candidate in the Philippine Senate election end date?",
+    "relation": "When filed his candidacy as an independent candidate in the election end date",
+    "Relation": "filed candidacy",
+    "model_rela": "When filed his candidacy as an independent candidate in the election end date",
+    "solu1_model_rela":"filed his candidacy as"
+  },
+  {
+    "Id": 18599,
+    "Question": "When was the Duchy of Warsaw created start date?",
+    "relation": "When was the created start date",
+    "Relation": "created",
+    "model_rela": "When was the created start date",
+    "solu1_model_rela":"created start date"
+  },
+  {
+    "Id": 18600,
+    "Question": "When was the Duchy of Warsaw created end date?",
+    "relation": "When was the created end date",
+    "Relation": "created",
+    "model_rela": "When was the created end date",
+    "solu1_model_rela":"created end date"
+  },
+  {
+    "Id": 18601,
+    "Question": "When was the Camp Speicher massacre in Iraq?",
+    "relation": "When was the in Iraq",
+    "Relation": "occurred",
+    "model_rela": "When was the in",
+    "solu1_model_rela":"was the massacre in"
+  },
+  {
+    "Id": 18602,
+    "Question": "When Leslie Hore-Belisha served as Financial Secretary to the Treasury start date?",
+    "relation": "When served as Financial start date",
+    "Relation": "served as",
+    "model_rela": "When served as start date",
+    "solu1_model_rela":"served as Financial Secretary to the Treasury start date"
+  },
+  {
+    "Id": 18603,
+    "Question": "When Leslie Hore-Belisha served as Financial Secretary to the Treasury end date?",
+    "relation": "When served as Financial end date",
+    "Relation": "served as",
+    "model_rela": "When served as end date",
+    "solu1_model_rela":"served as Financial Secretary to the Treasury end date"
+  },
+  {
+    "Id": 18604,
+    "Question": "When Benjamin Griveaux was Secretary of State to the Minister of the Economy and Finance start date?",
+    "relation": "When Benjamin was to the start date",
+    "Relation": "was Secretary of State to the Minister of the Economy and Finance",
+    "model_rela": "When was Secretary of State to the Minister of the Economy and Finance start date",
+    "solu1_model_rela":"was Secretary of State to the Minister of the Economy and Finance start date"
+  },
+  {
+    "Id": 18605,
+    "Question": "When Benjamin Griveaux was Secretary of State to the Minister of the Economy and Finance end date?",
+    "relation": "When Benjamin was to the Minister of the Economy and Finance end date",
+    "Relation": "was Secretary of State to the Minister of the Economy and Finance",
+    "model_rela": "When was Secretary of State to the Minister of the Economy and Finance end date",
+    "solu1_model_rela":"was Secretary of State to"
+  },
+  {
+    "Id": 18606,
+    "Question": "When Ons Jabeur was a finalist in her singles results at a Grand Slam tournament?",
+    "relation": "When was a finalist in her singles results at a Grand Slam tournament",
+    "Relation": "was a finalist in singles at a Grand Slam tournament",
+    "model_rela": "When was a finalist in her singles results at a Grand Slam tournament",
+    "solu1_model_rela":"was a finalist in"
+  },
+  {
+    "Id": 18607,
+    "Question": "When Dharma Vira declared his citizenship after the British Raj?",
+    "relation": "When declared his citizenship after the",
+    "Relation": "declared citizenship",
+    "model_rela": "When declared his citizenship after the",
+    "solu1_model_rela":"declared citizenship after"
+  },
+  {
+    "Id": 18608,
+    "Question": "When Michigan split from Upper Canada?",
+    "relation": "When split from",
+    "Relation": "split from",
+    "model_rela": "When split from",
+    "solu1_model_rela":"split from Upper Canada"
+  },
+  {
+    "Id": 18609,
+    "Question": "When Martin Hawke 7th Baron Hawke succeeded his father's barony?",
+    "relation": "When succeeded his fathers barony",
+    "Relation": "succeeded barony",
+    "model_rela": "When Martin succeeded his fathers",
+    "solu1_model_rela":"succeeded"
+  },
+  {
+    "Id": 18610,
+    "Question": "When Art Modell moved the Browns to Baltimore?",
+    "relation": "When moved the to",
+    "Relation": "moved to",
+    "model_rela": "When moved the to",
+    "solu1_model_rela":"moved the Browns to Baltimore"
+  },
+  {
+    "Id": 18611,
+    "Question": "When Bill Atkinson joined Nuneaton Borough in 17 (3) start date?",
+    "relation": "When joined in 17 (3) start date",
+    "Relation": "joined",
+    "model_rela": "When joined in 17",
+    "solu1_model_rela":"joined in"
+  },
+  {
+    "Id": 18612,
+    "Question": "When Bill Atkinson joined Nuneaton Borough in 17 (3) end date?",
+    "relation": "When joined in 17 (3) date",
+    "Relation": "joined",
+    "model_rela": "When joined in 17 date",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18613,
+    "Question": "When Steam was first released?",
+    "relation": "When was first released",
+    "Relation": "was released",
+    "model_rela": "When was first released",
+    "solu1_model_rela":"was first released"
+  },
+  {
+    "Id": 18614,
+    "Question": "When Florin Birta (PNL) was mayor of Oradea start date?",
+    "relation": "When () was of date",
+    "Relation": "was mayor of",
+    "model_rela": "When () was of date",
+    "solu1_model_rela":"was mayor of"
+  },
+  {
+    "Id": 18615,
+    "Question": "When Florin Birta (PNL) was mayor of Oradea end date?",
+    "relation": "When Birta () was mayor of Oradea end date",
+    "Relation": "was mayor of",
+    "model_rela": "When () was of date",
+    "solu1_model_rela":"was mayor of"
+  },
+  {
+    "Id": 18616,
+    "Question": "When carvedilol was used for myocardial infarction?",
+    "relation": "When was used for",
+    "Relation": "was used for",
+    "model_rela": "When was used for",
+    "solu1_model_rela":"was used for"
+  },
+  {
+    "Id": 18617,
+    "Question": "When Nakhchivan was part of the Nakhichevan Autonomous Soviet Socialist Republic start date?",
+    "relation": "When was part of the start date",
+    "Relation": "was part of",
+    "model_rela": "When was part of the start date",
+    "solu1_model_rela":"was part of"
+  },
+  {
+    "Id": 18618,
+    "Question": "When Nakhchivan was part of the Nakhichevan Autonomous Soviet Socialist Republic end date?",
+    "relation": "When was part of the end date",
+    "Relation": "was part of",
+    "model_rela": "When was part of the end date",
+    "solu1_model_rela":"was part of"
+  },
+  {
+    "Id": 18619,
+    "Question": "When Gordon Strachan made his first senior career appearance for the Scotland national team?",
+    "relation": "When his senior career appearance for the",
+    "Relation": "made appearance for",
+    "model_rela": "When made his career for the",
+    "solu1_model_rela":"made his first senior career appearance for"
+  },
+  {
+    "Id": 18620,
+    "Question": "When Hamilton Academical F.C. were hit with a fixture forfeiture and 15 point deduction start date?",
+    "relation": "When were hit with a fixture forfeiture and 15 point deduction date",
+    "Relation": "were hit with",
+    "model_rela": "When were hit with a fixture forfeiture and 15 point deduction date",
+    "solu1_model_rela":"was hit with a fixture forfeiture and 15 point deduction start date"
+  },
+  {
+    "Id": 18621,
+    "Question": "When Hamilton Academical F.C. were hit with a fixture forfeiture and 15 point deduction end date?",
+    "relation": "When were with a fixture and 15 point deduction",
+    "Relation": "were hit with",
+    "model_rela": "When were hit with a fixture forfeiture and 15 point deduction date",
+    "solu1_model_rela":"was hit with a fixture forfeiture and 15 point deduction end date"
+  },
+  {
+    "Id": 18622,
+    "Question": "When Boris Pistorius was mayor of Osnabrück start date?",
+    "relation": "When was of",
+    "Relation": "was mayor of",
+    "model_rela": "When was of date",
+    "solu1_model_rela":"was mayor of"
+  },
+  {
+    "Id": 18623,
+    "Question": "When Boris Pistorius was mayor of Osnabrück end date?",
+    "relation": "When was of date",
+    "Relation": "was mayor of",
+    "model_rela": "When was of date",
+    "solu1_model_rela":"was mayor of"
+  },
+  {
+    "Id": 18624,
+    "Question": "When Bangka Belitung Islands Kepulauan Bangka Belitung was established?",
+    "relation": "When was established",
+    "Relation": "was established",
+    "model_rela": "When was established",
+    "solu1_model_rela":"was established"
+  },
+  {
+    "Id": 18625,
+    "Question": "When Karel Pečko died?",
+    "relation": "When died",
+    "Relation": "died",
+    "model_rela": "When died",
+    "solu1_model_rela":"died when"
+  },
+  {
+    "Id": 18626,
+    "Question": "When Turin was part of the Pô administrative territory start date?",
+    "relation": "When was part of the administrative territory start date",
+    "Relation": "was part of start date",
+    "model_rela": "When was part of the administrative territory start date",
+    "solu1_model_rela":"was part of"
+  },
+  {
+    "Id": 18627,
+    "Question": "When Turin was part of the Pô administrative territory end date?",
+    "relation": "When was part of the administrative territory end date",
+    "Relation": "was part of end date",
+    "model_rela": "When was part of the administrative territory end date",
+    "solu1_model_rela":"was part of"
+  },
+  {
+    "Id": 18628,
+    "Question": "When was the population and number of households of Little Rock determined in the census of 91288??",
+    "relation": "When was the population and number of households of determined in the of 91288",
+    "Relation": "was determined in census",
+    "model_rela": "When was the population and number of households of determined in the of 91288",
+    "solu1_model_rela":"was determined in"
+  },
+  {
+    "Id": 18629,
+    "Question": "When Labuan became a British Crown Colony?",
+    "relation": "When became a",
+    "Relation": "became a Crown Colony",
+    "model_rela": "When became a",
+    "solu1_model_rela":"became a British Crown Colony"
+  },
+  {
+    "Id": 18630,
+    "Question": "When Bob Galvin passed away in Chicago, Illinois start date?",
+    "relation": "When passed away in Chicago Illinois start date",
+    "Relation": "passed away start date",
+    "model_rela": "When passed away in start date",
+    "solu1_model_rela":"passed away in"
+  },
+  {
+    "Id": 18631,
+    "Question": "When Bob Galvin passed away in Chicago, Illinois end date?",
+    "relation": "When passed away in end date",
+    "Relation": "passed away end date",
+    "model_rela": "When passed away in end date",
+    "solu1_model_rela":"passed away in"
+  },
+  {
+    "Id": 18632,
+    "Question": "When Bernhard Riemann wrote his thesis Grundlagen für eine allgemeine Theorie der Funktionen einer veränderlichen complexen Größe??",
+    "relation": "When wote his Grundlagen für eine allgemeine Theorie der Funktionen einer veränderlichen complexen Größe",
+    "Relation": "wrote thesis",
+    "model_rela": "When wrote his Grundlagen für eine allgemeine Theorie der Funktionen einer veränderlichen complexen Größe",
+    "solu1_model_rela":"wrote his thesis"
+  },
+  {
+    "Id": 18633,
+    "Question": "When the U.S. Census in Barboursville, West Virginia recorded coordinates +10.848095?",
+    "relation": "When the US in recorded coordinates +10848095",
+    "Relation": "recorded coordinates",
+    "model_rela": "When the US Census in recorded coordinates +10848095",
+    "solu1_model_rela":"recorded coordinates"
+  },
+  {
+    "Id": 18634,
+    "Question": "When was the drug or therapy used to treat amebiasis approved by the FDA?",
+    "relation": "When was the or used to treat amebiasis approved by the",
+    "Relation": "approved by",
+    "model_rela": "When was the or therapy used to treat approved by the",
+    "solu1_model_rela":"was the drug or therapy used to treat"
+  },
+  {
+    "Id": 18635,
+    "Question": "When Włodzimierz Smolarek joining a club after representing Widzew Łódź for 181 matches start date?",
+    "relation": "When joining a after for 181 matches date",
+    "Relation": "joining a club after representing",
+    "model_rela": "When joining a after 181 matches date",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18636,
+    "Question": "When Włodzimierz Smolarek joining a club after representing Widzew Łódź for 181 matches end date?",
+    "relation": "When joining a after for 181 matches date",
+    "Relation": "joining a club after representing",
+    "model_rela": "When joining a after 181 matches date",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18637,
+    "Question": "When Donna Vekić was a quarter-finalist in the singles and ranked No.915 in the doubles of the Grand Slam tennis tournament?",
+    "relation": "When was a quarter-finalist in the singles and ranked No915 in the doubles of the Grand Slam tennis tournament",
+    "Relation": "was a quarter-finalist in",
+    "model_rela": "When was a quarter-finalist in the and ranked No915 in of the",
+    "solu1_model_rela":"was a quarter-finalist in"
+  },
+  {
+    "Id": 18638,
+    "Question": "When the USS John C Stennis was being named and approved by the United States?",
+    "relation": "When the was being named and approved by the United States",
+    "Relation": "was named and approved by",
+    "model_rela": "When the was being named and approved by the United States",
+    "solu1_model_rela":"was named"
+  },
+  {
+    "Id": 18639,
+    "Question": "When the Pro Football Writers of America conferred All-Pro titles?",
+    "relation": "When the titles",
+    "Relation": "conferred",
+    "model_rela": "When the conferred titles",
+    "solu1_model_rela":" conferred All-Pro titles"
+  },
+  {
+    "Id": 18640,
+    "Question": "When Ghana achieved independence from the United Kingdom?",
+    "relation": "When Ghana achieved independence from the United Kingdom",
+    "Relation": "achieved independence from",
+    "model_rela": "When achieved independence from the United Kingdom",
+    "solu1_model_rela":" achieved independence from the United Kingdom"
+  },
+  {
+    "Id": 18641,
+    "Question": "When Birinchi Kumar Barua died in Guwahati?",
+    "relation": "When died in",
+    "Relation": "died in",
+    "model_rela": "When died in",
+    "solu1_model_rela":"died in"
+  },
+  {
+    "Id": 18642,
+    "Question": "When Dimitris Saravakos was on the Panionios team?",
+    "relation": "When was on the team",
+    "Relation": "was on",
+    "model_rela": "When was on the",
+    "solu1_model_rela":"was on"
+  },
+  {
+    "Id": 18643,
+    "Question": "When Hyderabad served as the imperial capital during the Asaf Jahi's rule?",
+    "relation": "When served as the imperial during the rule",
+    "Relation": "served as the imperial capital during",
+    "model_rela": "When served as the imperial capital during the rule",
+    "solu1_model_rela":"served as the imperial capital of"
+  },
+  {
+    "Id": 18644,
+    "Question": "When Wayne Mapp was Member of Parliament for North Shore start date?",
+    "relation": "When was Member of Parliament for North Shore start date",
+    "Relation": "was Member of Parliament for",
+    "model_rela": "When was Member of Parliament for start date",
+    "solu1_model_rela":"was Member of Parliament for"
+  },
+  {
+    "Id": 18645,
+    "Question": "When Wayne Mapp was Member of Parliament for North Shore end date?",
+    "relation": "When was Member of Parliament for end date",
+    "Relation": "was Member of Parliament for",
+    "model_rela": "When was Member of Parliament for end date",
+    "solu1_model_rela":"was Member of Parliament for"
+  },
+  {
+    "Id": 18646,
+    "Question": "When Simferopol was the capital of the Republic of Crimea?",
+    "relation": "When was the capital of the",
+    "Relation": "was the capital of",
+    "model_rela": "When was the capital of the",
+    "solu1_model_rela":"was the capital of"
+  },
+  {
+    "Id": 18647,
+    "Question": "When the FDP voted in favor of the coalition agreement for the Scholz cabinet?",
+    "relation": "When the voted in favor of the for the cabinet",
+    "Relation": "voted in favor of",
+    "model_rela": "When the voted in favor of the coalition agreement for the cabinet",
+    "solu1_model_rela":"voted in favor of"
+  },
+  {
+    "Id": 18648,
+    "Question": "When George C. Marshall was United States Special Envoy to China start date?",
+    "relation": "When was United States Special Envoy to China start date",
+    "Relation": "was United States Special Envoy to",
+    "model_rela": "When was United States start date",
+    "solu1_model_rela":"was United States Special Envoy to China start date"
+  },
+  {
+    "Id": 18649,
+    "Question": "When George C. Marshall was United States Special Envoy to China end date?",
+    "relation": "When was United States Special Envoy to China end date",
+    "Relation": "was United States Special Envoy to",
+    "model_rela": "When was United States end date",
+    "solu1_model_rela":"was United States Special Envoy to China end date"
+  },
+  {
+    "Id": 18650,
+    "Question": "When Henrique Capriles endorsed Chávez for the presidential election?",
+    "relation": "When endorsed for the",
+    "Relation": "endorsed",
+    "model_rela": "When endorsed for the",
+    "solu1_model_rela":" endorsed"
+  },
+  {
+    "Id": 18651,
+    "Question": "When Denis Law missed the European Cup final due to an injury?",
+    "relation": "When the European Cup final due to an injury",
+    "Relation": "missed due to",
+    "model_rela": "When missed the due to an",
+    "solu1_model_rela":"missed"
+  },
+  {
+    "Id": 18652,
+    "Question": "When Sweden finished fourth at the World Junior Ice Hockey Championships?",
+    "relation": "When finished fourth at the",
+    "Relation": "finished at",
+    "model_rela": "When finished fourth at the World Junior Ice Hockey Championships",
+    "solu1_model_rela":"finished fourth at"
+  },
+  {
+    "Id": 18653,
+    "Question": "When the focus of the Sydney Gay and Lesbian Mardi Gras was on marriage equality?",
+    "relation": "When the of the was on",
+    "Relation": "focus was on",
+    "model_rela": "When the focus of the was on",
+    "solu1_model_rela":"focused on marriage equality"
+  },
+  {
+    "Id": 18654,
+    "Question": "When the Japanese transcription (s) Satellite image of Hokkaido by Terra was released?",
+    "relation": "When the Japanese transcription (s) Satellite image of by Terra was released",
+    "Relation": "released",
+    "model_rela": "When the Japanese transcription (s) Satellite image of by was released",
+    "solu1_model_rela":"was released"
+  },
+  {
+    "Id": 18655,
+    "Question": "When Enrique Morea competed in the Men's Singles in the Pan American Games and made it to the 4th round of the US Open?",
+    "relation": "When competed in the Mens Singles in the and made it to the 4th round of the",
+    "Relation": "competed in",
+    "model_rela": "When competed in the Mens Singles in and made it to the 4th round of the US Open",
+    "solu1_model_rela":"competed in"
+  },
+  {
+    "Id": 18656,
+    "Question": "When Maud Olofsson was Deputy Prime Minister of Sweden start date?",
+    "relation": "When was Deputy start date",
+    "Relation": "was Deputy Prime Minister of start date",
+    "model_rela": "When was Deputy Prime Minister of Sweden start date",
+    "solu1_model_rela":"was Deputy Prime Minister of Sweden start date"
+  },
+  {
+    "Id": 18657,
+    "Question": "When Maud Olofsson was Deputy Prime Minister of Sweden end date?",
+    "relation": "When was Deputy end date",
+    "Relation": "was Deputy Prime Minister of end date",
+    "model_rela": "When was Deputy Prime Minister of Sweden end date",
+    "solu1_model_rela":"was Deputy Prime Minister of Sweden"
+  },
+  {
+    "Id": 18658,
+    "Question": "When Bill Skowron made his last MLB appearance for the California Angels?",
+    "relation": "When made his last MLB appearance for the",
+    "Relation": "made MLB appearance for",
+    "model_rela": "When made his last appearance for the California Angels",
+    "solu1_model_rela":"made his last MLB appearance for"
+  },
+  {
+    "Id": 18659,
+    "Question": "When Jonathan Woodgate left as head coach of Middlesbrough F.C. start date?",
+    "relation": "When left as head coach of start date",
+    "Relation": "left as head coach of start date",
+    "model_rela": "When left as head coach of start date",
+    "solu1_model_rela":"left as head coach of"
+  },
+  {
+    "Id": 18660,
+    "Question": "When Jonathan Woodgate left as head coach of Middlesbrough F.C. end date?",
+    "relation": "When left as head coach of end date",
+    "Relation": "left as head coach of end date",
+    "model_rela": "When left as head coach of end date",
+    "solu1_model_rela":"left as head coach of"
+  },
+  {
+    "Id": 18661,
+    "Question": "When Andrew Sznajder reached 2nd round in Grand Slam singles event in his 46th year?",
+    "relation": "When reached 2nd round in Grand Slam event in his 46th year",
+    "Relation": "reached round in",
+    "model_rela": "When reached 2nd round in Grand Slam event in his 46th year",
+    "solu1_model_rela":"made 2nd round in"
+  },
+  {
+    "Id": 18662,
+    "Question": "When foreign forces withdrew their troops with the exception of during the Angolan Civil War start date?",
+    "relation": "When foreign forces withdrew their troops with the exception of during the start date",
+    "Relation": "withdrew troops during start date",
+    "model_rela": "When foreign forces withdrew their troops with the exception of during the start date",
+    "solu1_model_rela":"replaced"
+  },
+  {
+    "Id": 18663,
+    "Question": "When foreign forces withdrew their troops with the exception of during the Angolan Civil War end date?",
+    "relation": "When foreign forces withdrew their troops with the exception of during the end date",
+    "Relation": "withdrew troops during end date",
+    "model_rela": "When foreign forces withdrew their troops with the exception of during the end date",
+    "solu1_model_rela":"replaced"
+  },
+  {
+    "Id": 18664,
+    "Question": "When Salina, Kansas's area code was +65.151778?",
+    "relation": "When area code was +65151778",
+    "Relation": "area code",
+    "model_rela": "When area code was +65151778",
+    "solu1_model_rela":"was the area code of"
+  },
+  {
+    "Id": 18665,
+    "Question": "When Duncan Ferguson became the Everton F.C. head coach start date?",
+    "relation": "When became the head coach start date",
+    "Relation": "became head coach",
+    "model_rela": "When became the head coach start date",
+    "solu1_model_rela":"became the head coach of"
+  },
+  {
+    "Id": 18666,
+    "Question": "When Duncan Ferguson became the Everton F.C. head coach end date?",
+    "relation": "When became the head coach end date",
+    "Relation": "became head coach",
+    "model_rela": "When became the head coach end date",
+    "solu1_model_rela":"became the head coach of"
+  },
+  {
+    "Id": 18667,
+    "Question": "When the German submarine U-640 was deployed start date?",
+    "relation": "When the was start date",
+    "Relation": "was deployed",
+    "model_rela": "When the was deployed start date",
+    "solu1_model_rela":"was deployed start date"
+  },
+  {
+    "Id": 18668,
+    "Question": "When the German submarine U-640 was deployed end date?",
+    "relation": "When the was end date",
+    "Relation": "was deployed",
+    "model_rela": "When the was deployed end date",
+    "solu1_model_rela":"was deployed end date"
+  },
+  {
+    "Id": 18669,
+    "Question": "When Mark van Bommel won two Bundesliga titles and finished runner-up in the UEFA Champions League Final?",
+    "relation": "When won titles and finished runner-up in the UEFA Champions League",
+    "Relation": "won titles",
+    "model_rela": "When won two titles and finished in the",
+    "solu1_model_rela":"won two Bundesliga titles"
+  },
+  {
+    "Id": 18670,
+    "Question": "When Winnie Shaw represented Great Britain in Wightman Cup and Federation Cup teams?",
+    "relation": "When represented in and Federation Cup teams",
+    "Relation": "represented in teams",
+    "model_rela": "When represented in and Federation Cup teams",
+    "solu1_model_rela":"represented in"
+  },
+  {
+    "Id": 18671,
+    "Question": "When the State of Greater Lebanon ( 1925–40 ) was divided into the parts that make up the modern state of Lebanon start date?",
+    "relation": "When the ( 1925–40 ) was divided into the parts that make up the modern state of start date",
+    "Relation": "was divided",
+    "model_rela": "When the ( 1925–40 ) was divided into the parts that make up the modern state of Lebanon start date",
+    "solu1_model_rela":"was divided into parts of"
+  },
+  {
+    "Id": 18672,
+    "Question": "When the State of Greater Lebanon ( 1925–40 ) was divided into the parts that make up the modern state of Lebanon end date?",
+    "relation": "When the ( 1925–40 ) was divided into the parts that make up the modern state of Lebanon date",
+    "Relation": "was divided",
+    "model_rela": "When the ( 1925–40 ) was divided into the parts that make up the modern state of Lebanon end date",
+    "solu1_model_rela":"was divided into parts of"
+  },
+  {
+    "Id": 18673,
+    "Question": "When the women's football team won by a score of 9–1 in the E2–22 Primera División?",
+    "relation": "When the won by a of in the E2–22",
+    "Relation": "won by score",
+    "model_rela": "When the won by a score of 9–1 in the",
+    "solu1_model_rela":"won by a score of"
+  },
+  {
+    "Id": 18674,
+    "Question": "When John Carter was elected Member of the New Zealand Parliament for Far North start date?",
+    "relation": "When was of the for Far North date",
+    "Relation": "was elected Member of",
+    "model_rela": "When was elected Member of the New Zealand Parliament for start date",
+    "solu1_model_rela":"was elected Member of"
+  },
+  {
+    "Id": 18675,
+    "Question": "When John Carter was elected Member of the New Zealand Parliament for Far North end date?",
+    "relation": "When was Member of the for Far date",
+    "Relation": "was elected Member of",
+    "model_rela": "When was elected Member of the New Zealand Parliament for end date",
+    "solu1_model_rela":"was elected Member of"
+  },
+  {
+    "Id": 18676,
+    "Question": "When Jim Beglin debuted for Liverpool?",
+    "relation": "When debuted for Liverpool",
+    "Relation": "debuted for",
+    "model_rela": "When debuted for",
+    "solu1_model_rela":" debuted for"
+  },
+  {
+    "Id": 18677,
+    "Question": "When Ivan Patzaichin competed in C-2 m canoeing while also participating in the World Championships in C-1 m in Sofia?",
+    "relation": "When copeted in C-2 m while also participating in the World Championships in C-1 m in",
+    "Relation": "competed in",
+    "model_rela": "When competed in canoeing while also participating in the World Championships in C-1 m in",
+    "solu1_model_rela":"competed in"
+  },
+  {
+    "Id": 18678,
+    "Question": "When Barry Unsworth won the Booker Prize?",
+    "relation": "When won the",
+    "Relation": "won",
+    "model_rela": "When won the",
+    "solu1_model_rela":"won"
+  },
+  {
+    "Id": 18679,
+    "Question": "When Marijke Vos was in the House of Representatives of the Netherlands start date?",
+    "relation": "When was in the start date",
+    "Relation": "was in",
+    "model_rela": "When was in the start date",
+    "solu1_model_rela":"was in"
+  },
+  {
+    "Id": 18680,
+    "Question": "When Marijke Vos was in the House of Representatives of the Netherlands end date?",
+    "relation": "When was in the end date",
+    "Relation": "was in",
+    "model_rela": "When was in the end date",
+    "solu1_model_rela":"was in"
+  },
+  {
+    "Id": 18681,
+    "Question": "When Allan Young joining Chelsea start date?",
+    "relation": "When joining start date",
+    "Relation": "joining",
+    "model_rela": "When date",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18682,
+    "Question": "When Allan Young joining Chelsea end date?",
+    "relation": "When joining date",
+    "Relation": "joining",
+    "model_rela": "When joining",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18683,
+    "Question": "When Iran's foreign reserves was estimated to have $85.2 billion?",
+    "relation": null,
+    "Relation": "was estimated to have",
+    "model_rela": "When was to have $8542",
+    "solu1_model_rela":"was estimated to have"
+  },
+  {
+    "Id": 18684,
+    "Question": "When Nigeria had ease-of-doing-business rank according to the Economy of Nigeria Statistics index number 35 1?",
+    "relation": "When had to the index number",
+    "Relation": "had ease-of-doing-business rank",
+    "model_rela": "When had ease-of-doing-business rank according to the Economy of Nigeria Statistics index number 35 1",
+    "solu1_model_rela":"rank according to"
+  },
+  {
+    "Id": 18685,
+    "Question": "When Henri Longchambon became a substitute member of the Parliamentary Assembly of the Council of Europe, representing France start date?",
+    "relation": "When became a substitute member of the representing France start date",
+    "Relation": "became a substitute member of",
+    "model_rela": "When became a substitute member of the of representing France start date",
+    "solu1_model_rela":"became a substitute member of"
+  },
+  {
+    "Id": 18686,
+    "Question": "When Henri Longchambon became a substitute member of the Parliamentary Assembly of the Council of Europe, representing France end date?",
+    "relation": "When became a substitute member of the representing France end date",
+    "Relation": "became a substitute member of",
+    "model_rela": "When became a substitute member of the of representing France end date",
+    "solu1_model_rela":"became a substitute member of"
+  },
+  {
+    "Id": 18687,
+    "Question": "When German submarine U-447 was sunk due to a depth charge?",
+    "relation": "When was due to a",
+    "Relation": "was sunk",
+    "model_rela": "When was due to a",
+    "solu1_model_rela":"was sunk due to a depth charge"
+  },
+  {
+    "Id": 18688,
+    "Question": "When Bob Bradley's managerial career with the United States national team began?",
+    "relation": "When managerial with the began",
+    "Relation": "managerial career began",
+    "model_rela": "When managerial career with the began",
+    "solu1_model_rela":"started"
+  },
+  {
+    "Id": 18689,
+    "Question": "When the United States Census for Higginsville, Missouri took place?",
+    "relation": "When the United States for took",
+    "Relation": "Census took place",
+    "model_rela": "When the for took",
+    "solu1_model_rela":"took place"
+  },
+  {
+    "Id": 18690,
+    "Question": "When the Irish went 9–0–1 and were ranked second in the final Associated Press poll?",
+    "relation": "When the went 9–0–1 and were ranked second in the final",
+    "Relation": "were ranked",
+    "model_rela": "When the went 9–0–1 and were ranked second in the final",
+    "solu1_model_rela":"went 9–0–1"
+  },
+  {
+    "Id": 18691,
+    "Question": "When did Tajikistan replaced the Tajik Soviet Socialist Republic?",
+    "relation": "When did replaced the",
+    "Relation": "replaced",
+    "model_rela": "When did replaced the",
+    "solu1_model_rela":"replaced"
+  },
+  {
+    "Id": 18692,
+    "Question": "When Greece had an Area Water of 1.51?",
+    "relation": "When had an 151",
+    "Relation": "had an Area Water",
+    "model_rela": "When had an of 1351",
+    "solu1_model_rela":"had"
+  },
+  {
+    "Id": 18693,
+    "Question": "When Het Hogeland was an administrative territorial entity?",
+    "relation": "When was an",
+    "Relation": "was an administrative territorial entity",
+    "model_rela": "When was an administrative territorial entity",
+    "solu1_model_rela":"was an administrative territorial entity"
+  },
+  {
+    "Id": 18694,
+    "Question": "When the Xhosa cattle-killing movement and famine began in Cape Colony (Dutch Kaapkolonie)?",
+    "relation": null,
+    "Relation": "began",
+    "model_rela": "When the cattle-killing movement and began in (Dutch Kaapkolonie)",
+    "solu1_model_rela":"started"
+  },
+  {
+    "Id": 18695,
+    "Question": "When Hungary was expected to win the World Cup?",
+    "relation": "When was expected to win the",
+    "Relation": "was expected to win",
+    "model_rela": "When was to win the",
+    "solu1_model_rela":"was expected to win"
+  },
+  {
+    "Id": 18696,
+    "Question": "When the Soviet Union ceased to be the sovereign power of the Kuril Islands start date?",
+    "relation": "When the ceased to be the power of the start date",
+    "Relation": "ceased to be the sovereign power",
+    "model_rela": "When the ceased to be the sovereign power of the start date",
+    "solu1_model_rela":"was the sovereign power of"
+  },
+  {
+    "Id": 18697,
+    "Question": "When the Soviet Union ceased to be the sovereign power of the Kuril Islands end date?",
+    "relation": "When the ceased to be the power of the date",
+    "Relation": "ceased to be the sovereign power",
+    "model_rela": "When the ceased to be the sovereign power of the end date",
+    "solu1_model_rela":"became the sovereign power of"
+  },
+  {
+    "Id": 18698,
+    "Question": "When Giovana Queiroz left Madrid CFF B 15 (14) start date?",
+    "relation": "When (14)",
+    "Relation": "left",
+    "model_rela": "When (14)",
+    "solu1_model_rela":"left"
+  },
+  {
+    "Id": 18699,
+    "Question": "When Giovana Queiroz left Madrid CFF B 15 (14) end date?",
+    "relation": "When date",
+    "Relation": "left",
+    "model_rela": "When (14)",
+    "solu1_model_rela":"left"
+  },
+  {
+    "Id": 18700,
+    "Question": "When William Finnemann became a priest in the Catholic Church?",
+    "relation": "When became a priest in the Catholic Church",
+    "Relation": "became a priest",
+    "model_rela": "When became a in the",
+    "solu1_model_rela":"became a priest in"
+  },
+  {
+    "Id": 18701,
+    "Question": "When Harvey Kuenn joined the Detroit Tigers?",
+    "relation": "When joined the",
+    "Relation": "joined",
+    "model_rela": "When joined the",
+    "solu1_model_rela":"joined"
+  },
+  {
+    "Id": 18702,
+    "Question": "When Jerry Lumpe made the Bombers' roster?",
+    "relation": "When made the roster",
+    "Relation": "made the roster",
+    "model_rela": "When made the",
+    "solu1_model_rela":"made the Bombers' roster"
+  },
+  {
+    "Id": 18703,
+    "Question": "When Ellen MacArthur broke the world record for the fastest solo circumnavigation of the globe?",
+    "relation": "When broke the world record for the fastest solo circumnavigation of the globe",
+    "Relation": "broke the world record",
+    "model_rela": "When broke the world record for the fastest solo circumnavigation of the globe",
+    "solu1_model_rela":"breaking the world record for the fastest solo circumnavigation"
+  },
+  {
+    "Id": 18704,
+    "Question": ":When the Habsburg Monarchy occupied Padua start date?",
+    "relation": "When the occupied start date",
+    "Relation": "occupied",
+    "model_rela": "When the occupied start date",
+    "solu1_model_rela":"occupied start date"
+  },
+  {
+    "Id": 18705,
+    "Question": ":When the Habsburg Monarchy occupied Padua end date?",
+    "relation": "When the occupied end date",
+    "Relation": "occupied",
+    "model_rela": "When the occupied end date",
+    "solu1_model_rela":"occupied"
+  },
+  {
+    "Id": 18706,
+    "Question": "When Patrick Cogan was defeated at the Seanad election?",
+    "relation": "When was defeated at the Seanad election",
+    "Relation": "was defeated at",
+    "model_rela": "When was at the",
+    "solu1_model_rela":"was defeated at"
+  },
+  {
+    "Id": 18707,
+    "Question": "When Brandon Scott won the November 3 general election?",
+    "relation": null,
+    "Relation": "won",
+    "model_rela": "When won the November 3 general election",
+    "solu1_model_rela":"won"
+  },
+  {
+    "Id": 18708,
+    "Question": "When Haiti was a member of the International Telecommunication Union?",
+    "relation": "When Haiti was a member of the",
+    "Relation": "was a member of",
+    "model_rela": "When was a member of the",
+    "solu1_model_rela":"was a member of"
+  },
+  {
+    "Id": 18709,
+    "Question": "When 1,600 kilograms of Fentanyl started to be used in healthcare globally?",
+    "relation": "When 1600 kilograms of to be in healthcare",
+    "Relation": "started to be used in",
+    "model_rela": "When 1560 kilograms of started to be used in healthcare globally",
+    "solu1_model_rela":"started to be used in"
+  },
+  {
+    "Id": 18710,
+    "Question": "When Loris Campana was born in Marcaria, Italy?",
+    "relation": "When was born in",
+    "Relation": "was born in",
+    "model_rela": "When was born in",
+    "solu1_model_rela":"was born in"
+  },
+  {
+    "Id": 18711,
+    "Question": "When Mario Vergara was born?",
+    "relation": "When was born",
+    "Relation": "was born",
+    "model_rela": "When was born",
+    "solu1_model_rela":"was born"
+  },
+  {
+    "Id": 18712,
+    "Question": "When Rao Birender Singh served as the second speaker of the Haryana state assembly?",
+    "relation": "When served as the of the state assembly",
+    "Relation": "served as",
+    "model_rela": "When served as the of the",
+    "solu1_model_rela":"served as the second speaker of"
+  },
+  {
+    "Id": 18713,
+    "Question": "When the US Census took place in Solon Township, Kent County, Michigan and Onamia, Minnesota?",
+    "relation": "When the took in and",
+    "Relation": "took place in",
+    "model_rela": "When the took in and",
+    "solu1_model_rela":"took place in"
+  },
+  {
+    "Id": 18714,
+    "Question": "When United States Census took place?",
+    "relation": "When United States took",
+    "Relation": "took place",
+    "model_rela": "When took",
+    "solu1_model_rela":"was taken place"
+  },
+  {
+    "Id": 18715,
+    "Question": "When was the census taken in Lava Hot Springs, Idaho?",
+    "relation": "When was the in",
+    "Relation": "taken in",
+    "model_rela": "When was the in",
+    "solu1_model_rela":"was taken in"
+  },
+  {
+    "Id": 18716,
+    "Question": "When John Howard Gomery became a partner?",
+    "relation": "When became a partner",
+    "Relation": "became a partner",
+    "model_rela": "When became a partner",
+    "solu1_model_rela":"became a partner of"
+  },
+  {
+    "Id": 18717,
+    "Question": "When Afro-Caribbean civil rights movement started on Curaçao?",
+    "relation": "When Afro-Caribbean civil rights movement started on",
+    "Relation": "started on",
+    "model_rela": "When started on",
+    "solu1_model_rela":"started"
+  },
+  {
+    "Id": 18718,
+    "Question": "When Bill Bailey was a member of a Major League Baseball team start date?",
+    "relation": "When was a member of a team start date",
+    "Relation": "was a member of",
+    "model_rela": "When was a of a date",
+    "solu1_model_rela":"was a member of"
+  },
+  {
+    "Id": 18719,
+    "Question": "When Bill Bailey was a member of a Major League Baseball team end date?",
+    "relation": "When was a member of a team end date",
+    "Relation": "was a member of",
+    "model_rela": "When was a member of a date",
+    "solu1_model_rela":"was a member of"
+  },
+  {
+    "Id": 18720,
+    "Question": "When Roger Hunt started his international England career start date?",
+    "relation": "When started his start date",
+    "Relation": "started his international career",
+    "model_rela": "When started his international career date",
+    "solu1_model_rela":"started his international career start date"
+  },
+  {
+    "Id": 18721,
+    "Question": "When Roger Hunt started his international England career end date?",
+    "relation": "When started his career date",
+    "Relation": "started his international career",
+    "model_rela": "When started his international career date",
+    "solu1_model_rela":"started his international career end date"
+  },
+  {
+    "Id": 18722,
+    "Question": "When Cass Ballenger represented the 10th Congressional District of North Carolina?",
+    "relation": "When represented the of",
+    "Relation": "represented the Congressional District",
+    "model_rela": "When represented the 10th Congressional District of North Carolina",
+    "solu1_model_rela":"represented"
+  },
+  {
+    "Id": 18723,
+    "Question": "When Krishnam Raju became Minister of Defence start date?",
+    "relation": "When became Minister of Defence start date",
+    "Relation": "became Minister of Defence",
+    "model_rela": "When became Minister of Defence start date",
+    "solu1_model_rela":"became Minister of Defence start date"
+  }
+]

@@ -1,0 +1,1630 @@
+[
+  {
+    "Id": 15902,
+    "Question": "When Karen Pierce obtained the MSc degree from the London School of Economics?",
+    "relation": "When obtained the from the",
+    "origin_entity": [
+      "Karen Pierce",
+      "London School of Economics",
+      "MSc",
+      "degree"
+    ],
+    "Relation": "obtained the MSc degree from",
+    "entity": [
+      "Karen Pierce",
+      "MSc degree",
+      "London School of Economics"
+    ]
+  },
+  {
+    "Id": 15903,
+    "Question": "When Joan Miró received an honorary doctorate from University of Murcia?",
+    "relation": "When received an from",
+    "origin_entity": [
+      "Joan Miró",
+      "University of Murcia",
+      "honorary doctorate"
+    ],
+    "Relation": "received an honorary doctorate from",
+    "entity": [
+      "Joan Miró",
+      "honorary doctorate",
+      "University of Murcia"
+    ]
+  },
+  {
+    "Id": 15904,
+    "Question": "When Bolzano was awarded Alpine Town of the Year?",
+    "relation": "When was awarded",
+    "origin_entity": [
+      "Bolzano",
+      "Alpine Town of the Year"
+    ],
+    "Relation": "was awarded Alpine Town of the Year",
+    "entity": [
+      "Bolzano",
+      "Alpine Town of the Year"
+    ]
+  },
+  {
+    "Id": 15905,
+    "Question": "When The Secrets of Isis was broadcasted as a television series?",
+    "relation": "When The Secrets of Isis was as a television series",
+    "origin_entity": [
+      "broadcasted"
+    ],
+    "Relation": "was broadcasted as a television series",
+    "entity": [
+      "The Secrets of Isis",
+      "television series"
+    ]
+  },
+  {
+    "Id": 15906,
+    "Question": "When one of Fernando Figueroa's sons married Marcela Gutiérrez?",
+    "relation": "When one of sons married Marcela Gutiérrez",
+    "origin_entity": [
+      "Fernando Figueroa"
+    ],
+    "Relation": "married",
+    "entity": [
+      "Fernando Figueroa's sons",
+      "Marcela Gutiérrez"
+    ]
+  },
+  {
+    "Id": 15907,
+    "Question": "When was the last general election held in Peru prior to Pedro Castillo's election and the win of the left-wing Free Peru party??",
+    "relation": "When was the last general election held in Peru prior to election and the win of the left-wing Free Peru party",
+    "origin_entity": [
+      "Pedro Castillo"
+    ],
+    "Relation": "was held prior to the election and win of",
+    "entity": [
+      "last general election",
+      "Peru",
+      "Pedro Castillo's election",
+      "left-wing Free Peru party"
+    ]
+  },
+  {
+    "Id": 15908,
+    "Question": "When Christopher Hogwood gave his final lecture start date?",
+    "relation": "When gave his final lecture start date",
+    "origin_entity": [
+      "Christopher Hogwood"
+    ],
+    "Relation": "gave his final lecture start date",
+    "entity": [
+      "Christopher Hogwood",
+      "final lecture",
+      "start"
+    ]
+  },
+  {
+    "Id": 15909,
+    "Question": "When Christopher Hogwood gave his final lecture end date?",
+    "relation": "When gave his final lecture end date",
+    "origin_entity": [
+      "Christopher Hogwood"
+    ],
+    "Relation": "gave his final lecture end date",
+    "entity": [
+      "Christopher Hogwood",
+      "final lecture",
+      "end"
+    ]
+  },
+  {
+    "Id": 15910,
+    "Question": "When Volochysk became part of the Khmelnytskyi Oblast?",
+    "relation": "When became part of the",
+    "origin_entity": [
+      "Volochysk",
+      "Khmelnytskyi Oblast"
+    ],
+    "Relation": "became part of",
+    "entity": [
+      "Volochysk",
+      "Khmelnytskyi Oblast"
+    ]
+  },
+  {
+    "Id": 15911,
+    "Question": "When TF1 became both a national private and a generalist public broadcaster start date?",
+    "relation": "When became both a private and a generalist public broadcaster start date",
+    "origin_entity": [
+      "TF1",
+      "national"
+    ],
+    "Relation": "became both a national private and a generalist public broadcaster start date",
+    "entity": [
+      "TF1",
+      "national private broadcaster",
+      "generalist public broadcaster",
+      "start"
+    ]
+  },
+  {
+    "Id": 15912,
+    "Question": "When TF1 became both a national private and a generalist public broadcaster end date?",
+    "relation": "When became both a national private and a generalist public broadcaster end date",
+    "origin_entity": [
+      "TF1"
+    ],
+    "Relation": "became both a national private and a generalist public broadcaster end date",
+    "entity": [
+      "TF1",
+      "national private broadcaster",
+      "generalist public broadcaster",
+      "end"
+    ]
+  },
+  {
+    "Id": 15913,
+    "Question": "When Gennadiy Seleznyov was removed as the leader of the Party of Russia's Rebirth start date?",
+    "relation": "When was removed as the leader of the Party of Russias Rebirth start date",
+    "origin_entity": [
+      "Gennadiy Seleznyov"
+    ],
+    "Relation": "was removed as the leader of the Party of Russia's Rebirth start date",
+    "entity": [
+      "Gennadiy Seleznyov",
+      "Party of Russia's Rebirth",
+      "leader",
+      "start"
+    ]
+  },
+  {
+    "Id": 15914,
+    "Question": "When Gennadiy Seleznyov was removed as the leader of the Party of Russia's Rebirth end date?",
+    "relation": "When was removed as the leader of the end date",
+    "origin_entity": [
+      "Gennadiy Seleznyov",
+      "russias",
+      "Party of Russia's Rebirth"
+    ],
+    "Relation": "was removed as the leader of the Party of Russia's Rebirth end date",
+    "entity": [
+      "Gennadiy Seleznyov",
+      "Party of Russia's Rebirth",
+      "leader",
+      "end"
+    ]
+  },
+  {
+    "Id": 15915,
+    "Question": "When Juan Ignacio González Ibarra joined Atlas F.C. start date?",
+    "relation": "When joined date",
+    "origin_entity": [
+      "Juan Ignacio González",
+      "Atlas F.C",
+      "Ibarra",
+      "start"
+    ],
+    "Relation": "joined Atlas F.C. start date",
+    "entity": [
+      "Juan Ignacio González Ibarra",
+      "Atlas F.C.",
+      "start"
+    ]
+  },
+  {
+    "Id": 15916,
+    "Question": "When Juan Ignacio González Ibarra joined Atlas F.C. end date?",
+    "relation": "When date",
+    "origin_entity": [
+      "Juan Ignacio González",
+      "Atlas F.C",
+      "Ibarra",
+      "end",
+      "joined"
+    ],
+    "Relation": "joined Atlas F.C. end date",
+    "entity": [
+      "Juan Ignacio González Ibarra",
+      "Atlas F.C.",
+      "end"
+    ]
+  },
+  {
+    "Id": 15917,
+    "Question": "When Max Verstappen competed in the Australian Grand Prix?",
+    "relation": "When competed in the",
+    "origin_entity": [
+      "Max Verstappen",
+      "Australian Grand Prix"
+    ],
+    "Relation": "competed in the Australian Grand Prix",
+    "entity": [
+      "Max Verstappen",
+      "Australian Grand Prix"
+    ]
+  },
+  {
+    "Id": 15918,
+    "Question": "When Edward Clancy was consecrated as a titular Bishop of Árd Carna and Auxiliary Bishop of Sydney??",
+    "relation": "When was consecrated as a titular Bishop of Árd Carna and of Sydney",
+    "origin_entity": [
+      "Edward Clancy",
+      "Auxiliary Bishop"
+    ],
+    "Relation": "was consecrated as a titular Bishop of Árd Carna and Auxiliary Bishop of Sydney",
+    "entity": [
+      "Edward Clancy",
+      "titular Bishop of Árd Carna",
+      "Auxiliary Bishop of Sydney"
+    ]
+  },
+  {
+    "Id": 15919,
+    "Question": "When Leif Skiöld completed his senior career with Djurgårdens IF 75 (60) start date?",
+    "relation": "When completed his senior with 75 (60) date",
+    "origin_entity": [
+      "Leif Skiöld",
+      "Djurgårdens IF",
+      "career",
+      "start"
+    ],
+    "Relation": "completed his senior career with Djurgårdens IF 75 (60) start date",
+    "entity": [
+      "Leif Skiöld",
+      "Djurgårdens IF 75 (60)",
+      "senior career",
+      "start"
+    ]
+  },
+  {
+    "Id": 15920,
+    "Question": "When Leif Skiöld completed his senior career with Djurgårdens IF 75 (60) end date?",
+    "relation": "When his career with 75 date",
+    "origin_entity": [
+      "Leif Skiöld",
+      "Djurgårdens IF",
+      "end",
+      "senior",
+      "completed",
+      "(60)"
+    ],
+    "Relation": "completed his senior career with Djurgårdens IF 75 (60) end date",
+    "entity": [
+      "Leif Skiöld",
+      "Djurgårdens IF 75 (60)",
+      "senior career",
+      "end"
+    ]
+  },
+  {
+    "Id": 15921,
+    "Question": "When the workers of Brașov rebelled against the communist regime of Nicolae Ceaușescu?",
+    "relation": null,
+    "origin_entity": null,
+    "Relation": "rebelled against the communist regime of Nicolae Ceauşescu",
+    "entity": [
+      "workers of Braşov",
+      "communist regime of Nicolae Ceauşescu"
+    ]
+  },
+  {
+    "Id": 15922,
+    "Question": "When Shane Watson's international career began?",
+    "relation": "When international career began",
+    "origin_entity": [
+      "Shane Watson"
+    ],
+    "Relation": "international career began",
+    "entity": [
+      "Shane Watson",
+      "international career",
+      "began"
+    ]
+  },
+  {
+    "Id": 15923,
+    "Question": "When MackRhoades' administrative career ended start date?",
+    "relation": "When MackRhoades career ended date",
+    "origin_entity": [
+      "start",
+      "administrative"
+    ],
+    "Relation": "administrative career ended start date",
+    "entity": [
+      "MackRhoades",
+      "administrative career",
+      "ended",
+      "start"
+    ]
+  },
+  {
+    "Id": 15924,
+    "Question": "When MackRhoades' administrative career ended end date?",
+    "relation": "When MackRhoades administrative career end",
+    "origin_entity": [
+      "end",
+      "date",
+      "ed"
+    ],
+    "Relation": "administrative career ended end date",
+    "entity": [
+      "MackRhoades",
+      "administrative career",
+      "ended",
+      "end"
+    ]
+  },
+  {
+    "Id": 15925,
+    "Question": "When Tina Thompson became the associated head coach for a team?",
+    "relation": "When became the head coach for",
+    "origin_entity": [
+      "Tina Thompson",
+      "a team",
+      "associated"
+    ],
+    "Relation": "became the associated head coach for a team",
+    "entity": [
+      "Tina Thompson",
+      "associated head coach",
+      "team"
+    ]
+  },
+  {
+    "Id": 15926,
+    "Question": "When Juan Leiva started his senior career before playing for Universidad de Chile start date?",
+    "relation": "When his career before for start",
+    "origin_entity": [
+      "Juan",
+      "senior",
+      "Universidad de Chile",
+      "start",
+      "date",
+      "ed",
+      "Leiva",
+      "playing"
+    ],
+    "Relation": "started his senior career before playing for Universidad de Chile start date",
+    "entity": [
+      "Juan Leiva",
+      "senior career",
+      "Universidad de Chile",
+      "start"
+    ]
+  },
+  {
+    "Id": 15927,
+    "Question": "When Juan Leiva started his senior career before playing for Universidad de Chile end date?",
+    "relation": "When started his career before for",
+    "origin_entity": [
+      "Leiva",
+      "senior",
+      "Universidad de Chile",
+      "end",
+      "date",
+      "Juan",
+      "playing"
+    ],
+    "Relation": "started his senior career before playing for Universidad de Chile end date",
+    "entity": [
+      "Juan Leiva",
+      "senior career",
+      "Universidad de Chile",
+      "end"
+    ]
+  },
+  {
+    "Id": 15928,
+    "Question": "When Michael Young won the AL batting title?",
+    "relation": "When the title",
+    "origin_entity": [
+      "AL",
+      "batting",
+      "Michael Young",
+      "won"
+    ],
+    "Relation": "won the AL batting title",
+    "entity": [
+      "Michael Young",
+      "AL batting title"
+    ]
+  },
+  {
+    "Id": 15929,
+    "Question": "When Mikheil Saakashvili was Prime Minister of Georgia start date?",
+    "relation": "When was Prime Minister of Georgia start date",
+    "origin_entity": [
+      "Mikheil Saakashvili"
+    ],
+    "Relation": "was Prime Minister of Georgia start date",
+    "entity": [
+      "Mikheil Saakashvili",
+      "Prime Minister of Georgia",
+      "start"
+    ]
+  },
+  {
+    "Id": 15930,
+    "Question": "When Mikheil Saakashvili was Prime Minister of Georgia end date?",
+    "relation": "When was Prime Minister of Georgia end date",
+    "origin_entity": [
+      "Mikheil Saakashvili"
+    ],
+    "Relation": "was Prime Minister of Georgia end date",
+    "entity": [
+      "Mikheil Saakashvili",
+      "Prime Minister of Georgia",
+      "end"
+    ]
+  },
+  {
+    "Id": 15931,
+    "Question": "When Mick Coop made 425 (18) appearances for a football club before joining Derby County F.C. start date?",
+    "relation": "When made 425 (18) appearances for a before joining date",
+    "origin_entity": [
+      "Mick Coop",
+      "Derby County",
+      "Derby County F.C",
+      "club",
+      "football",
+      "start",
+      "fc"
+    ],
+    "Relation": "made 425 (18) appearances for a football club before joining Derby County F.C. start date",
+    "entity": [
+      "Mick Coop",
+      "425 (18) appearances",
+      "football club",
+      "Derby County F.C.",
+      "start"
+    ]
+  },
+  {
+    "Id": 15932,
+    "Question": "When Mick Coop made 425 (18) appearances for a football club before joining Derby County F.C. end date?",
+    "relation": "When made 425 (18) appearances for a before joining date",
+    "origin_entity": [
+      "Mick Coop",
+      "Derby County",
+      "Derby County F.C",
+      "club",
+      "end",
+      "football",
+      "fc"
+    ],
+    "Relation": "made 425 (18) appearances for a football club before joining Derby County F.C. end date",
+    "entity": [
+      "Mick Coop",
+      "425 (18) appearances",
+      "football club",
+      "Derby County F.C.",
+      "end"
+    ]
+  },
+  {
+    "Id": 15933,
+    "Question": "When Bobbi Kristina Brown was active start date?",
+    "relation": "When was active date",
+    "origin_entity": [
+      "start",
+      "Bobbi Kristina Brown"
+    ],
+    "Relation": "was active start date",
+    "entity": [
+      "Bobbi Kristina Brown",
+      "active",
+      "start"
+    ]
+  },
+  {
+    "Id": 15934,
+    "Question": "When Bobbi Kristina Brown was active end date?",
+    "relation": "When was active date",
+    "origin_entity": [
+      "Bobbi Kristina Brown",
+      "end"
+    ],
+    "Relation": "was active end date",
+    "entity": [
+      "Bobbi Kristina Brown",
+      "active",
+      "end"
+    ]
+  },
+  {
+    "Id": 15935,
+    "Question": "When Hannah Arendt obtained her doctorate in philosophy at the University of Heidelberg?",
+    "relation": "When obtained her in philosophy at the",
+    "origin_entity": [
+      "Hannah Arendt",
+      "doctorate",
+      "University of Heidelberg"
+    ],
+    "Relation": "obtained her doctorate in philosophy at the University of Heidelberg",
+    "entity": [
+      "Hannah Arendt",
+      "doctorate in philosophy",
+      "University of Heidelberg"
+    ]
+  },
+  {
+    "Id": 15936,
+    "Question": "When Andy Beshear became the 63rd Governor of Kentucky?",
+    "relation": "When became the 63rd",
+    "origin_entity": [
+      "Andy Beshear",
+      "Governor of Kentucky"
+    ],
+    "Relation": "became the 63rd Governor of Kentucky",
+    "entity": [
+      "Andy Beshear",
+      "63rd Governor of Kentucky"
+    ]
+  },
+  {
+    "Id": 15937,
+    "Question": "When Vic Peters won Labatt Brier season in Calgary?",
+    "relation": "When Labatt Brier in",
+    "origin_entity": [
+      "Vic Peters",
+      "won",
+      "season",
+      "Calgary"
+    ],
+    "Relation": "won Labatt Brier season in Calgary",
+    "entity": [
+      "Vic Peters",
+      "Labatt Brier season",
+      "Calgary"
+    ]
+  },
+  {
+    "Id": 15938,
+    "Question": "When Jonathan Henry Sacks Baron Sacks won the Templeton Prize?",
+    "relation": "When Jonathan Henry Sacks won the",
+    "origin_entity": [
+      "Sacks",
+      "Templeton",
+      "Baron",
+      "Prize"
+    ],
+    "Relation": "won the Templeton Prize",
+    "entity": [
+      "Jonathan Henry Sacks Baron Sacks",
+      "Templeton Prize"
+    ]
+  },
+  {
+    "Id": 15939,
+    "Question": "When Finidi George arrived at AFC Ajax with compatriot Nwankwo Kanu?",
+    "relation": "When arrived at with compatriot",
+    "origin_entity": [
+      "Nwankwo Kanu",
+      "AFC Ajax",
+      "Finidi George"
+    ],
+    "Relation": "arrived at AFC Ajax with compatriot Nwankwo Kanu",
+    "entity": [
+      "Finidi George",
+      "AFC Ajax",
+      "compatriot Nwankwo Kanu"
+    ]
+  },
+  {
+    "Id": 15940,
+    "Question": "When Damien Marcq joined Charleroi start date?",
+    "relation": "When joined date",
+    "origin_entity": [
+      "Damien Marcq",
+      "Charleroi",
+      "start"
+    ],
+    "Relation": "joined Charleroi start date",
+    "entity": [
+      "Damien Marcq",
+      "Charleroi",
+      "start"
+    ]
+  },
+  {
+    "Id": 15941,
+    "Question": "When Damien Marcq joined Charleroi end date?",
+    "relation": "When joined",
+    "origin_entity": [
+      "Damien Marcq",
+      "Charleroi",
+      "end",
+      "date"
+    ],
+    "Relation": "joined Charleroi end date",
+    "entity": [
+      "Damien Marcq",
+      "Charleroi",
+      "end"
+    ]
+  },
+  {
+    "Id": 15942,
+    "Question": "When George Washington took office as President of the United States?",
+    "relation": "When took office as",
+    "origin_entity": [
+      "George Washington",
+      "President of the United States"
+    ],
+    "Relation": "took office as President of the United States",
+    "entity": [
+      "George Washington",
+      "President of the United States",
+      "took office"
+    ]
+  },
+  {
+    "Id": 15943,
+    "Question": "When Rihanna was Barbadian Ambassador Extraordinary and Plenipotentiary?",
+    "relation": "When was Barbadian Ambassador Extraordinary and Plenipotentiary",
+    "origin_entity": [
+      "Rihanna"
+    ],
+    "Relation": "was Barbadian Ambassador Extraordinary and Plenipotentiary",
+    "entity": [
+      "Rihanna",
+      "Barbadian Ambassador Extraordinary and Plenipotentiary"
+    ]
+  },
+  {
+    "Id": 15944,
+    "Question": "When Mikhail Kasyanov gave his recorded speech?",
+    "relation": "When gave his recorded speech",
+    "origin_entity": [
+      "Mikhail Kasyanov"
+    ],
+    "Relation": "gave his recorded speech",
+    "entity": [
+      "Mikhail Kasyanov",
+      "recorded speech"
+    ]
+  },
+  {
+    "Id": 15945,
+    "Question": "When Isiah Leggett became the head of government in Montgomery County?",
+    "relation": "When Isiah Leggett became the head of government in",
+    "origin_entity": [
+      "Montgomery County"
+    ],
+    "Relation": "became the head of government in Montgomery County",
+    "entity": [
+      "Isiah Leggett",
+      "head of government",
+      "Montgomery County"
+    ]
+  },
+  {
+    "Id": 15946,
+    "Question": "When Goran Ivanišević was Marin Čilić's head coach start date?",
+    "relation": "When was date",
+    "origin_entity": [
+      "Marin Čilić",
+      "Goran Ivanišević",
+      "start",
+      "head coach"
+    ],
+    "Relation": "was Marin Čilić's head coach start date",
+    "entity": [
+      "Goran Ivanišević",
+      "Marin Čilić",
+      "head coach",
+      "start"
+    ]
+  },
+  {
+    "Id": 15947,
+    "Question": "When Goran Ivanišević was Marin Čilić's head coach end date?",
+    "relation": "When was head coach",
+    "origin_entity": [
+      "Marin Čilić",
+      "Goran Ivanišević",
+      "end",
+      "date"
+    ],
+    "Relation": "was Marin Čilić's head coach end date",
+    "entity": [
+      "Goran Ivanišević",
+      "Marin Čilić",
+      "head coach",
+      "end"
+    ]
+  },
+  {
+    "Id": 15948,
+    "Question": "When Daniel Baier joined FC Augsburg?",
+    "relation": "When joined",
+    "origin_entity": [
+      "Daniel Baier",
+      "FC Augsburg"
+    ],
+    "Relation": "joined FC Augsburg",
+    "entity": [
+      "Daniel Baier",
+      "FC Augsburg"
+    ]
+  },
+  {
+    "Id": 15949,
+    "Question": "When Paulo Sousa became the Clube de Regatas do Flamengo head coach?",
+    "relation": "When became the head coach",
+    "origin_entity": [
+      "Clube de Regatas do Flamengo",
+      "Paulo Sousa"
+    ],
+    "Relation": "became the Clube de Regatas do Flamengo head coach",
+    "entity": [
+      "Paulo Sousa",
+      "Clube de Regatas do Flamengo",
+      "head coach"
+    ]
+  },
+  {
+    "Id": 15950,
+    "Question": "When Douglas R. Lowy was succeeded as the chairperson of the National Cancer Institute?",
+    "relation": "When Douglas R Lowy was succeeded as the chairperson of the",
+    "origin_entity": [
+      "National Cancer Institute"
+    ],
+    "Relation": "was succeeded as the chairperson of the National Cancer Institute",
+    "entity": [
+      "Douglas R. Lowy",
+      "chairperson",
+      "National Cancer Institute"
+    ]
+  },
+  {
+    "Id": 15951,
+    "Question": "When Jan Brewer was a Member of the Maricopa County Board of Supervisors start date?",
+    "relation": "When was a Member of the Maricopa County Board of Supervisors start date",
+    "origin_entity": [
+      "Jan Brewer"
+    ],
+    "Relation": "was a Member of the Maricopa County Board of Supervisors start date",
+    "entity": [
+      "Jan Brewer",
+      "Member of the Maricopa County Board of Supervisors",
+      "Maricopa County Board of Supervisors",
+      "start"
+    ]
+  },
+  {
+    "Id": 15952,
+    "Question": "When Jan Brewer was a Member of the Maricopa County Board of Supervisors end date?",
+    "relation": "When was a Member of the Maricopa County Board of Supervisors end date",
+    "origin_entity": [
+      "Jan Brewer"
+    ],
+    "Relation": "was a Member of the Maricopa County Board of Supervisors end date",
+    "entity": [
+      "Jan Brewer",
+      "Member of the Maricopa County Board of Supervisors",
+      "Maricopa County Board of Supervisors",
+      "end"
+    ]
+  },
+  {
+    "Id": 15953,
+    "Question": "When Royce Waltman was named the Missouri Valley Conference Coach of the Year start date?",
+    "relation": "When was the date",
+    "origin_entity": [
+      "Coach of the Year",
+      "start",
+      "named",
+      "Missouri Valley Conference",
+      "Royce Waltman",
+      "Coach"
+    ],
+    "Relation": "was named the Missouri Valley Conference Coach of the Year start date",
+    "entity": [
+      "Royce Waltman",
+      "Missouri Valley Conference Coach of the Year",
+      "Coach",
+      "start",
+      "named",
+      "Missouri Valley Conference"
+    ]
+  },
+  {
+    "Id": 15954,
+    "Question": "When Royce Waltman was named the Missouri Valley Conference Coach of the Year end date?",
+    "relation": "When was the",
+    "origin_entity": [
+      "Coach of the Year",
+      "end",
+      "Royce Waltman",
+      "Missouri Valley Conference",
+      "Coach",
+      "date",
+      "year",
+      "named"
+    ],
+    "Relation": "was named the Missouri Valley Conference Coach of the Year end date",
+    "entity": [
+      "Royce Waltman",
+      "Missouri Valley Conference Coach of the Year",
+      "Coach",
+      "end",
+      "named",
+      "Missouri Valley Conference"
+    ]
+  },
+  {
+    "Id": 15955,
+    "Question": "When Steve Bannon finished his military service start date?",
+    "relation": "When finished his date",
+    "origin_entity": [
+      "Bannon",
+      "military service",
+      "start",
+      "Steve"
+    ],
+    "Relation": "finished his military service start date",
+    "entity": [
+      "Steve Bannon",
+      "military service",
+      "start"
+    ]
+  },
+  {
+    "Id": 15956,
+    "Question": "When Steve Bannon finished his military service end date?",
+    "relation": "When finished his date",
+    "origin_entity": [
+      "Bannon",
+      "military service",
+      "end",
+      "Steve"
+    ],
+    "Relation": "finished his military service end date",
+    "entity": [
+      "Steve Bannon",
+      "military service",
+      "end"
+    ]
+  },
+  {
+    "Id": 15957,
+    "Question": "When The Free Lance–Star had a daily circulation of 15,825 and a Sunday circulation of 17,176?",
+    "relation": "When The had a of 15825 and a circulation of 17176",
+    "origin_entity": [
+      "daily",
+      "circulation",
+      "Free Lance–Star",
+      "Sunday"
+    ],
+    "Relation": "had a daily circulation of 15,825 and a Sunday circulation of 17,176",
+    "entity": [
+      "The Free Lance–Star",
+      "daily circulation",
+      "Sunday circulation",
+      "15,825",
+      "17,176"
+    ]
+  },
+  {
+    "Id": 15958,
+    "Question": "When Airbus A330-200 was first used by an airline?",
+    "relation": "When Airbus A330-200 was by an airline",
+    "origin_entity": [
+      "first",
+      "used"
+    ],
+    "Relation": "was first used by an airline",
+    "entity": [
+      "Airbus A330-200",
+      "airline",
+      "first used"
+    ]
+  },
+  {
+    "Id": 15959,
+    "Question": "When the 19th century historic building designed by Christian Hansen was constructed?",
+    "relation": "When the historic building by Christian Hansen was constructed",
+    "origin_entity": [
+      "19th century",
+      "century",
+      "designed"
+    ],
+    "Relation": "was constructed",
+    "entity": [
+      "19th century historic building",
+      "Christian Hansen",
+      "designed",
+      "constructed"
+    ]
+  },
+  {
+    "Id": 15960,
+    "Question": "When Samir Nasri joined a football club for his senior career start date?",
+    "relation": "When joined a for his senior career",
+    "origin_entity": [
+      "Samir Nasri",
+      "club",
+      "start",
+      "date",
+      "football"
+    ],
+    "Relation": "joined a football club for his senior career start date",
+    "entity": [
+      "Samir Nasri",
+      "football club",
+      "senior career",
+      "start"
+    ]
+  },
+  {
+    "Id": 15961,
+    "Question": "When Samir Nasri joined a football club for his senior career end date?",
+    "relation": "When joined a for his career",
+    "origin_entity": [
+      "Samir Nasri",
+      "club",
+      "senior",
+      "end",
+      "date",
+      "football"
+    ],
+    "Relation": "joined a football club for his senior career end date",
+    "entity": [
+      "Samir Nasri",
+      "football club",
+      "senior career",
+      "end"
+    ]
+  },
+  {
+    "Id": 15962,
+    "Question": "When Niki Terpstra achieved 4th place in The Three Days of De Panne and 14th place in the Tour of Flanders?",
+    "relation": "When achieved in The Three Days of De Panne and 4th place in the",
+    "origin_entity": [
+      "4th",
+      "Niki Terpstra",
+      "Tour of Flanders",
+      "place",
+      "1"
+    ],
+    "Relation": "achieved 4th place in The Three Days of De Panne and 14th place in the Tour of Flanders",
+    "entity": [
+      "Niki Terpstra",
+      "The Three Days of De Panne",
+      "Tour of Flanders",
+      "4th place",
+      "14th place"
+    ]
+  },
+  {
+    "Id": 15963,
+    "Question": "When Bonta's appointment was subject to confirmation by the California State Legislature?",
+    "relation": "When appointment was subject to confirmation by the California State Legislature",
+    "origin_entity": [
+      "Bonta"
+    ],
+    "Relation": "was subject to confirmation by the California State Legislature",
+    "entity": [
+      "Bonta's appointment",
+      "California State Legislature",
+      "confirmation"
+    ]
+  },
+  {
+    "Id": 15964,
+    "Question": "When the Belarusian protests drew around 1,500 people?",
+    "relation": "When the 1500",
+    "origin_entity": [
+      "Belarusian",
+      "drew",
+      "around",
+      "1500",
+      "protests",
+      "people"
+    ],
+    "Relation": "drew around 1,500 people",
+    "entity": [
+      "Belarusian protests",
+      "1,500 people"
+    ]
+  },
+  {
+    "Id": 15965,
+    "Question": "When Stryn fell while the area was +29.254273120179228?",
+    "relation": "When fell while the area was +29254273120179228",
+    "origin_entity": [
+      "Stryn"
+    ],
+    "Relation": "fell while the area was +29.254273120179228",
+    "entity": [
+      "Stryn",
+      "area",
+      "+29.254273120179228"
+    ]
+  },
+  {
+    "Id": 15966,
+    "Question": "When Elisabeta Lipă and Ed Coode competed in and finished fourth in the Sydney Olympics?",
+    "relation": "When and in and finished fourth in the",
+    "origin_entity": [
+      "Sydney",
+      "Sydney Olympics",
+      "olympics",
+      "Elisabeta Lipă",
+      "Ed Coode",
+      "competed"
+    ],
+    "Relation": "competed in and finished fourth in the Sydney Olympics",
+    "entity": [
+      "Elisabeta Lipă",
+      "Ed Coode",
+      "Sydney Olympics",
+      "fourth place"
+    ]
+  },
+  {
+    "Id": 15967,
+    "Question": "When Graeme Hick playing for Worcestershire start date?",
+    "relation": "When playing for",
+    "origin_entity": [
+      "Graeme Hick",
+      "Worcestershire",
+      "start",
+      "date"
+    ],
+    "Relation": "playing for Worcestershire start date",
+    "entity": [
+      "Graeme Hick",
+      "Worcestershire",
+      "start"
+    ]
+  },
+  {
+    "Id": 15968,
+    "Question": "When Graeme Hick playing for Worcestershire end date?",
+    "relation": "When playing for date",
+    "origin_entity": [
+      "Graeme Hick",
+      "Worcestershire",
+      "end"
+    ],
+    "Relation": "playing for Worcestershire end date",
+    "entity": [
+      "Graeme Hick",
+      "Worcestershire",
+      "end"
+    ]
+  },
+  {
+    "Id": 15969,
+    "Question": "When Manjul Bhargava received an award for his research while at Harvard University?",
+    "relation": "When received an for his research while at",
+    "origin_entity": [
+      "Manjul Bhargava",
+      "award",
+      "Harvard University"
+    ],
+    "Relation": "received an award for his research while at Harvard University",
+    "entity": [
+      "Manjul Bhargava",
+      "Harvard University",
+      "award",
+      "research"
+    ]
+  },
+  {
+    "Id": 15970,
+    "Question": "When Azimzhan Askarov's health was reported to be deteriorating?",
+    "relation": "When health was reported to be deteriorating",
+    "origin_entity": [
+      "Azimzhan Askarov"
+    ],
+    "Relation": "health was reported to be deteriorating",
+    "entity": [
+      "Azimzhan Askarov",
+      "health",
+      "deteriorating"
+    ]
+  },
+  {
+    "Id": 15971,
+    "Question": "When Yaakov Litzman resigned from his seat in the Knesset as part of the plea agreement involving Malka Leifer?",
+    "relation": "When resigned from his seat in the as part of the plea agreement involving Malka Leifer",
+    "origin_entity": [
+      "Knesset",
+      "Yaakov Litzman"
+    ],
+    "Relation": "resigned from his seat in the Knesset as part of the plea agreement involving Malka Leifer",
+    "entity": [
+      "Yaakov Litzman",
+      "Knesset",
+      "plea agreement",
+      "Malka Leifer",
+      "seat"
+    ]
+  },
+  {
+    "Id": 15972,
+    "Question": "When Ukraine had parliamentary election?",
+    "relation": null,
+    "origin_entity": null,
+    "Relation": "had parliamentary election",
+    "entity": [
+      "Ukraine",
+      "parliamentary election"
+    ]
+  },
+  {
+    "Id": 15973,
+    "Question": "When Lillian Gish was nominated in a film award category start date?",
+    "relation": "When was nominated in a award category start date",
+    "origin_entity": [
+      "Lillian Gish",
+      "film"
+    ],
+    "Relation": "was nominated in a film award category start date",
+    "entity": [
+      "Lillian Gish",
+      "film award category",
+      "start",
+      "nominated"
+    ]
+  },
+  {
+    "Id": 15974,
+    "Question": "When Lillian Gish was nominated in a film award category end date?",
+    "relation": "When was nominated in a film category date",
+    "origin_entity": [
+      "Lillian Gish",
+      "end",
+      "award"
+    ],
+    "Relation": "was nominated in a film award category end date",
+    "entity": [
+      "Lillian Gish",
+      "film award category",
+      "end",
+      "nominated"
+    ]
+  },
+  {
+    "Id": 15975,
+    "Question": "When James Alan McPherson became an American essayist and short-story writer start date?",
+    "relation": "When became an American essayist and short-story writer start date",
+    "origin_entity": [
+      "James Alan McPherson"
+    ],
+    "Relation": "became an American essayist and short-story writer start date",
+    "entity": [
+      "James Alan McPherson",
+      "American essayist and short-story writer",
+      "start"
+    ]
+  },
+  {
+    "Id": 15976,
+    "Question": "When James Alan McPherson became an American essayist and short-story writer end date?",
+    "relation": "When became an American essayist and short-story writer end date",
+    "origin_entity": [
+      "James Alan McPherson"
+    ],
+    "Relation": "became an American essayist and short-story writer end date",
+    "entity": [
+      "James Alan McPherson",
+      "American essayist and short-story writer",
+      "end"
+    ]
+  },
+  {
+    "Id": 15977,
+    "Question": "When Heinz Franke took command of the German submarine U-262 start date?",
+    "relation": "When took command of the start date",
+    "origin_entity": [
+      "Heinz Franke",
+      "German submarine U-262"
+    ],
+    "Relation": "took command of the German submarine U-262 start date",
+    "entity": [
+      "Heinz Franke",
+      "German submarine U-262",
+      "start",
+      "command"
+    ]
+  },
+  {
+    "Id": 15978,
+    "Question": "When Heinz Franke took command of the German submarine U-262 end date?",
+    "relation": "When took command of the end date",
+    "origin_entity": [
+      "German submarine U-262",
+      "Heinz Franke"
+    ],
+    "Relation": "took command of the German submarine U-262 end date",
+    "entity": [
+      "Heinz Franke",
+      "German submarine U-262",
+      "end",
+      "command"
+    ]
+  },
+  {
+    "Id": 15979,
+    "Question": "When William Styron experienced his first serious episode of depression?",
+    "relation": "When his serious episode of",
+    "origin_entity": [
+      "William Styron",
+      "first",
+      "depression",
+      "experienced"
+    ],
+    "Relation": "experienced his first serious episode of depression",
+    "entity": [
+      "William Styron",
+      "first serious episode of depression"
+    ]
+  },
+  {
+    "Id": 15980,
+    "Question": "When Erving and Malone led the Philadelphia 76ers to their third championship?",
+    "relation": "When and led the to their championship",
+    "origin_entity": [
+      "Erving",
+      "Malone",
+      "Philadelphia 76ers",
+      "third"
+    ],
+    "Relation": "led the Philadelphia 76ers to their third championship",
+    "entity": [
+      "Erving and Malone",
+      "Philadelphia 76ers",
+      "third championship"
+    ]
+  },
+  {
+    "Id": 15981,
+    "Question": "When EMI SP released catalog \"Learning to Fly / One Slip\" (catalog code EMP 26)?",
+    "relation": "When EMI SP released catalog / (catalog code EMP 26)",
+    "origin_entity": [
+      "Learning to Fly",
+      "One Slip"
+    ],
+    "Relation": "released catalog \"Learning to Fly / One Slip\" (catalog code EMP 26)",
+    "entity": [
+      "EMI SP",
+      "catalog \"Learning to Fly / One Slip\" (catalog code EMP 26)",
+      "released"
+    ]
+  },
+  {
+    "Id": 15982,
+    "Question": "When Troy Buswell resigned from Cabinet?",
+    "relation": "When resigned from Cabinet",
+    "origin_entity": [
+      "Troy Buswell"
+    ],
+    "Relation": "resigned from Cabinet",
+    "entity": [
+      "Troy Buswell",
+      "Cabinet"
+    ]
+  },
+  {
+    "Id": 15983,
+    "Question": "When Debbie Reynolds received her lifetime award start date?",
+    "relation": "When received her lifetime award start date",
+    "origin_entity": [
+      "Debbie Reynolds"
+    ],
+    "Relation": "received her lifetime award start date",
+    "entity": [
+      "Debbie Reynolds",
+      "lifetime award",
+      "start"
+    ]
+  },
+  {
+    "Id": 15984,
+    "Question": "When Debbie Reynolds received her lifetime award end date?",
+    "relation": "When received her lifetime award end date",
+    "origin_entity": [
+      "Debbie Reynolds"
+    ],
+    "Relation": "received her lifetime award end date",
+    "entity": [
+      "Debbie Reynolds",
+      "lifetime award",
+      "end"
+    ]
+  },
+  {
+    "Id": 15985,
+    "Question": "When Petr Čoupek joined Bayer Leverkusen II in his senior career start date?",
+    "relation": "When in his career date",
+    "origin_entity": [
+      "Petr Čoupek",
+      "Bayer Leverkusen II",
+      "senior",
+      "start",
+      "joined"
+    ],
+    "Relation": "joined Bayer Leverkusen II in his senior career start date",
+    "entity": [
+      "Petr Čoupek",
+      "Bayer Leverkusen II",
+      "senior career",
+      "start"
+    ]
+  },
+  {
+    "Id": 15986,
+    "Question": "When Petr Čoupek joined Bayer Leverkusen II in his senior career end date?",
+    "relation": "When in his senior career",
+    "origin_entity": [
+      "Petr Čoupek",
+      "Bayer Leverkusen II",
+      "end",
+      "date",
+      "joined"
+    ],
+    "Relation": "joined Bayer Leverkusen II in his senior career end date",
+    "entity": [
+      "Petr Čoupek",
+      "Bayer Leverkusen II",
+      "senior career",
+      "end"
+    ]
+  },
+  {
+    "Id": 15987,
+    "Question": "When Devan Nair became the only PAP member near Kuala Lumpur start date?",
+    "relation": "When became the only member near Kuala Lumpur start date",
+    "origin_entity": [
+      "PAP",
+      "Devan Nair"
+    ],
+    "Relation": "became the only PAP member near Kuala Lumpur start date",
+    "entity": [
+      "Devan Nair",
+      "PAP member",
+      "Kuala Lumpur",
+      "start"
+    ]
+  },
+  {
+    "Id": 15988,
+    "Question": "When Devan Nair became the only PAP member near Kuala Lumpur end date?",
+    "relation": "When became the only PAP member near Kuala Lumpur end date",
+    "origin_entity": [
+      "Devan Nair"
+    ],
+    "Relation": "became the only PAP member near Kuala Lumpur end date",
+    "entity": [
+      "Devan Nair",
+      "PAP member",
+      "Kuala Lumpur",
+      "end"
+    ]
+  },
+  {
+    "Id": 15989,
+    "Question": "When Reggie Bush was in a relationship with Kim Kardashian start date?",
+    "relation": "When was in a relationship with start date",
+    "origin_entity": [
+      "Reggie Bush",
+      "Kim Kardashian"
+    ],
+    "Relation": "was in a relationship with Kim Kardashian start date",
+    "entity": [
+      "Reggie Bush",
+      "Kim Kardashian",
+      "relationship",
+      "start"
+    ]
+  },
+  {
+    "Id": 15990,
+    "Question": "When Reggie Bush was in a relationship with Kim Kardashian end date?",
+    "relation": "When was in a relationship with end date",
+    "origin_entity": [
+      "Reggie Bush",
+      "Kim Kardashian"
+    ],
+    "Relation": "was in a relationship with Kim Kardashian end date",
+    "entity": [
+      "Reggie Bush",
+      "Kim Kardashian",
+      "relationship",
+      "end"
+    ]
+  },
+  {
+    "Id": 15991,
+    "Question": "When ABBA's music was adapted into Mamma Mia?",
+    "relation": "When was into",
+    "origin_entity": [
+      "music",
+      "Mamma Mia",
+      "ABBA",
+      "adapted"
+    ],
+    "Relation": "was adapted into Mamma Mia",
+    "entity": [
+      "ABBA's music",
+      "Mamma Mia"
+    ]
+  },
+  {
+    "Id": 15992,
+    "Question": "When Caroline Kennedy was appointed the United States Ambassador to Japan?",
+    "relation": "When was the United States Ambassador to",
+    "origin_entity": [
+      "Caroline Kennedy",
+      "appointed",
+      "Japan"
+    ],
+    "Relation": "was appointed the United States Ambassador to Japan",
+    "entity": [
+      "Caroline Kennedy",
+      "United States Ambassador to Japan",
+      "appointed"
+    ]
+  },
+  {
+    "Id": 15993,
+    "Question": "When the Badminton World Federation head office was relocated to Kuala Lumpur, Malaysia?",
+    "relation": "When the head office was relocated to",
+    "origin_entity": [
+      "Badminton World Federation",
+      "Kuala Lumpur",
+      "Malaysia"
+    ],
+    "Relation": "head office was relocated to Kuala Lumpur, Malaysia",
+    "entity": [
+      "Badminton World Federation",
+      "head office",
+      "Kuala Lumpur, Malaysia",
+      "relocated"
+    ]
+  },
+  {
+    "Id": 15994,
+    "Question": "When Abdul Fatah Al-Sisi became chairperson of the Supreme Council of the Armed Forces start date?",
+    "relation": "When became chairperson of the start date",
+    "origin_entity": [
+      "Abdul Fatah Al-Sisi",
+      "Supreme Council of the Armed Forces"
+    ],
+    "Relation": "became chairperson of the Supreme Council of the Armed Forces start date",
+    "entity": [
+      "Abdul Fatah Al-Sisi",
+      "Supreme Council of the Armed Forces",
+      "chairperson",
+      "start"
+    ]
+  },
+  {
+    "Id": 15995,
+    "Question": "When Abdul Fatah Al-Sisi became chairperson of the Supreme Council of the Armed Forces end date?",
+    "relation": "When became chairperson of the end date",
+    "origin_entity": [
+      "Abdul Fatah Al-Sisi",
+      "Supreme Council of the Armed Forces"
+    ],
+    "Relation": "became chairperson of the Supreme Council of the Armed Forces end date",
+    "entity": [
+      "Abdul Fatah Al-Sisi",
+      "Supreme Council of the Armed Forces",
+      "chairperson",
+      "end"
+    ]
+  },
+  {
+    "Id": 15996,
+    "Question": "When Alexandra Timoshenko won a World Championship in Athens for Hoop and a European Cup Final in Brussels for Ball?",
+    "relation": "When won a in for and a European in for",
+    "origin_entity": [
+      "Athens",
+      "Cup Final",
+      "Brussels",
+      "Ball",
+      "Alexandra Timoshenko",
+      "Hoop",
+      "World Championship",
+      "Final"
+    ],
+    "Relation": "won a World Championship in Athens for Hoop and a European Cup Final in Brussels for Ball",
+    "entity": [
+      "Alexandra Timoshenko",
+      "World Championship",
+      "Athens",
+      "Hoop",
+      "European Cup Final",
+      "Brussels",
+      "Ball"
+    ]
+  },
+  {
+    "Id": 15997,
+    "Question": "When Scott Pruitt ran unopposed and received large campaign contributions from the fossil fuel industry?",
+    "relation": "When ran unopposed and received campaign contributions from the",
+    "origin_entity": [
+      "industry",
+      "Scott Pruitt",
+      "fossil fuel",
+      "large"
+    ],
+    "Relation": "ran unopposed and received large campaign contributions from the fossil fuel industry",
+    "entity": [
+      "Scott Pruitt",
+      "fossil fuel industry",
+      "campaign contributions",
+      "ran unopposed"
+    ]
+  },
+  {
+    "Id": 15998,
+    "Question": "When Julien Ingrassia became part of a rallying team?",
+    "relation": "When became of a",
+    "origin_entity": [
+      "Julien Ingrassia",
+      "team",
+      "rallying",
+      "part"
+    ],
+    "Relation": "became part of a rallying team",
+    "entity": [
+      "Julien Ingrassia",
+      "rallying team"
+    ]
+  },
+  {
+    "Id": 15999,
+    "Question": "When Keegan Bradley was the PGA Tour Rookie of the Year?",
+    "relation": "When was the of the",
+    "origin_entity": [
+      "Keegan Bradley",
+      "PGA Tour",
+      "rookie",
+      "year"
+    ],
+    "Relation": "was the PGA Tour Rookie of the Year",
+    "entity": [
+      "Keegan Bradley",
+      "PGA Tour Rookie of the Year"
+    ]
+  },
+  {
+    "Id": 16000,
+    "Question": "When Jill Ellis managed the UCLA Bruins start date?",
+    "relation": "When managed the date",
+    "origin_entity": [
+      "UCLA Bruins",
+      "start",
+      "Jill Ellis"
+    ],
+    "Relation": "managed the UCLA Bruins start date",
+    "entity": [
+      "Jill Ellis",
+      "UCLA Bruins",
+      "managed",
+      "start"
+    ]
+  },
+  {
+    "Id": 16001,
+    "Question": "When Jill Ellis managed the UCLA Bruins end date?",
+    "relation": "When managed the",
+    "origin_entity": [
+      "UCLA Bruins",
+      "end",
+      "date",
+      "Jill Ellis"
+    ],
+    "Relation": "managed the UCLA Bruins end date",
+    "entity": [
+      "Jill Ellis",
+      "UCLA Bruins",
+      "managed",
+      "end"
+    ]
+  }
+]

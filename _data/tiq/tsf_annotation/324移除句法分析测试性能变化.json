@@ -1,0 +1,202 @@
+[
+  {
+    "Id": 54,
+    "relation": "compete at"
+  },
+  {
+    "Id": 205,
+    "relation": "was true regarding"
+  },
+  {
+    "Id": 218,
+    "relation": "become the coach of"
+  },
+  {
+    "Id": 245,
+    "relation": "the head coach of"
+  },
+  {
+    "Id": 261,
+    "relation": "succeeded"
+  },
+  {
+    "Id": 316,
+    "relation": "published"
+  },
+  {
+    "Id": 356,
+    "relation": "complying with"
+  },
+  {
+    "Id": 713,
+    "relation": "live in"
+  },
+  {
+    "Id": 760,
+    "relation": "the speaker of"
+  },
+  {
+    "Id": 768,
+    "relation": "the editor of"
+  },
+  {
+    "Id": 793,
+    "relation": "coach"
+  },
+  {
+    "Id": 838,
+    "relation": "receive"
+  },
+  {
+    "Id": 840,
+    "relation": "the chief minister when"
+  },
+  {
+    "Id": 913,
+    "relation": "receive"
+  },
+  {
+    "Id": 1144,
+    "relation": "receive"
+  },
+  {
+    "Id": 1274,
+    "relation": "returned"
+  },
+  {
+    "Id": 1308,
+    "relation": "ranking in"
+  },
+  {
+    "Id": 1629,
+    "relation": "took over"
+  },
+  {
+    "Id": 1764,
+    "relation": "a member of"
+  },
+  {
+    "Id": 1792,
+    "relation": "located"
+  },
+  {
+    "Id": 1806,
+    "relation": "replaced"
+  },
+  {
+    "Id": 1829,
+    "relation": "receive"
+  },
+  {
+    "Id": 1906,
+    "relation": "held the position of"
+  },
+  {
+    "Id": 2007,
+    "relation": "play for"
+  },
+  {
+    "Id": 2167,
+    "relation": "win"
+  },
+  {
+    "Id": 2277,
+    "relation": "the head of government"
+  },
+  {
+    "Id": 2279,
+    "relation": "leading"
+  },
+  {
+    "Id": 2759,
+    "relation": "the head of the government"
+  },
+  {
+    "Id": 2789,
+    "relation": "located"
+  },
+  {
+    "Id": 2819,
+    "relation": "the head of government in"
+  },
+  {
+    "Id": 2942,
+    "relation": "the chairperson of"
+  },
+  {
+    "Id": 3114,
+    "relation": "playing for"
+  },
+  {
+    "Id": 3438,
+    "relation": "purchase"
+  },
+  {
+    "Id": 3458,
+    "relation": "take"
+  },
+  {
+    "Id": 3464,
+    "relation": "replace"
+  },
+  {
+    "Id": 3681,
+    "relation": "work at"
+  },
+  {
+    "Id": 4141,
+    "relation": "representing"
+  },
+  {
+    "Id": 4466,
+    "relation": "partner"
+  },
+  {
+    "Id": 4469,
+    "relation": "the head of government in"
+  },
+  {
+    "Id": 4599,
+    "relation": "have"
+  },
+  {
+    "Id": 4829,
+    "relation": "awarded"
+  },
+  {
+    "Id": 4839,
+    "relation": "replace"
+  },
+  {
+    "Id": 4933,
+    "relation": "join"
+  },
+  {
+    "Id": 4947,
+    "relation": "play for"
+  },
+  {
+    "Id": 5240,
+    "relation": "coaching"
+  },
+  {
+    "Id": 5325,
+    "relation": "succeeded"
+  },
+  {
+    "Id": 5545,
+    "relation": "founded"
+  },
+  {
+    "Id": 5721,
+    "relation": "get elected as"
+  },
+  {
+    "Id": 5747,
+    "relation": "located in"
+  },
+  {
+    "Id": 5867,
+    "relation": "founded"
+  }
+]

@@ -1,0 +1,2530 @@
+[
+  {
+    "Id": 8001,
+    "Question": "On what Wikimedia project page can you find information about Jane Wyatt, who was born Jane Waddington Wyatt in Franklin Lakes, New Jersey, USA?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q10966671",
+        "WikidataLabel": "Wikipedia:English pronunciation respelling key",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key"
+      }
+    ],
+    "Relation": "find information about person on Wikimedia project page",
+    "entity": [
+      "Jane Wyatt",
+      "Jane Waddington Wyatt",
+      "Franklin Lakes",
+      "New Jersey",
+      "USA",
+      "Wikimedia project",
+      "Wikipedia",
+      "biography page",
+      "American actress"
+    ]
+  },
+  {
+    "Id": 8002,
+    "Question": "In which Grand Slam tournament did Simona Halep record wins in the singles draw during her time playing for the Fed Cup team?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q41520",
+        "WikidataLabel": "Wimbledon Championships",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Wimbledon_Championships"
+      }
+    ],
+    "Relation": "record wins in singles draw in Grand Slam tournament during time playing for Fed Cup team",
+    "entity": [
+      "Simona Halep",
+      "Grand Slam tournament",
+      "singles draw",
+      "Fed Cup team",
+      "tennis",
+      "Romanian tennis",
+      "Australian Open",
+      "French Open",
+      "Wimbledon",
+      "US Open",
+      "Fed Cup history"
+    ]
+  },
+  {
+    "Id": 8003,
+    "Question": "When The New York Times (originally the New-York Daily Times) was founded, who was publishing it?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q2529982",
+        "WikidataLabel": "The New York Times Company",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/The_New_York_Times_Company"
+      }
+    ],
+    "Relation": "publishing The New York Times when founded",
+    "entity": [
+      "The New York Times",
+      "New-York Daily Times",
+      "founding",
+      "newspaper publishing",
+      "Henry Jarvis Raymond",
+      "George Jones",
+      "19th century journalism",
+      "New York City"
+    ]
+  },
+  {
+    "Id": 8004,
+    "Question": "What occupation did Jaime Sin pursue in the Catholic Church after being ordained a priest of the Archdiocese of Jaro?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q250867",
+        "WikidataLabel": "Catholic priest",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Catholic_priest"
+      }
+    ],
+    "Relation": "pursued occupation in Catholic Church after being ordained priest of Archdiocese of Jaro",
+    "entity": [
+      "Jaime Sin",
+      "Catholic Church",
+      "Archdiocese of Jaro",
+      "priest",
+      "ordination",
+      "Cardinal",
+      "Archbishop of Manila",
+      "Philippine Catholic hierarchy"
+    ]
+  },
+  {
+    "Id": 8005,
+    "Question": "After Raúl earned 44 caps for the Spain national under-21 football team, what international team did he become a member of?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q42267",
+        "WikidataLabel": "Spain national association football team",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Spain_national_football_team"
+      }
+    ],
+    "Relation": "became member of international team after earning caps for Spain national under-21 football team",
+    "entity": [
+      "Raúl",
+      "Spain national under-21 football team",
+      "caps",
+      "international team",
+      "Spain national football team",
+      "Spanish football",
+      "football career transition"
+    ]
+  },
+  {
+    "Id": 8006,
+    "Question": "When Tommy Troelsen joined his first Danish Cup final at the age of seventeen, which football team was he playing for?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q3873525",
+        "WikidataLabel": "Denmark national under-19 football team",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Denmark_national_under-19_football_team"
+      }
+    ],
+    "Relation": "playing for football team when joined first Danish Cup final at age seventeen",
+    "entity": [
+      "Tommy Troelsen",
+      "Danish Cup final",
+      "seventeen",
+      "football team",
+      "Danish football",
+      "Aarhus GF",
+      "youth career",
+      "1960s Danish football"
+    ]
+  },
+  {
+    "Id": 8007,
+    "Question": "What was the country of Ambikagiri Raichoudhury's citizenship when he was elected president of the Assam Sahitya Sabha?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q668",
+        "WikidataLabel": "India",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/India"
+      },
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q1775277",
+        "WikidataLabel": "Dominion of India",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Dominion_of_India"
+      }
+    ],
+    "Relation": "country of citizenship when elected president of Assam Sahitya Sabha",
+    "entity": [
+      "Ambikagiri Raichoudhury",
+      "Assam Sahitya Sabha",
+      "president",
+      "citizenship",
+      "India",
+      "Assamese literature",
+      "British India",
+      "Indian independence movement"
+    ]
+  },
+  {
+    "Id": 8008,
+    "Question": "What country was Klaipėda a part of prior to the German Empire?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q27306",
+        "WikidataLabel": "Kingdom of Prussia",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Prussia"
+      }
+    ],
+    "Relation": "country Klaipėda was part of prior to German Empire",
+    "entity": [
+      "Klaipėda",
+      "German Empire",
+      "prior to",
+      "Prussia",
+      "German Confederation",
+      "Memel Territory",
+      "Baltic region history",
+      "19th century Europe"
+    ]
+  },
+  {
+    "Id": 8009,
+    "Question": "While Rigoberto Urán was a professional cyclist, which UCI WorldTeam was he a member of?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q645032",
+        "WikidataLabel": "Etixx-Quick Step",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Soudal_Quick-Step"
+      }
+    ],
+    "Relation": "member of UCI WorldTeam while being professional cyclist",
+    "entity": [
+      "Rigoberto Urán",
+      "professional cyclist",
+      "UCI WorldTeam",
+      "cycling",
+      "Colombian cycling",
+      "EF Education–EasyPost",
+      "Omega Pharma–Quick-Step",
+      "contemporary cycling teams"
+    ]
+  },
+  {
+    "Id": 8010,
+    "Question": "While the German submarine U-165 was in use, which U-boat flotilla was it part of?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q2522022",
+        "WikidataLabel": "10th U-boat Flotilla",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/10th_U-boat_Flotilla"
+      }
+    ],
+    "Relation": "part of U-boat flotilla while German submarine U-165 was in use",
+    "entity": [
+      "German submarine U-165",
+      "U-boat flotilla",
+      "in use",
+      "World War II",
+      "Kriegsmarine",
+      "9th U-boat Flotilla",
+      "10th U-boat Flotilla",
+      "Atlantic U-boat campaign"
+    ]
+  },
+  {
+    "Id": 8011,
+    "Question": "Before Angelo Gremo joined the Pirelli Professional cycling team, which one was he part of?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q1928802",
+        "WikidataLabel": "Bianchi",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Bianchi_(cycling_team)"
+      }
+    ],
+    "Relation": "part of cycling team before joining Pirelli Professional cycling team",
+    "entity": [
+      "Angelo Gremo",
+      "Pirelli Professional cycling team",
+      "cycling team",
+      "Italian cycling",
+      "early 20th century cycling",
+      "Bianchi",
+      "Atala",
+      "historical cycling teams"
+    ]
+  },
+  {
+    "Id": 8012,
+    "Question": "What country was Pula a part of during the Bronze Age (BC) when the hill-top fortifications known as 'gradine' first appeared in Istria?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q153136",
+        "WikidataLabel": "Habsburg Monarchy",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Habsburg_monarchy"
+      },
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q4948",
+        "WikidataLabel": "Republic of Venice",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Republic_of_Venice"
+      }
+    ],
+    "Relation": "country Pula was part of during Bronze Age when gradine first appeared in Istria",
+    "entity": [
+      "Pula",
+      "Bronze Age",
+      "gradine",
+      "hill-top fortifications",
+      "Istria",
+      "prehistoric Istria",
+      "Illyrians",
+      "ancient Adriatic region",
+      "BC era"
+    ]
+  },
+  {
+    "Id": 8013,
+    "Question": "At the time of the United States Census in Ann Arbor, how were the number of households determined?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q523716",
+        "WikidataLabel": "2010 United States Census",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+      }
+    ],
+    "Relation": "determined number of households at time of United States Census in Ann Arbor",
+    "entity": [
+      "United States Census",
+      "Ann Arbor",
+      "households",
+      "census methodology",
+      "U.S. Census Bureau",
+      "demographics",
+      "Michigan",
+      "census data collection"
+    ]
+  },
+  {
+    "Id": 8014,
+    "Question": "Which country had more Serbs in its population - North Macedonia or Serbia?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q215",
+        "WikidataLabel": "Slovenia",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Slovenia"
+      }
+    ],
+    "Relation": "country with more Serbs in population - North Macedonia or Serbia",
+    "entity": [
+      "Serbs",
+      "population",
+      "North Macedonia",
+      "Serbia",
+      "Balkans demographics",
+      "ethnic groups",
+      "census data",
+      "South Slavic peoples"
+    ]
+  },
+  {
+    "Id": 8015,
+    "Question": "What football club did Dan Petrescu make his senior debut with in the year France became the first team to win the World Cup and European Championship consecutively?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q48879",
+        "WikidataLabel": "Bradford City A.F.C.",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Bradford_City_A.F.C."
+      }
+    ],
+    "Relation": "made senior debut with football club in year France won World Cup and European Championship consecutively",
+    "entity": [
+      "Dan Petrescu",
+      "senior debut",
+      "football club",
+      "France",
+      "World Cup",
+      "European Championship",
+      "1998 FIFA World Cup",
+      "UEFA Euro 2000",
+      "Romanian football",
+      "FC Steaua București",
+      "1998-2000 period"
+    ]
+  },
+  {
+    "Id": 8016,
+    "Question": "What was Clelia Lollini's country of citizenship as she finished her medical degree?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q172579",
+        "WikidataLabel": "Kingdom of Italy",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Italy"
+      }
+    ],
+    "Relation": "country of citizenship as finished medical degree",
+    "entity": [
+      "Clelia Lollini",
+      "medical degree",
+      "citizenship",
+      "Italy",
+      "Italian medicine",
+      "early 20th century medicine",
+      "women in medicine",
+      "University of Bologna"
+    ]
+  },
+  {
+    "Id": 8017,
+    "Question": "During the United States Census in George, Iowa, what was the percentage of water in the area?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q523716",
+        "WikidataLabel": "2010 United States Census",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+      }
+    ],
+    "Relation": "percentage of water in area during United States Census in George, Iowa",
+    "entity": [
+      "United States Census",
+      "George, Iowa",
+      "water percentage",
+      "geography",
+      "Iowa geography",
+      "census geography",
+      "Midwestern United States",
+      "land area statistics"
+    ]
+  },
+  {
+    "Id": 8018,
+    "Question": "What breed was Ten Most Wanted, the race horse and sire that was moved to the United States for stud duty in late?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q210826",
+        "WikidataLabel": "Thoroughbred",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Thoroughbred"
+      }
+    ],
+    "Relation": "breed of race horse Ten Most Wanted moved to United States for stud duty",
+    "entity": [
+      "Ten Most Wanted",
+      "race horse",
+      "sire",
+      "stud duty",
+      "United States",
+      "horse breed",
+      "Thoroughbred",
+      "American horse racing",
+      "breeding industry"
+    ]
+  },
+  {
+    "Id": 8019,
+    "Question": "Who was the leader of the German Confederation Deutscher Bund during the Duchy of Zator's time in the Confederation?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q130834",
+        "WikidataLabel": "Francis II, Holy Roman Emperor",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Francis_II,_Holy_Roman_Emperor"
+      }
+    ],
+    "Relation": "leader of German Confederation Deutscher Bund during Duchy of Zator's time in Confederation",
+    "entity": [
+      "German Confederation",
+      "Deutscher Bund",
+      "Duchy of Zator",
+      "leader",
+      "Francis II, Holy Roman Emperor",
+      "Austrian Empire",
+      "19th century German politics",
+      "Congress of Vienna era"
+    ]
+  },
+  {
+    "Id": 8020,
+    "Question": "What publisher was Alfred Russel Wallace with when he was elected as a Fellow of the Royal Society?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q123885",
+        "WikidataLabel": "Royal Society",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Royal_Society"
+      }
+    ],
+    "Relation": "publisher Alfred Russel Wallace was with when elected Fellow of Royal Society",
+    "entity": [
+      "Alfred Russel Wallace",
+      "Fellow of the Royal Society",
+      "publisher",
+      "scientific publishing",
+      "19th century science",
+      "natural history",
+      "John Murray",
+      "scientific journals",
+      "evolutionary theory"
+    ]
+  },
+  {
+    "Id": 8021,
+    "Question": "What was the political affiliation of the Armed Forces of National Liberation (Venezuela) during their failed attempt to rally the rural poor and disrupt the elections?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q847914",
+        "WikidataLabel": "Communist Party of Venezuela",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Communist_Party_of_Venezuela"
+      }
+    ],
+    "Relation": "political affiliation during failed attempt to rally rural poor and disrupt elections",
+    "entity": [
+      "Armed Forces of National Liberation",
+      "Venezuela",
+      "political affiliation",
+      "rural poor",
+      "elections",
+      "left-wing",
+      "guerrilla movement",
+      "1960s Venezuela"
+    ]
+  },
+  {
+    "Id": 8022,
+    "Question": "What domestic cricket team did Stephen Newton go to after playing for Cambridge University?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q3489807",
+        "WikidataLabel": "Somerset County Cricket Club",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Somerset_County_Cricket_Club"
+      }
+    ],
+    "Relation": "went to domestic cricket team after playing for Cambridge University",
+    "entity": [
+      "Stephen Newton",
+      "Cambridge University",
+      "domestic cricket team",
+      "English cricket",
+      "county cricket"
+    ]
+  },
+  {
+    "Id": 8023,
+    "Question": "After Paulão's Senior career at Naval 84, which football club did he join for his Senior career next?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q75684",
+        "WikidataLabel": "S.C. Braga",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/S.C._Braga"
+      }
+    ],
+    "Relation": "joined football club for Senior career after Senior career at Naval 84",
+    "entity": [
+      "Paulão",
+      "Naval 84",
+      "football club",
+      "Portuguese football",
+      "Primeira Liga"
+    ]
+  },
+  {
+    "Id": 8024,
+    "Question": "During Geoffrey Boycott's stint as a cricketer, which team was he a member of?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q3177444",
+        "WikidataLabel": "Yorkshire County Cricket Club",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Yorkshire_County_Cricket_Club"
+      }
+    ],
+    "Relation": "was a member of team during stint as a cricketer",
+    "entity": [
+      "Geoffrey Boycott",
+      "cricketer",
+      "team",
+      "Yorkshire County Cricket Club",
+      "England cricket team",
+      "cricket career"
+    ]
+  },
+  {
+    "Id": 8025,
+    "Question": "During Köbi Kuhn's managerial career, which national football team did he manage?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q165141",
+        "WikidataLabel": "Swiss national football team",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Switzerland_national_football_team"
+      }
+    ],
+    "Relation": "managed national football team during managerial career",
+    "entity": [
+      "Köbi Kuhn",
+      "managerial career",
+      "national football team",
+      "Switzerland national football team",
+      "Swiss football"
+    ]
+  },
+  {
+    "Id": 8026,
+    "Question": "What was Attilio Andreoli's country of citizenship when he helped decorate the sanctuary of Sant'Antonio di Padova in Milan?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q172579",
+        "WikidataLabel": "Kingdom of Italy",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Italy"
+      }
+    ],
+    "Relation": "country of citizenship when helped decorate sanctuary of Sant'Antonio di Padova in Milan",
+    "entity": [
+      "Attilio Andreoli",
+      "country of citizenship",
+      "sanctuary of Sant'Antonio di Padova",
+      "Milan",
+      "Italy",
+      "Italian art",
+      "20th century"
+    ]
+  },
+  {
+    "Id": 8027,
+    "Question": "What was Raffaello Martinelli's role in the Catholic Church when he was appointed Bishop of Frascati by Pope Benedict XVI?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q250867",
+        "WikidataLabel": "Catholic priest",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Catholic_priest"
+      }
+    ],
+    "Relation": "role in Catholic Church when appointed Bishop of Frascati by Pope Benedict XVI",
+    "entity": [
+      "Raffaello Martinelli",
+      "role",
+      "Catholic Church",
+      "Bishop of Frascati",
+      "Pope Benedict XVI",
+      "Vatican",
+      "21st century"
+    ]
+  },
+  {
+    "Id": 8028,
+    "Question": "At the time Ratko Mladić was wanted for genocide, war crimes, and crimes against humanity, which intergovernmental organisation was Bosnia and Herzegovina a member of?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q162656",
+        "WikidataLabel": "International Civil Defence Organisation",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/International_Civil_Defence_Organization"
+      },
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q170424",
+        "WikidataLabel": "World Meteorological Organization",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/World_Meteorological_Organization"
+      }
+    ],
+    "Relation": "intergovernmental organisation Bosnia and Herzegovina was a member of at time Ratko Mladić was wanted for genocide, war crimes, and crimes against humanity",
+    "entity": [
+      "Ratko Mladić",
+      "genocide",
+      "war crimes",
+      "crimes against humanity",
+      "Bosnia and Herzegovina",
+      "intergovernmental organisation",
+      "United Nations",
+      "1990s",
+      "Bosnian War"
+    ]
+  },
+  {
+    "Id": 8029,
+    "Question": "What was the first line of the Saint Petersburg Metro to open when it began operations?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q519861",
+        "WikidataLabel": "Line 1",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Line_1_(Saint_Petersburg_Metro)"
+      }
+    ],
+    "Relation": "first line of Saint Petersburg Metro to open when began operations",
+    "entity": [
+      "Saint Petersburg Metro",
+      "first line",
+      "operations",
+      "Kirovsko-Vyborgskaya Line",
+      "Saint Petersburg",
+      "Soviet metro",
+      "1955"
+    ]
+  },
+  {
+    "Id": 8030,
+    "Question": "When was the Korea University Foundation established and what kinds of scholarships and awards does it offer?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q1404101",
+        "WikidataLabel": "fellow",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Fellow"
+      }
+    ],
+    "Relation": "established and offers scholarships and awards",
+    "entity": [
+      "Korea University Foundation",
+      "established",
+      "scholarships",
+      "awards",
+      "South Korea",
+      "higher education",
+      "academic funding"
+    ]
+  },
+  {
+    "Id": 8031,
+    "Question": "What was the nationality of Giridharilal Kedia when he died in Cuttack at the age of 73?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q668",
+        "WikidataLabel": "India",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/India"
+      }
+    ],
+    "Relation": "nationality when died in Cuttack at age 73",
+    "entity": [
+      "Giridharilal Kedia",
+      "nationality",
+      "Cuttack",
+      "death",
+      "Indian",
+      "Odisha",
+      "20th-21st century"
+    ]
+  },
+  {
+    "Id": 8032,
+    "Question": "When President Sidi Ould Cheikh Abdallahi of Mauritania was overthrown in a military coup, which international organization was Mauritania a member of?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q7809",
+        "WikidataLabel": "UNESCO",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/UNESCO"
+      },
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q376150",
+        "WikidataLabel": "International Telecommunication Union",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/International_Telecommunication_Union"
+      },
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q134102",
+        "WikidataLabel": "Organisation internationale de la Francophonie",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Organisation_internationale_de_la_Francophonie"
+      },
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q162656",
+        "WikidataLabel": "International Civil Defence Organisation",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/International_Civil_Defence_Organization"
+      }
+    ],
+    "Relation": "international organization Mauritania was a member of when President Sidi Ould Cheikh Abdallahi was overthrown in military coup",
+    "entity": [
+      "Sidi Ould Cheikh Abdallahi",
+      "Mauritania",
+      "military coup",
+      "international organization",
+      "African Union",
+      "United Nations",
+      "2008"
+    ]
+  },
+  {
+    "Id": 8033,
+    "Question": "In what US Census year was there a population of 10,388 people in 4,934 households in Mount Airy, North Carolina, including a growth of 53400 from the previous census?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q523716",
+        "WikidataLabel": "2010 United States Census",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+      }
+    ],
+    "Relation": "US Census year with population of 10,388 people in 4,934 households in Mount Airy, North Carolina, including growth of 53400 from previous census",
+    "entity": [
+      "US Census",
+      "population",
+      "Mount Airy",
+      "North Carolina",
+      "households",
+      "growth",
+      "2000 Census",
+      "demographics"
+    ]
+  },
+  {
+    "Id": 8034,
+    "Question": "When Mohammad Aamer played for Gloucestershire, which cricket team was he a member of?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q15895530",
+        "WikidataLabel": "Jamaica Tallawahs",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Jamaica_Tallawahs"
+      }
+    ],
+    "Relation": "cricket team was a member of when played for Gloucestershire",
+    "entity": [
+      "Mohammad Aamer",
+      "Gloucestershire",
+      "cricket team",
+      "Pakistan national cricket team",
+      "county cricket",
+      "2010s"
+    ]
+  },
+  {
+    "Id": 8035,
+    "Question": "During Rudy Dhaenens' career, which professional cycling team was he a part of?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q20108946",
+        "WikidataLabel": "Splendor",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Splendor_(cycling_team)"
+      }
+    ],
+    "Relation": "professional cycling team was part of during career",
+    "entity": [
+      "Rudy Dhaenens",
+      "career",
+      "professional cycling team",
+      "Lotto–Soudal",
+      "Belgian cycling",
+      "1980s-1990s"
+    ]
+  },
+  {
+    "Id": 8036,
+    "Question": "At the start of Paul Dörflinger's senior career, which club did he play for before joining MSV Duisburg?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q106394",
+        "WikidataLabel": "SC Freiburg",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/SC_Freiburg"
+      }
+    ],
+    "Relation": "club played for before joining MSV Duisburg at start of senior career",
+    "entity": [
+      "Paul Dörflinger",
+      "senior career",
+      "club",
+      "MSV Duisburg",
+      "German football",
+      "youth academy"
+    ]
+  },
+  {
+    "Id": 8037,
+    "Question": "After the Siege of Marawi had ended, what organisation sent equipment to the battle site?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q2429253",
+        "WikidataLabel": "Islamic State",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Islamic_State"
+      }
+    ],
+    "Relation": "organisation sent equipment to battle site after Siege of Marawi ended",
+    "entity": [
+      "Siege of Marawi",
+      "battle site",
+      "organisation",
+      "United Nations",
+      "Philippine government",
+      "humanitarian aid",
+      "2017"
+    ]
+  },
+  {
+    "Id": 8038,
+    "Question": "When the Wisconsin State Assembly's new session began, who was the Republican Majority Leader?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q7859941",
+        "WikidataLabel": "Tyler August",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Tyler_August"
+      }
+    ],
+    "Relation": "Republican Majority Leader when Wisconsin State Assembly's new session began",
+    "entity": [
+      "Wisconsin State Assembly",
+      "new session",
+      "Republican Majority Leader",
+      "Wisconsin politics",
+      "state legislature"
+    ]
+  },
+  {
+    "Id": 8039,
+    "Question": "Which nonprofit organization was the Argentina national football team part of when they reached the final, only to be beaten by West Germany 1-0?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q253414",
+        "WikidataLabel": "FIFA",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/FIFA"
+      }
+    ],
+    "Relation": "nonprofit organization Argentina national football team was part of when reached final, beaten by West Germany 1-0",
+    "entity": [
+      "Argentina national football team",
+      "nonprofit organization",
+      "final",
+      "West Germany",
+      "FIFA",
+      "World Cup",
+      "1986 FIFA World Cup"
+    ]
+  },
+  {
+    "Id": 8040,
+    "Question": "What country was Trieste part of before it became part of Italy?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q391980",
+        "WikidataLabel": "Free Territory of Trieste",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Free_Territory_of_Trieste"
+      }
+    ],
+    "Relation": "country Trieste was part of before became part of Italy",
+    "entity": [
+      "Trieste",
+      "country",
+      "Italy",
+      "Austrian Empire",
+      "Austria-Hungary",
+      "Free Territory of Trieste",
+      "historical borders"
+    ]
+  },
+  {
+    "Id": 8041,
+    "Question": "What was Marcella Hazan's country of citizenship when she was born in the town of Cesenatico in Emilia-Romagna?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q172579",
+        "WikidataLabel": "Kingdom of Italy",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Italy"
+      }
+    ],
+    "Relation": "country of citizenship when born in town of Cesenatico in Emilia-Romagna",
+    "entity": [
+      "Marcella Hazan",
+      "country of citizenship",
+      "Cesenatico",
+      "Emilia-Romagna",
+      "Italy",
+      "Italian cuisine",
+      "birth"
+    ]
+  },
+  {
+    "Id": 8042,
+    "Question": "During Yuji Nakazawa's time with Yokohama F. Marinos, which competition did they win and which did they come runner-up in?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q609289",
+        "WikidataLabel": "Emperor's Cup",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Emperor%27s_Cup"
+      }
+    ],
+    "Relation": "won competition and came runner-up in competition during time with Yokohama F. Marinos",
+    "entity": [
+      "Yuji Nakazawa",
+      "Yokohama F. Marinos",
+      "J1 League",
+      "Japanese football",
+      "AFC Champions League",
+      "Emperor's Cup",
+      "J.League Cup",
+      "competition win",
+      "runner-up"
+    ]
+  },
+  {
+    "Id": 8043,
+    "Question": "What was the area of the former municipality of Kuopio during its existence?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q748064",
+        "WikidataLabel": "Maaninka",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Maaninka"
+      },
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q673728",
+        "WikidataLabel": "Kuopion maalaiskunta",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Kuopion_maalaiskunta"
+      },
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q65034",
+        "WikidataLabel": "Riistavesi",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Riistavesi_(former_municipality)"
+      }
+    ],
+    "Relation": "area of former municipality during its existence",
+    "entity": [
+      "Kuopio",
+      "former municipality",
+      "Finland",
+      "area",
+      "municipal history",
+      "geographical area",
+      "historical boundaries"
+    ]
+  },
+  {
+    "Id": 8044,
+    "Question": "Before Eric Abidal's Senior career at Olympiacos, which football club was he playing for?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q180305",
+        "WikidataLabel": "AS Monaco FC",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/AS_Monaco_FC"
+      }
+    ],
+    "Relation": "played for football club before Senior career at Olympiacos",
+    "entity": [
+      "Eric Abidal",
+      "Olympiacos",
+      "Senior career",
+      "football club",
+      "FC Barcelona",
+      "AS Monaco",
+      "Lille OSC",
+      "French football",
+      "career timeline"
+    ]
+  },
+  {
+    "Id": 8045,
+    "Question": "What political party was William Oswald Mills affiliated with at the time of his death in Easton Maryland (aged 48)?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q29468",
+        "WikidataLabel": "Republican Party",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Republican_Party_(United_States)"
+      }
+    ],
+    "Relation": "affiliated with political party at time of death in Easton Maryland",
+    "entity": [
+      "William Oswald Mills",
+      "political party",
+      "Easton",
+      "Maryland",
+      "death",
+      "Republican Party",
+      "U.S. politics",
+      "age 48"
+    ]
+  },
+  {
+    "Id": 8046,
+    "Question": "In what season of Jeremy Lin's career with the Erie BayHawks was he promoted to the starting lineup and caused them to go on a seven-game winning streak?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q3869419",
+        "WikidataLabel": "2011–12 NBA Development League season",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/2011%E2%80%9312_NBA_Development_League_season"
+      }
+    ],
+    "Relation": "promoted to starting lineup and caused seven-game winning streak in season with Erie BayHawks",
+    "entity": [
+      "Jeremy Lin",
+      "Erie BayHawks",
+      "NBA Development League",
+      "starting lineup",
+      "seven-game winning streak",
+      "basketball career",
+      "season",
+      "performance"
+    ]
+  },
+  {
+    "Id": 8047,
+    "Question": "Which U.S. state housed the University of Las Vegas when it was formerly known as the University of Southern Division and Southern University?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q1227",
+        "WikidataLabel": "Nevada",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Nevada"
+      }
+    ],
+    "Relation": "U.S. state housed University of Las Vegas when formerly known as University of Southern Division and Southern University",
+    "entity": [
+      "University of Las Vegas",
+      "University of Southern Division",
+      "Southern University",
+      "U.S. state",
+      "Nevada",
+      "higher education history",
+      "university names"
+    ]
+  },
+  {
+    "Id": 8048,
+    "Question": "What country did Shakuntala Devi become a citizen of after the British Raj?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q1775277",
+        "WikidataLabel": "Dominion of India",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Dominion_of_India"
+      }
+    ],
+    "Relation": "became citizen of country after British Raj",
+    "entity": [
+      "Shakuntala Devi",
+      "British Raj",
+      "citizen",
+      "India",
+      "Indian independence",
+      "mathematician",
+      "post-colonial era"
+    ]
+  },
+  {
+    "Id": 8049,
+    "Question": "After the German submarine U-269 was commissioned, which U-boat flotilla did she join?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q2764565",
+        "WikidataLabel": "8th U-boat Flotilla",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/8th_U-boat_Flotilla"
+      }
+    ],
+    "Relation": "joined U-boat flotilla after commission",
+    "entity": [
+      "German submarine U-269",
+      "commissioned",
+      "U-boat flotilla",
+      "World War II",
+      "Kriegsmarine",
+      "naval history",
+      "submarine operations"
+    ]
+  },
+  {
+    "Id": 8050,
+    "Question": "During the decade when Dave Halliday was manager of Aberdeen F.C., in which league did they win all the major Scottish trophies?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q2261276",
+        "WikidataLabel": "Scottish Football League",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Scottish_Football_League"
+      }
+    ],
+    "Relation": "won all major Scottish trophies in league during decade as manager of Aberdeen F.C.",
+    "entity": [
+      "Dave Halliday",
+      "Aberdeen F.C.",
+      "manager",
+      "decade",
+      "Scottish trophies",
+      "Scottish football",
+      "league",
+      "historical success"
+    ]
+  },
+  {
+    "Id": 8051,
+    "Question": "During Tony Roche's singles career, what was his best Grand Slam tournament result?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q123577",
+        "WikidataLabel": "US Open",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/US_Open_(tennis)"
+      }
+    ],
+    "Relation": "best Grand Slam tournament result during singles career",
+    "entity": [
+      "Tony Roche",
+      "singles career",
+      "Grand Slam tournament",
+      "tennis",
+      "Australian Open",
+      "French Open",
+      "Wimbledon",
+      "US Open",
+      "result"
+    ]
+  },
+  {
+    "Id": 8052,
+    "Question": "Which country did the European Union share a border with when they officially recognised the Federal Republic of Yugoslavia?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q219",
+        "WikidataLabel": "Bulgaria",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Bulgaria"
+      }
+    ],
+    "Relation": "shared border with country when officially recognised Federal Republic of Yugoslavia",
+    "entity": [
+      "European Union",
+      "Federal Republic of Yugoslavia",
+      "border",
+      "country",
+      "international recognition",
+      "geopolitics",
+      "1990s",
+      "Balkan region"
+    ]
+  },
+  {
+    "Id": 8053,
+    "Question": "Who was the head of the Labour Party in the Netherlands when the party won 19% of the vote in the European Parliament election and won six seats?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q42320114",
+        "WikidataLabel": "Nelleke Vedelaar",
+        "WikipediaURL": ""
+      }
+    ],
+    "Relation": "head of Labour Party in Netherlands when party won 19% of vote and six seats in European Parliament election",
+    "entity": [
+      "Labour Party",
+      "Netherlands",
+      "head",
+      "European Parliament election",
+      "vote percentage",
+      "seats",
+      "Dutch politics",
+      "political leadership"
+    ]
+  },
+  {
+    "Id": 8054,
+    "Question": "What region was Changtu County located in after Liaobei Province?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q1054752",
+        "WikidataLabel": "Liaoxi Province",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Liaoxi"
+      }
+    ],
+    "Relation": "located in region after Liaobei Province",
+    "entity": [
+      "Changtu County",
+      "Liaobei Province",
+      "region",
+      "China",
+      "administrative history",
+      "geographical division",
+      "post-province era"
+    ]
+  },
+  {
+    "Id": 8055,
+    "Question": "In which Italian general election did Silvio Berlusconi become a Member of the Chamber of Deputies and lead the revived Forza Italia?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q520749",
+        "WikidataLabel": "1994 Italian general election",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/1994_Italian_general_election"
+      }
+    ],
+    "Relation": "became Member of Chamber of Deputies and led revived Forza Italia in Italian general election",
+    "entity": [
+      "Silvio Berlusconi",
+      "Member of the Chamber of Deputies",
+      "Forza Italia",
+      "Italian general election",
+      "Italian politics",
+      "revival",
+      "political career"
+    ]
+  },
+  {
+    "Id": 8056,
+    "Question": "During its overlap with the District of Alaska, to which direction was the Northwest Territories extended?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q176",
+        "WikidataLabel": "Quebec",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Quebec"
+      }
+    ],
+    "Relation": "extended to direction during overlap with District of Alaska",
+    "entity": [
+      "Northwest Territories",
+      "District of Alaska",
+      "overlap",
+      "direction",
+      "territorial expansion",
+      "historical boundaries",
+      "North America"
+    ]
+  },
+  {
+    "Id": 8057,
+    "Question": "After it was located in the Southern Nations, Nationalities, and Peoples' Region, which region did the Dawro Zone belong to in Ethiopia?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q109788993",
+        "WikidataLabel": "South West Ethiopia People's Region",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/South_West_Ethiopia_Peoples%27_Region"
+      }
+    ],
+    "Relation": "belonged to region in Ethiopia after located in Southern Nations, Nationalities, and Peoples' Region",
+    "entity": [
+      "Dawro Zone",
+      "Southern Nations, Nationalities, and Peoples' Region",
+      "Ethiopia",
+      "region",
+      "administrative change",
+      "geopolitical division"
+    ]
+  },
+  {
+    "Id": 8058,
+    "Question": "At which Winter Olympics did Shaun White, the ESPY Award-winning Best U.S. Olympian, win gold in the half-pipe?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q9672",
+        "WikidataLabel": "2006 Winter Olympics",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/2006_Winter_Olympics"
+      }
+    ],
+    "Relation": "won gold in half-pipe at Winter Olympics as ESPY Award-winning Best U.S. Olympian",
+    "entity": [
+      "Shaun White",
+      "Winter Olympics",
+      "gold medal",
+      "half-pipe",
+      "ESPY Award",
+      "Best U.S. Olympian",
+      "snowboarding",
+      "Olympic history"
+    ]
+  },
+  {
+    "Id": 8059,
+    "Question": "What national football team was Hervé Renard the manager of before managing the Angola team?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q206350",
+        "WikidataLabel": "Zambia national football team",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Zambia_national_football_team"
+      }
+    ],
+    "Relation": "manager of national football team before managing Angola team",
+    "entity": [
+      "Hervé Renard",
+      "Angola",
+      "national football team",
+      "manager",
+      "football management",
+      "coaching career",
+      "African football"
+    ]
+  },
+  {
+    "Id": 8060,
+    "Question": "What country was Danilo Innocenti a citizen of before Italy?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q172579",
+        "WikidataLabel": "Kingdom of Italy",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Italy"
+      }
+    ],
+    "Relation": "citizen of country before Italy",
+    "entity": [
+      "Danilo Innocenti",
+      "Italy",
+      "citizen",
+      "country",
+      "nationality",
+      "historical citizenship",
+      "European history"
+    ]
+  },
+  {
+    "Id": 8061,
+    "Question": "In which country was Die Another Day released after its release in the UK and the US?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q30",
+        "WikidataLabel": "United States of America",
+        "WikipediaURL": "Q64358128"
+      }
+    ],
+    "Relation": "released in country after release in UK and US",
+    "entity": [
+      "Die Another Day",
+      "release",
+      "UK",
+      "US",
+      "country",
+      "film distribution",
+      "James Bond",
+      "international release"
+    ]
+  },
+  {
+    "Id": 8062,
+    "Question": "What role did Jawaharlal Nehru hold before his death?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q313465",
+        "WikidataLabel": "Minister of External Affairs",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Minister_of_External_Affairs_(India)"
+      }
+    ],
+    "Relation": "held role before death",
+    "entity": [
+      "Jawaharlal Nehru",
+      "death",
+      "Prime Minister of India",
+      "Indian independence movement",
+      "Indian National Congress"
+    ]
+  },
+  {
+    "Id": 8063,
+    "Question": "Which specialized agency of the United Nations was Kenya a member of when Daniel arap Moi became president of Kenya?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q170424",
+        "WikidataLabel": "World Meteorological Organization",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/World_Meteorological_Organization"
+      }
+    ],
+    "Relation": "was member of specialized agency of United Nations when Daniel arap Moi became president of Kenya",
+    "entity": [
+      "Kenya",
+      "Daniel arap Moi",
+      "president of Kenya",
+      "United Nations",
+      "specialized agency",
+      "UNESCO",
+      "WHO",
+      "FAO",
+      "1978"
+    ]
+  },
+  {
+    "Id": 8064,
+    "Question": "What was the nationality of Admiral S M Nanda PVSM AVSM during his years of service?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q668",
+        "WikidataLabel": "India",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/India"
+      }
+    ],
+    "Relation": "nationality during years of service",
+    "entity": [
+      "Admiral S M Nanda PVSM AVSM",
+      "years of service",
+      "Indian Navy",
+      "India",
+      "military service",
+      "Indo-Pakistani wars"
+    ]
+  },
+  {
+    "Id": 8065,
+    "Question": "During Richard Henyekane's 44-match senior career in football, which club did he play for?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q784965",
+        "WikidataLabel": "Mamelodi Sundowns F.C.",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Mamelodi_Sundowns_F.C."
+      }
+    ],
+    "Relation": "played for club during 44-match senior career in football",
+    "entity": [
+      "Richard Henyekane",
+      "44-match senior career",
+      "football",
+      "club",
+      "South African football",
+      "Premier Soccer League",
+      "Golden Arrows",
+      "Bloemfontein Celtic"
+    ]
+  },
+  {
+    "Id": 8066,
+    "Question": "What other liberal party merged with the Democratic Party of Japan to form a new party while retaining the DPJ name during Juliana of the Netherlands’ term as queen?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q1979567",
+        "WikidataLabel": "New Frontier Party",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/New_Frontier_Party_(Japan)"
+      }
+    ],
+    "Relation": "merged with Democratic Party of Japan to form new party while retaining DPJ name during Juliana of the Netherlands' term as queen",
+    "entity": [
+      "Democratic Party of Japan",
+      "liberal party",
+      "merger",
+      "Juliana of the Netherlands",
+      "queen",
+      "Japan",
+      "political parties",
+      "1990s",
+      "Liberal Party (Japan)",
+      "New Frontier Party"
+    ]
+  },
+  {
+    "Id": 8067,
+    "Question": "What was the country of V.T. Sambanthan's citizenship when he signed the Merdeka Agreement and gained independence?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q668",
+        "WikidataLabel": "India",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/India"
+      }
+    ],
+    "Relation": "country of citizenship when signed Merdeka Agreement and gained independence",
+    "entity": [
+      "V.T. Sambanthan",
+      "Merdeka Agreement",
+      "independence",
+      "Malaysia",
+      "Federation of Malaya",
+      "1957",
+      "Indian diaspora in Malaysia"
+    ]
+  },
+  {
+    "Id": 8068,
+    "Question": "On what continent did the NBC Blue Network operate when it became the American Broadcasting Company (ABC) but still had a close relationship with NBC?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q49",
+        "WikidataLabel": "North America",
+        "WikipediaURL": "Q64358073"
+      }
+    ],
+    "Relation": "operated on continent when became American Broadcasting Company (ABC) but still had close relationship with NBC",
+    "entity": [
+      "NBC Blue Network",
+      "American Broadcasting Company (ABC)",
+      "NBC",
+      "continent",
+      "North America",
+      "United States",
+      "broadcasting history",
+      "1940s"
+    ]
+  },
+  {
+    "Id": 8069,
+    "Question": "When the Ministry of Agriculture Nature and Food Quality was first established 87 years ago, what was it called?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q11451",
+        "WikidataLabel": "Agriculture",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Agriculture"
+      }
+    ],
+    "Relation": "was called when Ministry of Agriculture Nature and Food Quality was first established 87 years ago",
+    "entity": [
+      "Ministry of Agriculture Nature and Food Quality",
+      "first established",
+      "87 years ago",
+      "Netherlands",
+      "1930s",
+      "Ministry of Agriculture and Fisheries",
+      "agricultural policy"
+    ]
+  },
+  {
+    "Id": 8070,
+    "Question": "During his international test match against the West Indies, what was Madhav Apte's country of citizenship?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q668",
+        "WikidataLabel": "India",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/India"
+      }
+    ],
+    "Relation": "country of citizenship during international test match against West Indies",
+    "entity": [
+      "Madhav Apte",
+      "international test match",
+      "West Indies",
+      "cricket",
+      "India",
+      "Indian cricket team",
+      "1950s"
+    ]
+  },
+  {
+    "Id": 8071,
+    "Question": "What country was Kallam Anji Reddy a citizen of before India?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q1775277",
+        "WikidataLabel": "Dominion of India",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Dominion_of_India"
+      }
+    ],
+    "Relation": "country was citizen of before India",
+    "entity": [
+      "Kallam Anji Reddy",
+      "citizen",
+      "India",
+      "before India",
+      "British India",
+      "Indian independence",
+      "1947",
+      "pharmaceutical industry"
+    ]
+  },
+  {
+    "Id": 8072,
+    "Question": "Who was the chairperson of the French National Centre for Scientific Research during the period of its 2nd term?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q28366130",
+        "WikidataLabel": "Anne Peyroche",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Anne_Peyroche"
+      }
+    ],
+    "Relation": "was chairperson of French National Centre for Scientific Research during period of its 2nd term",
+    "entity": [
+      "French National Centre for Scientific Research",
+      "chairperson",
+      "2nd term",
+      "France",
+      "scientific research",
+      "CNRS",
+      "historical leadership",
+      "mid-20th century"
+    ]
+  },
+  {
+    "Id": 8073,
+    "Question": "What college sports team did the Georgia Bulldogs football team play against when they joined the SIAA in?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q4705216",
+        "WikidataLabel": "Alabama Crimson Tide football",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Alabama_Crimson_Tide_football"
+      }
+    ],
+    "Relation": "played against college sports team when joined SIAA in",
+    "entity": [
+      "Georgia Bulldogs football team",
+      "college sports team",
+      "SIAA",
+      "Southern Intercollegiate Athletic Association",
+      "American football",
+      "university teams",
+      "early 20th century",
+      "Auburn Tigers",
+      "Alabama Crimson Tide"
+    ]
+  },
+  {
+    "Id": 8074,
+    "Question": "What Wikimedia project page is dedicated to Virna Lisi when her full name was Virna Lisa Pieralisi?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q10454903",
+        "WikidataLabel": "Help:IPA for Italian",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Help:IPA/Italian"
+      }
+    ],
+    "Relation": "Wikimedia project page dedicated to when full name was Virna Lisa Pieralisi",
+    "entity": [
+      "Virna Lisi",
+      "Virna Lisa Pieralisi",
+      "Wikimedia project",
+      "Wikipedia",
+      "Italian actress",
+      "filmography",
+      "biography"
+    ]
+  },
+  {
+    "Id": 8075,
+    "Question": "After his time at Wigan Athletic, which team did Titus Bramble play 47 games for in his senior career?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q18739",
+        "WikidataLabel": "Sunderland A.F.C.",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Sunderland_A.F.C."
+      }
+    ],
+    "Relation": "played 47 games for team after time at Wigan Athletic in senior career",
+    "entity": [
+      "Titus Bramble",
+      "Wigan Athletic",
+      "47 games",
+      "senior career",
+      "football",
+      "English football",
+      "Ipswich Town",
+      "Newcastle United",
+      "Sunderland"
+    ]
+  },
+  {
+    "Id": 8076,
+    "Question": "After the Socialist Federal Republic of Yugoslavia, what was Marijana Lubej's country of citizenship?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q215",
+        "WikidataLabel": "Slovenia",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Slovenia"
+      }
+    ],
+    "Relation": "country of citizenship after Socialist Federal Republic of Yugoslavia",
+    "entity": [
+      "Marijana Lubej",
+      "Socialist Federal Republic of Yugoslavia",
+      "Yugoslav Wars",
+      "1990s",
+      "Slovenia",
+      "Croatia",
+      "Bosnia and Herzegovina",
+      "successor states"
+    ]
+  },
+  {
+    "Id": 8077,
+    "Question": "Before Müjdat Yetkiner's time with the Turkey national under-21 football team, which national association football team did he have an international career with at U18 level?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q483856",
+        "WikidataLabel": "Turkey national association football team",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Turkey_national_football_team"
+      }
+    ],
+    "Relation": "had international career with national association football team at U18 level before time with Turkey national under-21 football team",
+    "entity": [
+      "Müjdat Yetkiner",
+      "Turkey national under-21 football team",
+      "U18 level",
+      "national association football team",
+      "Turkish football",
+      "youth teams",
+      "1980s"
+    ]
+  },
+  {
+    "Id": 8078,
+    "Question": "During Elena Vesnina's thirteenth year as a professional tennis player, what Grand Slam doubles event did she win?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q41520",
+        "WikidataLabel": "Wimbledon Championships",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Wimbledon_Championships"
+      }
+    ],
+    "Relation": "won Grand Slam doubles event during thirteenth year as professional tennis player",
+    "entity": [
+      "Elena Vesnina",
+      "thirteenth year",
+      "professional tennis player",
+      "Grand Slam doubles event",
+      "tennis",
+      "Wimbledon",
+      "US Open",
+      "Australian Open",
+      "French Open",
+      "2010s"
+    ]
+  },
+  {
+    "Id": 8079,
+    "Question": "What party was Aryeh Deri affiliated with during the time he held ministerial roles as Minister without Portfolio?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q904635",
+        "WikidataLabel": "Shas",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Shas"
+      }
+    ],
+    "Relation": "was affiliated with party during time held ministerial roles as Minister without Portfolio",
+    "entity": [
+      "Aryeh Deri",
+      "Minister without Portfolio",
+      "ministerial roles",
+      "party",
+      "Israel",
+      "Shas",
+      "Israeli politics",
+      "1990s",
+      "2000s"
+    ]
+  },
+  {
+    "Id": 8080,
+    "Question": "After his 23 appearances for Middlesbrough, which club did Arthur Fitzsimons Senior play for 62 times?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q18522",
+        "WikidataLabel": "Mansfield Town F.C.",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Mansfield_Town_F.C."
+      }
+    ],
+    "Relation": "played for club 62 times after 23 appearances for Middlesbrough",
+    "entity": [
+      "Arthur Fitzsimons Senior",
+      "Middlesbrough",
+      "23 appearances",
+      "62 times",
+      "football",
+      "Irish football",
+      "Shamrock Rovers",
+      "Shelbourne"
+    ]
+  },
+  {
+    "Id": 8081,
+    "Question": "What was the next football club François Demol managed after being part of the Belgium national football team?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q734426",
+        "WikidataLabel": "K.V.K. Tienen",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/K.V.K._Tienen-Hageland"
+      }
+    ],
+    "Relation": "managed football club after being part of Belgium national football team",
+    "entity": [
+      "François Demol",
+      "Belgium national football team",
+      "football club",
+      "management",
+      "Belgian football",
+      "RSC Anderlecht",
+      "Standard Liège",
+      "1980s"
+    ]
+  },
+  {
+    "Id": 8082,
+    "Question": "What was the Oblast of the Soviet Union that Chelyabinsk was located in when the Chelyabinsk Tractor Plant was built?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q2996962",
+        "WikidataLabel": "Ural Oblast",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Ural_Oblast_(1923%E2%80%931934)"
+      }
+    ],
+    "Relation": "was located in Oblast of Soviet Union when Chelyabinsk Tractor Plant was built",
+    "entity": [
+      "Chelyabinsk",
+      "Chelyabinsk Tractor Plant",
+      "Soviet Union",
+      "Oblast",
+      "industrial history",
+      "Russian Soviet Federative Socialist Republic",
+      "Ural region"
+    ]
+  },
+  {
+    "Id": 8083,
+    "Question": "Which country was Bogota the capital of after Gran Colombia?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q630882",
+        "WikidataLabel": "Republic of New Granada",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Republic_of_New_Granada"
+      }
+    ],
+    "Relation": "was capital of country after Gran Colombia",
+    "entity": [
+      "Bogota",
+      "Gran Colombia",
+      "Colombia",
+      "capital city",
+      "South American history",
+      "Republic of New Granada"
+    ]
+  },
+  {
+    "Id": 8084,
+    "Question": "During Lee Elder's win at the Monsanto Open, what tournament had he his best results in major championships at (T11)?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q828160",
+        "WikidataLabel": "PGA Championship",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/PGA_Championship"
+      }
+    ],
+    "Relation": "had best results in major championships at tournament during win at Monsanto Open",
+    "entity": [
+      "Lee Elder",
+      "Monsanto Open",
+      "major championships",
+      "PGA Tour",
+      "golf history",
+      "Masters Tournament",
+      "U.S. Open",
+      "The Open Championship",
+      "PGA Championship"
+    ]
+  },
+  {
+    "Id": 8085,
+    "Question": "While Gideon Sa'ar was in ministerial roles, what political party did his faction represent in the Knesset?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q187009",
+        "WikidataLabel": "Likud",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Likud"
+      }
+    ],
+    "Relation": "represented political party faction in Knesset while in ministerial roles",
+    "entity": [
+      "Gideon Sa'ar",
+      "ministerial roles",
+      "political party",
+      "faction",
+      "Knesset",
+      "Israeli politics",
+      "Likud",
+      "New Hope"
+    ]
+  },
+  {
+    "Id": 8086,
+    "Question": "During the United States census for Lambertville, New Jersey, what was the percentage of water of the total area?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q523716",
+        "WikidataLabel": "2010 United States Census",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+      }
+    ],
+    "Relation": "percentage of water of total area during United States census",
+    "entity": [
+      "Lambertville",
+      "New Jersey",
+      "United States census",
+      "water percentage",
+      "geography",
+      "Hunterdon County",
+      "Delaware River"
+    ]
+  },
+  {
+    "Id": 8087,
+    "Question": "During Thomas Enqvist's career, which Grand Slam produced his best singles results?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q60874",
+        "WikidataLabel": "Australian Open",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Australian_Open"
+      }
+    ],
+    "Relation": "produced best singles results in Grand Slam during career",
+    "entity": [
+      "Thomas Enqvist",
+      "tennis career",
+      "Grand Slam",
+      "singles results",
+      "ATP Tour",
+      "Australian Open",
+      "French Open",
+      "Wimbledon",
+      "US Open"
+    ]
+  },
+  {
+    "Id": 8088,
+    "Question": "Which specialized agency of the United Nations was Sweden a member of when their area water was 8.97?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q191384",
+        "WikidataLabel": "International Bank for Reconstruction and Development",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/International_Bank_for_Reconstruction_and_Development"
+      },
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q827525",
+        "WikidataLabel": "International Development Association",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/International_Development_Association"
+      },
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q170424",
+        "WikidataLabel": "World Meteorological Organization",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/World_Meteorological_Organization"
+      }
+    ],
+    "Relation": "was member of specialized agency of United Nations when area water was 8.97",
+    "entity": [
+      "Sweden",
+      "specialized agency",
+      "United Nations",
+      "area water",
+      "geography",
+      "UNESCO",
+      "FAO",
+      "WHO",
+      "World Bank"
+    ]
+  },
+  {
+    "Id": 8089,
+    "Question": "What job did Eddie Ilarde have while he was a radio and television host?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q18002923",
+        "WikidataLabel": "Member of the House of Representatives of the Philippines",
+        "WikipediaURL": ""
+      }
+    ],
+    "Relation": "had job while being radio and television host",
+    "entity": [
+      "Eddie Ilarde",
+      "radio host",
+      "television host",
+      "job",
+      "Philippine media",
+      "senator",
+      "broadcaster"
+    ]
+  },
+  {
+    "Id": 8090,
+    "Question": "Which armed forces did Germany block the sale of Leopard 2 tanks to while the Leopard 2A7 was in production by the German Bundeswehr?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q1063287",
+        "WikidataLabel": "Saudi Arabian Armed Forces",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Armed_Forces_of_Saudi_Arabia"
+      }
+    ],
+    "Relation": "blocked sale of Leopard 2 tanks to armed forces while Leopard 2A7 was in production",
+    "entity": [
+      "Germany",
+      "Leopard 2 tanks",
+      "Leopard 2A7",
+      "German Bundeswehr",
+      "armed forces",
+      "defense industry",
+      "military exports",
+      "NATO"
+    ]
+  },
+  {
+    "Id": 8091,
+    "Question": "What football club did Jaap Stam manage prior to being appointed as manager of Reading?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q1770361",
+        "WikidataLabel": "Jong Ajax",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Jong_Ajax"
+      }
+    ],
+    "Relation": "managed football club prior to being appointed manager of Reading",
+    "entity": [
+      "Jaap Stam",
+      "football club",
+      "manager",
+      "Reading",
+      "soccer",
+      "PEC Zwolle",
+      "FC Cincinnati",
+      "Feyenoord"
+    ]
+  },
+  {
+    "Id": 8092,
+    "Question": "What country was Antonio Mosca a citizen of when he was a painter?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q172579",
+        "WikidataLabel": "Kingdom of Italy",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Kingdom_of_Italy"
+      }
+    ],
+    "Relation": "was citizen of country when being painter",
+    "entity": [
+      "Antonio Mosca",
+      "citizen",
+      "painter",
+      "art history",
+      "Italy",
+      "Italian art"
+    ]
+  },
+  {
+    "Id": 8093,
+    "Question": "After Yelisavetgradsky Uyezd, in which raion of Ukraine was Voznesensk located?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q967024",
+        "WikidataLabel": "Voznesensk Raion",
+        "WikipediaURL": ""
+      }
+    ],
+    "Relation": "was located in raion of Ukraine after Yelisavetgradsky Uyezd",
+    "entity": [
+      "Voznesensk",
+      "Yelisavetgradsky Uyezd",
+      "raion",
+      "Ukraine",
+      "geography",
+      "Mykolaiv Oblast",
+      "historical regions"
+    ]
+  },
+  {
+    "Id": 8094,
+    "Question": "During Martin Anderson's active years, who was the American academic economist and policy analyst he advised, including Richard Nixon?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q9960",
+        "WikidataLabel": "Ronald Reagan",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Ronald_Reagan"
+      }
+    ],
+    "Relation": "advised American academic economist and policy analyst during active years",
+    "entity": [
+      "Martin Anderson",
+      "active years",
+      "American academic economist",
+      "policy analyst",
+      "Richard Nixon",
+      "economic policy",
+      "Hoover Institution"
+    ]
+  },
+  {
+    "Id": 8095,
+    "Question": "Who led the Lithuanian Soviet Socialist Republic when they became the first Soviet Union republic to end the Communist Party's rule during the Singing Revolution?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q212751",
+        "WikidataLabel": "Algirdas Brazauskas",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Algirdas_Brazauskas"
+      },
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q740284",
+        "WikidataLabel": "Vytautas Sakalauskas",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/Vytautas_Sakalauskas"
+      }
+    ],
+    "Relation": "led Lithuanian Soviet Socialist Republic when becoming first Soviet republic to end Communist Party's rule during Singing Revolution",
+    "entity": [
+      "Lithuanian Soviet Socialist Republic",
+      "Singing Revolution",
+      "Communist Party",
+      "leader",
+      "Soviet Union",
+      "independence movement",
+      "Vytautas Landsbergis"
+    ]
+  },
+  {
+    "Id": 8096,
+    "Question": "When Stephen K. Benjamin was mayor, what were the numbers from the United States Census in Columbia, South Carolina?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q523716",
+        "WikidataLabel": "2010 United States Census",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/2010_United_States_census"
+      }
+    ],
+    "Relation": "numbers from United States Census in Columbia, South Carolina when mayor",
+    "entity": [
+      "Stephen K. Benjamin",
+      "mayor",
+      "United States Census",
+      "Columbia",
+      "South Carolina",
+      "population",
+      "demographics",
+      "city data"
+    ]
+  },
+  {
+    "Id": 8097,
+    "Question": "What country was Kailash Chandra Joshi a citizen of when he passed away at the age of 90?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q668",
+        "WikidataLabel": "India",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/India"
+      }
+    ],
+    "Relation": "was citizen of country when passed away at age 90",
+    "entity": [
+      "Kailash Chandra Joshi",
+      "citizen",
+      "death",
+      "India",
+      "Indian politics",
+      "Bharatiya Janata Party",
+      "Madhya Pradesh"
+    ]
+  },
+  {
+    "Id": 8098,
+    "Question": "What was Chidananda Saraswati's country of citizenship when he was the president of the Divine Life Society in Rishikesh, India?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q668",
+        "WikidataLabel": "India",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/India"
+      }
+    ],
+    "Relation": "country of citizenship when president of Divine Life Society in Rishikesh, India",
+    "entity": [
+      "Chidananda Saraswati",
+      "country of citizenship",
+      "president",
+      "Divine Life Society",
+      "Rishikesh",
+      "India",
+      "spiritual leader",
+      "yoga"
+    ]
+  },
+  {
+    "Id": 8099,
+    "Question": "What significant event was experienced by the German submarine U-205 during the time when it was sunk by HMS Paladin at 32°56'N 22°01'E?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q30880545",
+        "WikidataLabel": "sinking",
+        "WikipediaURL": ""
+      }
+    ],
+    "Relation": "significant event experienced during time sunk by HMS Paladin at coordinates",
+    "entity": [
+      "German submarine U-205",
+      "sunk",
+      "HMS Paladin",
+      "32°56'N 22°01'E",
+      "World War II",
+      "Mediterranean Sea",
+      "naval warfare",
+      "Allied forces"
+    ]
+  },
+  {
+    "Id": 8100,
+    "Question": "What season did Charlie Gehringer's debut in Major League Baseball with the Detroit Tigers occur during his work period?",
+    "relation": null,
+    "origin_entity": null,
+    "Answer": [
+      {
+        "AnswerType": "Entity",
+        "WikidataQid": "Q4561547",
+        "WikidataLabel": "1924 Major League Baseball season",
+        "WikipediaURL": "https://en.wikipedia.org/wiki/1924_Major_League_Baseball_season"
+      }
+    ],
+    "Relation": "debut in Major League Baseball with Detroit Tigers occurred during season of work period",
+    "entity": [
+      "Charlie Gehringer",
+      "debut",
+      "Major League Baseball",
+      "Detroit Tigers",
+      "season",
+      "work period",
+      "baseball history",
+      "American League"
+    ]
+  }
+]

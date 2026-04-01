@@ -1,0 +1,311 @@
+[
+    {
+        "Id": 5240,
+        "question": "What Olympic sport was Herb Brooks coaching before his death in a car accident?",
+        "relation": "was coaching",
+        "syntax_tree": "ROOT --> was(4)\nsport(3) --det--> What(1)\nsport(3) --amod--> Olympic(2)\nwas(4) --attr--> sport(3)\nBrooks(6) --compound--> Herb(5)\ncoaching(7) --nsubj--> Brooks(6)\nwas(4) --ccomp--> coaching(7)\ncoaching(7) --prep--> before(8)\ndeath(10) --poss--> his(9)\nbefore(8) --pobj--> death(10)\ndeath(10) --prep--> in(11)\naccident(14) --det--> a(12)\naccident(14) --compound--> car(13)\nin(11) --pobj--> accident(14)\nwas(4) --punct--> ?(15)"
+    },
+    {
+        "Id": 913,
+        "question": "For which literary award did George Carlin posthumously receive during his lifetime?",
+        "relation": "did receive",
+        "syntax_tree": "ROOT --> did(5)\ndid(5) --prep--> For(1)\nFor(1) --pobj--> which(2)\naward(4) --amod--> literary(3)\ndid(5) --nsubj--> award(4)\nCarlin(7) --compound--> George(6)\nreceive(9) --nsubj--> Carlin(7)\nreceive(9) --advmod--> posthumously(8)\ndid(5) --ccomp--> receive(9)\nreceive(9) --prep--> during(10)\nlifetime(12) --poss--> his(11)\nduring(10) --pobj--> lifetime(12)\ndid(5) --punct--> ?(13)"
+    },
+    {
+        "Id": 205,
+        "question": "According to a research done by IHL Group during the retail apocalypse, what principle was true regarding the 20 stores announcing the most closures?",
+        "relation": "was true",
+        "syntax_tree": "ROOT --> was(16)\nwas(16) --prep--> According(1)\nAccording(1) --prep--> to(2)\nresearch(4) --det--> a(3)\nto(2) --pobj--> research(4)\nresearch(4) --acl--> done(5)\ndone(5) --agent--> by(6)\nGroup(8) --compound--> IHL(7)\nby(6) --pobj--> Group(8)\ndone(5) --prep--> during(9)\napocalypse(12) --det--> the(10)\napocalypse(12) --amod--> retail(11)\nduring(9) --pobj--> apocalypse(12)\nwas(16) --punct--> ,(13)\nprinciple(15) --det--> what(14)\nwas(16) --nsubj--> principle(15)\nwas(16) --acomp--> true(17)\nwas(16) --prep--> regarding(18)\nstores(21) --det--> the(19)\nstores(21) --nummod--> 20(20)\nregarding(18) --pobj--> stores(21)\nstores(21) --acl--> announcing(22)\nclosures(25) --det--> the(23)\nclosures(25) --amod--> most(24)\nannouncing(22) --dobj--> closures(25)\nwas(16) --punct--> ?(26)"
+    },
+    {
+        "Id": 2254,
+        "question": "During the Summer Olympics when Michael Phelps competed, who was his wife?",
+        "relation": "was wife",
+        "syntax_tree": "ROOT --> was(11)\nwas(11) --prep--> During(1)\nOlympics(4) --det--> the(2)\nOlympics(4) --compound--> Summer(3)\nDuring(1) --pobj--> Olympics(4)\ncompeted(8) --advmod--> when(5)\nPhelps(7) --compound--> Michael(6)\ncompeted(8) --nsubj--> Phelps(7)\nOlympics(4) --relcl--> competed(8)\nwas(11) --punct--> ,(9)\nwas(11) --nsubj--> who(10)\nwife(13) --poss--> his(12)\nwas(11) --nsubj--> wife(13)\nwas(11) --punct--> ?(14)"
+    },
+    {
+        "Id": 2007,
+        "question": "What football club did Carlos Vinícius play for before Santos in his youth career?",
+        "relation": "play for",
+        "syntax_tree": "ROOT --> play(7)\nclub(3) --det--> What(1)\nclub(3) --compound--> football(2)\nplay(7) --dobj--> club(3)\nplay(7) --aux--> did(4)\nVinícius(6) --compound--> Carlos(5)\nplay(7) --nsubj--> Vinícius(6)\nplay(7) --prep--> for(8)\nplay(7) --prep--> before(9)\nbefore(9) --pobj--> Santos(10)\nSantos(10) --prep--> in(11)\ncareer(14) --poss--> his(12)\ncareer(14) --compound--> youth(13)\nin(11) --pobj--> career(14)\nplay(7) --punct--> ?(15)"
+    },
+    {
+        "Id": 1829,
+        "question": "What award did Francis Collins receive when he was the 2nd director of the National Human Genome Research Institute?",
+        "relation": "receive",
+        "syntax_tree": "ROOT --> receive(6)\naward(2) --det--> What(1)\nreceive(6) --dobj--> award(2)\nreceive(6) --aux--> did(3)\nCollins(5) --compound--> Francis(4)\nreceive(6) --nsubj--> Collins(5)\nwas(9) --advmod--> when(7)\nwas(9) --nsubj--> he(8)\nreceive(6) --advcl--> was(9)\ndirector(12) --det--> the(10)\ndirector(12) --amod--> 2nd(11)\nwas(9) --attr--> director(12)\ndirector(12) --prep--> of(13)\nInstitute(19) --det--> the(14)\nInstitute(19) --compound--> National(15)\nInstitute(19) --compound--> Human(16)\nInstitute(19) --compound--> Genome(17)\nInstitute(19) --compound--> Research(18)\nof(13) --pobj--> Institute(19)\nreceive(6) --punct--> ?(20)"
+    },
+    {
+        "Id": 1144,
+        "question": "At which award ceremony did Drake receive the Album of the Year and Best Hip-Hop Video awards while performing?",
+        "relation": "receive at",
+        "syntax_tree": "ROOT --> receive(7)\nreceive(7) --prep--> At(1)\nceremony(4) --det--> which(2)\nceremony(4) --compound--> award(3)\nAt(1) --pcomp--> ceremony(4)\nreceive(7) --aux--> did(5)\nreceive(7) --nsubj--> Drake(6)\nAlbum(9) --det--> the(8)\nreceive(7) --dobj--> Album(9)\nAlbum(9) --prep--> of(10)\nYear(12) --det--> the(11)\nof(10) --pobj--> Year(12)\nAlbum(9) --cc--> and(13)\nawards(19) --compound--> Best(14)\nawards(19) --compound--> Hip(15)\nHop(17) --punct--> -(16)\nawards(19) --compound--> Hop(17)\nawards(19) --compound--> Video(18)\nAlbum(9) --conj--> awards(19)\nperforming(21) --mark--> while(20)\nreceive(7) --advcl--> performing(21)\nreceive(7) --punct--> ?(22)"
+    },
+    {
+        "Id": 840,
+        "question": "Who was Dave Tollner's chief minister when he was Deputy Chief Minister of the Northern Territory?",
+        "relation": "was chief minister",
+        "syntax_tree": "ROOT --> was(2)\nwas(2) --attr--> Who(1)\nTollner(4) --compound--> Dave(3)\nminister(7) --poss--> Tollner(4)\nTollner(4) --case--> 's(5)\nminister(7) --amod--> chief(6)\nwas(2) --attr--> minister(7)\nwas(10) --advmod--> when(8)\nwas(10) --nsubj--> he(9)\nwas(2) --advcl--> was(10)\nMinister(13) --compound--> Deputy(11)\nMinister(13) --compound--> Chief(12)\nwas(10) --attr--> Minister(13)\nMinister(13) --prep--> of(14)\nTerritory(17) --det--> the(15)\nTerritory(17) --compound--> Northern(16)\nof(14) --pobj--> Territory(17)\nwas(2) --punct--> ?(18)"
+    },
+    {
+        "Id": 5545,
+        "question": "Who founded the Columbia University Orchestra when the campus was moved to Morningside Heights and renamed Columbia University?",
+        "relation": "founded",
+        "syntax_tree": "ROOT --> founded(2)\nfounded(2) --nsubj--> Who(1)\nOrchestra(6) --det--> the(3)\nOrchestra(6) --compound--> Columbia(4)\nOrchestra(6) --compound--> University(5)\nfounded(2) --dobj--> Orchestra(6)\nmoved(11) --advmod--> when(7)\ncampus(9) --det--> the(8)\nmoved(11) --nsubjpass--> campus(9)\nmoved(11) --auxpass--> was(10)\nfounded(2) --advcl--> moved(11)\nmoved(11) --prep--> to(12)\nHeights(14) --compound--> Morningside(13)\nto(12) --pobj--> Heights(14)\nmoved(11) --cc--> and(15)\nmoved(11) --conj--> renamed(16)\nUniversity(18) --compound--> Columbia(17)\nrenamed(16) --dobj--> University(18)\nfounded(2) --punct--> ?(19)"
+    },
+    {
+        "Id": 4469,
+        "question": "Who was the head of government in Sauherad before Bordalen was located in the administrative territorial entity Sauherad?",
+        "relation": "was located in",
+        "syntax_tree": "ROOT --> was(2)\nwas(2) --attr--> Who(1)\nhead(4) --det--> the(3)\nwas(2) --nsubj--> head(4)\nhead(4) --prep--> of(5)\nof(5) --pobj--> government(6)\nhead(4) --prep--> in(7)\nin(7) --pobj--> Sauherad(8)\nlocated(12) --mark--> before(9)\nlocated(12) --nsubjpass--> Bordalen(10)\nlocated(12) --auxpass--> was(11)\nwas(2) --advcl--> located(12)\nlocated(12) --prep--> in(13)\nentity(17) --det--> the(14)\nentity(17) --amod--> administrative(15)\nentity(17) --amod--> territorial(16)\nin(13) --pobj--> entity(17)\nentity(17) --appos--> Sauherad(18)\nwas(2) --punct--> ?(19)"
+    },
+    {
+        "Id": 713,
+        "question": "What city did Frank Kelly live in for most of his life when he was born in South County Dublin?",
+        "relation": "live in",
+        "syntax_tree": "ROOT --> live(6)\ncity(2) --det--> What(1)\nin(7) --pobj--> city(2)\nlive(6) --aux--> did(3)\nKelly(5) --compound--> Frank(4)\nlive(6) --nsubj--> Kelly(5)\nlive(6) --prep--> in(7)\nlive(6) --prep--> for(8)\nfor(8) --pobj--> most(9)\nmost(9) --prep--> of(10)\nlife(12) --poss--> his(11)\nof(10) --pobj--> life(12)\nborn(16) --advmod--> when(13)\nborn(16) --nsubjpass--> he(14)\nborn(16) --auxpass--> was(15)\nlive(6) --advcl--> born(16)\nborn(16) --prep--> in(17)\nCounty(19) --compound--> South(18)\nDublin(20) --compound--> County(19)\nin(17) --pobj--> Dublin(20)\nlive(6) --punct--> ?(21)"
+    },
+    {
+        "Id": 4839,
+        "question": "Who did P Chidambaram replace as Finance Minister when he was appointed Minister of Home Affairs?",
+        "relation": "replace as",
+        "syntax_tree": "ROOT --> replace(5)\nreplace(5) --dobj--> Who(1)\nreplace(5) --aux--> did(2)\nChidambaram(4) --compound--> P(3)\nreplace(5) --nsubj--> Chidambaram(4)\nreplace(5) --prep--> as(6)\nMinister(8) --compound--> Finance(7)\nas(6) --pobj--> Minister(8)\nappointed(12) --advmod--> when(9)\nappointed(12) --nsubjpass--> he(10)\nappointed(12) --auxpass--> was(11)\nreplace(5) --advcl--> appointed(12)\nappointed(12) --oprd--> Minister(13)\nMinister(13) --prep--> of(14)\nAffairs(16) --compound--> Home(15)\nof(14) --pobj--> Affairs(16)\nreplace(5) --punct--> ?(17)"
+    },
+    {
+        "Id": 3458,
+        "question": "What position did John Parnell Thomas take after his two-year term in the New Jersey General Assembly?",
+        "relation": "take",
+        "syntax_tree": "ROOT --> take(7)\nposition(2) --det--> What(1)\ntake(7) --dobj--> position(2)\ntake(7) --aux--> did(3)\nThomas(6) --compound--> John(4)\nThomas(6) --compound--> Parnell(5)\ntake(7) --nsubj--> Thomas(6)\ntake(7) --prep--> after(8)\nterm(13) --poss--> his(9)\nyear(12) --nummod--> two(10)\nyear(12) --punct--> -(11)\nterm(13) --compound--> year(12)\nafter(8) --pobj--> term(13)\nterm(13) --prep--> in(14)\nAssembly(19) --det--> the(15)\nJersey(17) --compound--> New(16)\nAssembly(19) --compound--> Jersey(17)\nAssembly(19) --compound--> General(18)\nin(14) --pobj--> Assembly(19)\ntake(7) --punct--> ?(20)"
+    },
+    {
+        "Id": 261,
+        "question": "Who succeeded Gary Bowyer as head coach of Bradford City A.F.C.?",
+        "relation": "succeeded as",
+        "syntax_tree": "ROOT --> succeeded(2)\nsucceeded(2) --nsubj--> Who(1)\nBowyer(4) --compound--> Gary(3)\nsucceeded(2) --dobj--> Bowyer(4)\nsucceeded(2) --prep--> as(5)\ncoach(7) --compound--> head(6)\nas(5) --pobj--> coach(7)\ncoach(7) --prep--> of(8)\nA.F.C.(11) --compound--> Bradford(9)\nA.F.C.(11) --compound--> City(10)\nof(8) --pobj--> A.F.C.(11)\nsucceeded(2) --punct--> ?(12)"
+    },
+    {
+        "Id": 245,
+        "question": "Who was the head coach of the Netherlands national football team when Michel Vorm was a member?",
+        "relation": "was head coach of football team",
+        "syntax_tree": "ROOT --> was(2)\nwas(2) --attr--> Who(1)\ncoach(5) --det--> the(3)\ncoach(5) --compound--> head(4)\nwas(2) --nsubj--> coach(5)\ncoach(5) --prep--> of(6)\nteam(11) --det--> the(7)\nteam(11) --nmod--> Netherlands(8)\nteam(11) --amod--> national(9)\nteam(11) --compound--> football(10)\nof(6) --pobj--> team(11)\nwas(15) --advmod--> when(12)\nVorm(14) --compound--> Michel(13)\nwas(15) --nsubj--> Vorm(14)\nwas(2) --advcl--> was(15)\nmember(17) --det--> a(16)\nwas(15) --attr--> member(17)\nwas(2) --punct--> ?(18)"
+    },
+    {
+        "Id": 768,
+        "question": "Who was the editor of Physical Review when it was founded by Ernest Merritt and co-founder?",
+        "relation": "was founded",
+        "syntax_tree": "ROOT --> was(2)\nwas(2) --attr--> Who(1)\neditor(4) --det--> the(3)\nwas(2) --nsubj--> editor(4)\neditor(4) --prep--> of(5)\nReview(7) --compound--> Physical(6)\nof(5) --pobj--> Review(7)\nfounded(11) --advmod--> when(8)\nfounded(11) --nsubjpass--> it(9)\nfounded(11) --auxpass--> was(10)\nwas(2) --advcl--> founded(11)\nfounded(11) --agent--> by(12)\nMerritt(14) --compound--> Ernest(13)\nby(12) --pobj--> Merritt(14)\nMerritt(14) --cc--> and(15)\nMerritt(14) --conj--> co(16)\nMerritt(14) --conj--> -(17)\nMerritt(14) --conj--> founder(18)\nwas(2) --punct--> ?(19)"
+    },
+    {
+        "Id": 1792,
+        "question": "In which Scottish council area was Bathgate located after it was moved to West Lothian?",
+        "relation": "was located",
+        "syntax_tree": "ROOT --> was(6)\nwas(6) --prep--> In(1)\nIn(1) --pobj--> which(2)\narea(5) --amod--> Scottish(3)\narea(5) --compound--> council(4)\nwas(6) --nsubj--> area(5)\nlocated(8) --nsubj--> Bathgate(7)\nwas(6) --ccomp--> located(8)\nmoved(12) --mark--> after(9)\nmoved(12) --nsubjpass--> it(10)\nmoved(12) --auxpass--> was(11)\nlocated(8) --advcl--> moved(12)\nmoved(12) --prep--> to(13)\nLothian(15) --compound--> West(14)\nto(13) --pobj--> Lothian(15)\nlocated(8) --punct--> ?(16)"
+    },
+    {
+        "Id": 1906,
+        "question": "Who held the position of Minority Whip in the Pennsylvania State Senate Leadership while Ryan Aument was Majority Whip?",
+        "relation": "held the position of",
+        "syntax_tree": "ROOT --> held(2)\nheld(2) --nsubj--> Who(1)\nposition(4) --det--> the(3)\nheld(2) --dobj--> position(4)\nposition(4) --prep--> of(5)\nWhip(7) --compound--> Minority(6)\nof(5) --pobj--> Whip(7)\nWhip(7) --prep--> in(8)\nLeadership(13) --det--> the(9)\nState(11) --compound--> Pennsylvania(10)\nSenate(12) --compound--> State(11)\nLeadership(13) --compound--> Senate(12)\nin(8) --pobj--> Leadership(13)\nwas(17) --mark--> while(14)\nAument(16) --compound--> Ryan(15)\nwas(17) --nsubj--> Aument(16)\nheld(2) --advcl--> was(17)\nWhip(19) --compound--> Majority(18)\nwas(17) --attr--> Whip(19)\nheld(2) --punct--> ?(20)"
+    },
+    {
+        "Id": 4141,
+        "question": "Before the Sydney Olympics, what international team was Carla Overbeck representing with her 170 caps?",
+        "relation": "was representing with",
+        "syntax_tree": "ROOT --> was(9)\nwas(9) --prep--> Before(1)\nOlympics(4) --det--> the(2)\nOlympics(4) --compound--> Sydney(3)\nBefore(1) --pobj--> Olympics(4)\nwas(9) --punct--> ,(5)\nteam(8) --det--> what(6)\nteam(8) --amod--> international(7)\nwas(9) --nsubj--> team(8)\nOverbeck(11) --compound--> Carla(10)\nwas(9) --attr--> Overbeck(11)\nwas(9) --advcl--> representing(12)\nrepresenting(12) --prep--> with(13)\ncaps(16) --poss--> her(14)\ncaps(16) --nummod--> 170(15)\nwith(13) --pobj--> caps(16)\nwas(9) --punct--> ?(17)"
+    },
+    {
+        "Id": 4933,
+        "question": "After his time with Bury, which football club did Tony McNamara join?",
+        "relation": "did",
+        "if_ok": 0,
+        "syntax_tree": "ROOT --> After(1)\ntime(3) --poss--> his(2)\nAfter(1) --pobj--> time(3)\ntime(3) --prep--> with(4)\nwith(4) --pobj--> Bury(5)\nBury(5) --punct--> ,(6)\njoin(13) --dobj--> which(7)\nclub(9) --compound--> football(8)\njoin(13) --nsubj--> club(9)\njoin(13) --aux--> did(10)\nMcNamara(12) --compound--> Tony(11)\njoin(13) --compound--> McNamara(12)\nBury(5) --relcl--> join(13)\nAfter(1) --punct--> ?(14)"
+    },
+    {
+        "Id": 218,
+        "question": "After his loan with Derby County, what team did Avi Nimni become the coach of?",
+        "relation": "become coach",
+        "syntax_tree": "ROOT --> become(13)\ndid(10) --prep--> After(1)\nloan(3) --poss--> his(2)\nAfter(1) --pobj--> loan(3)\nloan(3) --prep--> with(4)\nCounty(6) --compound--> Derby(5)\nwith(4) --pobj--> County(6)\ndid(10) --punct--> ,(7)\nteam(9) --det--> what(8)\ndid(10) --nsubj--> team(9)\nbecome(13) --aux--> did(10)\nNimni(12) --compound--> Avi(11)\nbecome(13) --nsubj--> Nimni(12)\ncoach(15) --det--> the(14)\nbecome(13) --attr--> coach(15)\ncoach(15) --prep--> of(16)\nbecome(13) --punct--> ?(17)"
+    },
+    {
+        "Id": 4599,
+        "question": "What military rank did Fernando Figueroa have when one of his sons married Marcela Gutiérrez, the daughter of General Rafael Antonio Gutiérrez?",
+        "relation": "have",
+        "syntax_tree": "ROOT --> have(7)\nrank(3) --det--> What(1)\nrank(3) --amod--> military(2)\nhave(7) --dobj--> rank(3)\nhave(7) --aux--> did(4)\nFigueroa(6) --compound--> Fernando(5)\nhave(7) --nsubj--> Figueroa(6)\nmarried(13) --advmod--> when(8)\nmarried(13) --nsubj--> one(9)\none(9) --prep--> of(10)\nsons(12) --poss--> his(11)\nof(10) --pobj--> sons(12)\nhave(7) --advcl--> married(13)\nGutiérrez(15) --compound--> Marcela(14)\nmarried(13) --dobj--> Gutiérrez(15)\nGutiérrez(15) --punct--> ,(16)\ndaughter(18) --det--> the(17)\nGutiérrez(15) --appos--> daughter(18)\ndaughter(18) --prep--> of(19)\nRafael(21) --compound--> General(20)\nGutiérrez(23) --compound--> Rafael(21)\nGutiérrez(23) --compound--> Antonio(22)\nof(19) --pobj--> Gutiérrez(23)\nhave(7) --punct--> ?(24)"
+    },
+    {
+        "Id": 1629,
+        "question": "What country took over Wismar after Nazi Germany?",
+        "relation": "took over",
+        "syntax_tree": "ROOT --> took(3)\ncountry(2) --det--> What(1)\ntook(3) --nsubj--> country(2)\ntook(3) --prt--> over(4)\ntook(3) --dobj--> Wismar(5)\ntook(3) --prep--> after(6)\nGermany(8) --compound--> Nazi(7)\nafter(6) --pobj--> Germany(8)\ntook(3) --punct--> ?(9)"
+    },
+    {
+        "Id": 5867,
+        "question": "When Elza Moreira de Sá Peixoto was a teacher, which football club was founded on 1 May in Manaus?",
+        "relation": "was founded on",
+        "syntax_tree": "ROOT --> was(7)\nwas(7) --advmod--> When(1)\nPeixoto(6) --compound--> Elza(2)\nPeixoto(6) --compound--> Moreira(3)\nPeixoto(6) --compound--> de(4)\nPeixoto(6) --compound--> Sá(5)\nwas(7) --nsubj--> Peixoto(6)\nteacher(9) --det--> a(8)\nwas(7) --attr--> teacher(9)\nteacher(9) --punct--> ,(10)\nfounded(15) --nsubjpass--> which(11)\nclub(13) --compound--> football(12)\nfounded(15) --nsubjpass--> club(13)\nfounded(15) --auxpass--> was(14)\nteacher(9) --relcl--> founded(15)\nfounded(15) --prep--> on(16)\nMay(18) --nummod--> 1(17)\non(16) --pobj--> May(18)\nfounded(15) --prep--> in(19)\nin(19) --pobj--> Manaus(20)\nwas(7) --punct--> ?(21)"
+    },
+    {
+        "Id": 5325,
+        "question": "Who succeeded Dan Jiránek as the head of government in Kladno?",
+        "relation": "succeeded as",
+        "syntax_tree": "ROOT --> succeeded(2)\nsucceeded(2) --nsubj--> Who(1)\nJiránek(4) --compound--> Dan(3)\nsucceeded(2) --dobj--> Jiránek(4)\nsucceeded(2) --prep--> as(5)\nhead(7) --det--> the(6)\nas(5) --pobj--> head(7)\nhead(7) --prep--> of(8)\nof(8) --pobj--> government(9)\nhead(7) --prep--> in(10)\nin(10) --pobj--> Kladno(11)\nsucceeded(2) --punct--> ?(12)"
+    },
+    {
+        "Id": 5747,
+        "question": "What canton was Lugano located in after the political municipality of Lugano was created?",
+        "relation": "was located in",
+        "syntax_tree": "ROOT --> was(3)\nwas(3) --attr--> What(1)\nwas(3) --nsubj--> canton(2)\nwas(3) --attr--> Lugano(4)\nLugano(4) --acl--> located(5)\nlocated(5) --prep--> in(6)\ncreated(14) --mark--> after(7)\nmunicipality(10) --det--> the(8)\nmunicipality(10) --amod--> political(9)\ncreated(14) --nsubjpass--> municipality(10)\nmunicipality(10) --prep--> of(11)\nof(11) --pobj--> Lugano(12)\ncreated(14) --auxpass--> was(13)\nlocated(5) --advcl--> created(14)\nwas(3) --punct--> ?(15)"
+    },
+    {
+        "Id": 4466,
+        "question": "Who was Wilbur Ross' partner before he founded WL Ross & Co and became known as the 'King of Bankruptcy'?",
+        "relation": "was partner",
+        "syntax_tree": "ROOT --> was(2)\nwas(2) --attr--> Who(1)\nRoss(4) --compound--> Wilbur(3)\npartner(6) --poss--> Ross(4)\nRoss(4) --case--> '(5)\nwas(2) --attr--> partner(6)\nfounded(9) --mark--> before(7)\nfounded(9) --nsubj--> he(8)\nwas(2) --advcl--> founded(9)\nRoss(11) --compound--> WL(10)\nfounded(9) --dobj--> Ross(11)\nRoss(11) --cc--> &(12)\nRoss(11) --conj--> Co(13)\nfounded(9) --cc--> and(14)\nknown(16) --auxpass--> became(15)\nfounded(9) --conj--> known(16)\nknown(16) --prep--> as(17)\nKing(20) --det--> the(18)\nKing(20) --punct--> '(19)\nas(17) --pobj--> King(20)\nKing(20) --prep--> of(21)\nof(21) --pobj--> Bankruptcy(22)\nwas(2) --punct--> '(23)\nwas(2) --punct--> ?(24)"
+    },
+    {
+        "Id": 3438,
+        "question": "After Atlas Air had 4,056 employees and operated to more than 300 global destinations, what business did they purchase four additional 747-8 freighters from?",
+        "relation": "purchase from",
+        "syntax_tree": "ROOT --> purchase(20)\nhad(4) --mark--> After(1)\nAir(3) --compound--> Atlas(2)\nhad(4) --nsubj--> Air(3)\npurchase(20) --advcl--> had(4)\nemployees(6) --nummod--> 4,056(5)\nhad(4) --dobj--> employees(6)\nhad(4) --cc--> and(7)\nhad(4) --conj--> operated(8)\noperated(8) --prep--> to(9)\n300(12) --amod--> more(10)\n300(12) --quantmod--> than(11)\ndestinations(14) --nummod--> 300(12)\ndestinations(14) --amod--> global(13)\nto(9) --pobj--> destinations(14)\npurchase(20) --punct--> ,(15)\nbusiness(17) --det--> what(16)\npurchase(20) --dobj--> business(17)\npurchase(20) --aux--> did(18)\npurchase(20) --nsubj--> they(19)\nfreighters(26) --nummod--> four(21)\nfreighters(26) --amod--> additional(22)\nfreighters(26) --nummod--> 747(23)\n8(25) --punct--> -(24)\n747(23) --prep--> 8(25)\npurchase(20) --dobj--> freighters(26)\npurchase(20) --prep--> from(27)\npurchase(20) --punct--> ?(28)"
+    },
+    {
+        "Id": 1806,
+        "question": "When Uraga was dissolved, what municipality in Japan replaced it?",
+        "relation": "replaced",
+        "syntax_tree": "ROOT --> replaced(10)\ndissolved(4) --advmod--> When(1)\ndissolved(4) --nsubjpass--> Uraga(2)\ndissolved(4) --auxpass--> was(3)\nreplaced(10) --advcl--> dissolved(4)\nreplaced(10) --punct--> ,(5)\nmunicipality(7) --det--> what(6)\nreplaced(10) --nsubj--> municipality(7)\nmunicipality(7) --prep--> in(8)\nin(8) --pobj--> Japan(9)\nreplaced(10) --dobj--> it(11)\nreplaced(10) --punct--> ?(12)"
+    },
+    {
+        "Id": 3681,
+        "question": "What high school did Greg Gard work at as an assistant coach after coaching at Southwestern HS?",
+        "relation": "work",
+        "if_ok": 0,
+        "syntax_tree": "ROOT --> work(7)\nschool(3) --det--> What(1)\nschool(3) --amod--> high(2)\ndid(4) --nsubj--> school(3)\nGard(6) --compound--> did(4)\nGard(6) --compound--> Greg(5)\nwork(7) --nsubj--> Gard(6)\nwork(7) --prep--> at(8)\nwork(7) --prep--> as(9)\ncoach(12) --det--> an(10)\ncoach(12) --amod--> assistant(11)\nas(9) --pobj--> coach(12)\nwork(7) --prep--> after(13)\nafter(13) --pcomp--> coaching(14)\ncoaching(14) --prep--> at(15)\nHS(17) --compound--> Southwestern(16)\nat(15) --pobj--> HS(17)\nwork(7) --punct--> ?(18)"
+    },
+    {
+        "Id": 4829,
+        "question": "During Rafael Correa's time at his employer Carlos Baca Mancheno, which university awarded him an honorary doctorate?",
+        "relation": "awarded",
+        "syntax_tree": "ROOT --> During(1)\nCorrea(3) --compound--> Rafael(2)\ntime(5) --poss--> Correa(3)\nCorrea(3) --case--> 's(4)\nDuring(1) --pobj--> time(5)\ntime(5) --prep--> at(6)\nemployer(8) --poss--> his(7)\nat(6) --pobj--> employer(8)\nMancheno(11) --compound--> Carlos(9)\nMancheno(11) --compound--> Baca(10)\nemployer(8) --appos--> Mancheno(11)\nMancheno(11) --punct--> ,(12)\nawarded(15) --dative--> which(13)\nawarded(15) --nsubj--> university(14)\ntime(5) --relcl--> awarded(15)\nawarded(15) --dative--> him(16)\ndoctorate(19) --det--> an(17)\ndoctorate(19) --amod--> honorary(18)\nawarded(15) --dobj--> doctorate(19)\nDuring(1) --punct--> ?(20)"
+    },
+    {
+        "Id": 2279,
+        "question": "Who was leading the State of Buenos Aires Estado de Buenos Aires when the Battle of Cepeda occurred?",
+        "relation": "leading",
+        "syntax_tree": "ROOT --> leading(3)\nleading(3) --nsubj--> Who(1)\nleading(3) --aux--> was(2)\nState(5) --det--> the(4)\nAires(12) --nmod--> State(5)\nState(5) --prep--> of(6)\nAires(8) --compound--> Buenos(7)\nof(6) --pobj--> Aires(8)\nAires(12) --compound--> Estado(9)\nAires(12) --compound--> de(10)\nAires(12) --compound--> Buenos(11)\nleading(3) --dobj--> Aires(12)\noccurred(18) --advmod--> when(13)\nBattle(15) --det--> the(14)\noccurred(18) --nsubj--> Battle(15)\nBattle(15) --prep--> of(16)\nof(16) --pobj--> Cepeda(17)\nleading(3) --advcl--> occurred(18)\nleading(3) --punct--> ?(19)"
+    },
+    {
+        "Id": 54,
+        "question": "What event in which Olympic sports discipline did Paavo Aaltonen compete at the London Olympic Games as part of the Team?",
+        "relation": "compete at",
+        "if_ok": 0,
+        "syntax_tree": "ROOT --> compete(11)\nevent(2) --det--> What(1)\ndid(8) --dobj--> event(2)\ndiscipline(7) --prep--> in(3)\nin(3) --pobj--> which(4)\nsports(6) --amod--> Olympic(5)\ndiscipline(7) --compound--> sports(6)\ndid(8) --nsubj--> discipline(7)\ncompete(11) --aux--> did(8)\nAaltonen(10) --compound--> Paavo(9)\ncompete(11) --nsubj--> Aaltonen(10)\ncompete(11) --prep--> at(12)\nGames(16) --det--> the(13)\nGames(16) --compound--> London(14)\nGames(16) --compound--> Olympic(15)\nat(12) --pobj--> Games(16)\ncompete(11) --prep--> as(17)\nas(17) --pobj--> part(18)\npart(18) --prep--> of(19)\nTeam(21) --det--> the(20)\nof(19) --pobj--> Team(21)\ncompete(11) --punct--> ?(22)"
+    },
+    {
+        "Id": 1308,
+        "question": "What was New York University's ranking in the US in terms of budget when it was ahead of Cornell and had a budget of $14.7 billion?",
+        "relation": "was ranking in us",
+        "syntax_tree": "ROOT --> was(2)\nwas(2) --attr--> What(1)\nYork(4) --compound--> New(3)\nUniversity(5) --compound--> York(4)\nranking(7) --poss--> University(5)\nUniversity(5) --case--> 's(6)\nwas(2) --attr--> ranking(7)\nranking(7) --prep--> in(8)\nUS(10) --det--> the(9)\nin(8) --pobj--> US(10)\nranking(7) --prep--> in(11)\nin(11) --pobj--> terms(12)\nterms(12) --prep--> of(13)\nof(13) --pobj--> budget(14)\nwas(17) --advmod--> when(15)\nwas(17) --nsubj--> it(16)\nwas(2) --advcl--> was(17)\nwas(17) --advmod--> ahead(18)\nahead(18) --prep--> of(19)\nof(19) --pobj--> Cornell(20)\nwas(17) --cc--> and(21)\nwas(17) --conj--> had(22)\nbudget(24) --det--> a(23)\nhad(22) --dobj--> budget(24)\nbudget(24) --prep--> of(25)\nbillion(28) --quantmod--> $(26)\nbillion(28) --compound--> 14.7(27)\nof(25) --pobj--> billion(28)\nwas(2) --punct--> ?(29)"
+    },
+    {
+        "Id": 5721,
+        "question": "In which general election did Nurul Izzah Anwar get elected as Member of Parliament for Lembah Pantai while representing the Pakatan Harapan faction in Dewan Rakyat?",
+        "relation": "did elected as",
+        "syntax_tree": "ROOT --> did(5)\ndid(5) --prep--> In(1)\nIn(1) --pobj--> which(2)\nelection(4) --amod--> general(3)\ndid(5) --nsubj--> election(4)\nAnwar(8) --compound--> Nurul(6)\nAnwar(8) --compound--> Izzah(7)\nelected(10) --nsubjpass--> Anwar(8)\nelected(10) --auxpass--> get(9)\ndid(5) --ccomp--> elected(10)\nelected(10) --prep--> as(11)\nas(11) --pobj--> Member(12)\nMember(12) --prep--> of(13)\nof(13) --pobj--> Parliament(14)\nelected(10) --prep--> for(15)\nPantai(17) --compound--> Lembah(16)\nfor(15) --pobj--> Pantai(17)\nrepresenting(19) --mark--> while(18)\nelected(10) --advcl--> representing(19)\nfaction(23) --det--> the(20)\nHarapan(22) --compound--> Pakatan(21)\nfaction(23) --compound--> Harapan(22)\nrepresenting(19) --dobj--> faction(23)\nfaction(23) --prep--> in(24)\nRakyat(26) --compound--> Dewan(25)\nin(24) --pobj--> Rakyat(26)\nelected(10) --punct--> ?(27)"
+    },
+    {
+        "Id": 3464,
+        "question": "Before Antti Rinne was appointed as Prime Minister, who did he replace as First Deputy Speaker of the Parliament?",
+        "relation": "appointed as",
+        "syntax_tree": "ROOT --> appointed(5)\nappointed(5) --mark--> Before(1)\nRinne(3) --compound--> Antti(2)\nappointed(5) --nsubjpass--> Rinne(3)\nappointed(5) --auxpass--> was(4)\nappointed(5) --prep--> as(6)\nMinister(8) --compound--> Prime(7)\nas(6) --pobj--> Minister(8)\nMinister(8) --punct--> ,(9)\nreplace(13) --dobj--> who(10)\nreplace(13) --aux--> did(11)\nreplace(13) --nsubj--> he(12)\nMinister(8) --relcl--> replace(13)\nreplace(13) --prep--> as(14)\nSpeaker(17) --compound--> First(15)\nSpeaker(17) --compound--> Deputy(16)\nas(14) --pobj--> Speaker(17)\nSpeaker(17) --prep--> of(18)\nParliament(20) --det--> the(19)\nof(18) --pobj--> Parliament(20)\nappointed(5) --punct--> ?(21)"
+    },
+    {
+        "Id": 2789,
+        "question": "Where was the Nakhichevan Autonomous Soviet Socialist Republic located after being detached from the Sharur District?",
+        "relation": "was nakhichevan autonomous soviet socialist republic",
+        "if_ok": 0,
+        "syntax_tree": "ROOT --> was(2)\nwas(2) --advmod--> Where(1)\nRepublic(8) --det--> the(3)\nRepublic(8) --compound--> Nakhichevan(4)\nRepublic(8) --compound--> Autonomous(5)\nRepublic(8) --compound--> Soviet(6)\nRepublic(8) --compound--> Socialist(7)\nwas(2) --nsubj--> Republic(8)\nRepublic(8) --acl--> located(9)\nlocated(9) --prep--> after(10)\ndetached(12) --auxpass--> being(11)\nafter(10) --pcomp--> detached(12)\ndetached(12) --prep--> from(13)\nDistrict(16) --det--> the(14)\nDistrict(16) --compound--> Sharur(15)\nfrom(13) --pobj--> District(16)\nwas(2) --punct--> ?(17)"
+    },
+    {
+        "Id": 2277,
+        "question": "During the area +142.52826446393738 of Smøla, who was the head of government?",
+        "relation": "was",
+        "if_ok": 0,
+        "syntax_tree": "ROOT --> During(1)\narea(3) --det--> the(2)\n+142.52826446393738(4) --compound--> area(3)\nDuring(1) --pobj--> +142.52826446393738(4)\n+142.52826446393738(4) --prep--> of(5)\nof(5) --pobj--> Smøla(6)\nSmøla(6) --punct--> ,(7)\nwas(9) --nsubj--> who(8)\nSmøla(6) --relcl--> was(9)\nhead(11) --det--> the(10)\nwas(9) --attr--> head(11)\nhead(11) --prep--> of(12)\nof(12) --pobj--> government(13)\nDuring(1) --punct--> ?(14)"
+    },
+    {
+        "Id": 1274,
+        "question": "During Ethiopia's total fertility rate of +5.693, which general election returned Meles to power?",
+        "relation": "returned to",
+        "syntax_tree": "ROOT --> During(1)\nrate(6) --poss--> Ethiopia(2)\nEthiopia(2) --case--> 's(3)\nrate(6) --amod--> total(4)\nrate(6) --compound--> fertility(5)\nDuring(1) --pobj--> rate(6)\nrate(6) --prep--> of(7)\nof(7) --pobj--> +5.693(8)\nrate(6) --punct--> ,(9)\nreturned(13) --nsubj--> which(10)\nelection(12) --amod--> general(11)\nreturned(13) --nsubj--> election(12)\nrate(6) --relcl--> returned(13)\nreturned(13) --dobj--> Meles(14)\nreturned(13) --prep--> to(15)\nto(15) --pobj--> power(16)\nDuring(1) --punct--> ?(17)"
+    },
+    {
+        "Id": 1764,
+        "question": "What professional cycling team was Cadel Evans a member of as he was progressing through the ranks?",
+        "relation": "was cadel evans",
+        "if_ok": 0,
+        "syntax_tree": "ROOT --> was(5)\nteam(4) --det--> What(1)\nteam(4) --amod--> professional(2)\nteam(4) --compound--> cycling(3)\nwas(5) --nsubj--> team(4)\nEvans(7) --compound--> Cadel(6)\nwas(5) --attr--> Evans(7)\nmember(9) --det--> a(8)\nwas(5) --attr--> member(9)\nmember(9) --prep--> of(10)\nprogressing(14) --mark--> as(11)\nprogressing(14) --nsubj--> he(12)\nprogressing(14) --aux--> was(13)\nof(10) --pcomp--> progressing(14)\nprogressing(14) --prep--> through(15)\nranks(17) --det--> the(16)\nthrough(15) --pobj--> ranks(17)\nwas(5) --punct--> ?(18)"
+    },
+    {
+        "Id": 2759,
+        "question": "During Gema Igual's time as Alcalde (PP) in Santander, Spain, who was the head of the government?",
+        "relation": "was",
+        "if_ok": 0,
+        "syntax_tree": "ROOT --> During(1)\nIgual(3) --compound--> Gema(2)\ntime(5) --poss--> Igual(3)\nIgual(3) --case--> 's(4)\nDuring(1) --pobj--> time(5)\ntime(5) --prep--> as(6)\nas(6) --pobj--> Alcalde(7)\nAlcalde(7) --punct--> ((8)\nAlcalde(7) --appos--> PP(9)\nAlcalde(7) --punct--> )(10)\nAlcalde(7) --prep--> in(11)\nin(11) --pobj--> Santander(12)\nSantander(12) --punct--> ,(13)\nSantander(12) --appos--> Spain(14)\nSantander(12) --punct--> ,(15)\nwas(17) --nsubj--> who(16)\nSantander(12) --relcl--> was(17)\nhead(19) --det--> the(18)\nwas(17) --attr--> head(19)\nhead(19) --prep--> of(20)\ngovernment(22) --det--> the(21)\nof(20) --pobj--> government(22)\nDuring(1) --punct--> ?(23)"
+    },
+    {
+        "Id": 838,
+        "question": "What medal did Heinrich Louis d'Arrest receive after becoming the director/manager of the Østervold Observatory?",
+        "relation": "receive",
+        "syntax_tree": "ROOT --> receive(7)\nmedal(2) --det--> What(1)\nreceive(7) --dobj--> medal(2)\nreceive(7) --aux--> did(3)\nd'Arrest(6) --compound--> Heinrich(4)\nd'Arrest(6) --compound--> Louis(5)\nreceive(7) --nsubj--> d'Arrest(6)\nreceive(7) --prep--> after(8)\nafter(8) --pcomp--> becoming(9)\nmanager(13) --det--> the(10)\nmanager(13) --nmod--> director(11)\nmanager(13) --punct--> /(12)\nbecoming(9) --attr--> manager(13)\nmanager(13) --prep--> of(14)\nObservatory(17) --det--> the(15)\nObservatory(17) --compound--> Østervold(16)\nof(14) --pobj--> Observatory(17)\nreceive(7) --punct--> ?(18)"
+    },
+    {
+        "Id": 760,
+        "question": "Who was the Speaker of the House of Representatives when Deputy Sharon Claydon was the incumbent?",
+        "relation": "was speaker of house",
+        "syntax_tree": "ROOT --> was(2)\nwas(2) --attr--> Who(1)\nSpeaker(4) --det--> the(3)\nwas(2) --attr--> Speaker(4)\nSpeaker(4) --prep--> of(5)\nHouse(7) --det--> the(6)\nof(5) --pobj--> House(7)\nHouse(7) --prep--> of(8)\nof(8) --pobj--> Representatives(9)\nwas(14) --advmod--> when(10)\nClaydon(13) --compound--> Deputy(11)\nClaydon(13) --compound--> Sharon(12)\nwas(14) --nsubj--> Claydon(13)\nwas(2) --advcl--> was(14)\nincumbent(16) --det--> the(15)\nwas(14) --attr--> incumbent(16)\nwas(2) --punct--> ?(17)"
+    },
+    {
+        "Id": 3114,
+        "question": "What football club was Jay Bothroyd playing for when he earned his only cap for the England national team?",
+        "relation": "was playing for",
+        "syntax_tree": "ROOT --> was(4)\nclub(3) --det--> What(1)\nclub(3) --compound--> football(2)\nwas(4) --attr--> club(3)\nBothroyd(6) --compound--> Jay(5)\nplaying(7) --nsubj--> Bothroyd(6)\nwas(4) --ccomp--> playing(7)\nplaying(7) --prep--> for(8)\nearned(11) --advmod--> when(9)\nearned(11) --nsubj--> he(10)\nplaying(7) --advcl--> earned(11)\ncap(14) --poss--> his(12)\ncap(14) --amod--> only(13)\nearned(11) --dobj--> cap(14)\ncap(14) --prep--> for(15)\nteam(19) --det--> the(16)\nteam(19) --nmod--> England(17)\nteam(19) --amod--> national(18)\nfor(15) --pobj--> team(19)\nwas(4) --punct--> ?(20)"
+    },
+    {
+        "Id": 793,
+        "question": "After Harold Hunter finished his basketball career, what middle school did he coach?",
+        "relation": "coach",
+        "syntax_tree": "ROOT --> coach(14)\nfinished(4) --mark--> After(1)\nHunter(3) --compound--> Harold(2)\nfinished(4) --nsubj--> Hunter(3)\ncoach(14) --advcl--> finished(4)\ncareer(7) --poss--> his(5)\ncareer(7) --compound--> basketball(6)\nfinished(4) --dobj--> career(7)\ncoach(14) --punct--> ,(8)\nschool(11) --det--> what(9)\nschool(11) --amod--> middle(10)\ncoach(14) --dobj--> school(11)\ncoach(14) --aux--> did(12)\ncoach(14) --nsubj--> he(13)\ncoach(14) --punct--> ?(15)"
+    },
+    {
+        "Id": 2942,
+        "question": "Who was the chairperson of the International Mathematical Union prior to Carlos Kenig?",
+        "relation": "was chairperson of international mathematical union",
+        "syntax_tree": "ROOT --> was(2)\nwas(2) --attr--> Who(1)\nchairperson(4) --det--> the(3)\nwas(2) --attr--> chairperson(4)\nchairperson(4) --prep--> of(5)\nUnion(9) --det--> the(6)\nUnion(9) --compound--> International(7)\nUnion(9) --compound--> Mathematical(8)\nof(5) --pobj--> Union(9)\nwas(2) --advmod--> prior(10)\nprior(10) --prep--> to(11)\nKenig(13) --compound--> Carlos(12)\nto(11) --pobj--> Kenig(13)\nwas(2) --punct--> ?(14)"
+    },
+    {
+        "Id": 2819,
+        "question": "Who was the head of government in Bourges when Yann Galut served as the mayor?",
+        "relation": "was served as",
+        "if_ok": 0,
+        "syntax_tree": "ROOT --> was(2)\nwas(2) --attr--> Who(1)\nhead(4) --det--> the(3)\nwas(2) --nsubj--> head(4)\nhead(4) --prep--> of(5)\nof(5) --pobj--> government(6)\nhead(4) --prep--> in(7)\nin(7) --pobj--> Bourges(8)\nserved(12) --advmod--> when(9)\nGalut(11) --compound--> Yann(10)\nserved(12) --nsubj--> Galut(11)\nwas(2) --advcl--> served(12)\nserved(12) --prep--> as(13)\nmayor(15) --det--> the(14)\nas(13) --pobj--> mayor(15)\nwas(2) --punct--> ?(16)"
+    },
+    {
+        "Id": 4947,
+        "question": "Prior to joining Atlante UTN, which club did Federico Mancinelli play for in his senior career?",
+        "relation": "prior",
+        "if_ok": 0,
+        "syntax_tree": "ROOT --> Prior(1)\nPrior(1) --prep--> to(2)\nto(2) --pcomp--> joining(3)\nUTN(5) --compound--> Atlante(4)\njoining(3) --dobj--> UTN(5)\nUTN(5) --punct--> ,(6)\nplay(12) --dobj--> which(7)\ndid(9) --nsubj--> club(8)\nplay(12) --aux--> did(9)\nMancinelli(11) --compound--> Federico(10)\nplay(12) --nsubj--> Mancinelli(11)\nUTN(5) --relcl--> play(12)\nplay(12) --prep--> for(13)\nplay(12) --prep--> in(14)\ncareer(17) --poss--> his(15)\ncareer(17) --amod--> senior(16)\nin(14) --pobj--> career(17)\nPrior(1) --punct--> ?(18)"
+    },
+    {
+        "Id": 2167,
+        "question": "Which Olympic event did Gunhild Hoffmeister win two silver and one bronze medal in at the Munich Olympic Games, becoming the only German distance runner to do so?",
+        "relation": "win in",
+        "syntax_tree": "ROOT --> win(7)\nevent(3) --det--> Which(1)\nevent(3) --amod--> Olympic(2)\nwin(7) --nsubj--> event(3)\nwin(7) --aux--> did(4)\nHoffmeister(6) --compound--> Gunhild(5)\nwin(7) --nsubj--> Hoffmeister(6)\nsilver(9) --nummod--> two(8)\nwin(7) --dobj--> silver(9)\nsilver(9) --cc--> and(10)\nmedal(13) --nummod--> one(11)\nmedal(13) --compound--> bronze(12)\nsilver(9) --conj--> medal(13)\nwin(7) --prep--> in(14)\nwin(7) --prep--> at(15)\nGames(19) --det--> the(16)\nGames(19) --compound--> Munich(17)\nGames(19) --compound--> Olympic(18)\nat(15) --pobj--> Games(19)\nwin(7) --punct--> ,(20)\nwin(7) --advcl--> becoming(21)\nrunner(26) --det--> the(22)\nrunner(26) --amod--> only(23)\nrunner(26) --amod--> German(24)\nrunner(26) --compound--> distance(25)\nbecoming(21) --attr--> runner(26)\ndo(28) --aux--> to(27)\nrunner(26) --relcl--> do(28)\ndo(28) --advmod--> so(29)\nwin(7) --punct--> ?(30)"
+    },
+    {
+        "Id": 356,
+        "question": "What ISO standard was Enoch Powell complying with when he was the Minister of Health?",
+        "relation": "was complying with",
+        "syntax_tree": "ROOT --> was(4)\nstandard(3) --det--> What(1)\nstandard(3) --compound--> ISO(2)\nwas(4) --attr--> standard(3)\nPowell(6) --compound--> Enoch(5)\ncomplying(7) --nsubj--> Powell(6)\nwas(4) --ccomp--> complying(7)\ncomplying(7) --prep--> with(8)\nwas(11) --advmod--> when(9)\nwas(11) --nsubj--> he(10)\nwith(8) --pcomp--> was(11)\nMinister(13) --det--> the(12)\nwas(11) --attr--> Minister(13)\nMinister(13) --prep--> of(14)\nof(14) --pobj--> Health(15)\nwas(4) --punct--> ?(16)"
+    }
+]

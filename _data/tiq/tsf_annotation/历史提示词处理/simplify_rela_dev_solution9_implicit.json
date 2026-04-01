@@ -1,0 +1,1867 @@
+[
+  {
+    "Id": 6001,
+    "Question": "In what language was French Algeria referred to as Algérie française during its formation?",
+    "relation": "In what was referred to as during its formation",
+    "origin_entity": [
+      "language",
+      "French Algeria",
+      "Algérie française"
+    ],
+    "Relation": "In what language was French Algeria referred to as Algérie française during its formation",
+    "entity": [
+      "French Algeria",
+      "Algérie française",
+      "French language",
+      "French colonial period",
+      "Algeria",
+      "formation"
+    ]
+  },
+  {
+    "Id": 6002,
+    "Question": "At what Grand Slam doubles event did Casper Ruud and André Göransson reach the quarterfinals in 133?",
+    "relation": "At what doubles event did and André Göransson reach the quarterfinals in 133",
+    "origin_entity": [
+      "Grand Slam",
+      "Casper Ruud"
+    ],
+    "Relation": "At what Grand Slam doubles event did Casper Ruud and André Göransson reach the quarterfinals in 133",
+    "entity": [
+      "Casper Ruud",
+      "André Göransson",
+      "Grand Slam",
+      "doubles",
+      "quarterfinals",
+      "133",
+      "tennis",
+      "ATP Tour",
+      "year 133"
+    ]
+  },
+  {
+    "Id": 6003,
+    "Question": "What was Pratap Chandra Lal's country of citizenship when he attended the RAF Staff College Andover?",
+    "relation": "What was country of citizenship when he attended the RAF Staff College Andover",
+    "origin_entity": [
+      "Pratap Chandra Lal"
+    ],
+    "Relation": "What was Pratap Chandra Lal's country of citizenship when he attended the RAF Staff College Andover",
+    "entity": [
+      "Pratap Chandra Lal",
+      "RAF Staff College Andover",
+      "Indian Air Force",
+      "India",
+      "British India",
+      "World War II",
+      "Royal Air Force"
+    ]
+  },
+  {
+    "Id": 6004,
+    "Question": "What team was Amby McConnell a member of before appearing on his baseball card?",
+    "relation": "What team was a member of before appearing on his baseball card",
+    "origin_entity": [
+      "Amby McConnell"
+    ],
+    "Relation": "What team was Amby McConnell a member of before appearing on his baseball card",
+    "entity": [
+      "Amby McConnell",
+      "baseball card",
+      "Major League Baseball",
+      "MLB",
+      "Boston Red Sox",
+      "New York Highlanders",
+      "early 20th century baseball"
+    ]
+  },
+  {
+    "Id": 6005,
+    "Question": "Which international football team did Roy Keane join after being a member of the Republic of Ireland national under-21 football team?",
+    "relation": "Which international football did join after being a member of the",
+    "origin_entity": [
+      "Roy Keane",
+      "Republic of Ireland national under-21 football team",
+      "team"
+    ],
+    "Relation": "Which international football team did Roy Keane join after being a member of the Republic of Ireland national under-21 football team",
+    "entity": [
+      "Roy Keane",
+      "Republic of Ireland national under-21 football team",
+      "Republic of Ireland national football team",
+      "Manchester United",
+      "Irish football",
+      "international football"
+    ]
+  },
+  {
+    "Id": 6006,
+    "Question": "During the United States census, what population was residing in the Pascagoula, Mississippi area (+23.659078)?",
+    "relation": "During the United States what population was residing in the (+23659078)",
+    "origin_entity": [
+      "census",
+      "Pascagoula, Mississippi",
+      "area"
+    ],
+    "Relation": "During the United States census, what population was residing in the Pascagoula, Mississippi area (+23.659078)",
+    "entity": [
+      "United States census",
+      "Pascagoula, Mississippi",
+      "population",
+      "23.659078",
+      "Mississippi",
+      "Gulf Coast",
+      "census data"
+    ]
+  },
+  {
+    "Id": 6007,
+    "Question": "After coming into contact with Max Scheler and learning about St. Francis of Assisi, what religion did Dietrich von Hildebrand convert to?",
+    "relation": "After coming into contact with Max Scheler and learning about what religion did convert to",
+    "origin_entity": [
+      "St. Francis of Assisi",
+      "Francis of Assisi",
+      "Dietrich von Hildebrand"
+    ],
+    "Relation": "After coming into contact with Max Scheler and learning about St. Francis of Assisi, what religion did Dietrich von Hildebrand convert to",
+    "entity": [
+      "Dietrich von Hildebrand",
+      "Max Scheler",
+      "St. Francis of Assisi",
+      "Catholic Church",
+      "Christianity",
+      "conversion",
+      "phenomenology",
+      "early 20th century"
+    ]
+  },
+  {
+    "Id": 6008,
+    "Question": "What club did Aaron Lennon play with before his £4.5 million transfer to Everton after having been on loan at the club?",
+    "relation": "What club did play with before his £45 million to after having been on at the club",
+    "origin_entity": [
+      "Aaron Lennon",
+      "transfer",
+      "loan",
+      "Everton"
+    ],
+    "Relation": "What club did Aaron Lennon play with before his £4.5 million transfer to Everton after having been on loan at the club",
+    "entity": [
+      "Aaron Lennon",
+      "Everton",
+      "£4.5 million transfer",
+      "loan",
+      "Tottenham Hotspur",
+      "Premier League",
+      "football transfer"
+    ]
+  },
+  {
+    "Id": 6009,
+    "Question": "What U-boat flotilla was the German submarine U-606 placed in after being commissioned?",
+    "relation": "What U-boat was the placed in after being commissioned",
+    "origin_entity": [
+      "flotilla",
+      "German submarine U-606"
+    ],
+    "Relation": "What U-boat flotilla was the German submarine U-606 placed in after being commissioned",
+    "entity": [
+      "German submarine U-606",
+      "U-boat flotilla",
+      "Kriegsmarine",
+      "World War II",
+      "Atlantic U-boat campaign",
+      "commissioning"
+    ]
+  },
+  {
+    "Id": 6010,
+    "Question": "Following his many accomplishments, to which professional cycling team did Adri van der Poel belong?",
+    "relation": "Following his many accomplishments to which did belong",
+    "origin_entity": [
+      "professional cycling team",
+      "Adri van der Poel"
+    ],
+    "Relation": "Following his many accomplishments, to which professional cycling team did Adri van der Poel belong",
+    "entity": [
+      "Adri van der Poel",
+      "professional cycling team",
+      "cycling",
+      "road cycling",
+      "Dutch cycling",
+      "1980s cycling",
+      "Panasonic",
+      "Raleigh"
+    ]
+  },
+  {
+    "Id": 6011,
+    "Question": "When Tommy Wright was caretaker for Wigan Athletic F C, which football club did he admit he and manager Sheridan might lose their jobs if they won?",
+    "relation": "When was caretaker for which club did he admit he and manager Sheridan might lose their jobs if they won",
+    "origin_entity": [
+      "Tommy Wright",
+      "Wigan Athletic F C",
+      "football"
+    ],
+    "Relation": "Which football club did Tommy Wright and manager Sheridan might lose their jobs if they won during his caretaker period for Wigan Athletic F C",
+    "entity": [
+      "Tommy Wright",
+      "Wigan Athletic F C",
+      "caretaker",
+      "Sheridan",
+      "football club",
+      "job loss",
+      "win"
+    ]
+  },
+  {
+    "Id": 6012,
+    "Question": "What was the next association football club Tom Caluwé played for after Al-Wakrah?",
+    "relation": "What was the next association football club played for after Al-Wakrah",
+    "origin_entity": [
+      "Tom Caluwé"
+    ],
+    "Relation": "What was the next association football club Tom Caluwé played for after Al-Wakrah",
+    "entity": [
+      "Tom Caluwé",
+      "Al-Wakrah",
+      "association football club",
+      "career transition",
+      "football transfers"
+    ]
+  },
+  {
+    "Id": 6013,
+    "Question": "What was Ralph Sazio's citizenship at the time of his death?",
+    "relation": "What was at the time of his death",
+    "origin_entity": [
+      "Ralph Sazio",
+      "citizenship"
+    ],
+    "Relation": "What was Ralph Sazio's citizenship at the time of his death",
+    "entity": [
+      "Ralph Sazio",
+      "citizenship",
+      "death",
+      "nationality",
+      "biographical information"
+    ]
+  },
+  {
+    "Id": 6014,
+    "Question": "After attending the Academy of Fine Arts Karlsruhe, which public university did Gustav Adolf Closs study at?",
+    "relation": "After attending the Academy of Fine Arts Karlsruhe which public university did study at",
+    "origin_entity": [
+      "Gustav Adolf Closs"
+    ],
+    "Relation": "Which public university did Gustav Adolf Closs study at after attending the Academy of Fine Arts Karlsruhe",
+    "entity": [
+      "Gustav Adolf Closs",
+      "Academy of Fine Arts Karlsruhe",
+      "public university",
+      "education history",
+      "art education"
+    ]
+  },
+  {
+    "Id": 6015,
+    "Question": "Which association football club did Malcolm Allison manage prior to Crystal Palace?",
+    "relation": "Which club did manage prior to Crystal Palace",
+    "origin_entity": [
+      "Malcolm Allison",
+      "association football"
+    ],
+    "Relation": "Which association football club did Malcolm Allison manage prior to Crystal Palace",
+    "entity": [
+      "Malcolm Allison",
+      "Crystal Palace",
+      "association football club",
+      "management career",
+      "football management history"
+    ]
+  },
+  {
+    "Id": 6016,
+    "Question": "During Jon Kyl's time as a Member of the U.S House of Representatives from Arizona's 4th district, what elected legislative house did he serve in?",
+    "relation": "During time as a Member of the from Arizonas what elected legislative did he serve in",
+    "origin_entity": [
+      "U.S House of Representatives",
+      "house",
+      "4th district",
+      "Jon Kyl"
+    ],
+    "Relation": "What elected legislative house did Jon Kyl serve in during his time as a Member of the U.S House of Representatives from Arizona's 4th district",
+    "entity": [
+      "Jon Kyl",
+      "U.S House of Representatives",
+      "Arizona's 4th district",
+      "elected legislative house",
+      "U.S Congress",
+      "political service"
+    ]
+  },
+  {
+    "Id": 6017,
+    "Question": "During Ashley Cooper's tennis career, in which Grand Slam events did he win his three singles titles?",
+    "relation": "During career in which events did he win his three singles titles",
+    "origin_entity": [
+      "Grand Slam",
+      "Ashley Cooper",
+      "tennis"
+    ],
+    "Relation": "In which Grand Slam events did Ashley Cooper win his three singles titles during his tennis career",
+    "entity": [
+      "Ashley Cooper",
+      "Grand Slam events",
+      "singles titles",
+      "tennis career",
+      "Australian Open",
+      "Wimbledon",
+      "US Open",
+      "historical tennis achievements"
+    ]
+  },
+  {
+    "Id": 6018,
+    "Question": "During the time of Falkland Islands British rule reassertion what country maintained its own claim on the islands?",
+    "relation": "During the time of British rule what country maintained its own claim on the islands",
+    "origin_entity": [
+      "Falkland Islands",
+      "reassertion"
+    ],
+    "Relation": "What country maintained its own claim on the islands during the time of Falkland Islands British rule reassertion",
+    "entity": [
+      "Falkland Islands",
+      "British rule reassertion",
+      "Argentina",
+      "territorial claim",
+      "Falklands War",
+      "historical sovereignty dispute"
+    ]
+  },
+  {
+    "Id": 6019,
+    "Question": "What political party was Eva Estrada Kalaw affiliated with when she was injured in the Plaza Miranda bombing?",
+    "relation": "What political party was affiliated with when she was injured in the Plaza Miranda bombing",
+    "origin_entity": [
+      "Eva Estrada Kalaw"
+    ],
+    "Relation": "What political party was Eva Estrada Kalaw affiliated with when she was injured in the Plaza Miranda bombing",
+    "entity": [
+      "Eva Estrada Kalaw",
+      "Plaza Miranda bombing",
+      "political party",
+      "Philippines",
+      "political violence",
+      "historical event",
+      "1971"
+    ]
+  },
+  {
+    "Id": 6020,
+    "Question": "According to the census in Spartanburg, South Carolina, what was the number of households in the city in the year 37,013?",
+    "relation": "According to the in what was the number of households in in the year 37013",
+    "origin_entity": [
+      "census",
+      "the city",
+      "Spartanburg, South Carolina"
+    ],
+    "Relation": "What was the number of households in Spartanburg, South Carolina according to the census in the year 37,013",
+    "entity": [
+      "Spartanburg, South Carolina",
+      "census",
+      "households",
+      "37,013",
+      "demographic data",
+      "U.S Census Bureau",
+      "population statistics"
+    ]
+  },
+  {
+    "Id": 6021,
+    "Question": "During Charlotte Edwards' last test match against Australia, which national cricket team was she a member of?",
+    "relation": "During last against which national was she a member of",
+    "origin_entity": [
+      "Charlotte Edwards",
+      "cricket",
+      "team",
+      "test match",
+      "Australia"
+    ],
+    "Relation": "Which national cricket team was Charlotte Edwards a member of during her last test match against Australia",
+    "entity": [
+      "Charlotte Edwards",
+      "Australia national women's cricket team",
+      "England women's cricket team",
+      "Women's Test cricket",
+      "last test match"
+    ]
+  },
+  {
+    "Id": 6022,
+    "Question": "Which basketball team did Bill Fitch coach before taking on Minnesota?",
+    "relation": "Which basketball team did coach before taking on Minnesota",
+    "origin_entity": [
+      "Bill Fitch"
+    ],
+    "Relation": "Which basketball team did Bill Fitch coach before coaching Minnesota",
+    "entity": [
+      "Bill Fitch",
+      "Minnesota Timberwolves",
+      "Cleveland Cavaliers",
+      "Boston Celtics",
+      "Houston Rockets",
+      "NBA coaching career"
+    ]
+  },
+  {
+    "Id": 6023,
+    "Question": "Who was the head of government in Okinawa Prefecture when Okinawa Kenmin no Uta became their anthem?",
+    "relation": "Who was the head of government in when Kenmin no Uta became their anthem",
+    "origin_entity": [
+      "Okinawa Prefecture",
+      "okinawa"
+    ],
+    "Relation": "Who was the head of government in Okinawa Prefecture when Okinawa Kenmin no Uta became the prefectural anthem",
+    "entity": [
+      "Okinawa Prefecture",
+      "Okinawa Kenmin no Uta",
+      "Governor of Okinawa Prefecture",
+      "Japan",
+      "prefectural anthem adoption"
+    ]
+  },
+  {
+    "Id": 6024,
+    "Question": "Which country was Baku part of when it was declared an Endangered UNESCO World Heritage Site?",
+    "relation": "Which was part of when it was declared an Endangered World Heritage Site",
+    "origin_entity": [
+      "country",
+      "Baku",
+      "UNESCO"
+    ],
+    "Relation": "Which country was Baku part of when it was declared an Endangered UNESCO World Heritage Site",
+    "entity": [
+      "Baku",
+      "UNESCO World Heritage Site",
+      "Endangered UNESCO World Heritage Site",
+      "Azerbaijan",
+      "Walled City of Baku with the Shirvanshah's Palace and Maiden Tower"
+    ]
+  },
+  {
+    "Id": 6025,
+    "Question": "What role did Addai Scher have in the Catholic faith when he died at the age of 48 in Siirt?",
+    "relation": "What role did have in the when he died at the age of 48 in",
+    "origin_entity": [
+      "Addai Scher",
+      "Siirt",
+      "Catholic",
+      "Catholic faith"
+    ],
+    "Relation": "What role did Addai Scher have in the Catholic faith when he died in Siirt at age 48",
+    "entity": [
+      "Addai Scher",
+      "Catholic Church",
+      "Chaldean Catholic Church",
+      "Archbishop",
+      "Siirt",
+      "Ottoman Empire",
+      "World War I",
+      "Assyrian genocide"
+    ]
+  },
+  {
+    "Id": 6026,
+    "Question": "What international football team was Anthony Forde a member of before joining Walsall F.C.?",
+    "relation": "What international football team was a member of before joining Walsall FC",
+    "origin_entity": [
+      "Anthony Forde"
+    ],
+    "Relation": "What international football team was Anthony Forde a member of before joining Walsall F.C.",
+    "entity": [
+      "Anthony Forde",
+      "Walsall F.C.",
+      "Republic of Ireland national football team",
+      "Republic of Ireland under-21 national football team",
+      "association football career"
+    ]
+  },
+  {
+    "Id": 6027,
+    "Question": "Which baseball team was Jesse Gonder a member of before joining the New York Mets?",
+    "relation": "Which team was a member of before joining the",
+    "origin_entity": [
+      "Jesse Gonder",
+      "baseball",
+      "New York Mets"
+    ],
+    "Relation": "Which baseball team was Jesse Gonder a member of before joining the New York Mets",
+    "entity": [
+      "Jesse Gonder",
+      "New York Mets",
+      "Cincinnati Reds",
+      "Pittsburgh Pirates",
+      "Major League Baseball",
+      "MLB career"
+    ]
+  },
+  {
+    "Id": 6028,
+    "Question": "What country did Hungary have diplomatic relations with during the Third Republic period?",
+    "relation": "What country did Hungary have diplomatic relations with during the Third Republic period",
+    "origin_entity": [],
+    "Relation": "What country did Hungary have diplomatic relations with during the Third Republic period",
+    "entity": [
+      "Hungary",
+      "Third Republic of Hungary",
+      "diplomatic relations",
+      "Cold War",
+      "Eastern Bloc",
+      "Western countries",
+      "Soviet Union"
+    ]
+  },
+  {
+    "Id": 6029,
+    "Question": "What was Hardial Bains's country of citizenship when he was alive?",
+    "relation": "What was of citizenship when he was alive",
+    "origin_entity": [
+      "Hardial Bains",
+      "country"
+    ],
+    "Relation": "What was Hardial Bains's country of citizenship when he was alive",
+    "entity": [
+      "Hardial Bains",
+      "Canada",
+      "India",
+      "Communist Party of Canada (Marxist–Leninist)",
+      "political activism"
+    ]
+  },
+  {
+    "Id": 6030,
+    "Question": "After its release in the Dolby Theatre, which country was Avengers: Infinity War released in?",
+    "relation": "After its release in the Dolby Theatre which country was released in",
+    "origin_entity": [
+      "Avengers",
+      "Avengers: Infinity War",
+      "Infinity War"
+    ],
+    "Relation": "Which country was Avengers: Infinity War released in after its release in the Dolby Theatre",
+    "entity": [
+      "Avengers: Infinity War",
+      "Dolby Theatre",
+      "Hollywood",
+      "Los Angeles",
+      "United States",
+      "world premiere",
+      "international film release"
+    ]
+  },
+  {
+    "Id": 6031,
+    "Question": "Prior to playing 20 games for Ipswich Town, which football club featured in Ben Thatcher's senior career?",
+    "relation": "Prior to playing 20 games for which football club featured in senior career",
+    "origin_entity": [
+      "Ben Thatcher",
+      "Ipswich Town"
+    ],
+    "Relation": "Which football club featured in Ben Thatcher's senior career prior to playing 20 games for Ipswich Town",
+    "entity": [
+      "Ben Thatcher",
+      "Ipswich Town",
+      "senior career",
+      "football club",
+      "English football",
+      "professional football"
+    ]
+  },
+  {
+    "Id": 6032,
+    "Question": "What basketball team did Pete Carril coach before he was inducted into the College Basketball Hall of Fame?",
+    "relation": "What basketball team did coach before he was inducted into the College Basketball Hall of Fame",
+    "origin_entity": [
+      "Pete Carril"
+    ],
+    "Relation": "What basketball team did Pete Carril coach before his induction into the College Basketball Hall of Fame",
+    "entity": [
+      "Pete Carril",
+      "College Basketball Hall of Fame",
+      "basketball team",
+      "coaching career",
+      "NCAA basketball",
+      "basketball history"
+    ]
+  },
+  {
+    "Id": 6033,
+    "Question": "At which recurring sporting event did Nicolas Kiefer achieve a 2R result in Grand Slam doubles during the Athens Olympics?",
+    "relation": "At which recurring sporting event did achieve a 2R result in doubles during the Athens Olympics",
+    "origin_entity": [
+      "Grand Slam",
+      "Nicolas Kiefer"
+    ],
+    "Relation": "At which recurring sporting event did Nicolas Kiefer achieve a 2R result in Grand Slam doubles during the Athens Olympics",
+    "entity": [
+      "Nicolas Kiefer",
+      "2R result",
+      "Grand Slam doubles",
+      "Athens Olympics",
+      "2004 Summer Olympics",
+      "tennis",
+      "Olympic tennis"
+    ]
+  },
+  {
+    "Id": 6034,
+    "Question": "What title of honor did Valeri Kubasov receive after exiting the Soyuz 7K-TM module used for ASTP in Kazakhstan?",
+    "relation": "What title of honor did receive after exiting the Soyuz 7K-TM module used for ASTP in Kazakhstan",
+    "origin_entity": [
+      "Valeri Kubasov"
+    ],
+    "Relation": "What title of honor did Valeri Kubasov receive after exiting the Soyuz 7K-TM module used for ASTP in Kazakhstan",
+    "entity": [
+      "Valeri Kubasov",
+      "Soyuz 7K-TM",
+      "ASTP (Apollo-Soyuz Test Project)",
+      "Kazakhstan",
+      "title of honor",
+      "Soviet space program",
+      "cosmonaut"
+    ]
+  },
+  {
+    "Id": 6035,
+    "Question": "What was Moreno de Souza's country of citizenship at the time of his death in Alto de Porvorim, Socorro, Goa?",
+    "relation": "What was of at the time of his in Alto",
+    "origin_entity": [
+      "Moreno de Souza",
+      "country",
+      "Porvorim",
+      "Socorro, Goa",
+      "citizenship",
+      "death",
+      "de"
+    ],
+    "Relation": "What was Moreno de Souza's country of citizenship at the time of his death in Alto de Porvorim, Socorro, Goa",
+    "entity": [
+      "Moreno de Souza",
+      "Alto de Porvorim",
+      "Socorro",
+      "Goa",
+      "country of citizenship",
+      "death",
+      "India",
+      "Portuguese India"
+    ]
+  },
+  {
+    "Id": 6036,
+    "Question": "Before joining Umm Salal, which association football club was Rouzbeh Cheshmi part of in his senior career?",
+    "relation": "Before joining which club was part of in his senior career",
+    "origin_entity": [
+      "Umm Salal",
+      "Rouzbeh Cheshmi",
+      "association football"
+    ],
+    "Relation": "Which association football club was Rouzbeh Cheshmi part of in his senior career before joining Umm Salal",
+    "entity": [
+      "Rouzbeh Cheshmi",
+      "Umm Salal",
+      "senior career",
+      "association football club",
+      "Iranian football",
+      "Qatar football"
+    ]
+  },
+  {
+    "Id": 6037,
+    "Question": "In which city or town did Lino Saputo convince his father to start his own business (the Canadian dairy company Saputo Inc.)?",
+    "relation": "In which city or town did convince his father to start his own (the dairy company )",
+    "origin_entity": [
+      "Canadian",
+      "Saputo Inc",
+      "Lino Saputo",
+      "business"
+    ],
+    "Relation": "In which city or town did Lino Saputo convince his father to start his own business (the Canadian dairy company Saputo Inc.)",
+    "entity": [
+      "Lino Saputo",
+      "Saputo Inc.",
+      "Canadian dairy company",
+      "father",
+      "business start",
+      "city or town",
+      "Montreal",
+      "Quebec"
+    ]
+  },
+  {
+    "Id": 6038,
+    "Question": "What was Tomaž Gantar's country of citizenship at the time?",
+    "relation": "What was country of citizenship at the",
+    "origin_entity": [
+      "Gantar",
+      "tomaž",
+      "time"
+    ],
+    "Relation": "What was Tomaž Gantar's country of citizenship at the time",
+    "entity": [
+      "Tomaž Gantar",
+      "country of citizenship",
+      "Slovenia",
+      "Yugoslavia",
+      "historical context"
+    ]
+  },
+  {
+    "Id": 6039,
+    "Question": "What international organization was Angola a member of when the first tropical cyclone in the Southern Hemisphere off the coast of Angola was documented by weather satellites?",
+    "relation": "What international organization was Angola a member of when the first tropical cyclone in the Southern Hemisphere off the coast of Angola was documented by weather satellites",
+    "origin_entity": [],
+    "Relation": "What international organization was Angola a member of when the first tropical cyclone in the Southern Hemisphere off the coast of Angola was documented by weather satellites",
+    "entity": [
+      "Angola",
+      "tropical cyclone",
+      "Southern Hemisphere",
+      "weather satellites",
+      "international organization",
+      "United Nations",
+      "African Union",
+      "meteorology history"
+    ]
+  },
+  {
+    "Id": 6040,
+    "Question": "Before being part of Hebei Province (ROC), which jurisdictional entity was Cang County located in?",
+    "relation": "Before being part of () which jurisdictional entity was located in",
+    "origin_entity": [
+      "Hebei",
+      "Hebei Province",
+      "ROC",
+      "Cang County"
+    ],
+    "Relation": "Before being part of Hebei Province (ROC), which jurisdictional entity was Cang County located in",
+    "entity": [
+      "Cang County",
+      "Hebei Province",
+      "ROC (Republic of China)",
+      "jurisdictional entity",
+      "historical administrative divisions",
+      "China",
+      "Qing dynasty"
+    ]
+  },
+  {
+    "Id": 6041,
+    "Question": "During Li Jiheng's term as Communist Party Secretary of Yunnan, which Chinese province did he become Party Chief of, replacing Qin Guangrong?",
+    "relation": "During term as Communist Party Secretary of which did he become Party Chief of replacing",
+    "origin_entity": [
+      "Yunnan",
+      "Chinese",
+      "Li Jiheng",
+      "Qin Guangrong",
+      "province"
+    ],
+    "Relation": "Which Chinese province did Li Jiheng become Party Chief of during his term as Communist Party Secretary of Yunnan, replacing Qin Guangrong",
+    "entity": [
+      "Li Jiheng",
+      "Communist Party Secretary of Yunnan",
+      "Yunnan",
+      "Qin Guangrong",
+      "Chinese Communist Party",
+      "provincial leadership transition"
+    ]
+  },
+  {
+    "Id": 6042,
+    "Question": "What other ministerial roles did Natan Sharansky take on after the Minister of Industry and Trade?",
+    "relation": "What other ministerial roles did take on after the Minister of Industry and Trade",
+    "origin_entity": [
+      "Natan Sharansky"
+    ],
+    "Relation": "What other ministerial roles did Natan Sharansky take on after serving as Minister of Industry and Trade",
+    "entity": [
+      "Natan Sharansky",
+      "Minister of Industry and Trade",
+      "Israel",
+      "Israeli government",
+      "ministerial positions",
+      "political career"
+    ]
+  },
+  {
+    "Id": 6043,
+    "Question": "On which Wikimedia project page would one find information about Aldous Huxley's birth in Godalming Surrey, England during his lifetime?",
+    "relation": "On which Wikimedia project page would one find information about birth in Godalming Surrey England during his lifetime",
+    "origin_entity": [
+      "Aldous Huxley"
+    ],
+    "Relation": "On which Wikimedia project page would one find information about Aldous Huxley's birth in Godalming Surrey, England during his lifetime",
+    "entity": [
+      "Aldous Huxley",
+      "Godalming",
+      "Surrey",
+      "England",
+      "birth",
+      "Wikimedia project",
+      "Wikipedia",
+      "biographical information"
+    ]
+  },
+  {
+    "Id": 6044,
+    "Question": "What cricket team was Godfrey Evans playing for when he was last tested against India?",
+    "relation": "What was playing for when he was last tested against India",
+    "origin_entity": [
+      "Godfrey Evans",
+      "cricket",
+      "team"
+    ],
+    "Relation": "What cricket team was Godfrey Evans playing for when he was last tested against India",
+    "entity": [
+      "Godfrey Evans",
+      "cricket",
+      "test match",
+      "India",
+      "England cricket team",
+      "international cricket",
+      "career timeline"
+    ]
+  },
+  {
+    "Id": 6045,
+    "Question": "What railway line did JR Central operate during its time as Japan's most profitable and highest throughput high-speed-rail operator?",
+    "relation": "What railway line did operate during its time as Japans most profitable and highest throughput high-speed-rail operator",
+    "origin_entity": [
+      "JR Central"
+    ],
+    "Relation": "What railway line did JR Central operate during its time as Japan's most profitable and highest throughput high-speed-rail operator",
+    "entity": [
+      "JR Central",
+      "Japan",
+      "high-speed rail",
+      "Tokaido Shinkansen",
+      "railway operations",
+      "profitability",
+      "transportation infrastructure"
+    ]
+  },
+  {
+    "Id": 6046,
+    "Question": "What college did Charlie Bradshaw work for as an assistant coach prior to coaching under Bear Bryant and leading the University of Alabama to a national championship?",
+    "relation": "What college did work for as an assistant coach prior to coaching under and leading the to a national championship",
+    "origin_entity": [
+      "Bear Bryant",
+      "University of Alabama",
+      "Charlie Bradshaw"
+    ],
+    "Relation": "What college did Charlie Bradshaw work for as an assistant coach prior to coaching under Bear Bryant and leading the University of Alabama to a national championship",
+    "entity": [
+      "Charlie Bradshaw",
+      "assistant coach",
+      "Bear Bryant",
+      "University of Alabama",
+      "national championship",
+      "American football",
+      "college coaching career"
+    ]
+  },
+  {
+    "Id": 6047,
+    "Question": "Who led the Quisling regime's National Government after Vidkun Quisling proclaimed a new collaborationist regime in Norway?",
+    "relation": "Who led the National Government after proclaimed a new collaborationist regime in Norway",
+    "origin_entity": [
+      "Quisling regime",
+      "Vidkun Quisling"
+    ],
+    "Relation": "Who led the Quisling regime's National Government after Vidkun Quisling proclaimed a new collaborationist regime in Norway",
+    "entity": [
+      "Quisling regime",
+      "Vidkun Quisling",
+      "National Government",
+      "Norway",
+      "World War II",
+      "collaborationist government",
+      "occupation period"
+    ]
+  },
+  {
+    "Id": 6048,
+    "Question": "What team did Marco Rossi score his second goal at the top level against, which- at the time- closed the score to 2-0 in the 90th minute?",
+    "relation": "What team did score his second goal at the top level against which- at the time- closed the score to 2-0 in the 90th minute",
+    "origin_entity": [
+      "Marco Rossi"
+    ],
+    "Relation": "What team did Marco Rossi score his second goal at the top level against, which closed the score to 2-0 in the 90th minute",
+    "entity": [
+      "Marco Rossi",
+      "football",
+      "goal",
+      "top level",
+      "match timeline",
+      "soccer",
+      "career statistics"
+    ]
+  },
+  {
+    "Id": 6049,
+    "Question": "What specialized agency of the United Nations was Tuvalu a member of when became a member of the International Bank for Reconstruction and Development?",
+    "relation": "What was Tuvalu a member of when became a member of the International Bank for Reconstruction and Development",
+    "origin_entity": [
+      "specialized agency",
+      "specialized agency of the United Nations",
+      "United Nations"
+    ],
+    "Relation": "What specialized agency of the United Nations was Tuvalu a member of when it became a member of the International Bank for Reconstruction and Development",
+    "entity": [
+      "Tuvalu",
+      "International Bank for Reconstruction and Development",
+      "World Bank",
+      "United Nations",
+      "specialized agency",
+      "international membership",
+      "development finance"
+    ]
+  },
+  {
+    "Id": 6050,
+    "Question": "In what country was Cai Gongshi a citizen when he was appointed Commissioner of Foreign Affairs for Shandong province and was tasked with negotiating for Japanese withdrawal?",
+    "relation": "In what country was a citizen when he was appointed Commissioner of Foreign Affairs for and was tasked with negotiating for Japanese withdrawal",
+    "origin_entity": [
+      "Cai Gongshi",
+      "Shandong",
+      "Shandong province"
+    ],
+    "Relation": "In what country was Cai Gongshi a citizen when he was appointed Commissioner of Foreign Affairs for Shandong province and tasked with negotiating for Japanese withdrawal",
+    "entity": [
+      "Cai Gongshi",
+      "Commissioner of Foreign Affairs",
+      "Shandong province",
+      "Japanese withdrawal",
+      "Republic of China",
+      "Sino-Japanese relations",
+      "diplomatic history"
+    ]
+  },
+  {
+    "Id": 6051,
+    "Question": "After which Indian state is the Hoshiarpur District located in?",
+    "relation": "After which Indian state is the located in",
+    "origin_entity": [
+      "Hoshiarpur District"
+    ],
+    "Relation": "Which Indian state is Hoshiarpur District located in",
+    "entity": [
+      "Hoshiarpur District",
+      "India",
+      "Punjab",
+      "Indian states"
+    ]
+  },
+  {
+    "Id": 6052,
+    "Question": "What domestic cricket team did Peter Siddle represent when he announced his retirement from international cricket?",
+    "relation": "What domestic did represent when he announced his retirement from international cricket",
+    "origin_entity": [
+      "Peter Siddle",
+      "cricket",
+      "team"
+    ],
+    "Relation": "What domestic cricket team did Peter Siddle represent when he announced his retirement from international cricket",
+    "entity": [
+      "Peter Siddle",
+      "cricket",
+      "Australia",
+      "Victoria cricket team",
+      "retirement"
+    ]
+  },
+  {
+    "Id": 6053,
+    "Question": "What prize was Michael Chabon nominated for while being considered for the PEN/Faulkner Award for Fiction?",
+    "relation": "What was nominated for while being considered for the PEN/Faulkner Award for Fiction",
+    "origin_entity": [
+      "prize",
+      "Michael Chabon"
+    ],
+    "Relation": "What prize was Michael Chabon nominated for while being considered for the PEN/Faulkner Award for Fiction",
+    "entity": [
+      "Michael Chabon",
+      "PEN/Faulkner Award for Fiction",
+      "literary awards",
+      "American literature",
+      "nominations"
+    ]
+  },
+  {
+    "Id": 6054,
+    "Question": "In which United Kingdom general election did the Scottish Greens contest more seats and the Liberal Democrats improve their vote share to 11.6%, but win only 11 seats?",
+    "relation": "In which did the contest more seats and the improve their vote share to 116% but win only 11 seats",
+    "origin_entity": [
+      "United Kingdom general election",
+      "general",
+      "election",
+      "Liberal Democrats",
+      "Scottish Greens"
+    ],
+    "Relation": "In which United Kingdom general election did the Scottish Greens contest more seats and the Liberal Democrats improve their vote share to 11.6%, but win only 11 seats",
+    "entity": [
+      "United Kingdom general election",
+      "Scottish Greens",
+      "Liberal Democrats",
+      "vote share",
+      "seats",
+      "UK politics"
+    ]
+  },
+  {
+    "Id": 6055,
+    "Question": "Who did Patrice Beaumelle take over from as manager after Renard left his post to coach FC Sochaux?",
+    "relation": "Who did take over from as manager after left his post to coach FC Sochaux",
+    "origin_entity": [
+      "Renard",
+      "Patrice Beaumelle"
+    ],
+    "Relation": "Who did Patrice Beaumelle take over from as manager after Renard left his post to coach FC Sochaux",
+    "entity": [
+      "Patrice Beaumelle",
+      "Renard",
+      "FC Sochaux",
+      "football management",
+      "coaching changes"
+    ]
+  },
+  {
+    "Id": 6056,
+    "Question": "After coaching Robert Morris, which basketball team did Mike Rice Jr. move on to coach next?",
+    "relation": "After coaching Robert Morris which basketball team did move on to coach next",
+    "origin_entity": [
+      "Mike Rice Jr"
+    ],
+    "Relation": "After coaching Robert Morris, which basketball team did Mike Rice Jr. move on to coach next",
+    "entity": [
+      "Mike Rice Jr.",
+      "Robert Morris",
+      "basketball",
+      "coaching career",
+      "NCAA"
+    ]
+  },
+  {
+    "Id": 6057,
+    "Question": "During the time of the Wright brothers' deaths in Dayton, Ohio, which series of airplane crashes led to doubts about their designs and safety?",
+    "relation": "During the time of the deaths in Dayton Ohio which series of crashes led to doubts about their designs and safety",
+    "origin_entity": [
+      "Wright brothers",
+      "airplane"
+    ],
+    "Relation": "During the time of the Wright brothers' deaths in Dayton, Ohio, which series of airplane crashes led to doubts about their designs and safety",
+    "entity": [
+      "Wright brothers",
+      "Dayton, Ohio",
+      "airplane crashes",
+      "aviation history",
+      "safety concerns",
+      "early flight"
+    ]
+  },
+  {
+    "Id": 6058,
+    "Question": "What was Mani Krishnaswami's country of citizenship when he passed away at the age of 72?",
+    "relation": "What was of citizenship when he passed away at the age of 72",
+    "origin_entity": [
+      "Mani Krishnaswami",
+      "country"
+    ],
+    "Relation": "What was Mani Krishnaswami's country of citizenship when he passed away at the age of 72",
+    "entity": [
+      "Mani Krishnaswami",
+      "citizenship",
+      "death",
+      "India",
+      "biographical details"
+    ]
+  },
+  {
+    "Id": 6059,
+    "Question": "When South Ossetia held a referendum on independence from Georgia, what country's diplomatic relationship with Georgia was a topic of discussion?",
+    "relation": "When South Ossetia held a from what countrys diplomatic relationship with Georgia was a topic of discussion",
+    "origin_entity": [
+      "Georgia",
+      "referendum",
+      "referendum on independence"
+    ],
+    "Relation": "When South Ossetia held a referendum on independence from Georgia, what country's diplomatic relationship with Georgia was a topic of discussion",
+    "entity": [
+      "South Ossetia",
+      "referendum",
+      "independence",
+      "Georgia",
+      "Russia",
+      "diplomatic relations",
+      "conflict"
+    ]
+  },
+  {
+    "Id": 6060,
+    "Question": "What baseball team was Charley O'Leary part of when he died in Chicago at the age of 65?",
+    "relation": "What team was part of when he died in at the age of 65",
+    "origin_entity": [
+      "Charley O'Leary",
+      "baseball",
+      "Chicago"
+    ],
+    "Relation": "What baseball team was Charley O'Leary part of when he died in Chicago at the age of 65",
+    "entity": [
+      "Charley O'Leary",
+      "baseball",
+      "Chicago",
+      "death",
+      "Major League Baseball",
+      "historical teams"
+    ]
+  },
+  {
+    "Id": 6061,
+    "Question": "During the period of increased annual GDP growth from 0.6 to 1.5 percent in Ecuador, which specialized agency of the United Nations did Ecuador become a member of?",
+    "relation": "During the period of increased annual GDP growth from 06 to 15 percent in Ecuador which did Ecuador become a member of",
+    "origin_entity": [
+      "specialized agency",
+      "specialized agency of the United Nations",
+      "United Nations"
+    ],
+    "Relation": "Which specialized agency of the United Nations did Ecuador become a member of during a period of increased annual GDP growth",
+    "entity": [
+      "Ecuador",
+      "United Nations",
+      "specialized agency",
+      "GDP growth",
+      "0.6 to 1.5 percent",
+      "economic growth period"
+    ]
+  },
+  {
+    "Id": 6062,
+    "Question": "What country did Malka Liser Sklarsky live in prior to her residence in Kamianets-Podilskyi?",
+    "relation": "What country did Liser Sklarsky live in prior to her residence in",
+    "origin_entity": [
+      "Malka",
+      "Kamianets-Podilskyi"
+    ],
+    "Relation": "What country did Malka Liser Sklarsky live in before moving to Kamianets-Podilskyi",
+    "entity": [
+      "Malka Liser Sklarsky",
+      "Kamianets-Podilskyi",
+      "residence",
+      "prior residence",
+      "country of origin"
+    ]
+  },
+  {
+    "Id": 6063,
+    "Question": "What is the number of the index in the Economy of Greece Statistics table for Public finances Expenses, €109.137 billion ( 52.5 % of GDP est . )?",
+    "relation": "What is the number of the index in the Statistics table for Public finances Expenses €109137 billion ( 525 % of GDP est )",
+    "origin_entity": [
+      "Economy of Greece"
+    ],
+    "Relation": "What is the index number for Public finances Expenses in the Economy of Greece Statistics table",
+    "entity": [
+      "Economy of Greece Statistics table",
+      "Public finances Expenses",
+      "€109.137 billion",
+      "52.5% of GDP",
+      "index number",
+      "Greek economy"
+    ]
+  },
+  {
+    "Id": 6064,
+    "Question": "What club did Billy Beaumont join after 2 seasons with Swindon Town F.C.?",
+    "relation": "What club did join after 2 seasons with Swindon Town FC",
+    "origin_entity": [
+      "Billy Beaumont"
+    ],
+    "Relation": "What club did Billy Beaumont join after playing for Swindon Town F.C. for 2 seasons",
+    "entity": [
+      "Billy Beaumont",
+      "Swindon Town F.C.",
+      "2 seasons",
+      "football club",
+      "transfer"
+    ]
+  },
+  {
+    "Id": 6065,
+    "Question": "What event took place in the English Channel involving the German submarine U-1063 during its single patrol on 11 March?",
+    "relation": "What event took place in the involving the during its single patrol on 11 March",
+    "origin_entity": [
+      "English Channel",
+      "German submarine U-1063"
+    ],
+    "Relation": "What event involving the German submarine U-1063 took place in the English Channel during its single patrol on 11 March",
+    "entity": [
+      "German submarine U-1063",
+      "English Channel",
+      "single patrol",
+      "11 March",
+      "World War II",
+      "naval event"
+    ]
+  },
+  {
+    "Id": 6066,
+    "Question": "At the time of the census in Zanesville, Ohio, what was the number of households determined by the census?",
+    "relation": "At the time of the in what was the number of households determined by the census",
+    "origin_entity": [
+      "census",
+      "Zanesville, Ohio"
+    ],
+    "Relation": "What was the number of households determined by the census in Zanesville, Ohio at the time of the census",
+    "entity": [
+      "Zanesville, Ohio",
+      "census",
+      "households",
+      "number of households",
+      "United States census"
+    ]
+  },
+  {
+    "Id": 6067,
+    "Question": "What was Harilal Jekisundas Kania's country of citizenship when he became the Chief Justice of India?",
+    "relation": "What was Kanias country of citizenship when he became the Chief Justice of",
+    "origin_entity": [
+      "India",
+      "harilal",
+      "jekisundas"
+    ],
+    "Relation": "What was Harilal Jekisundas Kania's country of citizenship when he became the Chief Justice of India",
+    "entity": [
+      "Harilal Jekisundas Kania",
+      "Chief Justice of India",
+      "country of citizenship",
+      "India",
+      "Indian judiciary"
+    ]
+  },
+  {
+    "Id": 6068,
+    "Question": "During the time Neelam Sanjiva Reddy served as the 6th President of India, which political party did he belong to?",
+    "relation": "During the time served as the 6th which political party did he belong to",
+    "origin_entity": [
+      "Neelam Sanjiva Reddy",
+      "President of India",
+      "India"
+    ],
+    "Relation": "Which political party did Neelam Sanjiva Reddy belong to during his tenure as the 6th President of India",
+    "entity": [
+      "Neelam Sanjiva Reddy",
+      "6th President of India",
+      "political party",
+      "Indian National Congress",
+      "Indian presidency"
+    ]
+  },
+  {
+    "Id": 6069,
+    "Question": "What was the country of Chandrashekarendra Saraswati's citizenship when he was the head of the Kanchi Kamakoti Peetham?",
+    "relation": "What was the of citizenship when he was the head of the",
+    "origin_entity": [
+      "country",
+      "Chandrashekarendra Saraswati",
+      "Kanchi Kamakoti Peetham"
+    ],
+    "Relation": "What was the country of Chandrashekarendra Saraswati's citizenship when he was the head of the Kanchi Kamakoti Peetham",
+    "entity": [
+      "Chandrashekarendra Saraswati",
+      "Kanchi Kamakoti Peetham",
+      "head",
+      "country of citizenship",
+      "India",
+      "Hindu religious leader"
+    ]
+  },
+  {
+    "Id": 6070,
+    "Question": "To what title did Peter Reginald Frederick Hall CBE become entitled at the South Bank Sky Arts Awards?",
+    "relation": "To what did Peter Frederick Hall CBE become entitled at the South Bank Sky Arts Awards",
+    "origin_entity": [
+      "title",
+      "Reginald"
+    ],
+    "Relation": "To what title did Peter Reginald Frederick Hall CBE become entitled at the South Bank Sky Arts Awards",
+    "entity": [
+      "Peter Reginald Frederick Hall CBE",
+      "South Bank Sky Arts Awards",
+      "title",
+      "award",
+      "British arts awards"
+    ]
+  },
+  {
+    "Id": 6071,
+    "Question": "What ethnic group did Milo O'Shea belong to before he passed away in Manhattan, New York at the age of 86?",
+    "relation": "What ethnic group did belong to before he passed away in at the age of 86",
+    "origin_entity": [
+      "Milo O'Shea",
+      "Manhattan, New York"
+    ],
+    "Relation": "What ethnic group did Milo O'Shea belong to before his death",
+    "entity": [
+      "Milo O'Shea",
+      "ethnic group",
+      "Manhattan, New York",
+      "death",
+      "Irish",
+      "Irish actor"
+    ]
+  },
+  {
+    "Id": 6072,
+    "Question": "What country did James Soong become a citizen of after his birth?",
+    "relation": "What country did become a citizen of after his",
+    "origin_entity": [
+      "James Soong",
+      "birth"
+    ],
+    "Relation": "What country did James Soong become a citizen of after his birth",
+    "entity": [
+      "James Soong",
+      "citizenship",
+      "Taiwan",
+      "Republic of China",
+      "political figure"
+    ]
+  },
+  {
+    "Id": 6073,
+    "Question": "During Dick Cheney's time at the White House, what position did he hold as Deputy Chief of Staff?",
+    "relation": "During time at the what did he hold as Deputy",
+    "origin_entity": [
+      "Dick Cheney",
+      "Chief of Staff",
+      "White House",
+      "position"
+    ],
+    "Relation": "What position did Dick Cheney hold as Deputy Chief of Staff during his time at the White House",
+    "entity": [
+      "Dick Cheney",
+      "Deputy Chief of Staff",
+      "White House",
+      "U.S. government",
+      "Gerald Ford administration",
+      "political career"
+    ]
+  },
+  {
+    "Id": 6074,
+    "Question": "What sports team was Joe Pignatano a member of during his professional baseball career?",
+    "relation": "What sports team was a member of during his career",
+    "origin_entity": [
+      "Joe Pignatano",
+      "professional baseball"
+    ],
+    "Relation": "What sports team was Joe Pignatano a member of during his professional baseball career",
+    "entity": [
+      "Joe Pignatano",
+      "sports team",
+      "professional baseball",
+      "Major League Baseball",
+      "Brooklyn Dodgers",
+      "Los Angeles Dodgers",
+      "New York Mets",
+      "baseball player"
+    ]
+  },
+  {
+    "Id": 6075,
+    "Question": "After Louis van Gaal's managerial career at Barcelona, which national football team did he go on to manage?",
+    "relation": "After managerial career at which football did he go on to manage",
+    "origin_entity": [
+      "Louis van Gaal",
+      "Barcelona",
+      "national",
+      "team"
+    ],
+    "Relation": "Which national football team did Louis van Gaal manage after his managerial career at Barcelona",
+    "entity": [
+      "Louis van Gaal",
+      "national football team",
+      "Barcelona",
+      "managerial career",
+      "Netherlands national football team",
+      "football manager"
+    ]
+  },
+  {
+    "Id": 6076,
+    "Question": "When Gerald Levert was nominated for a Soul Train Music Award for Best R&B/Soul Album, Male, which singer was he in a relationship with?",
+    "relation": "When was nominated for a Soul Train Music Award for Best R&B/Soul Album Male which singer was he in a relationship with",
+    "origin_entity": [
+      "Gerald Levert"
+    ],
+    "Relation": "Which singer was Gerald Levert in a relationship with when he was nominated for a Soul Train Music Award for Best R&B/Soul Album, Male",
+    "entity": [
+      "Gerald Levert",
+      "singer",
+      "relationship",
+      "Soul Train Music Award",
+      "Best R&B/Soul Album, Male",
+      "nomination",
+      "R&B music",
+      "1990s music"
+    ]
+  },
+  {
+    "Id": 6077,
+    "Question": "What was the total number of households in Osawatomie, Kansas according to the US Census of 18852?",
+    "relation": "What was the total number of households in according to the US of 18852",
+    "origin_entity": [
+      "Census",
+      "Osawatomie, Kansas"
+    ],
+    "Relation": "What was the total number of households in Osawatomie, Kansas according to the US Census of 18852",
+    "entity": [
+      "Osawatomie, Kansas",
+      "total number of households",
+      "US Census",
+      "18852",
+      "historical census",
+      "Kansas",
+      "19th century United States"
+    ]
+  },
+  {
+    "Id": 6078,
+    "Question": "During Carlos Roberto Flores' time as the 50th president of Honduras, which country did he serve?",
+    "relation": "During time as the 50th which country did he serve",
+    "origin_entity": [
+      "Carlos Roberto Flores",
+      "president of Honduras"
+    ],
+    "Relation": "Which country did Carlos Roberto Flores serve during his time as the 50th president of Honduras",
+    "entity": [
+      "Carlos Roberto Flores",
+      "50th president",
+      "Honduras",
+      "country served",
+      "Central America",
+      "1998-2002 presidency",
+      "Honduran politics"
+    ]
+  },
+  {
+    "Id": 6079,
+    "Question": "During Jimmy Walker's 187-event streak on the PGA Tour without a win, what was his best result in major championships?",
+    "relation": "During 187-event streak on the without a win what was his best result in",
+    "origin_entity": [
+      "major championships",
+      "Jimmy Walker",
+      "PGA Tour"
+    ],
+    "Relation": "What was Jimmy Walker's best result in major championships during his 187-event streak on the PGA Tour without a win",
+    "entity": [
+      "Jimmy Walker",
+      "best result",
+      "major championships",
+      "PGA Tour",
+      "187-event streak",
+      "without a win",
+      "golf",
+      "professional golf career"
+    ]
+  },
+  {
+    "Id": 6080,
+    "Question": "What position did António José Seguro hold before becoming a Minister in the Cabinet of the Prime Minister?",
+    "relation": null,
+    "origin_entity": null,
+    "Relation": "What position did António José Seguro hold before becoming a Minister in the Cabinet of the Prime Minister",
+    "entity": [
+      "António José Seguro",
+      "position",
+      "Minister",
+      "Cabinet of the Prime Minister",
+      "Portugal",
+      "Portuguese politics",
+      "Socialist Party",
+      "political career"
+    ]
+  },
+  {
+    "Id": 6081,
+    "Question": "What award did climatologist Helmut Landsberg receive after his death?",
+    "relation": "What award did climatologist receive after his death",
+    "origin_entity": [
+      "Helmut Landsberg"
+    ],
+    "Relation": "What award did Helmut Landsberg receive posthumously",
+    "entity": [
+      "Helmut Landsberg",
+      "climatologist",
+      "posthumous award",
+      "American Meteorological Society",
+      "awards in meteorology"
+    ]
+  },
+  {
+    "Id": 6082,
+    "Question": "What organization was Bolivia a member of when it became the first South American country to declare the right of indigenous people to govern themselves?",
+    "relation": "What organization was Bolivia a member of when it became the first South American country to declare the right of indigenous people to govern themselves",
+    "origin_entity": [],
+    "Relation": "What organization was Bolivia a member of when it declared indigenous self-governance rights",
+    "entity": [
+      "Bolivia",
+      "South America",
+      "indigenous people",
+      "self-governance",
+      "United Nations",
+      "Organization of American States",
+      "indigenous rights declaration"
+    ]
+  },
+  {
+    "Id": 6083,
+    "Question": "When Adam Voges was included in the ICC Test Match Team of the Year, which domestic cricket team was he playing for?",
+    "relation": "When was included in the ICC Test Match Team of the Year which domestic cricket team was he playing for",
+    "origin_entity": [
+      "Adam Voges"
+    ],
+    "Relation": "Which domestic cricket team was Adam Voges playing for when selected in ICC Test Team of the Year",
+    "entity": [
+      "Adam Voges",
+      "ICC Test Match Team of the Year",
+      "domestic cricket team",
+      "Western Australia",
+      "Australian cricket",
+      "cricket awards"
+    ]
+  },
+  {
+    "Id": 6084,
+    "Question": "When Alice Belin Du Pont was married to Pierre Samuel Du Pont, which car company did he become a director of?",
+    "relation": "When Alice Belin was married to Pierre which car company did he become a director of",
+    "origin_entity": [
+      "Pierre Samuel",
+      "Samuel Du Pont",
+      "Du Pont"
+    ],
+    "Relation": "Which car company did Pierre Samuel Du Pont become a director of when married to Alice Belin Du Pont",
+    "entity": [
+      "Alice Belin Du Pont",
+      "Pierre Samuel Du Pont",
+      "Du Pont family",
+      "car company",
+      "General Motors",
+      "automotive industry",
+      "directorship"
+    ]
+  },
+  {
+    "Id": 6085,
+    "Question": "What was the outcome of the competition between Ryōta Tsuzuki and Urawa Reds which took place during the J1 League in terms of Emperor’s Cup?",
+    "relation": "What was the outcome of the between and which took place during the in terms of",
+    "origin_entity": [
+      "Emperor’s Cup",
+      "competition",
+      "Ryōta Tsuzuki",
+      "Urawa Reds",
+      "J1 League"
+    ],
+    "Relation": "What was the outcome of the competition between Ryōta Tsuzuki and Urawa Reds in J1 League regarding Emperor’s Cup",
+    "entity": [
+      "Ryōta Tsuzuki",
+      "Urawa Reds",
+      "J1 League",
+      "Emperor’s Cup",
+      "Japanese football",
+      "competition outcome",
+      "football tournaments"
+    ]
+  },
+  {
+    "Id": 6086,
+    "Question": "Before Ajmer became Ajmer State, what country was it located in?",
+    "relation": "Before became what country was it located in",
+    "origin_entity": [
+      "Ajmer State",
+      "ajmer"
+    ],
+    "Relation": "What country was Ajmer located in before it became Ajmer State",
+    "entity": [
+      "Ajmer",
+      "Ajmer State",
+      "British India",
+      "India",
+      "historical regions",
+      "pre-independence India"
+    ]
+  },
+  {
+    "Id": 6087,
+    "Question": "During the US census, what were the total number of households and families in Van Horn, Texas according to Quezon's determination method?",
+    "relation": "During the US what were the total number of households and families in according to Quezons determination method",
+    "origin_entity": [
+      "census",
+      "Van Horn, Texas"
+    ],
+    "Relation": "What were the total number of households and families in Van Horn, Texas according to US census using Quezon's method",
+    "entity": [
+      "Van Horn, Texas",
+      "US census",
+      "households",
+      "families",
+      "Quezon's determination method",
+      "demographics",
+      "Texas"
+    ]
+  },
+  {
+    "Id": 6088,
+    "Question": "Before Yilan County belonged to Songjiang Province, which province of the Republic of China was it located in?",
+    "relation": "Before belonged to which province of the was it located in",
+    "origin_entity": [
+      "Yilan County",
+      "Republic of China",
+      "China",
+      "Songjiang Province"
+    ],
+    "Relation": "Which province of the Republic of China was Yilan County located in before belonging to Songjiang Province",
+    "entity": [
+      "Yilan County",
+      "Songjiang Province",
+      "Republic of China",
+      "Taiwan",
+      "historical provinces",
+      "administrative divisions"
+    ]
+  },
+  {
+    "Id": 6089,
+    "Question": "At the time of Central African Republic's independence ceremony for Bokassa I, which international organizations was it a member of?",
+    "relation": "At the time of Central African Republics independence ceremony for Bokassa I which international organizations was it a member of",
+    "origin_entity": [],
+    "Relation": "Which international organizations was Central African Republic a member of at Bokassa I's independence ceremony",
+    "entity": [
+      "Central African Republic",
+      "Bokassa I",
+      "independence ceremony",
+      "international organizations",
+      "United Nations",
+      "African Union",
+      "Francophonie",
+      "post-colonial era"
+    ]
+  },
+  {
+    "Id": 6090,
+    "Question": "What city was Elaine Thompson-Herah in for the World Championships 100 m race when she won the Commonwealth Games 200 m title?",
+    "relation": "What was in for the World Championships race when she won the 200 m title",
+    "origin_entity": [
+      "city",
+      "Elaine",
+      "100 m",
+      "Commonwealth Games",
+      "thompson-herah"
+    ],
+    "Relation": "What city was Elaine Thompson-Herah in for World Championships 100 m when she won Commonwealth Games 200 m title",
+    "entity": [
+      "Elaine Thompson-Herah",
+      "World Championships 100 m",
+      "Commonwealth Games 200 m",
+      "track and field",
+      "athletics events",
+      "London",
+      "Birmingham",
+      "competition locations"
+    ]
+  },
+  {
+    "Id": 6091,
+    "Question": "What national sports team did Bandula Warnapura play for during his last ODI match against India?",
+    "relation": "What did play for during his last against",
+    "origin_entity": [
+      "Bandula Warnapura",
+      "national sports team",
+      "ODI",
+      "ODI match",
+      "India"
+    ],
+    "Relation": "What national sports team did Bandula Warnapura play for during his last ODI match against India",
+    "entity": [
+      "Bandula Warnapura",
+      "Sri Lanka national cricket team",
+      "One Day International",
+      "India national cricket team",
+      "last ODI match",
+      "cricket"
+    ]
+  },
+  {
+    "Id": 6092,
+    "Question": "During the time of Portugal's current constitution, which intergovernmental organisation was it a member of?",
+    "relation": "During the time of Portugals current constitution which intergovernmental organisation was it a member of",
+    "origin_entity": [],
+    "Relation": "Which intergovernmental organisation was Portugal a member of during the time of its current constitution",
+    "entity": [
+      "Portugal",
+      "Portuguese Constitution of 1976",
+      "European Union",
+      "NATO",
+      "United Nations",
+      "intergovernmental organisation"
+    ]
+  },
+  {
+    "Id": 6093,
+    "Question": "After leaving the Liberal Party, which other political affiliations did Sergio Osmeña Jr. have?",
+    "relation": "After leaving the which other political affiliations did have",
+    "origin_entity": [
+      "Liberal Party",
+      "Sergio Osmeña Jr"
+    ],
+    "Relation": "Which other political affiliations did Sergio Osmeña Jr. have after leaving the Liberal Party",
+    "entity": [
+      "Sergio Osmeña Jr.",
+      "Liberal Party (Philippines)",
+      "Nationalist Party (Philippines)",
+      "Philippine politics",
+      "political affiliation"
+    ]
+  },
+  {
+    "Id": 6094,
+    "Question": "What was Amarro Fiamberti's country of citizenship when he enrolled in the University of Turin's medical and surgical degree program?",
+    "relation": "What was country of citizenship when he enrolled in the University of Turins medical and surgical degree program",
+    "origin_entity": [
+      "Amarro Fiamberti"
+    ],
+    "Relation": "What was Amarro Fiamberti's country of citizenship when he enrolled in the University of Turin's medical and surgical degree program",
+    "entity": [
+      "Amarro Fiamberti",
+      "Italy",
+      "University of Turin",
+      "medical degree",
+      "surgical degree",
+      "enrollment"
+    ]
+  },
+  {
+    "Id": 6095,
+    "Question": "During the census in Port Angeles, Washington, what percentage of the area was water?",
+    "relation": "During the in what percentage of the was water",
+    "origin_entity": [
+      "census",
+      "area",
+      "Port Angeles, Washington"
+    ],
+    "Relation": "What percentage of the area was water during the census in Port Angeles, Washington",
+    "entity": [
+      "Port Angeles, Washington",
+      "United States Census",
+      "water area",
+      "geography",
+      "demographics"
+    ]
+  },
+  {
+    "Id": 6096,
+    "Question": "What was the key event that occurred in the Norwegian Sea involving the German submarine U-961, which met its fate by being sunk?",
+    "relation": "What was the key event that occurred in the involving the which met its fate by being",
+    "origin_entity": [
+      "sunk",
+      "Norwegian Sea",
+      "German submarine U-961"
+    ],
+    "Relation": "What was the key event that occurred in the Norwegian Sea involving the German submarine U-961, which met its fate by being sunk",
+    "entity": [
+      "German submarine U-961",
+      "Norwegian Sea",
+      "World War II",
+      "sinking",
+      "naval warfare",
+      "Allied forces"
+    ]
+  },
+  {
+    "Id": 6097,
+    "Question": "In which department of France is Boulogne-Billancourt located, within the Seine administrative territorial entity?",
+    "relation": "In which of is located within the administrative territorial entity",
+    "origin_entity": [
+      "Seine",
+      "department",
+      "Boulogne-Billancourt",
+      "France"
+    ],
+    "Relation": "In which department of France is Boulogne-Billancourt located, within the Seine administrative territorial entity",
+    "entity": [
+      "Boulogne-Billancourt",
+      "Hauts-de-Seine",
+      "Île-de-France",
+      "Seine",
+      "France",
+      "administrative division"
+    ]
+  },
+  {
+    "Id": 6098,
+    "Question": "What was Dada J P Vaswani's country of citizenship when he passed away in Pune, Maharashtra, India at the age of 99?",
+    "relation": "What was of citizenship when he passed away in at the age of",
+    "origin_entity": [
+      "J P Vaswani",
+      "country",
+      "Pune",
+      "Maharashtra",
+      "India",
+      "99",
+      "Dada"
+    ],
+    "Relation": "What was Dada J P Vaswani's country of citizenship when he passed away in Pune, Maharashtra, India at the age of 99",
+    "entity": [
+      "Dada J P Vaswani",
+      "India",
+      "Pune",
+      "Maharashtra",
+      "death",
+      "citizenship"
+    ]
+  },
+  {
+    "Id": 6099,
+    "Question": "What faith did Edward Windsor, Lord Downpatrick convert to after the Church of England?",
+    "relation": "What faith did convert to after the",
+    "origin_entity": [
+      "Edward Windsor, Lord Downpatrick",
+      "Church of England"
+    ],
+    "Relation": "What faith did Edward Windsor, Lord Downpatrick convert to after the Church of England",
+    "entity": [
+      "Edward Windsor, Lord Downpatrick",
+      "Church of England",
+      "Roman Catholicism",
+      "conversion",
+      "British royalty",
+      "faith"
+    ]
+  },
+  {
+    "Id": 6100,
+    "Question": "What was Maureen Connolly's doubles result at Wimbledon during her attempt to win the Grand Slam?",
+    "relation": "What was doubles result at during her attempt to win the",
+    "origin_entity": [
+      "Grand Slam",
+      "Maureen Connolly",
+      "Wimbledon"
+    ],
+    "Relation": "What was Maureen Connolly's doubles result at Wimbledon during her attempt to win the Grand Slam",
+    "entity": [
+      "Maureen Connolly",
+      "Wimbledon Championships",
+      "doubles tennis",
+      "Grand Slam",
+      "1953",
+      "tennis"
+    ]
+  }
+]

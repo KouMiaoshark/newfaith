@@ -1,0 +1,525 @@
+{
+  "summary": {
+    "gold_total_items": 50,
+    "pred_total_items": 50,
+    "gold_unique_ids": 50,
+    "pred_unique_ids": 50,
+    "matched_by_id": 50,
+    "gold_duplicate_id_count": 0,
+    "pred_duplicate_id_count": 0,
+    "strict_match_count": 0,
+    "gold_contains_pred_count": 0,
+    "pred_contains_gold_count": 47,
+    "strict_accuracy": 0.0,
+    "gold_contains_pred_rate": 0.0,
+    "pred_contains_gold_rate": 0.94,
+    "missing_in_pred_ids": [],
+    "extra_in_pred_ids": [],
+    "config_path": "/home/koumiao/FAITH-main/config/tiq/train_tqu_fer.yml",
+    "input_path": "/home/koumiao/FAITH-main/_data/tiq/tsf_annotation/322_50_1_weici_human_check.json",
+    "predictions_output": "/home/koumiao/FAITH-main/_data/tiq/tsf_annotation/humancheck_result/324_tsf_model_flan-t5-base_predictions.json",
+    "report_output": "/home/koumiao/FAITH-main/_data/tiq/tsf_annotation/humancheck_result/324_tsf_model_eval_flan-t5-base1.json"
+  },
+  "mismatches": [
+    {
+      "Id": 54,
+      "Question": "What event in which Olympic sports discipline did Paavo Aaltonen compete at the London Olympic Games as part of the Team?",
+      "human_relation_normalized": "compete",
+      "pred_relation_normalized": "compete at the london olympics as part of the team /|olympic sport discipline event in which he competed as a member of",
+      "pred_tsf": "Paavo Aaltonen London Olympic Games Olympic sports discipline||compete at the London Olympics as part of the Team /|Olympic sport discipline event in which he competed as a member of|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 205,
+      "Question": "According to a research done by IHL Group during the retail apocalypse, what principle was true regarding the 20 stores announcing the most closures?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "the principle was true regarding the 20 stores that announced the most closures»|principle of retail",
+      "pred_tsf": "principle retail apocalypse IHL Group||the principle was true regarding the 20 stores that announced the most closures»|principle of retail||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 218,
+      "Question": "After his loan with Derby County, what team did Avi Nimni become the coach of?",
+      "human_relation_normalized": "become the coach of",
+      "pred_relation_normalized": "become the coach of|]|basketball team of the united kingdom",
+      "pred_tsf": "Avi Nimni Derby County||become the coach of|]|basketball team of the United Kingdom||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 245,
+      "Question": "Who was the head coach of the Netherlands national football team when Michel Vorm was a member?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "was the head coach opportunit",
+      "pred_tsf": "Netherlands national football team Michel Vorm||was the head coach opportunit||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 261,
+      "Question": "Who succeeded Gary Bowyer as head coach of Bradford City A.F.C.?",
+      "human_relation_normalized": "succeeded",
+      "pred_relation_normalized": "succeeded as head coach olympic sports team a.f.c robertson c.s. & brentford",
+      "pred_tsf": "Bradford City A.F.C Gary Bowyer||succeeded as head coach olympic sports team a.f.c robertson c.s. & brentford|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 316,
+      "Question": "Who published The Essential Dave Allen London during Dave Allen's career as a comedian and actor?",
+      "human_relation_normalized": "published",
+      "pred_relation_normalized": "published the essential london during david allens career as a comedian and actor octave allen london symphony of the british theatre",
+      "pred_tsf": "Dave Allen Allen's||published The Essential London during David Allens career as a comedian and actor octave Allen london symphony of the british theatre|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 356,
+      "Question": "What ISO standard was Enoch Powell complying with when he was the Minister of Health?",
+      "human_relation_normalized": "complying with",
+      "pred_relation_normalized": "complying w/|iso standard of the united states of america edifices iso 9001 and iso 14001 iso 17025 iso 9000000 iso",
+      "pred_tsf": "ISO ISO standard Enoch Powell Minister of Health||complying w/|ISO standard of the United States of America edifices ISO 9001 and ISO 14001 ISO 17025 ISO 9000000 ISO||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 713,
+      "Question": "What city did Frank Kelly live in for most of his life when he was born in South County Dublin?",
+      "human_relation_normalized": "live in",
+      "pred_relation_normalized": "what city did live in for most of his life when he was born in?|city of the republic of ireland, united kingdom /united states -|overlap",
+      "pred_tsf": "Frank Kelly South County Dublin||What city did live in for most of his life when he was born in?|city of the Republic of Ireland, United Kingdom /United States -|OVERLAP|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 760,
+      "Question": "Who was the Speaker of the House of Representatives when Deputy Sharon Claydon was the incumbent?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "who was the speaker of the when deputy sharon claydon sri lankoon ed oct",
+      "pred_tsf": "House of Representatives||Who was the Speaker of the when Deputy Sharon Claydon sri lankoon ed oct||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 768,
+      "Question": "Who was the editor of Physical Review when it was founded by Ernest Merritt and co-founder?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "who was the editor of when it was founded by ernest merritt and co-founder?|name of the person or entity responsible for the work/composition of a work or series of articles/reviews",
+      "pred_tsf": "Physical Review||Who was the editor of when it was founded by Ernest Merritt and co-founder?|name of the person or entity responsible for the work/composition of a work or series of articles/reviews||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 793,
+      "Question": "After Harold Hunter finished his basketball career, what middle school did he coach?",
+      "human_relation_normalized": "coach",
+      "pred_relation_normalized": "coach|/middle school in the u.s. state of new jersey after finished his career /|after his basketball career what did he coach olympic sports team",
+      "pred_tsf": "middle school Harold Hunter basketball||coach|/middle school in the U.S. state of New Jersey after finished his career /|After his basketball career what did he coach olympic sports team|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 838,
+      "Question": "What medal did Heinrich Louis d'Arrest receive after becoming the director/manager of the Østervold Observatory?",
+      "human_relation_normalized": "receive",
+      "pred_relation_normalized": "receive a medal after becoming the director/manager of the",
+      "pred_tsf": "Heinrich Louis d'Arrest stervold Observatory medal||receive a medal after becoming the director/manager of the||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 840,
+      "Question": "Who was Dave Tollner's chief minister when he was Deputy Chief Minister of the Northern Territory?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "who was chief minister when he was deputy chief minister of the northern territory?|name of official government in the australian state of new south wales",
+      "pred_tsf": "Dave Tollner||Who was chief minister when he was Deputy Chief Minister of the Northern Territory?|name of official government in the Australian state of New South Wales||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 913,
+      "Question": "For which literary award did George Carlin posthumously receive during his lifetime?",
+      "human_relation_normalized": "receive",
+      "pred_relation_normalized": "for which literary award did posthumously receive during his lifetime?|theatrical award for the period of time in which he served as a member of the national academy of arts and sciences and humanities",
+      "pred_tsf": "George Carlin||for which literary award did posthumously receive during his lifetime?|theatrical award for the period of time in which he served as a member of the national academy of arts and sciences and humanities||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 1144,
+      "Question": "At which award ceremony did Drake receive the Album of the Year and Best Hip-Hop Video awards while performing?",
+      "human_relation_normalized": "receive",
+      "pred_relation_normalized": "receive the album of the year and best hip-hop video awards while performing",
+      "pred_tsf": "Drake award ceremony||receive the Album of the Year and Best Hip-Hop Video awards while performing ||award ceremony for a music industry award for the album of an eponymous work/composition|||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 1274,
+      "Question": "During Ethiopia's total fertility rate of +5.693, which general election returned Meles to power?",
+      "human_relation_normalized": "returned",
+      "pred_relation_normalized": "returned to power]|election to the general election of the republic of ethiopia october 31st, 2011 afghanistan",
+      "pred_tsf": "Ethiopia Meles ethiopia||returned to power]|election to the general election of the Republic of Ethiopia october 31st, 2011 afghanistan ||OVERLAP|||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 1308,
+      "Question": "What was New York University's ranking in the US in terms of budget when it was ahead of Cornell and had a budget of $14.7 billion?",
+      "human_relation_normalized": "ranking",
+      "pred_relation_normalized": "what was ranking in the us in terms of budget when it was ahead of and had a budget of $147 billion",
+      "pred_tsf": "New York University Cornell||What was ranking in the US in terms of budget when it was ahead of and had a budget of $147 billion||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 1629,
+      "Question": "What country took over Wismar after Nazi Germany?",
+      "human_relation_normalized": "took over",
+      "pred_relation_normalized": "took over saxony of the united states of america edward viii -lrb- czechoslovakia",
+      "pred_tsf": "Wismar wismar nazi germany||took over saxony of the United States of America edward viii -lrb- czechoslovakia||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 1764,
+      "Question": "What professional cycling team was Cadel Evans a member of as he was progressing through the ranks?",
+      "human_relation_normalized": "member of",
+      "pred_relation_normalized": "was a member opportuntee of edmonton cycling club as he was progressing through the ranks cyclone swiss",
+      "pred_tsf": "Cadel Evans professional cycling team||was a member opportuntee of edmonton cycling club as he was progressing through the ranks cyclone swiss|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 1792,
+      "Question": "In which Scottish council area was Bathgate located after it was moved to West Lothian?",
+      "human_relation_normalized": "located",
+      "pred_relation_normalized": "located in| scottish local government area egypt",
+      "pred_tsf": "Bathgate Scottish council area West Lothian||located in| scottish local government area egypt||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 1806,
+      "Question": "When Uraga was dissolved, what municipality in Japan replaced it?",
+      "human_relation_normalized": "replaced",
+      "pred_relation_normalized": "replaced]|dissolved municipality of japan (japan's tokushima prefecture-los angeles-otsuke-yugoslavia",
+      "pred_tsf": "Uraga municipality in Japan||replaced]|dissolved municipality of Japan (Japan's Tokushima Prefecture-Los Angeles-Otsuke-yugoslavia|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 1829,
+      "Question": "What award did Francis Collins receive when he was the 2nd director of the National Human Genome Research Institute?",
+      "human_relation_normalized": "receive",
+      "pred_relation_normalized": "receive what award when he was the 2nd opportunit",
+      "pred_tsf": "Francis Collins Director of the National Human Genome Research Institute||receive what award when he was the 2nd opportunit||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 1906,
+      "Question": "Who held the position of Minority Whip in the Pennsylvania State Senate Leadership while Ryan Aument was Majority Whip?",
+      "human_relation_normalized": "held",
+      "pred_relation_normalized": "held the position of minority whip in the leadership u.s. state senate leadership while a member of the majority wyoming party",
+      "pred_tsf": "Pennsylvania State Senate Majority Whip Ryan Aument||held the position of minority whip in the leadership u.s. state senate leadership while a member of the majority wyoming party||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 2007,
+      "Question": "What football club did Carlos Vinícius play for before Santos in his youth career?",
+      "human_relation_normalized": "play for",
+      "pred_relation_normalized": "play for]|association football club in the republic of marianas edición universidade de santa fe nación",
+      "pred_tsf": "Carlos Vincius Santos youth association football||play for]|association football club in the Republic of Marianas edición universidade de santa fe nación|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 2167,
+      "Question": "Which Olympic event did Gunhild Hoffmeister win two silver and one bronze medal in at the Munich Olympic Games, becoming the only German distance runner to do so?",
+      "human_relation_normalized": "win",
+      "pred_relation_normalized": "win two silver medals and one bronze medal in at the worlds largest indoor athletics event epsilon championships",
+      "pred_tsf": "Munich Munich Olympic Games Gunhild Hoffmeister olympic distance runner||win two silver medals and one bronze medal in at the worlds largest indoor athletics event epsilon championships|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 2277,
+      "Question": "During the area +142.52826446393738 of Smøla, who was the head of government?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "who was the head of government during the area +14252826446393738 during the oct",
+      "pred_tsf": "Smla||Who was the head of government during the area +14252826446393738 During the oct||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 2279,
+      "Question": "Who was leading the State of Buenos Aires Estado de Buenos Aires when the Battle of Cepeda occurred?",
+      "human_relation_normalized": "was leading",
+      "pred_relation_normalized": "was leading the argentina state of edioprito en inglesos aguas",
+      "pred_tsf": "Estado de Buenos Aires Battle of Cepeda||was leading the argentina state of edioprito en inglesos aguas|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 2759,
+      "Question": "During Gema Igual's time as Alcalde (PP) in Santander, Spain, who was the head of the government?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "was the head of the government antonder spanja el reino del norte",
+      "pred_tsf": "Santander, Spain PP Gema Igual||was the head of the government antonder spanja el reino del norte||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 2789,
+      "Question": "Where was the Nakhichevan Autonomous Soviet Socialist Republic located after being detached from the Sharur District?",
+      "human_relation_normalized": "located",
+      "pred_relation_normalized": "where was the located after being detached from the",
+      "pred_tsf": "Nakhichevan Autonomous Soviet Socialist Republic Sharur District||Where was the located after being detached from the||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 2819,
+      "Question": "Who was the head of government in Bourges when Yann Galut served as the mayor?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "who was the head of government in when yann galut served as the mayor?|name of a place or municipality in which he/she held the position of chief executive officer (ceo)",
+      "pred_tsf": "Bourges||Who was the head of government in when Yann Galut served as the mayor?|name of a place or municipality in which he/she held the position of chief executive officer (CEO)||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 2942,
+      "Question": "Who was the chairperson of the International Mathematical Union prior to Carlos Kenig?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "was the chairperson opportunit",
+      "pred_tsf": "International Mathematical Union Carlos Kenig||was the chairperson opportunit||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 3114,
+      "Question": "What football club was Jay Bothroyd playing for when he earned his only cap for the England national team?",
+      "human_relation_normalized": "playing for",
+      "pred_relation_normalized": "playing for]|national association football association league (nafta), formerly known as the national association of professional footballers (nafta), is a professional association",
+      "pred_tsf": "Jay Bothroyd England national team football club||playing for]|national association football association league (Nafta), formerly known as the National Association of Professional Footballers (NAFTA), is a professional association||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 3438,
+      "Question": "After Atlas Air had 4,056 employees and operated to more than 300 global destinations, what business did they purchase four additional 747-8 freighters from?",
+      "human_relation_normalized": "purchase",
+      "pred_relation_normalized": "purchase four additional cargoes from alans air freighter samuel obama taipei nasdaq business",
+      "pred_tsf": "Atlas Air freighters 747-8||purchase four additional cargoes from alans air freighter samuel obama taipei nasdaq business|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 3458,
+      "Question": "What position did John Parnell Thomas take after his two-year term in the New Jersey General Assembly?",
+      "human_relation_normalized": "take",
+      "pred_relation_normalized": "what position did take after his two-year term in the",
+      "pred_tsf": "John Parnell Thomas New Jersey General Assembly||What position did take after his two-year term in the||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 3464,
+      "Question": "Before Antti Rinne was appointed as Prime Minister, who did he replace as First Deputy Speaker of the Parliament?",
+      "human_relation_normalized": "replace",
+      "pred_relation_normalized": "replace as a second lieutenant speaker of parliamentary political party -|before was appointed as prime minister who did he replace as",
+      "pred_tsf": "Antti Rinne Prime Minister First Deputy Speaker of the Parliament Parliament||replace as a second lieutenant speaker of parliamentary political party -|Before was appointed as prime minister who did he replace as||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 3681,
+      "Question": "What high school did Greg Gard work at as an assistant coach after coaching at Southwestern HS?",
+      "human_relation_normalized": "work at",
+      "pred_relation_normalized": "work at as an assistant coach after coaching at",
+      "pred_tsf": "Greg Gard Southwestern HS high school assistant||work at as an assistant coach after coaching at||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 4141,
+      "Question": "Before the Sydney Olympics, what international team was Carla Overbeck representing with her 170 caps?",
+      "human_relation_normalized": "representing",
+      "pred_relation_normalized": "was re-electing olympic sports team sydney australian women's national association football team of the u.s.a.",
+      "pred_tsf": "Carla Overbeck Sydney Sydney Olympics international team||was re-electing olympic sports team sydney australian women's national association football team of the u.s.a.|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 4466,
+      "Question": "Who was Wilbur Ross' partner before he founded WL Ross & Co and became known as the 'King of Bankruptcy'?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "who was partner before he founded wl ross & co and became known as the 'king of bankruptcy' wilbur ross scott ohio",
+      "pred_tsf": "Wilbur Ross||Who was partner before he founded WL Ross & Co and became known as the 'King of Bankruptcy' wilbur ross scott ohio|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 4469,
+      "Question": "Who was the head of government in Sauherad before Bordalen was located in the administrative territorial entity Sauherad?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "who was the head of government in before bordalen was located in the administrative territorial entity sahehra egypt taipei yugoslavia",
+      "pred_tsf": "Sauherad||Who was the head of government in before Bordalen was located in the administrative territorial entity sahehra egypt taipei yugoslavia|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 4599,
+      "Question": "What military rank did Fernando Figueroa have when one of his sons married Marcela Gutiérrez, the daughter of General Rafael Antonio Gutiérrez?",
+      "human_relation_normalized": "have",
+      "pred_relation_normalized": "have when one of his sons married marcela guerrez, the daughter of rafael antonio",
+      "pred_tsf": "Fernando Figueroa General Rafael Antonio Gutiérrez military rank||have when one of his sons married Marcela Guerrez, the daughter of rafael antonio|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 4829,
+      "Question": "During Rafael Correa's time at his employer Carlos Baca Mancheno, which university awarded him an honorary doctorate?",
+      "human_relation_normalized": "awarded",
+      "pred_relation_normalized": "awarded him an honorary doctorate at an univeristy of the united states or a university in which country he worked or studied?|university of california",
+      "pred_tsf": "Rafael Correa Carlos Baca Mancheno||awarded him an honorary doctorate at an univeristy of the United States or a university in which country he worked or studied?|University of California|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 4839,
+      "Question": "Who did P Chidambaram replace as Finance Minister when he was appointed Minister of Home Affairs?",
+      "human_relation_normalized": "replace",
+      "pred_relation_normalized": "replace egypt of the united kingdom as finance minister when he was appointed british minister of hyväksyn",
+      "pred_tsf": "P Chidambaram Finance Minister Minister of Home Affairs||replace egypt of the United Kingdom as finance minister when he was appointed british minister of hyväksyn|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 4933,
+      "Question": "After his time with Bury, which football club did Tony McNamara join?",
+      "human_relation_normalized": "join",
+      "pred_relation_normalized": "join a football club of the same name after his time with scotland's national association football team 'bury' ecclesiastical",
+      "pred_tsf": "Tony McNamara Bury football||join a football club of the same name after his time with scotland's national association football team 'Bury' ecclesiastical||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 4947,
+      "Question": "Prior to joining Atlante UTN, which club did Federico Mancinelli play for in his senior career?",
+      "human_relation_normalized": "play for",
+      "pred_relation_normalized": "play for neo-nazi societ",
+      "pred_tsf": "Federico Mancinelli atlante utn||play for neo-nazi societ||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 5240,
+      "Question": "What Olympic sport was Herb Brooks coaching before his death in a car accident?",
+      "human_relation_normalized": "coaching",
+      "pred_relation_normalized": "coaching before his death in a car accident|national association football association championships held in the united states by the american football association and the international association of athletics federations",
+      "pred_tsf": "Herb Brooks olympic sports||coaching before his death in a car accident|national association football association championships held in the United States by the American Football Association and the International Association of Athletics Federations||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 5325,
+      "Question": "Who succeeded Dan Jiránek as the head of government in Kladno?",
+      "human_relation_normalized": "succeeded",
+      "pred_relation_normalized": "succeeded as the head of government nasdr kladost eduardos so paulo",
+      "pred_tsf": "Kladno jiránek||succeeded as the head of government nasdr kladost eduardos so paulo|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 5545,
+      "Question": "Who founded the Columbia University Orchestra when the campus was moved to Morningside Heights and renamed Columbia University?",
+      "human_relation_normalized": "founded",
+      "pred_relation_normalized": "founded the orchestra when the campus was moved to and fredd",
+      "pred_tsf": "Columbia University Orchestra Morningside Heights renamed||founded the orchestra when the campus was moved to and fredd||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 5721,
+      "Question": "In which general election did Nurul Izzah Anwar get elected as Member of Parliament for Lembah Pantai while representing the Pakatan Harapan faction in Dewan Rakyat?",
+      "human_relation_normalized": "get elected",
+      "pred_relation_normalized": "get elected as a member of parliament egypt in which general election did while representing the",
+      "pred_tsf": "Nurul Izzah Anwar Lembah Pantai Pakatan Harapan faction Dewan Rakyat||get elected as a member of parliament egypt in which general election did while representing the||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 5747,
+      "Question": "What canton was Lugano located in after the political municipality of Lugano was created?",
+      "human_relation_normalized": "located in",
+      "pred_relation_normalized": "located in a canton of switzerland after the political municipality of lucano was created]|canton of the italian ssr-et-alphabétyria",
+      "pred_tsf": "Lugano||located in a canton of Switzerland after the political municipality of Lucano was created]|canton of the Italian ssr-et-alphabétyria|||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 5867,
+      "Question": "When Elza Moreira de Sá Peixoto was a teacher, which football club was founded on 1 May in Manaus?",
+      "human_relation_normalized": "was founded",
+      "pred_relation_normalized": "was founded october 1st january elza mnas de sá péix",
+      "pred_tsf": "Manaus football club club Elza Moreira de Sá Peixoto||was founded october 1st january elza mnas de sá péix||||||",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    }
+  ]
+}

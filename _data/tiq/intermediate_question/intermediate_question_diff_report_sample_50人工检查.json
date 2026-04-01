@@ -1,0 +1,463 @@
+{
+  "summary": {
+    "source_file": "/home/koumiao/FAITH-main/_data/tiq/intermediate_question/intermediate_question_diff_report.json",
+    "original_diff_count": 3933,
+    "sample_size": 50,
+    "random_seed": 42
+  },
+  "differences": [
+    {
+      "Id": 4026,
+      "Question": "Who from the African National Congress has been the head of government in Gauteng since its inception?",
+      "implicit_intermediate_question": "When Gauteng was established",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Gauteng was founded",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_different",
+      "better": 0
+    },
+    {
+      "Id": 727,
+      "Question": "Who was the mayor of Nové Město na Moravě when the Czech Republic was founded?",
+      "implicit_intermediate_question": "When the Czech Republic was founded",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Czech Republic was founded",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_different",
+      "better":0
+    },
+    {
+      "Id": 172,
+      "Question": "Who was the rector at Delft University of Technology when the budget was € 824.7 million?",
+      "implicit_intermediate_question": "When the budget of Delft University of Technology was €824.7 million",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Delft University of Technology had a budget of € 824.7 million",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_and_answer_type_different",
+      "better":
+    },
+    {
+      "Id": 4659,
+      "Question": "When Devan Nair was a Member of the Malaysian Parliament for Bangsar, which election did he contest in, and win, to become the only PAP member near Kuala Lumpur?",
+      "implicit_intermediate_question": "When Devan Nair was a Member of the Malaysian Parliament for Bangsar",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Devan Nair became the only PAP member near Kuala Lumpur",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_and_answer_type_different"
+    },
+    {
+      "Id": 1745,
+      "Question": "What club did Stephan Beckenbauer trial with after his senior career, prior to Red Star Belgrade?",
+      "implicit_intermediate_question": "When Stephan Beckenbauer's senior career ended",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Stephan Beckenbauer trialed with a club after his senior career",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_and_answer_type_different"
+    },
+    {
+      "Id": 1559,
+      "Question": "Who was the rector of Charles University before Ivan Wilhelm?",
+      "implicit_intermediate_question": "When Ivan Wilhelm was the rector of Charles University",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Ivan Wilhelm became rector of Charles University",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_and_answer_type_different"
+    },
+    {
+      "Id": 1438,
+      "Question": "Before the Bureau of Meteorology assessed Cyclone Monica as a Category 5 storm on the Australian cyclone intensity scale, into which gulf did it re-intensify?",
+      "implicit_intermediate_question": "When Cyclone Monica re-intensified into the gulf",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Cyclone Monica was assessed as a Category 5 storm on the Australian cyclone intensity scale",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 893,
+      "Question": "What football club was Edgar Davids managing before his resignation by mutual agreement?",
+      "implicit_intermediate_question": "When did Edgar Davids resign by mutual agreement",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Edgar Davids resigned from his managing position by mutual agreement",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_and_answer_type_different"
+    },
+    {
+      "Id": 4623,
+      "Question": "Prior to Damien Marcq joining Charleroi, which club did he have an 26-game loan spell at?",
+      "implicit_intermediate_question": "When Damien Marcq joined Charleroi",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Damien Marcq joined Charleroi",
+      "gpt_answer_type": "time interval",
+      "difference_type": "answer_type_different"
+    },
+    {
+      "Id": 673,
+      "Question": "Who was the head of government in Veszprém prior to Marian Cozma's work with the senior clubs of KC Veszprém?",
+      "implicit_intermediate_question": "When Marian Cozma worked with the senior clubs of KC Veszprém",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When was Marian Cozma's work with the senior clubs of KC Veszprém?",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_and_answer_type_different"
+    },
+    {
+      "Id": 4222,
+      "Question": "In which sports season did Ariya Jutanugarn win the U.S. Women's Open and receive the Rolex Annika Major Award?",
+      "implicit_intermediate_question": "When Ariya Jutanugarn won the U.S. Women's Open and received the Rolex Annika Major Award",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Ariya Jutanugarn won the U.S. Women's Open and received the Rolex Annika Major Award",
+      "gpt_answer_type": "time interval",
+      "difference_type": "answer_type_different"
+    },
+    {
+      "Id": 4652,
+      "Question": "Who took command of the German submarine U-262 after Heinz Franke?",
+      "implicit_intermediate_question": "When Heinz Franke commanded the German submarine U-262",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Heinz Franke took command of the German submarine U-262",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_and_answer_type_different"
+    },
+    {
+      "Id": 5591,
+      "Question": "During Stephen Bunting's win of the BDO World Darts Championship and his two wins as World Masters champion, which other tournament did he also qualify for?",
+      "implicit_intermediate_question": "",
+      "implicit_answer_type": "",
+      "gpt_intermediate_question": "When Stephen Bunting won the BDO World Darts Championship and two World Masters Championships",
+      "gpt_answer_type": "time interval",
+      "difference_type": "missing_in_implicit_file"
+    },
+    {
+      "Id": 3455,
+      "Question": "What country existed before the Kingdom of Lombardy-Venetia in Pavia?",
+      "implicit_intermediate_question": "When the Kingdom of Lombardy-Venetia existed in Pavia",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Kingdom of Lombardy-Venetia in Pavia was established",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_and_answer_type_different"
+    },
+    {
+      "Id": 578,
+      "Question": "What Olympic sporting event did Brad Gushue compete in when he won a bronze medal at the World Championships in Las Vegas?",
+      "implicit_intermediate_question": "When Brad Gushue won a bronze medal at the World Championships in Las Vegas",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Brad Gushue won a bronze medal at the World Championships in Las Vegas",
+      "gpt_answer_type": "time interval",
+      "difference_type": "answer_type_different"
+    },
+    {
+      "Id": 3722,
+      "Question": "What television series did Stormy Daniels appear in when she won the AVN Best New Starlet Award?",
+      "implicit_intermediate_question": "When Stormy Daniels won the AVN Best New Starlet Award",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Stormy Daniels won the AVN Best New Starlet Award",
+      "gpt_answer_type": "time interval",
+      "difference_type": "answer_type_different"
+    },
+    {
+      "Id": 2652,
+      "Question": "During Alun Ffred Jones' time as Minister for Heritage in the One Wales Government, which Senedd election did he become a member of the Welsh Assembly for Arfon?",
+      "implicit_intermediate_question": "When Alun Ffred Jones was Minister for Heritage in the One Wales Government",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Alun Ffred Jones became a member of the Welsh Assembly for Arfon",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_and_answer_type_different"
+    },
+    {
+      "Id": 213,
+      "Question": "After his time playing for CB Granada, what season did Joe Ingles average 10.3 points, 3.0 rebounds and 2.2 assists in six games at the FIBA World Championship?",
+      "implicit_intermediate_question": "When Joe Ingles played for CB Granada",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Joe Ingles was playing for CB Granada",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 199,
+      "Question": "During Charles Evans Whittaker's tenure as Judge of the United States Court of Appeals for the Eighth Circuit, which court did President Dwight D Eisenhower nominate him to?",
+      "implicit_intermediate_question": "When Charles Evans Whittaker was Judge of the United States Court of Appeals for the Eighth Circuit",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When President Dwight D Eisenhower nominated Charles Evans Whittaker to the United States Court of Appeals for the Eighth Circuit",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_and_answer_type_different"
+    },
+    {
+      "Id": 623,
+      "Question": "After the Stuart ministry (1883-85) which position was Joseph Palmer Abbott appointed to?",
+      "implicit_intermediate_question": "When the Stuart ministry (1883-85) ended",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Joseph Palmer Abbott appointed to a position after the Stuart ministry (1883-85)",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 1399,
+      "Question": "Who was the Mayor of Liverpool when the office was abolished and its functions were replaced with the leader of the Liverpool City Council?",
+      "implicit_intermediate_question": "When the office of Mayor of Liverpool was abolished and its functions were replaced with the leader of the Liverpool City Council",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When the office of Mayor of Liverpool was abolished",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 1488,
+      "Question": "During the military operation targeting Rohingya Muslims in Myanmar, what new human rights abuses were reported?",
+      "implicit_intermediate_question": "When the military operation targeting Rohingya Muslims in Myanmar occurred",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When the military operation targeting Rohingya Muslims in Myanmar happened",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 3183,
+      "Question": "Who was the governor of Michigan when the Agricultural College of the State of Michigan, later Michigan State University, was established?",
+      "implicit_intermediate_question": "When the Agricultural College of the State of Michigan was established",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When the Agricultural College of the State of Michigan, later Michigan State University, was established",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 3797,
+      "Question": "Who succeeded Dhian Singh Dogra as the leader of the Khālasā Rāj of the Sikh Empire?",
+      "implicit_intermediate_question": "When Dhian Singh Dogra was leader of the Khālasā Rāj of the Sikh Empire",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Dhian Singh Dogra ceased to be the leader of the Khālasā Rāj of the Sikh Empire",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 180,
+      "Question": "During his time as the leader of Welsh Labour, in which UK general election did Rhodri Morgan become the Member of Parliament for Cardiff West?",
+      "implicit_intermediate_question": "When Rhodri Morgan was the leader of Welsh Labour",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Rhodri Morgan became the Member of Parliament of Cardiff West",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 3554,
+      "Question": "During the annexation of the neighboring town of Uchihara, what train station replaced Mito Ibaraki?",
+      "implicit_intermediate_question": "When the annexation of the neighboring town of Uchihara occurred",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Mito Ibaraki was replaced by a train station during the annexation of the neighboring town of Uchihara",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_and_answer_type_different"
+    },
+    {
+      "Id": 1261,
+      "Question": "What basketball team came after Panionios in Georgios Tsiaras' career history?",
+      "implicit_intermediate_question": "When Georgios Tsiaras' career at Panionios ended",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Georgios Tsiaras left Panionios in his basketball career history",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 4484,
+      "Question": "Before Charles W. Lippitt replaced Daniel Russell Brown in the office of Governor of Rhode Island, who was elected as the 42nd Governor of Rhode Island?",
+      "implicit_intermediate_question": "When Charles W. Lippitt replaced Daniel Russell Brown in the office of Governor of Rhode Island",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Charles W. Lippitt replaced Daniel Russell Brown in the office of Governor of Rhode Island",
+      "gpt_answer_type": "time interval",
+      "difference_type": "answer_type_different"
+    },
+    {
+      "Id": 4077,
+      "Question": "During the period when the Duchy of Nassau had 465,636 inhabitants, what was the name of the duchy in German?",
+      "implicit_intermediate_question": "When did the Duchy of Nassau have 465,636 inhabitants",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When the Duchy of Nassau had 465,636 inhabitants",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_and_answer_type_different"
+    },
+    {
+      "Id": 4394,
+      "Question": "Which country's leader was Tamim bin Hamad Al Thani when Hamad bin Khalifa Al Thani abdicated, transferring power to his son?",
+      "implicit_intermediate_question": "When Hamad bin Khalifa Al Thani abdicated, transferring power to his son",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Hamad bin Khalifa Al Thani abdicated and transferred power to his son Tamim bin Hamad Al Thani",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 3453,
+      "Question": "Who took over from Jean Monnet as the head of the League of Nations Société des Nations?",
+      "implicit_intermediate_question": "When Jean Monnet was the head of the League of Nations Société des Nations",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Jean Monnet left the head of the League of Nations Société des Nations",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 2641,
+      "Question": "After Tineke Huizinga served as State Secretary for Transport and Water Management, what other public office did she hold?",
+      "implicit_intermediate_question": "When Tineke Huizinga served as State Secretary for Transport and Water Management",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Tineke Huizinga served as State Secretary for Transport and Water Management",
+      "gpt_answer_type": "date",
+      "difference_type": "answer_type_different"
+    },
+    {
+      "Id": 1409,
+      "Question": "Which general election followed Jeanine Áñez's assignment as Second Vice President of the Senate, before she became the 66th President of Bolivia?",
+      "implicit_intermediate_question": "When Jeanine Áñez was assigned as Second Vice President of the Senate",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Jeanine Áñez was assigned as Second Vice President of the Senate",
+      "gpt_answer_type": "date",
+      "difference_type": "answer_type_different"
+    },
+    {
+      "Id": 2844,
+      "Question": "During Mikhail Gorbachev's time as President of the Union of Soviet Socialist Republics, what was the last presidential election he won?",
+      "implicit_intermediate_question": "When Mikhail Gorbachev was President of the Union of Soviet Socialist Republics",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Mikhail Gorbachev last won a presidential election while President of the Union of Soviet Socialist Republics",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_and_answer_type_different"
+    },
+    {
+      "Id": 3715,
+      "Question": "Who was elected into the Donald Trump Cabinet on the evening of the Senate confirmation, which took place on the same evening?",
+      "implicit_intermediate_question": "When the Senate confirmation took place on the same evening",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When the Senate confirmation of Donald Trump's Cabinet took place",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 1767,
+      "Question": "During Darryl Hamilton's MLB debut season with the Milwaukee Brewers, what was his batting average in 44 games during the second half of the season?",
+      "implicit_intermediate_question": "When Darryl Hamilton made his MLB debut season with the Milwaukee Brewers",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Darryl Hamilton made his MLB debut with the Milwaukee Brewers",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 5096,
+      "Question": "What was the fate of the HMS Belfast when the the UK government decided against preservation it as a museum ship?",
+      "implicit_intermediate_question": "When the UK government decided against preservation of HMS Belfast as a museum ship",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When the UK government decided against preservation the HMS Belfast as a museum ship",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 5460,
+      "Question": "What effects did the cholera pandemic have in Yemen, where there are estimated to be over 200,000 cases?",
+      "implicit_intermediate_question": "When the cholera pandemic had effects in Yemen",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When the cholera pandemic in Yemen began",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_and_answer_type_different"
+    },
+    {
+      "Id": 44,
+      "Question": "While playing in his last test against Australia, which team was Mark Burgess part of?",
+      "implicit_intermediate_question": "When Mark Burgess played his last test against Australia",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Mark Burgess played in his last test against Australia",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 4764,
+      "Question": "What company did Tony Booth work for at the time when he was born into a working-class family in Jubilee Road, Liverpool and raised Catholic?",
+      "implicit_intermediate_question": "When Tony Booth was born",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Tony Booth was born into a working-class family in Jubilee Road, Liverpool and raised Catholic",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 5076,
+      "Question": "Who was the head of government in Sabah before Tun Fuad Stephens?",
+      "implicit_intermediate_question": "When Tun Fuad Stephens became head of government in Sabah",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Tun Fuad Stephens became the head of government in Sabah",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 1013,
+      "Question": "In what season did Roy Halladay go 19-6 with a 2.35 ERA and pitch eight complete games (second-most in the Majors) when he won the Best Moment ESPY Award?",
+      "implicit_intermediate_question": "When Roy Halladay won the Best Moment ESPY Award",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Roy Halladay won the Best Moment ESPY Award",
+      "gpt_answer_type": "time interval",
+      "difference_type": "answer_type_different"
+    },
+    {
+      "Id": 4370,
+      "Question": "During the Newport Jazz Festival, which record label released twelve albums of recorded performances?",
+      "implicit_intermediate_question": "When the Newport Jazz Festival",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Newport Jazz Festival was held",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 2656,
+      "Question": "What type of aircraft was used by British South American Airways when operating the Avro Lancastrian?",
+      "implicit_intermediate_question": "When British South American Airways operated the Avro Lancastrian",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When the Avro Lancastrian was operated by British South American Airways",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 2145,
+      "Question": "During the period of Greater Fort Lauderdale, which individual served as head of government in Fort Lauderdale, Florida?",
+      "implicit_intermediate_question": "When Greater Fort Lauderdale period occurred",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When did Greater Fort Lauderdale period occur",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 1765,
+      "Question": "After Allan McGregor's loan with St Johnstone, which club did he have a loan with next?",
+      "implicit_intermediate_question": "When Allan McGregor's loan with St Johnstone ended",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Allan McGregor's loan with St Johnstone ended",
+      "gpt_answer_type": "time interval",
+      "difference_type": "answer_type_different"
+    },
+    {
+      "Id": 986,
+      "Question": "During Proinsias De Rossa's time as a Member of the European Parliament, which election did he win as leader of Democratic Left?",
+      "implicit_intermediate_question": "When Proinsias De Rossa was a Member of the European Parliament",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Proinsias De Rossa won as leader of Democratic Left in a Member of the European Parliament election",
+      "gpt_answer_type": "time interval",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 1370,
+      "Question": "Whilst Don Dunstan was the 38th Attorney-General of South Australia and Leader of the South Australian Labor Party, what was the result of the South Australian state election?",
+      "implicit_intermediate_question": "When Don Dunstan was the 38th Attorney-General of South Australia and Leader of the South Australian Labor Party",
+      "implicit_answer_type": "time interval",
+      "gpt_intermediate_question": "When Don Dunstan was the 38th Attorney-General of South Australia and Leader of the South Australian Labor Party",
+      "gpt_answer_type": "date",
+      "difference_type": "answer_type_different"
+    },
+    {
+      "Id": 5987,
+      "Question": "What Swedish municipality hosted the 30th Eurovision Song Contest, which was won by Bobbysocks?",
+      "implicit_intermediate_question": "When was the 30th Eurovision Song Contest",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Bobbysocks won the 30th Eurovision Song Contest",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_different"
+    },
+    {
+      "Id": 4791,
+      "Question": "During the Legislative Yuan election, which positions held by Hung Tzu-yung led the New Power Party to win three party-list seats?",
+      "implicit_intermediate_question": "When the Legislative Yuan election was held",
+      "implicit_answer_type": "date",
+      "gpt_intermediate_question": "When Legislative Yuan election took place",
+      "gpt_answer_type": "date",
+      "difference_type": "intermediate_question_different"
+    }
+  ]
+}

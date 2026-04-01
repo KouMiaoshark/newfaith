@@ -1,0 +1,1802 @@
+[
+  {
+    "Id": 1,
+    "Question": "Who was the Autonomous Governorate of Estonia's Governor of Estonia when they declared sovereignty as the Estonian Autonoomne Eestimaa kubermang?",
+    "relation": "Who was the Governor of when they declared sovereignty as the Estonian Autonoomne Eestimaa kubermang",
+    "Relation": "was Governor of Estonia when declared sovereignty"
+  },
+  {
+    "Id": 2,
+    "Question": "Who founded Bucks County when it was one of Pennsylvania's three original counties created by the colonial proprietor?",
+    "relation": "Who founded when it was one of three original counties created by the colonial proprietor",
+    "Relation": "founded"
+  },
+  {
+    "Id": 3,
+    "Question": "In which movie were scenes filmed at Princeton University Press during Princeton, New Jersey's time as a publisher?",
+    "relation": "In which movie were scenes filmed at Princeton University Press during time as a publisher",
+    "Relation": "filmed at Princeton University Press"
+  },
+  {
+    "Id": 4,
+    "Question": "During DeMarcus Cousins' draft to the Sacramento Kings as the 5th pick, which arena was the Sacramento Kings' home venue?",
+    "relation": "During DeMarcus Cousins draft to the as the 5th pick which arena was the Sacramento Kings home venue",
+    "Relation": "was home venue"
+  },
+  {
+    "Id": 5,
+    "Question": "What major city was Scholastic Corporation founded in by Maurice R Robinson to publish youth magazines, which covered high school sports and social activities?",
+    "relation": "What city was founded in by Maurice R Robinson to publish youth magazines which covered high school sports and social activities",
+    "Relation": "was founded in"
+  },
+  {
+    "Id": 6,
+    "Question": "During Michael Bogdanov's time at the National Theatre, what was his position?",
+    "relation": "During time at the what was his position",
+    "Relation": "was his position"
+  },
+  {
+    "Id": 7,
+    "Question": "Who was Katharine Hepburn's romantic partner before she won the Academy Award for Best Actress for her performance in Guess Who's Coming to Dinner?",
+    "relation": "Who was romantic partner before she won the Academy Award for Best Actress for her performance in",
+    "Relation": "was romantic partner before won Academy Award for Best Actress"
+  },
+  {
+    "Id": 8,
+    "Question": "Who recorded and released the version of \"Mule Train\" from the album Sixteen Tons Recorded, as catalog number 40258?",
+    "relation": "Who and released the version of from the album Recorded as catalog number 40258",
+    "Relation": "recorded and released version of"
+  },
+  {
+    "Id": 9,
+    "Question": "What national sports team did Dušan Ivković coach before coaching Serbia?",
+    "relation": "What national sports team did coach before coaching Serbia",
+    "Relation": "coached before coaching Serbia"
+  },
+  {
+    "Id": 10,
+    "Question": "What film award did Barbara Stanwyck receive after her years of being active?",
+    "relation": "What film award did receive after her years of being active",
+    "Relation": "received film award"
+  },
+  {
+    "Id": 11,
+    "Question": "What musical group was on an eighteen-date concert tour using pyrotechnic displays at the time of The Station nightclub fire in West Warwick, Rhode Island, United States?",
+    "relation": "What musical group was on an eighteen-date concert tour using pyrotechnic displays at the time of The in United States",
+    "Relation": "was on concert tour using pyrotechnic displays at the time of The Station nightclub fire"
+  },
+  {
+    "Id": 12,
+    "Question": "After the release of N.W.A and the Posse, who became part of N.W.A?",
+    "relation": "After the release of who became part of NWA",
+    "Relation": "became part of N.W.A after the release of N.W.A and the Posse"
+  },
+  {
+    "Id": 13,
+    "Question": "When RCD Mallorca was newly promoted to the Segunda División, which club did Spanish footballer Stoichkov sign a four-year contract with?",
+    "relation": "When RCD Mallorca was newly promoted to the which club did Spanish footballer sign a four-year contract with",
+    "Relation": "signed a four-year contract with"
+  },
+  {
+    "Id": 14,
+    "Question": "What sport did Pete Hamilton win the NASCAR national Sportsman division championship in?",
+    "relation": "What sport did win the national championship in",
+    "Relation": "won the NASCAR national Sportsman division championship in"
+  },
+  {
+    "Id": 15,
+    "Question": "During the time Juan M Thompson was harassing his ex-girlfriend and making bomb threats to Jewish Community Centers, was he successful in running for mayor of St Louis?",
+    "relation": "During the time Juan was harassing his ex-girlfriend and making bomb threats to Jewish Community Centers was he successful in running for mayor of St Louis",
+    "Relation": "was successful in running for mayor of St Louis during the time of harassing his ex-girlfriend and making bomb threats"
+  },
+  {
+    "Id": 16,
+    "Question": "While a member of UNESCO, which Federated States of Micronesia published The Networker?",
+    "relation": "While a member of UNESCO which Federated States of Micronesia published The Networker",
+    "Relation": "published The Networker while a member of UNESCO"
+  },
+  {
+    "Id": 17,
+    "Question": "What album did Alicia Keys release when Norah Jones won the Grammy Award for Best New Artist?",
+    "relation": "What did release when Norah Jones won the Grammy Award for Best New Artist",
+    "Relation": "released album when Norah Jones won the Grammy Award for Best New Artist"
+  },
+  {
+    "Id": 18,
+    "Question": "What was the third track on the band's second studio album when the song \"We Are Young\" brought them mainstream success?",
+    "relation": "What was the third track on the bands second studio album when the song brought them mainstream success",
+    "Relation": "was the third track on the band's second studio album when the song \"We Are Young\" brought them mainstream success"
+  },
+  {
+    "Id": 19,
+    "Question": "At which association football club did Roberto Mancini begin his managerial career at the age of 36, before eventually winning the Coppa Italia title?",
+    "relation": "At which association football club did begin his managerial career at the age of 36 before eventually the title",
+    "Relation": "began his managerial career at the age of 36 before eventually winning the Coppa Italia title"
+  },
+  {
+    "Id": 20,
+    "Question": "During the eruption of Mount Nyiragongo in the Democratic Republic of the Congo which displaced about 400,000 people, what branch of physics was used to monitor the increased activity?",
+    "relation": "During the eruption of in the Democratic Republic of the Congo which displaced about 400000 what branch of physics was used to monitor the increased activity",
+    "Relation": "was used to monitor the increased activity during the eruption of Mount Nyiragongo"
+  },
+  {
+    "Id": 21,
+    "Question": "During Jeremy Corbyn's tenure as Shadow Cabinet leader, what leadership elections took place?",
+    "relation": "During tenure as Shadow Cabinet leader what leadership elections took place",
+    "Relation": "During tenure as Shadow Cabinet leader, leadership elections took place"
+  },
+  {
+    "Id": 22,
+    "Question": "During Geraldine Van Bibber's time as a member of the Parliamentary group Yukon Party, who were defeated in the Yukon general election and served as the Official Opposition?",
+    "relation": "During time as a member of the Parliamentary group who were defeated in the general election and served as the Official Opposition",
+    "Relation": "During time as a member of the Parliamentary group Yukon Party, were defeated in the Yukon general election and served as the Official Opposition"
+  },
+  {
+    "Id": 23,
+    "Question": "After being born in Marigliano, Italy, which world championship was Maria Teresa de Filippis the first woman to race in?",
+    "relation": "After being born in Marigliano Italy which was the first woman to race in",
+    "Relation": "After being born in Marigliano, Italy, was the first woman to race in world championship"
+  },
+  {
+    "Id": 24,
+    "Question": "Who was the rector of the National Autonomous University of Mexico when there were 30,089 postgraduates enrolled (as of update)?",
+    "relation": "Who was the of the when there were 30089 enrolled (as of update)",
+    "Relation": "was rector of when there were postgraduates enrolled"
+  },
+  {
+    "Id": 25,
+    "Question": "During the US Open quarter-final in Kim Clijsters' Grand Slam doubles results, which edition of the tennis tournament did Kim Clijsters maintain her top ten ranking despite a shoulder injury?",
+    "relation": "During the quarter-final in Grand Slam doubles results which edition of the tennis tournament did Kim Clijsters maintain her top ten ranking despite a shoulder injury",
+    "Relation": "During US Open quarter-final in Grand Slam doubles results, maintained top ten ranking despite shoulder injury"
+  },
+  {
+    "Id": 26,
+    "Question": "Which production company was behind Iron Man when Stan Winston's company created rubber and metal versions of the armor and used computer-generated imagery to create the character?",
+    "relation": "Which production company was behind when Stan Winstons company created rubber and metal versions of the armor and used computer-generated imagery to create the character",
+    "Relation": "was behind when company created versions of the armor and used computer-generated imagery to create the character"
+  },
+  {
+    "Id": 27,
+    "Question": "What role did David Blunkett hold prior to becoming the Shadow Secretary of State for Education and Employment?",
+    "relation": "What role did hold prior to becoming the Shadow Secretary of State for Education and Employment",
+    "Relation": "held prior to becoming the Shadow Secretary of State for Education and Employment"
+  },
+  {
+    "Id": 28,
+    "Question": "After serving as Minister of National Defence, what position was held by Gordon O'Connor?",
+    "relation": "After serving as what position was held by",
+    "Relation": "After serving as Minister of National Defence, position was held by"
+  },
+  {
+    "Id": 29,
+    "Question": "Before Peter Lawford died in Los Angeles, California, who was he married to?",
+    "relation": "Before in Los Angeles California who was he married to",
+    "Relation": "Before died in Los Angeles, California, was married to"
+  },
+  {
+    "Id": 30,
+    "Question": "During the Dutch Golden Age, which artist typified the trend of Baroque paintings against dark backgrounds that became popular from the mid-century onwards?",
+    "relation": "During the which artist typified the trend of Baroque paintings against dark backgrounds that became popular from the mid-century onwards",
+    "Relation": "During the Dutch Golden Age, typified the trend of Baroque paintings against dark backgrounds that became popular from the mid-century onwards"
+  },
+  {
+    "Id": 31,
+    "Question": "Which village did William Herschel move to after the portrait of him by Lemuel Francis Abbott was taken?",
+    "relation": "Which village did move to after the portrait of him by Lemuel Francis Abbott was taken",
+    "Relation": "moved to after portrait was taken"
+  },
+  {
+    "Id": 32,
+    "Question": "What role did Mario Scelba have before becoming the Minister of the Interior?",
+    "relation": "What role did have before becoming the Minister of the Interior",
+    "Relation": "had before becoming Minister of the Interior"
+  },
+  {
+    "Id": 33,
+    "Question": "What Tony Award did Hamilton win for Best Musical?",
+    "relation": "What did win for",
+    "Relation": "won Tony Award for Best Musical"
+  },
+  {
+    "Id": 34,
+    "Question": "After the Nazi takeover in Germany, what party was in power and led to a violent crackdown of real and perceived enemies following the persecution of homosexuals?",
+    "relation": "After the takeover in what was in power and led to a violent crackdown of real and perceived enemies following the",
+    "Relation": "was in power after Nazi takeover led to crackdown"
+  },
+  {
+    "Id": 35,
+    "Question": "During Akihiro Hyodo's Senior career, which association football club did he play for?",
+    "relation": "During Senior career which association football club did he play for",
+    "Relation": "played for during Senior career"
+  },
+  {
+    "Id": 36,
+    "Question": "Who has been the Secretary General of the Senegalese Democratic Party since its foundation on August 8th?",
+    "relation": "Who has been the Secretary General of the since its foundation on August 8th",
+    "Relation": "has been Secretary General since foundation"
+  },
+  {
+    "Id": 37,
+    "Question": "What Indian state was Kochi a part of when Kochi Cochin was formed?",
+    "relation": "What state was a part of when Kochi was formed",
+    "Relation": "was part of when formed"
+  },
+  {
+    "Id": 38,
+    "Question": "Which country led to the modification of the design of the Legion of Honour when the Order of Liberation was superseded?",
+    "relation": "Which country led to the modification of the design of the when the Order of Liberation was superseded",
+    "Relation": "led to modification of design when superseded"
+  },
+  {
+    "Id": 39,
+    "Question": "When Benito Mussolini served as Minister of the Interior, which Italian general election was he concurrently Minister of War?",
+    "relation": "When served as Minister of the Interior which general was he concurrently Minister of War",
+    "Relation": "served as Minister of the Interior concurrently Minister of War"
+  },
+  {
+    "Id": 40,
+    "Question": "After Joumana Kidd married Jason Kidd, in which season did he participate?",
+    "relation": "After Joumana Kidd married in which season did he participate",
+    "Relation": "participated in season after married"
+  },
+  {
+    "Id": 41,
+    "Question": "During the time of decriminalization of consensual same-sex acts in Poland, what language was LGBT rights in Poland legalized?",
+    "relation": "During the time of decriminalization of consensual acts in what was legalized",
+    "Relation": "language was legalized during decriminalization of same-sex acts in Poland"
+  },
+  {
+    "Id": 42,
+    "Question": "What football club was Marek Kaščák part of before joining FC Zbrojovka Brno?",
+    "relation": "What football club was part of before joining FC Zbrojovka Brno",
+    "Relation": "was part of before joining"
+  },
+  {
+    "Id": 43,
+    "Question": "Who served the longest period as Chief Justice of the Philippines since its formation, 18 years and 294 days?",
+    "relation": null,
+    "Relation": "served the longest period as"
+  },
+  {
+    "Id": 44,
+    "Question": "While playing in his last test against Australia, which team was Mark Burgess part of?",
+    "relation": "While playing in his last test against Australia which team was part of",
+    "Relation": "was part of while playing in his last test against"
+  },
+  {
+    "Id": 45,
+    "Question": "After Sergio Ramos' youth career with Sevilla, what national under-17 team did he start his international career with?",
+    "relation": "After youth career with Sevilla what national did he start his international career with",
+    "Relation": "started his international career with"
+  },
+  {
+    "Id": 46,
+    "Question": "Which subsidiary university is part of Indiana University with an endowment of $ 2.43 billion?",
+    "relation": "Which subsidiary university is part of with an endowment of $ 243 billion",
+    "Relation": "is part of with an endowment of"
+  },
+  {
+    "Id": 47,
+    "Question": "Who was the head of government in Nannestad when the +16.74 area applied to part of the fresh water?",
+    "relation": "Who was the head of government in when the +1674 area applied to part of the fresh water",
+    "Relation": "was the head of government in when area applied to"
+  },
+  {
+    "Id": 48,
+    "Question": "During Hunter S. Thompson's career, what artistic style did he coin?",
+    "relation": "During career what did he coin",
+    "Relation": "coined during his career"
+  },
+  {
+    "Id": 49,
+    "Question": "What role did Yasukazu Hamada fill when he was the 6th and 24th Minister of Defense under the Cabinet of Prime Minister Tarō Asō?",
+    "relation": "What role did fill when he was the 6th and 24th under the of Prime Minister",
+    "Relation": "filled the role of when he was the Minister of Defense under"
+  },
+  {
+    "Id": 50,
+    "Question": "After Benz Cie. Daimler Motoren Gesellschaft, who was a board member of Daimler-Benz?",
+    "relation": "After Benz Cie Daimler Motoren Gesellschaft who was a board member of",
+    "Relation": "was a board member of after"
+  },
+  {
+    "Id": 51,
+    "Question": "What was Ignatius Arnoz's ecclesiastical role when Antonin Alois Weber consecrated him?",
+    "relation": "What was role when Antonin Alois Weber consecrated him",
+    "Relation": "ecclesiastical role when consecrated by"
+  },
+  {
+    "Id": 52,
+    "Question": "How was the number of COVID-19 cases in Austria determined after the number of recoveries had reached +26579?",
+    "relation": "How was the number of cases in Austria determined after the number of recoveries had reached +26579",
+    "Relation": "number of COVID-19 cases in Austria determined after recoveries reached"
+  },
+  {
+    "Id": 53,
+    "Question": "What music genre was Marin Mazzie mainly known for during her marriage to Jason Danieley?",
+    "relation": "What music genre was mainly known for during her marriage to Jason Danieley",
+    "Relation": "music genre mainly known for during marriage to"
+  },
+  {
+    "Id": 54,
+    "Question": "What event in which Olympic sports discipline did Paavo Aaltonen compete at the London Olympic Games as part of the Team?",
+    "relation": "What event in which Olympic sports discipline did compete at the London Olympic Games as part of the Team",
+    "Relation": "compete at the London Olympic Games as part of the Team in"
+  },
+  {
+    "Id": 55,
+    "Question": "What company did the Douglas Aircraft Company merge with to form McDonnell Douglas and then become a division of the latter?",
+    "relation": "What company did the merge with to form and then become a division of the latter",
+    "Relation": "merge with to form McDonnell Douglas and become a division of"
+  },
+  {
+    "Id": 56,
+    "Question": "What sports team was Mory Konaté a member of prior to joining Borussia Dortmund II?",
+    "relation": "What sports team was a member of prior to joining Borussia Dortmund II",
+    "Relation": "member of prior to joining"
+  },
+  {
+    "Id": 57,
+    "Question": "Who commanded the Swedish Navy before Jens Nykvist?",
+    "relation": "Who the before Jens",
+    "Relation": "commanded the Swedish Navy before"
+  },
+  {
+    "Id": 58,
+    "Question": "Under which organisation's framework did Médecins Sans Frontières (MSF) present the idea of a patent pool to the French Foreign Ministry and UNITAID when UNITAID was first created?",
+    "relation": "Under which framework did () present the idea of a to the French Foreign Ministry and UNITAID when UNITAID was first created",
+    "Relation": "present the idea of a patent pool to the French Foreign Ministry and UNITAID under framework of"
+  },
+  {
+    "Id": 59,
+    "Question": "Before joining the military, what school did George H.W. Bush attend?",
+    "relation": "Before joining the military what school did attend",
+    "Relation": "attend before joining the military"
+  },
+  {
+    "Id": 60,
+    "Question": "In which county-level city was Guo Guangchang born when he was born in Dongyang Zhejiang?",
+    "relation": "In which was born when he was born in",
+    "Relation": "born in"
+  },
+  {
+    "Id": 61,
+    "Question": "Who was the Linux kernel mascot when the stable release 6.5 was released?",
+    "relation": "Who was the when the stable release 65 was released",
+    "Relation": "was the mascot when the stable release 6.5 was released"
+  },
+  {
+    "Id": 62,
+    "Question": "What football club did Hans Tilkowski win the Oberliga West with during his senior career?",
+    "relation": "What football club did win the with during his senior career",
+    "Relation": "win the Oberliga West with during his senior career"
+  },
+  {
+    "Id": 63,
+    "Question": "What was the Chiba Lotte Marines home venue after they were founded as the Mainichi Orions?",
+    "relation": "What was the home after they were founded as the",
+    "Relation": "was the home venue after they were founded as the Mainichi Orions"
+  },
+  {
+    "Id": 64,
+    "Question": "What municipality did Kumagaya replace during the dissolution of Nara?",
+    "relation": "What municipality did replace during the dissolution of Nara",
+    "Relation": "replace during the dissolution of Nara"
+  },
+  {
+    "Id": 65,
+    "Question": "What was Convair's parent company before it was bought by General Dynamics and became their Convair Division?",
+    "relation": "What was parent company before it was bought by General Dynamics and became their Convair Division",
+    "Relation": "was the parent company before it was bought by General Dynamics and became their Convair Division"
+  },
+  {
+    "Id": 66,
+    "Question": "Who served as the president of the University of Southern Maine after John Pierce Wise?",
+    "relation": null,
+    "Relation": "served as the president of the University of Southern Maine after John Pierce Wise"
+  },
+  {
+    "Id": 67,
+    "Question": "When Inessa Kravets set the women's world championship triple jump record at 15.50 m (50 ft 10 in), what was the men's world record for the same event?",
+    "relation": "When set the womens world championship record at 1550 m (50 ft 10 in) what was the mens world record for the same event",
+    "Relation": "set the women's world championship triple jump record at 15.50 m (50 ft 10 in), what was the men's world record for the same event"
+  },
+  {
+    "Id": 68,
+    "Question": "What country was Athens part of when King George II of Greece returned?",
+    "relation": "What country was part of when King returned",
+    "Relation": "was part of when King George II of Greece returned"
+  },
+  {
+    "Id": 69,
+    "Question": "Who owned The Daily Telegraph prior to Australian Consolidated Press?",
+    "relation": "Who owned The prior to",
+    "Relation": "owned The Daily Telegraph prior to Australian Consolidated Press"
+  },
+  {
+    "Id": 70,
+    "Question": "When bombs struck UNESCO sites in the old city of Sana'a, which country was it the capital of?",
+    "relation": "When bombs struck in the which was it the capital of",
+    "Relation": "struck UNESCO sites in the old city of Sana'a, which country was it the capital of"
+  },
+  {
+    "Id": 71,
+    "Question": "During Frank Broyles' stint at Georgia Tech, which sports team did he coach?",
+    "relation": "During stint at which did he coach",
+    "Relation": "coached during stint at Georgia Tech"
+  },
+  {
+    "Id": 72,
+    "Question": "What team did Wendy Larry coach after her time at Arizona in NCAA Division I women's basketball?",
+    "relation": "What team did coach after her time at Arizona in basketball",
+    "Relation": "coached after time at Arizona"
+  },
+  {
+    "Id": 73,
+    "Question": "Who distributed the film version of A Streetcar Named Desire while Brando, Hunter, and Malden were reprising their roles from the Broadway production?",
+    "relation": "Who distributed the film version of A while Brando Hunter and Malden were reprising their roles from the Broadway production",
+    "Relation": "distributed the film version"
+  },
+  {
+    "Id": 74,
+    "Question": "What songs on the album Viva la Vida or Death and All His Friends were composed by all members of the band for their fourth album Viva la Vida?",
+    "relation": "What songs on the or were composed by all members of the band for their fourth album Viva la Vida",
+    "Relation": "were composed by all members of the band"
+  },
+  {
+    "Id": 75,
+    "Question": "Before the city of Rybinsk was named after Fish, what was it named after?",
+    "relation": "Before the city of was named after Fish what was it named after",
+    "Relation": "was named after before being named after Fish"
+  },
+  {
+    "Id": 76,
+    "Question": "What were the major accomplishments of Robert I during his reign as King of Scots?",
+    "relation": "What were the major accomplishments of during his reign as King of Scots",
+    "Relation": "major accomplishments during reign as King of Scots"
+  },
+  {
+    "Id": 77,
+    "Question": "What company did Twitch Interactive, the subsidiary of Amazon com Inc, have an exclusive deal with while operating Twitch?",
+    "relation": "What company did Interactive the subsidiary of Amazon com Inc have an exclusive deal with while operating Twitch",
+    "Relation": "had an exclusive deal with while operating Twitch"
+  },
+  {
+    "Id": 78,
+    "Question": "What was the canton that Amiens was the capital of while Morgan Chaumier was Mayor?",
+    "relation": "What was the canton that was the capital of while Morgan Chaumier was Mayor",
+    "Relation": "was the capital of while Morgan Chaumier was Mayor"
+  },
+  {
+    "Id": 79,
+    "Question": "After playing for Podravka, what senior club did Maja Soka play for in the game of handball?",
+    "relation": null,
+    "Relation": "played for after playing for Podravka"
+  },
+  {
+    "Id": 80,
+    "Question": "What award did S K Shivakumar receive when he was awarded the Padma Shri, India's fourth highest civilian award?",
+    "relation": "What did S K Shivakumar receive when he was awarded the Indias award",
+    "Relation": "received when awarded the Padma Shri"
+  },
+  {
+    "Id": 81,
+    "Question": "Who succeeded as director/manager of the Detroit Institute of Arts, one of the world’s most visited art museums with approximately 677,500 visitors each year?",
+    "relation": "Who succeeded as director/manager of the one of the worlds most visited art museums with approximately 677500 visitors each year",
+    "Relation": "succeeded as director/manager of"
+  },
+  {
+    "Id": 82,
+    "Question": "What was the name of the darts organisation that Phil Taylor was a founding member of during his tenure as a professional dart player?",
+    "relation": "What was the name of the organisation that was a founding member of during his tenure as a professional dart player",
+    "Relation": "was a founding member of"
+  },
+  {
+    "Id": 83,
+    "Question": "After the Nordland area +110.61 applies to part arroyo, which county in Norway does Nordland share a border with?",
+    "relation": "After the area +11061 applies to part arroyo which county in does Nordland share a border with",
+    "Relation": "share a border with"
+  },
+  {
+    "Id": 84,
+    "Question": "Who was the head coach for the SC Freiburg while Volker Finke was the club's manager, the longest serving manager in the history of professional football in Germany?",
+    "relation": "Who was the head coach for the while Volker Finke was the clubs manager the longest serving manager in the history of professional football in Germany",
+    "Relation": "was the head coach for"
+  },
+  {
+    "Id": 85,
+    "Question": "What was Giorgio de Stefani's Grand Slam mixed doubles result in the Australian Open of the year he achieved a 3R result at Wimbledon?",
+    "relation": "What was Grand Slam mixed doubles result in the of the year he achieved a 3R result at Wimbledon",
+    "Relation": "Grand Slam mixed doubles result in the Australian Open"
+  },
+  {
+    "Id": 86,
+    "Question": "What literary award did Ilse Aichinger receive after Günter Eich's death?",
+    "relation": "What literary award did Ilse Aichinger receive after death",
+    "Relation": "receive literary award"
+  },
+  {
+    "Id": 87,
+    "Question": "Where did the Electric Daisy Carnival EDC Orlando take place from November 9–10, while the Electric Daisy Carnival EDC Las Vegas was offering on-site camping?",
+    "relation": "Where did the take place from November 9–10 while the Electric Daisy Carnival was offering on-site camping",
+    "Relation": "take place"
+  },
+  {
+    "Id": 88,
+    "Question": "After Carlos Sastre won the Tour de France and dedicated it to his memory, which professional team was he a member of?",
+    "relation": "After won the and dedicated it to his memory which professional team was he a member of",
+    "Relation": "was a member of"
+  },
+  {
+    "Id": 89,
+    "Question": "What was the political party that Banuera Berina belonged to during his campaign for the Kiribati presidential election?",
+    "relation": "What was the political party that belonged to during his campaign for the presidential election",
+    "Relation": "belonged to political party"
+  },
+  {
+    "Id": 90,
+    "Question": "Who succeeded Sergey Morozov as head of government in Astrakhan Oblast?",
+    "relation": "Who succeeded as head of government in",
+    "Relation": "succeeded as head of government in"
+  },
+  {
+    "Id": 91,
+    "Question": "In Memphis, Tennessee, which three Fortune 500 companies existed when Viscera (wrestler) died?",
+    "relation": "In which three Fortune companies existed when Viscera (wrestler) died",
+    "Relation": "existed in Memphis, Tennessee"
+  },
+  {
+    "Id": 92,
+    "Question": "In which city's municipality was Niš located when it was in the administrative territorial entity of Crveni Krst?",
+    "relation": "In which citys municipality was located when it was in the administrative territorial entity of Crveni Krst",
+    "Relation": "was located in municipality"
+  },
+  {
+    "Id": 93,
+    "Question": "After Jay Wright worked as an assistant coach at Drexel, which team did he become the head coach of?",
+    "relation": "After worked as an assistant coach at Drexel which team did he become the head coach of",
+    "Relation": "became head coach of"
+  },
+  {
+    "Id": 94,
+    "Question": "What was the position of Andrea Bocelli's album Cieli di Toscana on the charts during its first release week in the United States?",
+    "relation": "What was the position of on the during its first release week in the United States",
+    "Relation": "position on charts during first release week"
+  },
+  {
+    "Id": 95,
+    "Question": "Who was the mayor of Bremen when the world's first completely low-floor tram was introduced there?",
+    "relation": "Who was the mayor of when the worlds first completely low-floor tram was introduced there",
+    "Relation": "was mayor of Bremen"
+  },
+  {
+    "Id": 96,
+    "Question": "During Roderick Sinclair 19th Earl of Caithness' time as a Member of the House of Lords, what Public General Act of Parliament of the United Kingdom detailed the hereditary peerage?",
+    "relation": "During Roderick Sinclair 19th Earl of Caithness time as a Member of the what Public General Act of detailed the hereditary peerage",
+    "Relation": "detailed hereditary peerage"
+  },
+  {
+    "Id": 97,
+    "Question": "On which airport was the memorial for Air India Express Flight 812 built, which crashed at Mangalore on 22-05-2010?",
+    "relation": "On which airport was the memorial for built which crashed at on 22-05-2010",
+    "Relation": "memorial built at airport"
+  },
+  {
+    "Id": 98,
+    "Question": "Who was the head of government in North Dakota before Frederick B. Fancher?",
+    "relation": "Who was the head of government in before",
+    "Relation": "was head of government before"
+  },
+  {
+    "Id": 99,
+    "Question": "What undercover spy operation targeting Citizen Lab was revealed by the Associated Press while Citizen Lab was researching NSO Group?",
+    "relation": "What undercover spy operation targeting was revealed by the while Citizen Lab was researching Group",
+    "Relation": "undercover spy operation targeting"
+  },
+  {
+    "Id": 100,
+    "Question": "After the Dutch guilder was removed as currency on Bonaire, which currency replaced it?",
+    "relation": "After the was removed as on which currency replaced it",
+    "Relation": "currency replaced"
+  },
+  {
+    "Id": 101,
+    "Question": "What FDA-approved drug or therapy for the treatment of rheumatoid arthritis was available during the time of 30,000 deaths caused by the disease?",
+    "relation": "What FDA-approved or therapy for the treatment of was available during the time of 30000 deaths by the disease",
+    "Relation": "FDA-approved drug or therapy for the treatment of rheumatoid arthritis was available during"
+  },
+  {
+    "Id": 102,
+    "Question": "What subsidiary of Syracuse University had a budget of $1.637 billion?",
+    "relation": "What subsidiary of had a budget of $1637 billion",
+    "Relation": "subsidiary of Syracuse University had a budget of"
+  },
+  {
+    "Id": 103,
+    "Question": "Who was the sovereign of the Portuguese Guinea Overseas Province of Guinea Província Portuguesa de Guiné after the founding of Cacheu?",
+    "relation": "Who was the sovereign of the Overseas Province of Guinea Província de after the founding of Cacheu",
+    "Relation": "was the sovereign of the Portuguese Guinea Overseas Province after the founding of Cacheu"
+  },
+  {
+    "Id": 104,
+    "Question": "Where did Javier Aguirre play football professionally after his time playing with Club América?",
+    "relation": "Where did play football professionally after his time playing with",
+    "Relation": "play football professionally after playing with Club América"
+  },
+  {
+    "Id": 105,
+    "Question": "While obtaining her Master of Science degree from the Columbia University Graduate School of Journalism, which award did Roni Caryn Rabin receive?",
+    "relation": "While obtaining her Master of Science degree from the which did Roni Caryn Rabin receive",
+    "Relation": "received award while obtaining Master of Science degree from Columbia University Graduate School of Journalism"
+  },
+  {
+    "Id": 106,
+    "Question": "During Chan Yuen Ting's international career in Hong Kong SAR, which association football club did she have a senior career with?",
+    "relation": null,
+    "Relation": "had a senior career with association football club during international career in Hong Kong SAR"
+  },
+  {
+    "Id": 107,
+    "Question": "Who succeeded the head of government in Kroměříž after the UNESCO World Heritage Site Inscription (22nd Session)?",
+    "relation": "Who succeeded the head of government in after the UNESCO World Heritage Site Inscription (22nd Session)",
+    "Relation": "succeeded the head of government in Kroměříž after UNESCO World Heritage Site Inscription"
+  },
+  {
+    "Id": 108,
+    "Question": "In what province of Finland did Aarno Lamminparras hijack Finnair Flight 405?",
+    "relation": null,
+    "Relation": "hijacked Finnair Flight 405 in province of Finland"
+  },
+  {
+    "Id": 109,
+    "Question": "Who was Carl Sagan's wife before his death in Seattle, Washington, U.S at the age of 62?",
+    "relation": "Who was wife before his in Seattle Washington US at the age of 62",
+    "Relation": "was wife before death in Seattle, Washington, U.S at age of 62"
+  },
+  {
+    "Id": 110,
+    "Question": "During an annular solar eclipse visible from Canada, Greenland, the North Pole and the Russian Far East, who was the head of government in Greenland?",
+    "relation": "During an annular solar eclipse visible from Canada the North Pole and the Russian Far East who was the head of government in Greenland",
+    "Relation": "was the head of government in Greenland during annular solar eclipse visible from Canada, Greenland, North Pole and Russian Far East"
+  },
+  {
+    "Id": 111,
+    "Question": "When the Suez Canal obstruction occurred, which sections of the canal were single-laned?",
+    "relation": "When the obstruction occurred which sections of the were single-laned",
+    "Relation": "were single-laned during obstruction"
+  },
+  {
+    "Id": 112,
+    "Question": "What magazine did the Johnson Publishing Company launch when it was founded 80 years ago?",
+    "relation": "What did the launch when it was founded 80 years ago",
+    "Relation": "launched when founded"
+  },
+  {
+    "Id": 113,
+    "Question": "What happened in the election to the European Parliament after the Danish Unified Patent Court membership referendum was approved with 62.5% of the vote?",
+    "relation": "What happened in the election to the after the was approved with 625% of the vote",
+    "Relation": "happened in election after referendum approved"
+  },
+  {
+    "Id": 114,
+    "Question": "Which university did Gustav Ludwig Hertz attend prior to receiving his doctorate under Heinrich Leopold Rubens?",
+    "relation": "Which university did attend prior to receiving his doctorate under Leopold",
+    "Relation": "attended prior to receiving doctorate under"
+  },
+  {
+    "Id": 115,
+    "Question": "Who was Mina's partner while she was married to Virgilio Crocco?",
+    "relation": "Who was partner while she was married to Virgilio Crocco",
+    "Relation": "partner while married to"
+  },
+  {
+    "Id": 116,
+    "Question": "When Tanvi Potluri was working at the Johns Hopkins Bloomberg School of Public Health, which organization accredited the school?",
+    "relation": "When Tanvi Potluri was working at the which organization accredited the school",
+    "Relation": "accredited while working at"
+  },
+  {
+    "Id": 117,
+    "Question": "During the Tunisia national football team's first match (against the French B team) which football league had the best Tunisian players come from?",
+    "relation": "During the first match (against the French B team) which football league had the best come from",
+    "Relation": "had best players come from during first match"
+  },
+  {
+    "Id": 118,
+    "Question": "Who was the first chancellor of University College Leicester, which later became the University of Leicester?",
+    "relation": "Who was the first chancellor of which later became the",
+    "Relation": "was first chancellor of"
+  },
+  {
+    "Id": 119,
+    "Question": "Who was the head of government in the Buenos Aires Province before Axel Kicillof?",
+    "relation": "Who was the head of government in the before",
+    "Relation": "was head of government before"
+  },
+  {
+    "Id": 120,
+    "Question": "Before Ahmad Mahir became Prime Minister of Egypt, what public position did Mustafa al-Nahhas hold?",
+    "relation": "Before Ahmad Mahir became what public position did Mustafa hold",
+    "Relation": "held public position before became Prime Minister"
+  },
+  {
+    "Id": 121,
+    "Question": "What NCAA Division I women's basketball team did Kim Mulkey play for before joining the Olympic Games Los Angeles Team?",
+    "relation": "What basketball team did play for before joining the Olympic Games Los Angeles Team",
+    "Relation": "played for before joining the Olympic Games Los Angeles Team"
+  },
+  {
+    "Id": 122,
+    "Question": "Who was the Carolina Panthers' head coach before Brian Burns was drafted?",
+    "relation": "Who was the before Brian Burns was drafted",
+    "Relation": "was head coach before was drafted"
+  },
+  {
+    "Id": 123,
+    "Question": "What was Akseli Gallen-Kallela's given name when he died in Stockholm, Sweden at the age of 65?",
+    "relation": "What was given name when he died in Stockholm Sweden at the age of 65",
+    "Relation": "given name when died in Stockholm, Sweden"
+  },
+  {
+    "Id": 124,
+    "Question": "Who succeeded Ma Ying-jeou as head of government in Taipei?",
+    "relation": "Who succeeded as head of government in",
+    "Relation": "succeeded as head of government in Taipei"
+  },
+  {
+    "Id": 125,
+    "Question": "Who was Bill Clinton's stepparent during the time he met Hillary Rodham at Yale and got married?",
+    "relation": "Who was stepparent during the time he met Hillary Rodham at Yale and got married",
+    "Relation": "stepparent during the time met at Yale and got married"
+  },
+  {
+    "Id": 126,
+    "Question": "During the First Portuguese Republic (República Portuguesa), what was the first name used for the Portuguese Republic?",
+    "relation": "During the () what was the first name used for the Republic",
+    "Relation": "first name used for during the First Portuguese Republic"
+  },
+  {
+    "Id": 127,
+    "Question": "What state was the Kumaon division located in before Uttarakhand?",
+    "relation": "What state was the located in before",
+    "Relation": "located in before Uttarakhand"
+  },
+  {
+    "Id": 128,
+    "Question": "Before joining AEK Larnaca, which football club did Loukas Louka Senior career play for?",
+    "relation": "Before joining AEK Larnaca which football club did Senior career play for",
+    "Relation": "played for before joining AEK Larnaca"
+  },
+  {
+    "Id": 129,
+    "Question": "After having been located in Hebei, which administrative territorial entity is Baoding now in?",
+    "relation": "After having been located in which administrative territorial entity is now in",
+    "Relation": "located in after having been located in Hebei"
+  },
+  {
+    "Id": 130,
+    "Question": "What is the date of the next election for the lower house of the Arizona State Legislature?",
+    "relation": "What is the date of the next election for the of the",
+    "Relation": "date of the next election for"
+  },
+  {
+    "Id": 131,
+    "Question": "What Act of Congress preceded the Environmental Quality Improvement Act (L. 91-222) in the 91st United States Congress?",
+    "relation": "What preceded the Environmental Quality Improvement Act (L in the",
+    "Relation": "preceded the Environmental Quality Improvement Act in the 91st United States Congress"
+  },
+  {
+    "Id": 132,
+    "Question": "Who was Bulent Rauf's spouse when he was leading the society?",
+    "relation": "Who was spouse when he was leading the society",
+    "Relation": "was spouse when leading the society"
+  },
+  {
+    "Id": 133,
+    "Question": "What team was Jürgen Macho playing for when he started his senior career with 0 appearances?",
+    "relation": "What team was playing for when he started his senior career with 0 appearances",
+    "Relation": "was playing for when started senior career"
+  },
+  {
+    "Id": 134,
+    "Question": "What was the worth of the Florida State University in term of business entity when there were 33,486 undergraduates in the fall?",
+    "relation": "What was the worth of the in term of when there were 33486 undergraduates in the fall",
+    "Relation": "was worth in term of business entity"
+  },
+  {
+    "Id": 135,
+    "Question": "During María Consuelo Porras' tenure as Attorney General of Guatemala, who replaced her?",
+    "relation": "During María Consuelo Porras tenure as who replaced her",
+    "Relation": "replaced during tenure as Attorney General of Guatemala"
+  },
+  {
+    "Id": 136,
+    "Question": "What company did Carlos Alcaraz become a brand ambassador for when he achieved a No. 1 ranking in singles?",
+    "relation": "What company did Carlos become a brand ambassador for when he achieved a No 1 ranking in singles",
+    "Relation": "became a brand ambassador for when achieved No. 1 ranking in singles"
+  },
+  {
+    "Id": 137,
+    "Question": "What was the Toronto Argonauts' home stadium when they played in the 59th Grey Cup Game?",
+    "relation": "What was the home stadium when they played in the 59th",
+    "Relation": "was home stadium when played in the 59th Grey Cup Game"
+  },
+  {
+    "Id": 138,
+    "Question": "During the Enhanced Community Quarantine in Luzon, which metropolitan area was the IATF-EID discussing the petition to reimpose an ECQ on August 2?",
+    "relation": "During the Enhanced Community Quarantine in which was the IATF-EID discussing the petition to reimpose an on August 2",
+    "Relation": "was discussing the petition to reimpose an ECQ on August 2 during Enhanced Community Quarantine in Luzon"
+  },
+  {
+    "Id": 139,
+    "Question": "What football club did Cristian Lucchetti move to when he had 16 senior appearances?",
+    "relation": "What football did move to when he had 16 senior appearances",
+    "Relation": "moved to when had 16 senior appearances"
+  },
+  {
+    "Id": 140,
+    "Question": "What football club was Theo Bücker a manager for after Nejmeh?",
+    "relation": "What football club was a manager for after Nejmeh",
+    "Relation": "was a manager for after Nejmeh"
+  },
+  {
+    "Id": 141,
+    "Question": "In what US presidential election did William Outis Allison live in Englewood Cliffs, New Jersey (incorporated)?",
+    "relation": "In what US presidential election did live in (incorporated)",
+    "Relation": "live in Englewood Cliffs, New Jersey (incorporated)"
+  },
+  {
+    "Id": 142,
+    "Question": "What bird was chosen as the official symbol of Illinois during the Northern Cardinal's tenure?",
+    "relation": "What bird was chosen as the official symbol of during the Northern Cardinals tenure",
+    "Relation": "was chosen as the official symbol of Illinois"
+  },
+  {
+    "Id": 143,
+    "Question": "What TV show did Magnus Samuelsson win for the second time as Strongman Super Series champion?",
+    "relation": "What TV show did win for the second time as champion",
+    "Relation": "win for the second time as Strongman Super Series champion"
+  },
+  {
+    "Id": 144,
+    "Question": "In which area of mathematics did Ted Kaczynski propose a challenge problem while living in Lombard in November- December?",
+    "relation": "In which of did propose a challenge problem while living in Lombard in November- December",
+    "Relation": "propose a challenge problem"
+  },
+  {
+    "Id": 145,
+    "Question": "When Ian David CRAIG was awarded the Medal of the Order of Australia, who was he more commonly known as?",
+    "relation": null,
+    "Relation": "was awarded the Medal of the Order of Australia"
+  },
+  {
+    "Id": 146,
+    "Question": "Who was the Republican People's Party secretary general when İsmet İnönü, of the CHP, formed the new government of Turkey, in coalition with YTP and CKMP?",
+    "relation": "Who was the secretary general when İsmet İnönü of the CHformed the new government of Turkey in coalition with YTP and CKMP",
+    "Relation": "was the Republican People's Party secretary general"
+  },
+  {
+    "Id": 147,
+    "Question": "Who was appointed Deputy of the Prime Minister of Israel when a bloc of right-wing and far-right political parties led by Benjamin Netanyahu won the Israeli legislative elections in December?",
+    "relation": null,
+    "Relation": "was appointed Deputy of the Prime Minister of Israel"
+  },
+  {
+    "Id": 148,
+    "Question": "In which war did Guantánamo Bay detention camp open and adopt a training program as a source of interrogation techniques?",
+    "relation": "In which war did open and adopt a training program as a source of",
+    "Relation": "open and adopt a training program as a source of interrogation techniques"
+  },
+  {
+    "Id": 149,
+    "Question": "Which animal is the official symbol for the city of Iwaki in Fukushima Prefecture?",
+    "relation": "Which is the official symbol for the city of in Fukushima Prefecture",
+    "Relation": "is the official symbol for the city of Iwaki in Fukushima Prefecture"
+  },
+  {
+    "Id": 150,
+    "Question": "While John Lubbock, 1st Baron Avebury was a Member of Parliament for Maidstone, what charitable organization did he become the first president of?",
+    "relation": "While was a Member of Parliament for Maidstone what charitable organization did he become the first president of",
+    "Relation": "become the first president of"
+  },
+  {
+    "Id": 151,
+    "Question": "Prior to playing for the England national under-21 football team, which sports team was David Beckham a member of?",
+    "relation": "Prior to playing for the England national under-21 football team which sports team was a member of",
+    "Relation": "played for before England national under-21 football team"
+  },
+  {
+    "Id": 152,
+    "Question": "Which club did Endurance Idahor play for before his senior career at Dolphins?",
+    "relation": "Which club did play for before his senior career at",
+    "Relation": "played for before senior career at Dolphins"
+  },
+  {
+    "Id": 153,
+    "Question": "When Torbay regained independence from the county council, it was made a what form of government?",
+    "relation": "When regained independence from the it was made a what",
+    "Relation": "was made a form of government after regaining independence from county council"
+  },
+  {
+    "Id": 154,
+    "Question": "Before John Walsh became a United States senator, what Act of Congress was passed by the 113th United States Congress?",
+    "relation": "Before John Walsh became a United States senator what Act of Congress was passed by the",
+    "Relation": "Act of Congress passed by 113th United States Congress before becoming United States senator"
+  },
+  {
+    "Id": 155,
+    "Question": "Before Nick Saban coached the Toledo Rockets football team, who was the head coach of the college sports team under Gary Pinkel?",
+    "relation": "Before Nick Saban coached the team who was the head coach of the college sports team under",
+    "Relation": "was head coach of college sports team under Gary Pinkel before coaching Toledo Rockets football team"
+  },
+  {
+    "Id": 156,
+    "Question": "Before managing Manchester United, which football club did Ernest Mangnall manage?",
+    "relation": "Before managing which club did manage",
+    "Relation": "managed before Manchester United"
+  },
+  {
+    "Id": 157,
+    "Question": "What position did Archbishop Leontios of Cyprus hold prior to him becoming Arzobispo de Nueva Justiniana y Todo Chipre?",
+    "relation": "What position did hold prior to him becoming Arzobispo de Nueva Justiniana y Todo Chipre",
+    "Relation": "held position prior to becoming Arzobispo de Nueva Justiniana y Todo Chipre"
+  },
+  {
+    "Id": 158,
+    "Question": "Which album by Erykah Badu was released when Common won the BET Award for Video of the Year?",
+    "relation": "Which album by was released when Common won the BET Award for Video of the Year",
+    "Relation": "album released when won BET Award for Video of the Year"
+  },
+  {
+    "Id": 159,
+    "Question": "During the 112 games Landon Donovan played for LA Galaxy in his Senior career, which season did he score 247 goals?",
+    "relation": "During the 112 games played for in his Senior career which season did he score 247 goals",
+    "Relation": "scored 247 goals during season played for LA Galaxy in Senior career"
+  },
+  {
+    "Id": 160,
+    "Question": "During Babīte Municipality’s time, which former municipality in Latvia did Jūrmala share a border with?",
+    "relation": "During time which former municipality in Latvia did share a border with",
+    "Relation": "shared border with during Babīte Municipality’s time"
+  },
+  {
+    "Id": 161,
+    "Question": "Which sailboat class was eligible to compete in the America's Cup Challenger when the Royal New Zealand Yacht Squadron was the challenger club?",
+    "relation": "Which sailboat class was eligible to compete in the Challenger when the Royal New Zealand Yacht Squadron was the challenger club",
+    "Relation": "was eligible to compete in the America's Cup Challenger when the challenger club"
+  },
+  {
+    "Id": 162,
+    "Question": "What event did Greta Andersen win two European medals in at her first international competition, the LEN European Aquatics Championships held in Monte Carlo?",
+    "relation": "What event did win two European medals in at her first international competition the held in",
+    "Relation": "win two European medals in at her first international competition"
+  },
+  {
+    "Id": 163,
+    "Question": "During James Zagel’s time as Judge of the United States Foreign Intelligence Surveillance Court, what secret court did he also sit on?",
+    "relation": "During time as Judge of the what did he also sit on",
+    "Relation": "also sit on during his time as Judge of the United States Foreign Intelligence Surveillance Court"
+  },
+  {
+    "Id": 164,
+    "Question": "What was the ISBN of David Foster Wallace's work when the ISBN 978-0-14-102804-0 was released?",
+    "relation": "What was the of work when the ISBN 978-0-14-102804-0 was released",
+    "Relation": "was the ISBN of David Foster Wallace's work when released"
+  },
+  {
+    "Id": 165,
+    "Question": "Where did the Returner from the Chang'e 5 mission separate with the Orbiter and descend to the surface of the Earth at 17:59 UTC?",
+    "relation": "Where did the Returner from the mission separate with the and descend to the of the at 1759 UTC",
+    "Relation": "separate with the Orbiter and descend to the surface of the Earth at"
+  },
+  {
+    "Id": 166,
+    "Question": "At the election held when John Elferink was a member of the Northern Territory Parliament for MacDonnell, which seat did he stand for re-election?",
+    "relation": "At the election held when was a member of the for MacDonnell which seat did he stand for re-election",
+    "Relation": "stand for re-election at the election held when a member of the Northern Territory Parliament for MacDonnell"
+  },
+  {
+    "Id": 167,
+    "Question": "Which association football club did Eddie Flynn play for before Cliftonville Football Club in Belfast, Northern Ireland?",
+    "relation": "Which association football club did play for before in Belfast Northern Ireland",
+    "Relation": "play for before Cliftonville Football Club in Belfast, Northern Ireland"
+  },
+  {
+    "Id": 168,
+    "Question": "In which German state was Chemnitz located when it won the Schleuderachse award?",
+    "relation": "In which state was located when it won the Schleuderachse award",
+    "Relation": "located when it won the Schleuderachse award"
+  },
+  {
+    "Id": 169,
+    "Question": "During Don Branson's Champ Car career, in which season was he active?",
+    "relation": "During Champ Car career in which season was he active",
+    "Relation": "was active during his Champ Car career"
+  },
+  {
+    "Id": 170,
+    "Question": "What was Albert Johnson's stage name when he was an American rapper?",
+    "relation": "What was stage name when he was an American rapper",
+    "Relation": "was his stage name when he was an American rapper"
+  },
+  {
+    "Id": 171,
+    "Question": "Who was the chairperson of the Social Democratic Party of Austria when they won 21.2% of the votes in the legislative election?",
+    "relation": "Who was the chairperson of the when they won 212% of the votes in the legislative election",
+    "Relation": "was the chairperson of the Social Democratic Party of Austria when won votes in the legislative election"
+  },
+  {
+    "Id": 172,
+    "Question": "Who was the rector at Delft University of Technology when the budget was € 824.7 million?",
+    "relation": "Who was the rector at when the budget was € 8247 million",
+    "Relation": "was the rector at Delft University of Technology when the budget was"
+  },
+  {
+    "Id": 173,
+    "Question": "Who was the first son born to the 10th Earl of Shaftesbury and his wife during the earl's tenure as a right honourable?",
+    "relation": "Who was the first son born to the 10th and his wife during the tenure as a",
+    "Relation": "was the first son born to the 10th Earl of Shaftesbury and his wife during the earl's tenure as"
+  },
+  {
+    "Id": 174,
+    "Question": "When Donald Tusk was elected to the Senate and became its deputy speaker, who was he serving with?",
+    "relation": "When was elected to the Senate and became its deputy speaker who was he serving with",
+    "Relation": "was elected to the Senate and became its deputy speaker, serving with"
+  },
+  {
+    "Id": 175,
+    "Question": "Who was the first president of the Second Polish Republic (Rzeczpospolita Polska) under Józef Piłsudski?",
+    "relation": "Who was the first president of the () under Józef Piłsudski",
+    "Relation": "was the first president of the Second Polish Republic under"
+  },
+  {
+    "Id": 176,
+    "Question": "Since its founding, what venue has been used by Viking FK for their association football games?",
+    "relation": "Since its founding what venue has been used by for their association football games",
+    "Relation": "has been used by Viking FK for their association football games since its founding"
+  },
+  {
+    "Id": 177,
+    "Question": "What led to Snoopy becoming the \"besetting artistic weakness\" of the comic strip and ultimately to its ruin in the 1970s?",
+    "relation": "What led to becoming the besetting artistic weakness of the comic strip and ultimately to its ruin in the 1970s",
+    "Relation": "led to Snoopy becoming the besetting artistic weakness of the comic strip and ultimately to its ruin"
+  },
+  {
+    "Id": 178,
+    "Question": "What film did Jean-Claude Van Damme select to premiere when he was nominated for a Golden Raspberry Award for Worst New Star?",
+    "relation": "What film did select to premiere when he was nominated for a Golden Raspberry Award for Worst New Star",
+    "Relation": "did Jean-Claude Van Damme select to premiere when nominated for a Golden Raspberry Award for Worst New Star"
+  },
+  {
+    "Id": 179,
+    "Question": "During Libya's struggle for independence from Italy, which part was designated to be the Libyan Arab Republic?",
+    "relation": "During Libyas struggle for independence from Italy which part was designated to be the",
+    "Relation": "was designated to be the Libyan Arab Republic during Libya's struggle for independence from Italy"
+  },
+  {
+    "Id": 180,
+    "Question": "During his time as the leader of Welsh Labour, in which UK general election did Rhodri Morgan become the Member of Parliament for Cardiff West?",
+    "relation": "During his time as the leader of in which did become the Member of Parliament for",
+    "Relation": "became the Member of Parliament for Cardiff West in which UK general election during his time as the leader of Welsh Labour"
+  },
+  {
+    "Id": 181,
+    "Question": "What was Davor Božinović's position while he was Minister of Defence?",
+    "relation": "What was position while he was",
+    "Relation": "was his position while Minister of Defence"
+  },
+  {
+    "Id": 182,
+    "Question": "What office did Claude Érignac hold prior to his death in Ajaccio, Corsica, at age 60?",
+    "relation": "What office did hold prior to his death in Ajaccio at age 60",
+    "Relation": "held office prior to his death in Ajaccio, Corsica"
+  },
+  {
+    "Id": 183,
+    "Question": "During Marty Robbins' active years in sports, which season did he play?",
+    "relation": "During active years in sports which season did he play",
+    "Relation": "played during his active years in sports"
+  },
+  {
+    "Id": 184,
+    "Question": "When Kevin McCarthy (age 58) was born in Bakersfield, California, what university in the system was already established there?",
+    "relation": "When (age 58) was born in what university in the system was already established there",
+    "Relation": "was established in Bakersfield, California"
+  },
+  {
+    "Id": 185,
+    "Question": "Who was the head of government in the Valencia Province before Antoni Francesc Gaspar Ramos?",
+    "relation": "Who was the head of government in the before Antoni Francesc Gaspar Ramos",
+    "Relation": "was head of government in the Valencia Province before"
+  },
+  {
+    "Id": 186,
+    "Question": "Who was the chairperson of the Council of the Republic when the Fourth Republic was established and the Constitution mandated a bicameral parliament?",
+    "relation": "Who was the chairperson of the when the was established and the Constitution mandated a bicameral parliament",
+    "Relation": "was chairperson of the Council of the Republic when the Fourth Republic was established"
+  },
+  {
+    "Id": 187,
+    "Question": "Who was the mayor of Berkeley while Hakeem Jeffries was the Minority Leader of the United States House of Representatives?",
+    "relation": "Who was the mayor of while Hakeem Jeffries was the Minority Leader of the United States House of Representatives",
+    "Relation": "was mayor of Berkeley while"
+  },
+  {
+    "Id": 188,
+    "Question": "During the era of the Russian Socialist Federative Soviet Republic, which administrative entity was Yaroslavl located in?",
+    "relation": "During the era of the which administrative entity was located in",
+    "Relation": "was located in during the era of the Russian Socialist Federative Soviet Republic"
+  },
+  {
+    "Id": 189,
+    "Question": "Who was operating the German submarine U-1224 when it was used for educational purposes?",
+    "relation": "Who was operating the when it was used for educational purposes",
+    "Relation": "was operating when used for educational purposes"
+  },
+  {
+    "Id": 190,
+    "Question": "Who was the head coach of 1. FC Nuremberg during their time in the 2. Bundesliga?",
+    "relation": "Who was the head coach of during their time in the 2 Bundesliga",
+    "Relation": "was head coach of during their time in the 2. Bundesliga"
+  },
+  {
+    "Id": 191,
+    "Question": "Who supported Dominic Agostino's unsuccessful bid for the party leadership during his tenure as Environment Critic for the Liberal Party?",
+    "relation": "Who supported unsuccessful bid for the party leadership during his tenure as Environment Critic for the Liberal Party",
+    "Relation": "supported unsuccessful bid for party leadership during tenure as Environment Critic for Liberal Party"
+  },
+  {
+    "Id": 192,
+    "Question": "What occupation did Dirk Kempthorne pursue after managing the gubernatorial campaign for Lieutenant Governor Phil Batt?",
+    "relation": "What occupation did pursue after managing the campaign for Lieutenant Governor",
+    "Relation": "pursued occupation after managing gubernatorial campaign for Lieutenant Governor"
+  },
+  {
+    "Id": 193,
+    "Question": "Once UTC+08:30 Korea Standard Time was placed in a time zone, what was it named for?",
+    "relation": "Once UTC+0830 was placed in a zone what was it named for",
+    "Relation": "was named for after placed in time zone"
+  },
+  {
+    "Id": 194,
+    "Question": "Who was the head of government in Sardinia when its nominal GDP was €34.9 billion?",
+    "relation": "Who was the head of government in when its nominal GDP was €349 billion",
+    "Relation": "was head of government in Sardinia when nominal GDP was €34.9 billion"
+  },
+  {
+    "Id": 195,
+    "Question": "What percentage of the vote did Marine Le Pen gain in the French presidential election following Gilbert Collard's membership in the National Front?",
+    "relation": "What percentage of the vote did gain in the presidential election following Gilbert Collards membership in the",
+    "Relation": "gained percentage of vote in French presidential election following membership in National Front"
+  },
+  {
+    "Id": 196,
+    "Question": "When Qantas' total assets were +17221000000, which aircraft family had updated versions of seats installed in their new fleet?",
+    "relation": "When total assets were +17221000000 which aircraft family had updated versions of seats installed in their new fleet",
+    "Relation": "had updated versions of seats installed in new fleet when total assets were +17221000000"
+  },
+  {
+    "Id": 197,
+    "Question": "At what point during the Cocoanut Grove fire did a few patients require months of medical specialty?",
+    "relation": "At what point during the did a few patients months of",
+    "Relation": "required months of medical specialty during Cocoanut Grove fire"
+  },
+  {
+    "Id": 198,
+    "Question": "What party was the Party of Democratic Socialism (Germany) renamed to when Andrej Hunko was a member?",
+    "relation": "What party was the () renamed to when was a",
+    "Relation": "was renamed to when was a member"
+  },
+  {
+    "Id": 199,
+    "Question": "During Charles Evans Whittaker's tenure as Judge of the United States Court of Appeals for the Eighth Circuit, which court did President Dwight D Eisenhower nominate him to?",
+    "relation": "During tenure as Judge of the United States which did President Dwight D Eisenhower nominate him to",
+    "Relation": "was nominated to by President during tenure as Judge of United States Court of Appeals for Eighth Circuit"
+  },
+  {
+    "Id": 200,
+    "Question": "Who was Tom Moore's spouse before he met Renée Adorée on New Year's Eve in New York City?",
+    "relation": "Who was spouse before he met on New Years Eve in New York City",
+    "Relation": "was spouse before met on New Year's Eve in New York City"
+  },
+  {
+    "Id": 201,
+    "Question": "For which association football club did Eusébio play more than 25 matches before joining Beira-Mar?",
+    "relation": "For which association football club did play more than 25 matches before joining Beira-Mar",
+    "Relation": "played for before joining Beira-Mar"
+  },
+  {
+    "Id": 202,
+    "Question": "In the Wichita State Shockers men's basketball team season following Carl Hall's membership, what was the result of their second appearance in a tournament?",
+    "relation": "In the team season following Carl Halls membership what was the result of their second appearance in a tournament",
+    "Relation": "result of second appearance in tournament"
+  },
+  {
+    "Id": 203,
+    "Question": "When the Cuban Constitution was amended in a referendum in which 91.61% of valid votes approved it, which public offices had provisional governors proposed without having provisional elections?",
+    "relation": "When the was amended in a referendum in which 9161% of valid votes approved it which public offices had provisional governors proposed without having provisional elections",
+    "Relation": "public offices had provisional governors proposed without having provisional elections"
+  },
+  {
+    "Id": 204,
+    "Question": "During the formation of the Royal Society for the Prevention of Cruelty to Animals, who chaired the meeting and voted on the resolution?",
+    "relation": "During the formation of the Royal who chaired the meeting and voted on the resolution",
+    "Relation": "chaired the meeting and voted on the resolution"
+  },
+  {
+    "Id": 205,
+    "Question": "According to a research done by IHL Group during the retail apocalypse, what principle was true regarding the 20 stores announcing the most closures?",
+    "relation": "According to a research done by IHL Group during the retail apocalypse what was true regarding the 20 stores announcing the most closures",
+    "Relation": "principle was true regarding stores announcing closures"
+  },
+  {
+    "Id": 206,
+    "Question": "Who was the first ruler of the Emirate of Jabal Shammar after it was established as a vassal of the second Saudi state?",
+    "relation": "Who was the first ruler of the after it was established as a vassal of the second Saudi state",
+    "Relation": "first ruler after established as vassal"
+  },
+  {
+    "Id": 207,
+    "Question": "Who was a board member of Boeing when it recorded $62.3 billion in sales?",
+    "relation": "Who was a board member of when it recorded $623 billion in sales",
+    "Relation": "was board member when recorded sales"
+  },
+  {
+    "Id": 208,
+    "Question": "What dicastery did Pope Francis appoint Kevin Farrell to lead during His Eminence Kevin Joseph Farrell's appointment?",
+    "relation": "What did appoint to lead during His Eminence Kevin appointment",
+    "Relation": "appointed to lead dicastery"
+  },
+  {
+    "Id": 209,
+    "Question": "During his marriage to Beyoncé, in which US presidential election was Jay-Z involved in promoting increased voter participation?",
+    "relation": "During his marriage to Beyoncé in which was involved in promoting increased voter participation",
+    "Relation": "involved in promoting voter participation"
+  },
+  {
+    "Id": 210,
+    "Question": "During the next House of Representatives election in Florida, what is the date for the Florida Legislature Elections?",
+    "relation": "During the next House of Representatives election in what is the date for the Elections",
+    "Relation": "date for Florida Legislature Elections"
+  },
+  {
+    "Id": 211,
+    "Question": "Who was the chairperson of the Illinois State University (formerly known as the Illinois State Normal University) during the period that it was named the Illinois State University at Normal?",
+    "relation": "Who was the chairperson of the (formerly known as the ) during the period that it was named the Illinois State University at",
+    "Relation": "was the chairperson of"
+  },
+  {
+    "Id": 212,
+    "Question": "At which recurring sporting event did Stefan Liv win the gold medal while he was a part of the Swedish national team?",
+    "relation": "At which recurring sporting event did win the while he was a part of the Swedish national team",
+    "Relation": "won the gold medal at"
+  },
+  {
+    "Id": 213,
+    "Question": "After his time playing for CB Granada, what season did Joe Ingles average 10.3 points, 3.0 rebounds and 2.2 assists in six games at the FIBA World Championship?",
+    "relation": "After his time playing for CB Granada what did average 103 points 30 rebounds and 22 assists in six games at the",
+    "Relation": "averaged points, rebounds and assists in games at"
+  },
+  {
+    "Id": 214,
+    "Question": "What was the first college established at the University of Notre Dame when it was founded by French priest Edward Sorin?",
+    "relation": "What was the first college established at the when it was founded by French priest Edward Sorin",
+    "Relation": "was the first college established at"
+  },
+  {
+    "Id": 215,
+    "Question": "After assuming the throne, what position did Tupou VI of Tonga hold?",
+    "relation": "After assuming the throne what position did of hold",
+    "Relation": "held the position of"
+  },
+  {
+    "Id": 216,
+    "Question": "Who illustrated Tarzan when the character was first introduced?",
+    "relation": "Who illustrated when the character was first introduced",
+    "Relation": "illustrated"
+  },
+  {
+    "Id": 217,
+    "Question": "After Amy Van Dyken graduated from the University of Arizona, which FINA World Aquatics Championships did she compete in the 4x100m medley relay?",
+    "relation": "After graduated from the University of Arizona which did she compete in the 4x100m medley relay",
+    "Relation": "competed in the medley relay at"
+  },
+  {
+    "Id": 218,
+    "Question": "After his loan with Derby County, what team did Avi Nimni become the coach of?",
+    "relation": "After his loan with Derby County what team did become the coach of",
+    "Relation": "became the coach of"
+  },
+  {
+    "Id": 219,
+    "Question": "What did the Wakefield UK Parliament constituency derive from when it was a borough constituency?",
+    "relation": "What did the UK Parliament constituency derive from when it was a borough constituency",
+    "Relation": "derived from"
+  },
+  {
+    "Id": 220,
+    "Question": "Who were the crew members of the Russian submarine Delfin when it was launched by the Russian Empire?",
+    "relation": "Who were the crew members of the when it was launched by the Russian Empire",
+    "Relation": "were the crew members of when launched"
+  },
+  {
+    "Id": 221,
+    "Question": "What radio program was airing on Air America's network when a scandal involving Evan Cohen and a Boys & Girls Club in New York started to generate negative publicity?",
+    "relation": "What radio program was airing on network when a scandal involving Evan Cohen and a Boys & Girls Club in New York started to generate negative publicity",
+    "Relation": "was airing on Air America's network when a scandal involving Evan Cohen and a Boys & Girls Club in New York started to generate negative publicity"
+  },
+  {
+    "Id": 222,
+    "Question": "After being born and raised near Hillsborough, North Carolina, what was William Woods Holden's 38th and 40th position?",
+    "relation": "After being born and raised near Hillsborough North Carolina what was 38th and 40th position",
+    "Relation": "was his position"
+  },
+  {
+    "Id": 223,
+    "Question": "Who composed the music for the film Harvey while Dr. Chumley and Wilson were searching for Elwood?",
+    "relation": "Who composed the music for the film while Dr Chumley and Wilson were searching for Elwood",
+    "Relation": "composed the music for the film Harvey while Dr. Chumley and Wilson were searching for Elwood"
+  },
+  {
+    "Id": 224,
+    "Question": "What grade of an order did Jean Louis Conneau receive when he won the 'Paris-Rome', 'Circuit d'Europe' and Circuit of Britain Race air races?",
+    "relation": "What grade of an order did receive when he won the Paris-Rome Circuit dEurope and Circuit of Britain Race air races",
+    "Relation": "received when he won the 'Paris-Rome', 'Circuit d'Europe' and Circuit of Britain Race air races"
+  },
+  {
+    "Id": 225,
+    "Question": "During Yuichiro Hata's tenure, which position did he hold?",
+    "relation": "During tenure which position did he hold",
+    "Relation": "held the position of"
+  },
+  {
+    "Id": 226,
+    "Question": "During Pierre Harmel's tenure as Prime Minister of Belgium, what public office did he serve in?",
+    "relation": "During tenure as of what public office did he serve in",
+    "Relation": "served in as Prime Minister of Belgium"
+  },
+  {
+    "Id": 227,
+    "Question": "At which football club did Giorgos Nicolaou score no points or goals before joining Ayia Napa F.C.?",
+    "relation": "At which football club did score no points or goals before joining Ayia Napa FC",
+    "Relation": "scored no points or goals before joining Ayia Napa F.C."
+  },
+  {
+    "Id": 228,
+    "Question": "What youth football club did Abou Diaby play for prior to joining Red Star Paris?",
+    "relation": "What youth club did play for prior to joining",
+    "Relation": "played for prior to joining Red Star Paris"
+  },
+  {
+    "Id": 229,
+    "Question": "At which tennis tournament did Anastasia Pavlyuchenkova reach her highest singles ranking of No 11?",
+    "relation": "At which tennis tournament did reach her highest singles ranking of No 11",
+    "Relation": "reached her highest singles ranking of No 11"
+  },
+  {
+    "Id": 230,
+    "Question": "Who was the chairperson of the Republican Party during Jodey Arrington's tenure?",
+    "relation": "Who was the chairperson of the during Jodey Arringtons tenure",
+    "Relation": "was the chairperson of the Republican Party during Jodey Arrington's tenure"
+  },
+  {
+    "Id": 231,
+    "Question": "In which sports season did Nesta Carter win the gold medal in the World Relay Championships 4x100m relay in Nassau and the Continental Cup 4x100m relay in Marrakech?",
+    "relation": "In which sports season did win the gold medal in the World Relay Championships 4x100m relay in Nassau and the Continental Cup 4x100m relay in Marrakech",
+    "Relation": "won the gold medal in the World Relay Championships 4x100m relay in Nassau and the Continental Cup 4x100m relay in Marrakech"
+  },
+  {
+    "Id": 232,
+    "Question": "What city was Don Bluth living in before his family moved to Santa Monica, California?",
+    "relation": "What city was living in before his family moved to Santa Monica California",
+    "Relation": "was living in before his family moved to Santa Monica, California"
+  },
+  {
+    "Id": 233,
+    "Question": "While Princess Ingeborg of Denmark was Princess Ingeborg, what later became of her?",
+    "relation": "While  was Princess what later became of her",
+    "Relation": "later became of her"
+  },
+  {
+    "Id": 234,
+    "Question": "During the Transitional National Government of Somalia, what type of political system did the Transitional National (TNG) serve as the internationally recognized central government of Somalia?",
+    "relation": "During the of Somalia what type of did the National () serve as the internationally recognized central government of Somalia",
+    "Relation": "served as the internationally recognized central government of Somalia"
+  },
+  {
+    "Id": 235,
+    "Question": "During the time when the eastern part of the city center of Offenbach am Main was named Mathildenviertel, who was the head of government?",
+    "relation": "During the time when the eastern part of the city center of was named Mathildenviertel who was the head of government",
+    "Relation": "was the head of government"
+  },
+  {
+    "Id": 236,
+    "Question": "Who was the director/manager of Dachau when it opened to hold political prisoners?",
+    "relation": "Who was the director/manager of when it opened to hold political prisoners",
+    "Relation": "was the director/manager of when it opened to hold political prisoners"
+  },
+  {
+    "Id": 237,
+    "Question": "After the founding of Leipzig University by Frederick I Elector of Saxony and William II Margrave of Meissen, who was rector?",
+    "relation": "After the founding of by Frederick I Elector of Saxony and William II Margrave of Meissen who was rector",
+    "Relation": "was rector after the founding by"
+  },
+  {
+    "Id": 238,
+    "Question": "Who became the publisher of The Jewish Advocate after Theodor Herzl founded it?",
+    "relation": "Who became the publisher of The after Theodor Herzl founded it",
+    "Relation": "became the publisher of after founded it"
+  },
+  {
+    "Id": 239,
+    "Question": "What basketball team did Ben Coleman join after his playing career ended?",
+    "relation": "What basketball team did join after his playing career ended",
+    "Relation": "joined after his playing career ended"
+  },
+  {
+    "Id": 240,
+    "Question": "Which air force was the Dassault Mirage F1 introduced to in the second half of the 1970s?",
+    "relation": "Which was the introduced to in the second half of the 1970s",
+    "Relation": "was introduced to in the second half of the 1970s"
+  },
+  {
+    "Id": 241,
+    "Question": "In which municipality of Switzerland was the first official International Congress of Mathematicians, inaugurated 126 years ago, held?",
+    "relation": "In which was the first official inaugurated 126 years ago held",
+    "Relation": "was held in municipality of Switzerland"
+  },
+  {
+    "Id": 242,
+    "Question": "When Bertie Ahern became Leader of Fianna Fáil, what was his position in the party?",
+    "relation": "When became of what was his in the party",
+    "Relation": "was his position in the party"
+  },
+  {
+    "Id": 243,
+    "Question": "Who succeeded John Key as Prime Minister of New Zealand?",
+    "relation": "Who succeeded as",
+    "Relation": "succeeded as Prime Minister of New Zealand"
+  },
+  {
+    "Id": 244,
+    "Question": "At what football club did Salvador Cabañas play before playing at América for a total of 115 games?",
+    "relation": "At what football club did play before playing at América for a total of 115 games",
+    "Relation": "played at before playing at América"
+  },
+  {
+    "Id": 245,
+    "Question": "Who was the head coach of the Netherlands national football team when Michel Vorm was a member?",
+    "relation": "Who was the head coach of the when was a member",
+    "Relation": "was head coach of the Netherlands national football team when was a member"
+  },
+  {
+    "Id": 246,
+    "Question": "Prior to launching a new website, what was the name of the BeIn Sports Middle East TV Channel?",
+    "relation": "Prior to launching a new website what was the name of the Middle East TV Channel",
+    "Relation": "was the name of before launching a new website"
+  },
+  {
+    "Id": 247,
+    "Question": "What administrative territorial entity was Acre located in before Israel took possession of it and it became the last stronghold of the Crusaders in the Holy Land?",
+    "relation": "What administrative territorial entity was located in before took possession of it and it became the last stronghold of the Crusaders in the Holy Land",
+    "Relation": "was located in before Israel took possession"
+  },
+  {
+    "Id": 248,
+    "Question": "While Giuseppe Lualdi was mayor of Busto Arsizio, who was the head of government?",
+    "relation": "While Giuseppe Lualdi was mayor of who was the head of government",
+    "Relation": "was head of government while was mayor of Busto Arsizio"
+  },
+  {
+    "Id": 249,
+    "Question": "Who portrayed the Doctor in his first appearance in \"An Unearthly Child\"?",
+    "relation": "Who portrayed the in his first appearance in An",
+    "Relation": "portrayed the Doctor in"
+  },
+  {
+    "Id": 250,
+    "Question": "During Hayrulla Karimov's time playing for Bunyodkor, what was the national football team he was a member of?",
+    "relation": "During time playing for what was the national team he was a member of",
+    "Relation": "was a member of national football team while playing for Bunyodkor"
+  },
+  {
+    "Id": 251,
+    "Question": "During Yu Weiguo's tenure as Communist Party Secretary of Fujian, what open-access publisher did the predecessor of the Chinese Academy of Social Sciences establish?",
+    "relation": "During Yu Weiguos tenure as Communist Party Secretary of Fujian what open-access publisher did the predecessor of the establish",
+    "Relation": "established"
+  },
+  {
+    "Id": 252,
+    "Question": "Who edited the film Cavalcade, which stars Diana Wynyard and Clive Brook?",
+    "relation": "Who edited the film which stars Diana Wynyard and Clive Brook",
+    "Relation": "edited"
+  },
+  {
+    "Id": 253,
+    "Question": "Who was the editor of Charlie Hebdo before the attack by Al-Qaeda's Yemen branch?",
+    "relation": "Who was the editor of before the attack by Al-Qaedas Yemen branch",
+    "Relation": "was the editor of before the attack"
+  },
+  {
+    "Id": 254,
+    "Question": "From what men's national team did Zlatko Saračević come from when he played for Nîmes in 75 (244)?",
+    "relation": "From what mens national team did come from when he played for Nîmes in 75 (244)",
+    "Relation": "came from when he played for"
+  },
+  {
+    "Id": 255,
+    "Question": "What was the cause of death for Sergiu Nicolaescu when he passed away at age 82 in Bucharest, Romania?",
+    "relation": "What was the cause of death for when he passed away at age 82 in Bucharest Romania",
+    "Relation": "cause of death"
+  },
+  {
+    "Id": 256,
+    "Question": "In what district of Prussia was Bad Langensalza located before it was in the Landkreis Mühlhausen i. Th administrative territorial entity?",
+    "relation": "In what was located before it was in the Landkreis Mühlhausen i Th administrative territorial entity",
+    "Relation": "was located in before"
+  },
+  {
+    "Id": 257,
+    "Question": "After Aílton Gonçalves participated in Ich bin ein Star – Holt mich hier raus!, which football club did he begin his senior career with?",
+    "relation": "After Gonçalves participated in Ich bin ein Star – Holt mich hier raus which football club did he begin his senior career with",
+    "Relation": "began his senior career with"
+  },
+  {
+    "Id": 258,
+    "Question": "When Rockwell Manufacturing Co. took over Rockwell International, what company encompassed seven divisions manufacturing industrial valves German 2-cycle motors power tools gas and water meters?",
+    "relation": "When Rockwell Manufacturing Co took over what company encompassed seven divisions manufacturing industrial valves German 2-cycle motors power tools gas and water meters",
+    "Relation": "took over"
+  },
+  {
+    "Id": 259,
+    "Question": "After the release of \"Brown Eyed Girl,\" under which record label did Van Morrison pursue his solo career?",
+    "relation": "After the release of under which did pursue his solo career",
+    "Relation": "pursued his solo career under"
+  },
+  {
+    "Id": 260,
+    "Question": "Before Igor Kokoškov became the assistant coach of the Atlanta Hawks, which team did he serve as assistant coach for?",
+    "relation": "Before became the of the which team did he serve as assistant coach for",
+    "Relation": "served as assistant coach for before"
+  },
+  {
+    "Id": 261,
+    "Question": "Who succeeded Gary Bowyer as head coach of Bradford City A.F.C.?",
+    "relation": "Who succeeded Gary Bowyer as head coach of",
+    "Relation": "succeeded as head coach of"
+  },
+  {
+    "Id": 262,
+    "Question": "When Serbia and Montenegro was expected to join the European Union, which plan gave rise to the European institute of Innovation and Technology?",
+    "relation": "When Serbia and Montenegro was expected to join the which gave rise to the",
+    "Relation": "was expected to join the European Union"
+  },
+  {
+    "Id": 263,
+    "Question": "During the boundary change which gained Sandefjord territory from Stokke, which former municipality of Norway did Sandefjord share a border with?",
+    "relation": "During the boundary change which gained territory from which former municipality of Norway did Sandefjord share a border with",
+    "Relation": "gained territory from"
+  },
+  {
+    "Id": 264,
+    "Question": "During Jesse Jackson Jr's term as a Member of the U.S. House of Representatives from Illinois' 2nd district, who served as the national co-chairman of the Barack Obama presidential campaign?",
+    "relation": "During term as a Member of the from Illinois 2nd district who served as the national co-chairman of the Barack Obama presidential campaign",
+    "Relation": "served as the national co-chairman of"
+  },
+  {
+    "Id": 265,
+    "Question": "What position did Roy Cooper hold before taking office?",
+    "relation": "What position did hold before taking office",
+    "Relation": "held the position of"
+  },
+  {
+    "Id": 266,
+    "Question": "What government preceded the Bakhtadze government in the run-up to the parliamentary elections?",
+    "relation": "What government preceded the government in the run-up to the parliamentary elections",
+    "Relation": "preceded the government"
+  },
+  {
+    "Id": 267,
+    "Question": "During Gordon Cooper's retirement from being a NASA astronaut, what independent agency of the United States government did Cooper retire from the Air Force with the rank of Colonel?",
+    "relation": "During retirement from being a what did Cooper retire from the with the rank of",
+    "Relation": "retired from"
+  },
+  {
+    "Id": 268,
+    "Question": "At which multi-sport event did Pandelela Rinong compete in the 10 m platform during the Youth Olympic Games in Singapore?",
+    "relation": "At which multi-sport event did compete in the 10 m platform during the Youth Olympic Games in Singapore",
+    "Relation": "compete in the 10 m platform at"
+  },
+  {
+    "Id": 269,
+    "Question": "At which association football club did Gabriel Agbonlahor sign a two-year professional contract while on loan?",
+    "relation": "At which association football club did sign a two-year professional contract while on loan",
+    "Relation": "sign a professional contract while on loan at"
+  },
+  {
+    "Id": 270,
+    "Question": "What cycling team was Roberto Heras a part of prior to winning his fourth Tour of Spain title which was later disqualified after he was accused of doping?",
+    "relation": "What was a part of prior to winning his fourth Tour of Spain title which was later disqualified after he was accused of doping",
+    "Relation": "was a part of prior to winning"
+  },
+  {
+    "Id": 271,
+    "Question": "After the formation of the Kingdom of Hungary, what was the first capital of the kingdom?",
+    "relation": "After the formation of the what was the first capital of the kingdom",
+    "Relation": "was the first capital of the Kingdom of Hungary after its formation"
+  },
+  {
+    "Id": 272,
+    "Question": "What organization employed Abram Samoilovitch Besicovitch prior to his move to Cambridge University?",
+    "relation": "What organization employed prior to his move to",
+    "Relation": "employed prior to his move to Cambridge University"
+  },
+  {
+    "Id": 273,
+    "Question": "After his youth career with Hapoel Tel Aviv, what football club did Maor Kandil play for?",
+    "relation": "After his youth career with what football club did play for",
+    "Relation": "played for after his youth career with Hapoel Tel Aviv"
+  },
+  {
+    "Id": 274,
+    "Question": "Who was the head coach of the England national rugby union team while Cotton Traders was the kit supplier?",
+    "relation": "Who was the head coach of the while Cotton Traders was the kit supplier",
+    "Relation": "was the head coach of the England national rugby union team while Cotton Traders was the kit supplier"
+  },
+  {
+    "Id": 275,
+    "Question": "During Bertalan Bicskei's managerial career, which national football team did he coach?",
+    "relation": "During managerial career which national football team did he coach",
+    "Relation": "coached during his managerial career"
+  },
+  {
+    "Id": 276,
+    "Question": "What was Yahya Ibrahim Pasha's position when he was the 16th Prime Minister of Egypt?",
+    "relation": "What was position when he was the 16th",
+    "Relation": "was his position when he was the 16th Prime Minister of Egypt"
+  },
+  {
+    "Id": 277,
+    "Question": "What event occurred during the Estonian Soviet Socialist Republic when the Republic of Estonia declared the re-establishment of full independence?",
+    "relation": "What event occurred during the when the declared the re-establishment of full independence",
+    "Relation": "occurred during the Estonian Soviet Socialist Republic when the Republic of Estonia declared the re-establishment of full independence"
+  },
+  {
+    "Id": 278,
+    "Question": "In which legislative election did Jyoti Basu hold the office of Home Minister of West Bengal while he was serving as the 6th and longest-serving Chief Minister of West Bengal?",
+    "relation": "In which legislative election did hold the office of Home Minister of while he was serving as the 6th and longest-serving Chief Minister of West Bengal",
+    "Relation": "held the office of Home Minister of West Bengal while serving as the 6th and longest-serving Chief Minister of West Bengal"
+  },
+  {
+    "Id": 279,
+    "Question": "During Welington Wildy Muniz dos Santos' time as a member of Coritiba F.C., which football league did they win three times while he was a part of the team?",
+    "relation": "During Welington Wildy Muniz dos Santos time as a member of which football league did they win three times while he was a part of the team",
+    "Relation": "won three times while he was a member of Coritiba F.C."
+  },
+  {
+    "Id": 280,
+    "Question": "Who succeeded Antonio Trevín as head of government in Asturias?",
+    "relation": "Who succeeded as head of government in",
+    "Relation": "succeeded as head of government in Asturias"
+  },
+  {
+    "Id": 281,
+    "Question": "Where did the 5th Commonwealth Heads of Government Meeting take place at a time when Sir Shridath Ramphal was reappointed as Commonwealth Secretary-General?",
+    "relation": "Where did the 5th take place at a time when was reappointed as Commonwealth Secretary-General",
+    "Relation": "take place"
+  },
+  {
+    "Id": 282,
+    "Question": "What medal did Nikolai Pankin win for the 100m breaststroke event at the LEN European Aquatics Championships in Barcelona?",
+    "relation": "What medal did win for the 100m breaststroke event at the in",
+    "Relation": "won for the 100m breaststroke event at the LEN European Aquatics Championships"
+  },
+  {
+    "Id": 283,
+    "Question": "What public office did Arseniy Yatsenyuk hold prior to being replaced by Prime Minister Volodymyr Groysman?",
+    "relation": "What public office did hold prior to being replaced by",
+    "Relation": "held prior to being replaced by"
+  },
+  {
+    "Id": 284,
+    "Question": "Who was the mayor of Kristiansund when Frei Municipality was merged with Kristiansund to form a larger Kristiansund Municipality?",
+    "relation": "Who was the mayor of when Frei Municipality was merged with Kristiansund to form a larger",
+    "Relation": "was the mayor of"
+  },
+  {
+    "Id": 285,
+    "Question": "What soccer club did Kwadwo Asamoah join after Kaaseman in his youth career?",
+    "relation": "What soccer club did join after Kaaseman in his youth career",
+    "Relation": "join after"
+  },
+  {
+    "Id": 286,
+    "Question": "Who followed Gianbattista Fratus as head of government in Legnano?",
+    "relation": "Who followed Gianbattista Fratus as head of government in",
+    "Relation": "followed as head of government in"
+  },
+  {
+    "Id": 287,
+    "Question": "In the United States Senate election during Cecil Andrus' time as Secretary of the Interior in the Carter Administration, what happened to the incumbent who chose to run but lost?",
+    "relation": "In the election during time as Secretary of the Interior in the Carter Administration what happened to the incumbent who chose to run but lost",
+    "Relation": "happened to the incumbent who chose to run but lost"
+  },
+  {
+    "Id": 288,
+    "Question": "When Charles Mangion was first elected as Member of Parliament in the House of Representatives of Malta, which political party did he belong to?",
+    "relation": "When was first elected as Member of Parliament in the which did he belong to",
+    "Relation": "belong to"
+  },
+  {
+    "Id": 289,
+    "Question": "When Jules Brévié was in charge of the Colony of Niger (Colonie du Niger in French), what was its capital city?",
+    "relation": "When Jules Brévié was in charge of the (Colonie du in French) what was its",
+    "Relation": "was in charge of the capital city"
+  },
+  {
+    "Id": 290,
+    "Question": "After the United Kingdom general election which resulted in the National Government's victory and the Labour Party's defeat, what position did John Moore-Brabazon, 1st Baron Brabazon of Tara hold?",
+    "relation": null,
+    "Relation": "hold"
+  },
+  {
+    "Id": 291,
+    "Question": "Who acquired the Gorge Amphitheatre when it was hosting a music festival?",
+    "relation": "Who acquired the when it was hosting a music festival",
+    "Relation": "acquired the Gorge Amphitheatre"
+  },
+  {
+    "Id": 292,
+    "Question": "During Farouk of Egypt's coronation as king of Egypt and the Sudan, who was his first wife, the daughter of Youssef Zulficar Pasha?",
+    "relation": "During coronation as who was his first wife the daughter of",
+    "Relation": "was his first wife"
+  },
+  {
+    "Id": 293,
+    "Question": "What country was Brescia within the confines of when it was the capital of the Province of Brescia?",
+    "relation": "What country was within the confines of when it was the capital of the",
+    "Relation": "was within the confines of"
+  },
+  {
+    "Id": 294,
+    "Question": "What basketball team did Oscar Robertson join after he graduated from Cincinnati?",
+    "relation": "What team did join after he graduated from",
+    "Relation": "joined after he graduated from Cincinnati"
+  },
+  {
+    "Id": 295,
+    "Question": "Which basketball team did Marvin Barnes play for before the Boston Celtics?",
+    "relation": "Which team did play for before the",
+    "Relation": "played for before the Boston Celtics"
+  },
+  {
+    "Id": 296,
+    "Question": "When East Timor became an independent state known as Timor-Leste, which organization did it become a member of?",
+    "relation": "When East Timor became an independent state known as Timor-Leste which organization did it become a member of",
+    "Relation": "became a member of"
+  },
+  {
+    "Id": 297,
+    "Question": "Who was Borussia Mönchengladbach's head coach while Rolf Königs was their chairperson?",
+    "relation": "Who was head coach while Rolf Königs was their chairperson",
+    "Relation": "was head coach while Rolf Königs was chairperson"
+  },
+  {
+    "Id": 298,
+    "Question": "During Michael O'Kennedy's tenure as Senator, which Irish General Election did he serve as a Teachta Dála?",
+    "relation": "During tenure as Senator which General Election did he serve as a Teachta Dála",
+    "Relation": "served as a Teachta Dála during"
+  },
+  {
+    "Id": 299,
+    "Question": "In which role was Brendan Daly serving in the Ministry of Defence between February 5th and?",
+    "relation": "In which role was serving in the Ministry of Defence between February 5th and",
+    "Relation": "was serving in the Ministry of Defence"
+  },
+  {
+    "Id": 300,
+    "Question": "What solo album did Fuzzy Haskins release when he left Parliament-Funkadelic for a solo career, as mentioned in the CD liner notes?",
+    "relation": "What solo did release when he left Parliament-Funkadelic for a solo career as mentioned in the CD liner notes",
+    "Relation": "released when he left Parliament-Funkadelic"
+  }
+]

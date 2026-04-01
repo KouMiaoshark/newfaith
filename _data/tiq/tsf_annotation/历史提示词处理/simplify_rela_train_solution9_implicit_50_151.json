@@ -1,0 +1,1844 @@
+[
+  {
+    "Id": 51,
+    "Question": "What was Ignatius Arnoz's ecclesiastical role when Antonin Alois Weber consecrated him?",
+    "relation": "What was role when Antonin Alois Weber consecrated him",
+    "origin_entity": [
+      "Ignatius Arnoz",
+      "ecclesiastical"
+    ],
+    "Relation": "What was Ignatius Arnoz's ecclesiastical role when Antonin Alois Weber consecrated him",
+    "entity": [
+      "Ignatius Arnoz",
+      "Antonin Alois Weber",
+      "consecration",
+      "ecclesiastical role",
+      "Catholic Church",
+      "bishop"
+    ]
+  },
+  {
+    "Id": 52,
+    "Question": "How was the number of COVID-19 cases in Austria determined after the number of recoveries had reached +26579?",
+    "relation": "How was the number of cases in Austria determined after the number of recoveries had reached +26579",
+    "origin_entity": [
+      "covid-19"
+    ],
+    "Relation": "How was the number of COVID-19 cases in Austria determined after the number of recoveries had reached +26579",
+    "entity": [
+      "COVID-19 cases",
+      "Austria",
+      "recoveries",
+      "+26579",
+      "pandemic",
+      "public health data",
+      "determination method"
+    ]
+  },
+  {
+    "Id": 53,
+    "Question": "What music genre was Marin Mazzie mainly known for during her marriage to Jason Danieley?",
+    "relation": "What music genre was mainly known for during her marriage to Jason Danieley",
+    "origin_entity": [
+      "Marin Mazzie"
+    ],
+    "Relation": "What music genre was Marin Mazzie mainly known for during her marriage to Jason Danieley",
+    "entity": [
+      "Marin Mazzie",
+      "Jason Danieley",
+      "marriage",
+      "music genre",
+      "Broadway",
+      "musical theatre"
+    ]
+  },
+  {
+    "Id": 54,
+    "Question": "What event in which Olympic sports discipline did Paavo Aaltonen compete at the London Olympic Games as part of the Team?",
+    "relation": "What event in which Olympic sports discipline did compete at the London Olympic Games as part of the Team",
+    "origin_entity": [
+      "Paavo Aaltonen"
+    ],
+    "Relation": "What event in which Olympic sports discipline did Paavo Aaltonen compete at the London Olympic Games as part of the Team",
+    "entity": [
+      "Paavo Aaltonen",
+      "London Olympic Games",
+      "Team",
+      "Olympic sports discipline",
+      "gymnastics",
+      "1948 Summer Olympics",
+      "Finland"
+    ]
+  },
+  {
+    "Id": 55,
+    "Question": "What company did the Douglas Aircraft Company merge with to form McDonnell Douglas and then become a division of the latter?",
+    "relation": "What company did the merge with to form and then become a division of the latter",
+    "origin_entity": [
+      "McDonnell Douglas",
+      "Douglas Aircraft Company"
+    ],
+    "Relation": "What company did the Douglas Aircraft Company merge with to form McDonnell Douglas and then become a division of the latter",
+    "entity": [
+      "Douglas Aircraft Company",
+      "McDonnell Douglas",
+      "merge",
+      "division",
+      "McDonnell Aircraft Corporation",
+      "aerospace industry"
+    ]
+  },
+  {
+    "Id": 56,
+    "Question": "What sports team was Mory Konaté a member of prior to joining Borussia Dortmund II?",
+    "relation": "What sports team was a member of prior to joining Borussia Dortmund II",
+    "origin_entity": [
+      "Mory",
+      "Konaté"
+    ],
+    "Relation": "What sports team was Mory Konaté a member of prior to joining Borussia Dortmund II",
+    "entity": [
+      "Mory Konaté",
+      "Borussia Dortmund II",
+      "sports team",
+      "football",
+      "previous club",
+      "youth academy"
+    ]
+  },
+  {
+    "Id": 57,
+    "Question": "Who commanded the Swedish Navy before Jens Nykvist?",
+    "relation": "Who the before Jens",
+    "origin_entity": [
+      "Swedish Navy",
+      "Nykvist",
+      "commanded"
+    ],
+    "Relation": "Who commanded the Swedish Navy before Jens Nykvist",
+    "entity": [
+      "Swedish Navy",
+      "Jens Nykvist",
+      "commander",
+      "previous commander",
+      "Swedish military",
+      "naval history"
+    ]
+  },
+  {
+    "Id": 58,
+    "Question": "Under which organisation's framework did Médecins Sans Frontières (MSF) present the idea of a patent pool to the French Foreign Ministry and UNITAID when UNITAID was first created?",
+    "relation": "Under which framework did () present the idea of a to the French Foreign Ministry and UNITAID when UNITAID was first created",
+    "origin_entity": [
+      "Médecins Sans Frontières",
+      "MSF",
+      "organisation",
+      "patent pool"
+    ],
+    "Relation": "Under which organisation's framework did Médecins Sans Frontières (MSF) present the idea of a patent pool to the French Foreign Ministry and UNITAID when UNITAID was first created",
+    "entity": [
+      "Médecins Sans Frontières (MSF)",
+      "patent pool",
+      "French Foreign Ministry",
+      "UNITAID",
+      "organisation framework",
+      "global health",
+      "access to medicines",
+      "World Health Organization (WHO)"
+    ]
+  },
+  {
+    "Id": 59,
+    "Question": "Before joining the military, what school did George H.W. Bush attend?",
+    "relation": "Before joining the military what school did attend",
+    "origin_entity": [
+      "George H.W. Bush"
+    ],
+    "Relation": "Before joining the military, what school did George H.W. Bush attend",
+    "entity": [
+      "George H.W. Bush",
+      "military",
+      "school",
+      "education",
+      "Phillips Academy",
+      "preparatory school"
+    ]
+  },
+  {
+    "Id": 60,
+    "Question": "In which county-level city was Guo Guangchang born when he was born in Dongyang Zhejiang?",
+    "relation": "In which was born when he was born in",
+    "origin_entity": [
+      "Dongyang",
+      "Dongyang Zhejiang",
+      "county-level city",
+      "Guo Guangchang",
+      "Zhejiang"
+    ],
+    "Relation": "In which county-level city was Guo Guangchang born when he was born in Dongyang Zhejiang",
+    "entity": [
+      "Guo Guangchang",
+      "Dongyang",
+      "Zhejiang",
+      "county-level city",
+      "birthplace",
+      "China",
+      "Dongyang City"
+    ]
+  },
+  {
+    "Id": 61,
+    "Question": "Who was the Linux kernel mascot when the stable release 6.5 was released?",
+    "relation": "Who was the when the stable release 65 was released",
+    "origin_entity": [
+      "Linux kernel",
+      "mascot"
+    ],
+    "Relation": "Who was the Linux kernel mascot when the stable release 6.5 was released",
+    "entity": [
+      "Linux kernel",
+      "mascot",
+      "stable release 6.5",
+      "Tux",
+      "open source",
+      "operating system",
+      "software development",
+      "Linux community"
+    ]
+  },
+  {
+    "Id": 62,
+    "Question": "What football club did Hans Tilkowski win the Oberliga West with during his senior career?",
+    "relation": "What football club did win the with during his senior career",
+    "origin_entity": [
+      "Hans Tilkowski",
+      "Oberliga West"
+    ],
+    "Relation": "Which football club did Hans Tilkowski win the Oberliga West with during his senior career",
+    "entity": [
+      "Hans Tilkowski",
+      "Oberliga West",
+      "senior career",
+      "German football",
+      "football club"
+    ]
+  },
+  {
+    "Id": 63,
+    "Question": "What was the Chiba Lotte Marines home venue after they were founded as the Mainichi Orions?",
+    "relation": "What was the home after they were founded as the",
+    "origin_entity": [
+      "Chiba Lotte Marines",
+      "Mainichi Orions",
+      "venue"
+    ],
+    "Relation": "What was the home venue of Chiba Lotte Marines after they were founded as Mainichi Orions",
+    "entity": [
+      "Chiba Lotte Marines",
+      "Mainichi Orions",
+      "home venue",
+      "Japanese baseball",
+      "founding"
+    ]
+  },
+  {
+    "Id": 64,
+    "Question": "What municipality did Kumagaya replace during the dissolution of Nara?",
+    "relation": "What municipality did replace during the dissolution of Nara",
+    "origin_entity": [
+      "Kumagaya"
+    ],
+    "Relation": "What municipality did Kumagaya replace during the dissolution of Nara",
+    "entity": [
+      "Kumagaya",
+      "Nara",
+      "dissolution",
+      "municipality",
+      "Japanese administrative changes"
+    ]
+  },
+  {
+    "Id": 65,
+    "Question": "What was Convair's parent company before it was bought by General Dynamics and became their Convair Division?",
+    "relation": "What was parent company before it was bought by General Dynamics and became their Convair Division",
+    "origin_entity": [
+      "Convair"
+    ],
+    "Relation": "What was Convair's parent company before it was bought by General Dynamics and became their Convair Division",
+    "entity": [
+      "Convair",
+      "General Dynamics",
+      "Convair Division",
+      "parent company",
+      "acquisition",
+      "aerospace industry"
+    ]
+  },
+  {
+    "Id": 66,
+    "Question": "Who served as the president of the University of Southern Maine after John Pierce Wise?",
+    "relation": null,
+    "origin_entity": null,
+    "Relation": "Who served as president of University of Southern Maine after John Pierce Wise",
+    "entity": [
+      "University of Southern Maine",
+      "John Pierce Wise",
+      "president",
+      "successor",
+      "higher education"
+    ]
+  },
+  {
+    "Id": 67,
+    "Question": "When Inessa Kravets set the women's world championship triple jump record at 15.50 m (50 ft 10 in), what was the men's world record for the same event?",
+    "relation": "When set the womens world championship record at 1550 m (50 ft 10 in) what was the mens world record for the same event",
+    "origin_entity": [
+      "triple jump",
+      "Inessa Kravets"
+    ],
+    "Relation": "What was the men's world record for triple jump when Inessa Kravets set the women's world championship record at 15.50 m",
+    "entity": [
+      "Inessa Kravets",
+      "women's world championship triple jump record",
+      "15.50 m",
+      "men's world record",
+      "triple jump",
+      "athletics"
+    ]
+  },
+  {
+    "Id": 68,
+    "Question": "What country was Athens part of when King George II of Greece returned?",
+    "relation": "What country was part of when King returned",
+    "origin_entity": [
+      "Athens",
+      "George II of Greece",
+      "greece"
+    ],
+    "Relation": "What country was Athens part of when King George II of Greece returned",
+    "entity": [
+      "Athens",
+      "King George II of Greece",
+      "return",
+      "Greece",
+      "monarchy restoration",
+      "historical period"
+    ]
+  },
+  {
+    "Id": 69,
+    "Question": "Who owned The Daily Telegraph prior to Australian Consolidated Press?",
+    "relation": "Who owned The prior to",
+    "origin_entity": [
+      "Daily Telegraph",
+      "Australian Consolidated Press"
+    ],
+    "Relation": "Who owned The Daily Telegraph prior to Australian Consolidated Press",
+    "entity": [
+      "The Daily Telegraph",
+      "Australian Consolidated Press",
+      "ownership",
+      "media",
+      "newspaper"
+    ]
+  },
+  {
+    "Id": 70,
+    "Question": "When bombs struck UNESCO sites in the old city of Sana'a, which country was it the capital of?",
+    "relation": "When bombs struck in the which was it the capital of",
+    "origin_entity": [
+      "UNESCO",
+      "UNESCO sites",
+      "old city of Sana'a",
+      "Sana'a",
+      "country"
+    ],
+    "Relation": "Which country was Sana'a the capital of when bombs struck UNESCO sites in its old city",
+    "entity": [
+      "Sana'a",
+      "UNESCO sites",
+      "old city",
+      "bombing",
+      "capital",
+      "Yemen",
+      "conflict"
+    ]
+  },
+  {
+    "Id": 71,
+    "Question": "During Frank Broyles' stint at Georgia Tech, which sports team did he coach?",
+    "relation": "During stint at which did he coach",
+    "origin_entity": [
+      "Georgia Tech",
+      "sports team",
+      "Frank Broyles"
+    ],
+    "Relation": "Which sports team did Frank Broyles coach during his stint at Georgia Tech",
+    "entity": [
+      "Frank Broyles",
+      "Georgia Tech",
+      "coach",
+      "sports team",
+      "American football",
+      "college sports"
+    ]
+  },
+  {
+    "Id": 72,
+    "Question": "What team did Wendy Larry coach after her time at Arizona in NCAA Division I women's basketball?",
+    "relation": "What team did coach after her time at Arizona in basketball",
+    "origin_entity": [
+      "NCAA Division I women",
+      "Wendy Larry"
+    ],
+    "Relation": "What team did Wendy Larry coach after her time at Arizona in NCAA Division I women's basketball",
+    "entity": [
+      "Wendy Larry",
+      "Arizona Wildcats women's basketball",
+      "NCAA Division I women's basketball",
+      "Old Dominion University",
+      "coaching career"
+    ]
+  },
+  {
+    "Id": 73,
+    "Question": "Who distributed the film version of A Streetcar Named Desire while Brando, Hunter, and Malden were reprising their roles from the Broadway production?",
+    "relation": "Who distributed the film version of A while Brando Hunter and Malden were reprising their roles from the Broadway production",
+    "origin_entity": [
+      "Streetcar Named Desire"
+    ],
+    "Relation": "Who distributed the film version of A Streetcar Named Desire while Brando, Hunter, and Malden were reprising their roles from the Broadway production",
+    "entity": [
+      "A Streetcar Named Desire",
+      "film distribution",
+      "Marlon Brando",
+      "Kim Hunter",
+      "Karl Malden",
+      "Broadway production",
+      "Warner Bros.",
+      "1951 film"
+    ]
+  },
+  {
+    "Id": 74,
+    "Question": "What songs on the album Viva la Vida or Death and All His Friends were composed by all members of the band for their fourth album Viva la Vida?",
+    "relation": "What songs on the or were composed by all members of the band for their fourth album Viva la Vida",
+    "origin_entity": [
+      "Viva la Vida",
+      "Vida or",
+      "Death and All His Friends",
+      "album"
+    ],
+    "Relation": "What songs on the album Viva la Vida or Death and All His Friends were composed by all members of the band for their fourth album Viva la Vida",
+    "entity": [
+      "Viva la Vida or Death and All His Friends",
+      "Coldplay",
+      "fourth studio album",
+      "song composition",
+      "band members",
+      "Chris Martin",
+      "Jonny Buckland",
+      "Guy Berryman",
+      "Will Champion"
+    ]
+  },
+  {
+    "Id": 75,
+    "Question": "Before the city of Rybinsk was named after Fish, what was it named after?",
+    "relation": "Before the city of was named after Fish what was it named after",
+    "origin_entity": [
+      "Rybinsk"
+    ],
+    "Relation": "Before the city of Rybinsk was named after Fish, what was it named after",
+    "entity": [
+      "Rybinsk",
+      "city name",
+      "historical names",
+      "Yaroslavl Oblast",
+      "Russia",
+      "Ust-Sheksna",
+      "Rybnaya Sloboda"
+    ]
+  },
+  {
+    "Id": 76,
+    "Question": "What were the major accomplishments of Robert I during his reign as King of Scots?",
+    "relation": "What were the major accomplishments of during his reign as King of Scots",
+    "origin_entity": [
+      "Robert I"
+    ],
+    "Relation": "What were the major accomplishments of Robert I during his reign as King of Scots",
+    "entity": [
+      "Robert I of Scotland",
+      "Robert the Bruce",
+      "King of Scots",
+      "Scottish Wars of Independence",
+      "Battle of Bannockburn",
+      "Declaration of Arbroath",
+      "Scottish monarchy"
+    ]
+  },
+  {
+    "Id": 77,
+    "Question": "What company did Twitch Interactive, the subsidiary of Amazon com Inc, have an exclusive deal with while operating Twitch?",
+    "relation": "What company did Interactive the subsidiary of Amazon com Inc have an exclusive deal with while operating Twitch",
+    "origin_entity": [
+      "twitch"
+    ],
+    "Relation": "What company did Twitch Interactive, the subsidiary of Amazon com Inc, have an exclusive deal with while operating Twitch",
+    "entity": [
+      "Twitch Interactive",
+      "Amazon.com Inc",
+      "subsidiary",
+      "exclusive deal",
+      "streaming platform",
+      "Blizzard Entertainment",
+      "Activision",
+      "Overwatch League"
+    ]
+  },
+  {
+    "Id": 78,
+    "Question": "What was the canton that Amiens was the capital of while Morgan Chaumier was Mayor?",
+    "relation": "What was the canton that was the capital of while Morgan Chaumier was Mayor",
+    "origin_entity": [
+      "Amiens"
+    ],
+    "Relation": "What was the canton that Amiens was the capital of while Morgan Chaumier was Mayor",
+    "entity": [
+      "Amiens",
+      "canton",
+      "Morgan Chaumier",
+      "Mayor of Amiens",
+      "Somme department",
+      "Hauts-de-France region",
+      "France",
+      "Amiens-1 canton"
+    ]
+  },
+  {
+    "Id": 79,
+    "Question": "After playing for Podravka, what senior club did Maja Soka play for in the game of handball?",
+    "relation": null,
+    "origin_entity": null,
+    "Relation": "After playing for Podravka, what senior club did Maja Soka play for in the game of handball",
+    "entity": [
+      "Maja Soka",
+      "Podravka Koprivnica",
+      "senior club",
+      "handball",
+      "women's handball",
+      "ŽRK Budućnost",
+      "Montenegro"
+    ]
+  },
+  {
+    "Id": 80,
+    "Question": "What award did S K Shivakumar receive when he was awarded the Padma Shri, India's fourth highest civilian award?",
+    "relation": "What did S K Shivakumar receive when he was awarded the Indias award",
+    "origin_entity": [
+      "Padma Shri",
+      "fourth highest civilian",
+      "award"
+    ],
+    "Relation": "What award did S K Shivakumar receive when he was awarded the Padma Shri, India's fourth highest civilian award",
+    "entity": [
+      "S K Shivakumar",
+      "Padma Shri",
+      "India's fourth highest civilian award",
+      "Indian honours system",
+      "scientist",
+      "ISRO",
+      "awards and recognition"
+    ]
+  },
+  {
+    "Id": 81,
+    "Question": "Who succeeded as director/manager of the Detroit Institute of Arts, one of the world’s most visited art museums with approximately 677,500 visitors each year?",
+    "relation": "Who succeeded as director/manager of the one of the worlds most visited art museums with approximately 677500 visitors each year",
+    "origin_entity": [
+      "Detroit Institute of Arts"
+    ],
+    "Relation": "Who succeeded as director/manager of the Detroit Institute of Arts, one of the world’s most visited art museums with approximately 677,500 visitors each year",
+    "entity": [
+      "Detroit Institute of Arts",
+      "director/manager",
+      "art museum",
+      "visitor statistics",
+      "Salvador Salort-Pons",
+      "Graham W. J. Beal",
+      "succession"
+    ]
+  },
+  {
+    "Id": 82,
+    "Question": "What was the name of the darts organisation that Phil Taylor was a founding member of during his tenure as a professional dart player?",
+    "relation": "What was the name of the organisation that was a founding member of during his tenure as a professional dart player",
+    "origin_entity": [
+      "darts",
+      "Phil Taylor"
+    ],
+    "Relation": "What was the name of the darts organisation that Phil Taylor was a founding member of during his professional dart player tenure",
+    "entity": [
+      "Phil Taylor",
+      "darts organisation",
+      "founding member",
+      "professional dart player",
+      "Professional Darts Corporation (PDC)",
+      "British Darts Organisation (BDO)",
+      "World Darts Federation"
+    ]
+  },
+  {
+    "Id": 83,
+    "Question": "After the Nordland area +110.61 applies to part arroyo, which county in Norway does Nordland share a border with?",
+    "relation": "After the area +11061 applies to part arroyo which county in does Nordland share a border with",
+    "origin_entity": [
+      "Nordland",
+      "Norway"
+    ],
+    "Relation": "Which county in Norway does Nordland share a border with after the Nordland area +110.61 applies to part arroyo",
+    "entity": [
+      "Nordland",
+      "Norway",
+      "county",
+      "border",
+      "Nordland area +110.61",
+      "arroyo",
+      "Troms og Finnmark",
+      "Trøndelag",
+      "geographic division"
+    ]
+  },
+  {
+    "Id": 84,
+    "Question": "Who was the head coach for the SC Freiburg while Volker Finke was the club's manager, the longest serving manager in the history of professional football in Germany?",
+    "relation": "Who was the head coach for the while Volker Finke was the clubs manager the longest serving manager in the history of professional football in Germany",
+    "origin_entity": [
+      "SC Freiburg"
+    ],
+    "Relation": "Who was the head coach for the SC Freiburg while Volker Finke was the club's manager, the longest serving manager in the history of professional football in Germany",
+    "entity": [
+      "SC Freiburg",
+      "head coach",
+      "Volker Finke",
+      "manager",
+      "longest serving manager",
+      "professional football",
+      "Germany",
+      "Bundesliga",
+      "coaching staff",
+      "Christian Streich"
+    ]
+  },
+  {
+    "Id": 85,
+    "Question": "What was Giorgio de Stefani's Grand Slam mixed doubles result in the Australian Open of the year he achieved a 3R result at Wimbledon?",
+    "relation": "What was Grand Slam mixed doubles result in the of the year he achieved a 3R result at Wimbledon",
+    "origin_entity": [
+      "Australian Open",
+      "Giorgio de Stefani"
+    ],
+    "Relation": "What was Giorgio de Stefani's Grand Slam mixed doubles result in the Australian Open of the year he achieved a 3R result at Wimbledon",
+    "entity": [
+      "Giorgio de Stefani",
+      "Grand Slam",
+      "mixed doubles",
+      "Australian Open",
+      "3R result",
+      "Wimbledon",
+      "tennis",
+      "Italian tennis players",
+      "1930s tennis",
+      "tournament results"
+    ]
+  },
+  {
+    "Id": 86,
+    "Question": "What literary award did Ilse Aichinger receive after Günter Eich's death?",
+    "relation": "What literary award did Ilse Aichinger receive after death",
+    "origin_entity": [
+      "Günter Eich"
+    ],
+    "Relation": "What literary award did Ilse Aichinger receive after Günter Eich's death",
+    "entity": [
+      "Ilse Aichinger",
+      "literary award",
+      "Günter Eich",
+      "death",
+      "Austrian literature",
+      "post-war literature",
+      "Georg Büchner Prize",
+      "Austrian State Prize for Literature",
+      "award timeline"
+    ]
+  },
+  {
+    "Id": 87,
+    "Question": "Where did the Electric Daisy Carnival EDC Orlando take place from November 9–10, while the Electric Daisy Carnival EDC Las Vegas was offering on-site camping?",
+    "relation": "Where did the take place from November 9–10 while the Electric Daisy Carnival was offering on-site camping",
+    "origin_entity": [
+      "Electric Daisy Carnival",
+      "EDC Las Vegas",
+      "edc",
+      "Orlando"
+    ],
+    "Relation": "Where did the Electric Daisy Carnival EDC Orlando take place from November 9–10, while the Electric Daisy Carnival EDC Las Vegas was offering on-site camping",
+    "entity": [
+      "Electric Daisy Carnival EDC Orlando",
+      "November 9–10",
+      "Electric Daisy Carnival EDC Las Vegas",
+      "on-site camping",
+      "music festival",
+      "Orlando, Florida",
+      "venue",
+      "Tinker Field",
+      "Camping World Stadium",
+      "festival locations"
+    ]
+  },
+  {
+    "Id": 88,
+    "Question": "After Carlos Sastre won the Tour de France and dedicated it to his memory, which professional team was he a member of?",
+    "relation": "After won the and dedicated it to his memory which professional team was he a member of",
+    "origin_entity": [
+      "Carlos Sastre",
+      "Tour de France"
+    ],
+    "Relation": "After Carlos Sastre won the Tour de France and dedicated it to his memory, which professional team was he a member of",
+    "entity": [
+      "Carlos Sastre",
+      "Tour de France",
+      "dedicated to his memory",
+      "professional team",
+      "cycling",
+      "CSC–Saxo Bank",
+      "Team CSC",
+      "Grand Tour winners",
+      "2008 Tour de France",
+      "memorial dedication"
+    ]
+  },
+  {
+    "Id": 89,
+    "Question": "What was the political party that Banuera Berina belonged to during his campaign for the Kiribati presidential election?",
+    "relation": "What was the political party that belonged to during his campaign for the presidential election",
+    "origin_entity": [
+      "Kiribati",
+      "banuera",
+      "berina"
+    ],
+    "Relation": "What was the political party that Banuera Berina belonged to during his campaign for the Kiribati presidential election",
+    "entity": [
+      "Banuera Berina",
+      "political party",
+      "campaign",
+      "Kiribati presidential election",
+      "Kiribati politics",
+      "Tobwaan Kiribati Party",
+      "Maneaba ni Maungatabu",
+      "Pacific Island politics",
+      "election history"
+    ]
+  },
+  {
+    "Id": 90,
+    "Question": "Who succeeded Sergey Morozov as head of government in Astrakhan Oblast?",
+    "relation": "Who succeeded as head of government in",
+    "origin_entity": [
+      "Astrakhan Oblast",
+      "Sergey Morozov"
+    ],
+    "Relation": "Who succeeded Sergey Morozov as head of government in Astrakhan Oblast",
+    "entity": [
+      "Sergey Morozov",
+      "head of government",
+      "Astrakhan Oblast",
+      "successor",
+      "Russia",
+      "regional government",
+      "governor",
+      "Igor Babushkin",
+      "political succession",
+      "administrative changes"
+    ]
+  },
+  {
+    "Id": 91,
+    "Question": "In Memphis, Tennessee, which three Fortune 500 companies existed when Viscera (wrestler) died?",
+    "relation": "In which three Fortune companies existed when Viscera (wrestler) died",
+    "origin_entity": [
+      "500",
+      "Memphis, Tennessee"
+    ],
+    "Relation": "In Memphis, Tennessee, which three Fortune 500 companies existed when Viscera (wrestler) died",
+    "entity": [
+      "Memphis, Tennessee",
+      "Fortune 500 companies",
+      "Viscera (wrestler)",
+      "death",
+      "2014",
+      "business corporations",
+      "FedEx",
+      "AutoZone",
+      "International Paper",
+      "Memphis economy",
+      "wrestling industry"
+    ]
+  },
+  {
+    "Id": 92,
+    "Question": "In which city's municipality was Niš located when it was in the administrative territorial entity of Crveni Krst?",
+    "relation": "In which citys municipality was located when it was in the administrative territorial entity of Crveni Krst",
+    "origin_entity": [
+      "niš"
+    ],
+    "Relation": "In which city's municipality was Niš located when it was in the administrative territorial entity of Crveni Krst",
+    "entity": [
+      "Niš",
+      "Crveni Krst",
+      "Serbia",
+      "municipality",
+      "administrative territorial entity"
+    ]
+  },
+  {
+    "Id": 93,
+    "Question": "After Jay Wright worked as an assistant coach at Drexel, which team did he become the head coach of?",
+    "relation": "After worked as an assistant coach at Drexel which team did he become the head coach of",
+    "origin_entity": [
+      "Jay Wright"
+    ],
+    "Relation": "After Jay Wright worked as an assistant coach at Drexel, which team did he become the head coach of",
+    "entity": [
+      "Jay Wright",
+      "Drexel University",
+      "assistant coach",
+      "head coach",
+      "college basketball",
+      "NCAA"
+    ]
+  },
+  {
+    "Id": 94,
+    "Question": "What was the position of Andrea Bocelli's album Cieli di Toscana on the charts during its first release week in the United States?",
+    "relation": "What was the position of on the during its first release week in the United States",
+    "origin_entity": [
+      "Andrea Bocelli",
+      "charts",
+      "s album",
+      "album",
+      "Cieli di Toscana"
+    ],
+    "Relation": "What was the position of Andrea Bocelli's album Cieli di Toscana on the charts during its first release week in the United States",
+    "entity": [
+      "Andrea Bocelli",
+      "Cieli di Toscana",
+      "Billboard 200",
+      "United States",
+      "album chart",
+      "first week sales"
+    ]
+  },
+  {
+    "Id": 95,
+    "Question": "Who was the mayor of Bremen when the world's first completely low-floor tram was introduced there?",
+    "relation": "Who was the mayor of when the worlds first completely low-floor tram was introduced there",
+    "origin_entity": [
+      "Bremen"
+    ],
+    "Relation": "Who was the mayor of Bremen when the world's first completely low-floor tram was introduced there",
+    "entity": [
+      "Bremen",
+      "mayor of Bremen",
+      "low-floor tram",
+      "public transportation",
+      "Germany",
+      "tram introduction"
+    ]
+  },
+  {
+    "Id": 96,
+    "Question": "During Roderick Sinclair 19th Earl of Caithness' time as a Member of the House of Lords, what Public General Act of Parliament of the United Kingdom detailed the hereditary peerage?",
+    "relation": "During Roderick Sinclair 19th Earl of Caithness time as a Member of the what Public General Act of detailed the hereditary peerage",
+    "origin_entity": [
+      "House of Lords",
+      "Parliament of the United Kingdom"
+    ],
+    "Relation": "During Roderick Sinclair 19th Earl of Caithness' time as a Member of the House of Lords, what Public General Act of Parliament of the United Kingdom detailed the hereditary peerage",
+    "entity": [
+      "Roderick Sinclair 19th Earl of Caithness",
+      "House of Lords",
+      "hereditary peerage",
+      "Public General Act",
+      "United Kingdom Parliament",
+      "House of Lords Act 1999"
+    ]
+  },
+  {
+    "Id": 97,
+    "Question": "On which airport was the memorial for Air India Express Flight 812 built, which crashed at Mangalore on 22-05-2010?",
+    "relation": "On which airport was the memorial for built which crashed at on 22-05-2010",
+    "origin_entity": [
+      "Air India Express Flight 812",
+      "Mangalore"
+    ],
+    "Relation": "On which airport was the memorial for Air India Express Flight 812 built, which crashed at Mangalore on 22-05-2010",
+    "entity": [
+      "Air India Express Flight 812",
+      "Mangalore International Airport",
+      "memorial",
+      "air crash",
+      "22-05-2010",
+      "India"
+    ]
+  },
+  {
+    "Id": 98,
+    "Question": "Who was the head of government in North Dakota before Frederick B. Fancher?",
+    "relation": "Who was the head of government in before",
+    "origin_entity": [
+      "North Dakota",
+      "Frederick B. Fancher"
+    ],
+    "Relation": "Who was the head of government in North Dakota before Frederick B. Fancher",
+    "entity": [
+      "North Dakota",
+      "head of government",
+      "Frederick B. Fancher",
+      "Governor of North Dakota",
+      "United States",
+      "state government"
+    ]
+  },
+  {
+    "Id": 99,
+    "Question": "What undercover spy operation targeting Citizen Lab was revealed by the Associated Press while Citizen Lab was researching NSO Group?",
+    "relation": "What undercover spy operation targeting was revealed by the while Citizen Lab was researching Group",
+    "origin_entity": [
+      "Associated Press",
+      "Citizen Lab",
+      "NSO"
+    ],
+    "Relation": "What undercover spy operation targeting Citizen Lab was revealed by the Associated Press while Citizen Lab was researching NSO Group",
+    "entity": [
+      "Citizen Lab",
+      "NSO Group",
+      "Associated Press",
+      "undercover spy operation",
+      "Pegasus spyware",
+      "cybersecurity research"
+    ]
+  },
+  {
+    "Id": 100,
+    "Question": "After the Dutch guilder was removed as currency on Bonaire, which currency replaced it?",
+    "relation": "After the was removed as on which currency replaced it",
+    "origin_entity": [
+      "Dutch guilder",
+      "currency",
+      "Bonaire"
+    ],
+    "Relation": "After the Dutch guilder was removed as currency on Bonaire, which currency replaced it",
+    "entity": [
+      "Bonaire",
+      "Dutch guilder",
+      "currency replacement",
+      "United States dollar",
+      "Caribbean Netherlands",
+      "currency transition"
+    ]
+  },
+  {
+    "Id": 101,
+    "Question": "What FDA-approved drug or therapy for the treatment of rheumatoid arthritis was available during the time of 30,000 deaths caused by the disease?",
+    "relation": "What FDA-approved or therapy for the treatment of was available during the time of 30000 deaths by the disease",
+    "origin_entity": [
+      "drug",
+      "rheumatoid arthritis",
+      "caused"
+    ],
+    "Relation": "What FDA-approved drug or therapy for the treatment of rheumatoid arthritis was available during the time of 30,000 deaths caused by the disease",
+    "entity": [
+      "rheumatoid arthritis",
+      "FDA-approved drug",
+      "30,000 deaths",
+      "treatment",
+      "United States",
+      "disease mortality"
+    ]
+  },
+  {
+    "Id": 102,
+    "Question": "What subsidiary of Syracuse University had a budget of $1.637 billion?",
+    "relation": "What subsidiary of had a budget of $1637 billion",
+    "origin_entity": [
+      "Syracuse University"
+    ],
+    "Relation": "What subsidiary of Syracuse University had a budget of $1.637 billion",
+    "entity": [
+      "Syracuse University",
+      "subsidiary",
+      "budget",
+      "$1.637 billion",
+      "higher education",
+      "university finances"
+    ]
+  },
+  {
+    "Id": 103,
+    "Question": "Who was the sovereign of the Portuguese Guinea Overseas Province of Guinea Província Portuguesa de Guiné after the founding of Cacheu?",
+    "relation": "Who was the sovereign of the Overseas Province of Guinea Província de after the founding of Cacheu",
+    "origin_entity": [
+      "Portuguese Guinea",
+      "Portuguesa",
+      "guiné"
+    ],
+    "Relation": "Who was the sovereign of the Portuguese Guinea Overseas Province after the founding of Cacheu",
+    "entity": [
+      "Portuguese Guinea",
+      "Overseas Province of Guinea",
+      "Cacheu",
+      "sovereign",
+      "Portugal",
+      "colonial history",
+      "Guinea-Bissau"
+    ]
+  },
+  {
+    "Id": 104,
+    "Question": "Where did Javier Aguirre play football professionally after his time playing with Club América?",
+    "relation": "Where did play football professionally after his time playing with",
+    "origin_entity": [
+      "Javier Aguirre",
+      "Club América"
+    ],
+    "Relation": "Where did Javier Aguirre play football professionally after his time with Club América",
+    "entity": [
+      "Javier Aguirre",
+      "Club América",
+      "football",
+      "professional career",
+      "Mexican football",
+      "post-Club América career"
+    ]
+  },
+  {
+    "Id": 105,
+    "Question": "While obtaining her Master of Science degree from the Columbia University Graduate School of Journalism, which award did Roni Caryn Rabin receive?",
+    "relation": "While obtaining her Master of Science degree from the which did Roni Caryn Rabin receive",
+    "origin_entity": [
+      "Columbia University Graduate School of Journalism",
+      "award"
+    ],
+    "Relation": "While obtaining her Master of Science degree from the Columbia University Graduate School of Journalism, which award did Roni Caryn Rabin receive",
+    "entity": [
+      "Roni Caryn Rabin",
+      "Columbia University",
+      "Graduate School of Journalism",
+      "Master of Science",
+      "award",
+      "journalism education",
+      "academic achievements"
+    ]
+  },
+  {
+    "Id": 106,
+    "Question": "During Chan Yuen Ting's international career in Hong Kong SAR, which association football club did she have a senior career with?",
+    "relation": null,
+    "origin_entity": null,
+    "Relation": "During Chan Yuen Ting's international career in Hong Kong SAR, which association football club did she have a senior career with",
+    "entity": [
+      "Chan Yuen Ting",
+      "Hong Kong SAR",
+      "international career",
+      "association football",
+      "senior career",
+      "football club",
+      "women's football"
+    ]
+  },
+  {
+    "Id": 107,
+    "Question": "Who succeeded the head of government in Kroměříž after the UNESCO World Heritage Site Inscription (22nd Session)?",
+    "relation": "Who succeeded the head of government in after the UNESCO World Heritage Site Inscription (22nd Session)",
+    "origin_entity": [
+      "Kroměříž"
+    ],
+    "Relation": "Who succeeded the head of government in Kroměříž after the UNESCO World Heritage Site Inscription (22nd Session)",
+    "entity": [
+      "Kroměříž",
+      "head of government",
+      "UNESCO World Heritage Site",
+      "22nd Session",
+      "succession",
+      "Czech Republic",
+      "cultural heritage"
+    ]
+  },
+  {
+    "Id": 108,
+    "Question": "In what province of Finland did Aarno Lamminparras hijack Finnair Flight 405?",
+    "relation": null,
+    "origin_entity": null,
+    "Relation": "In what province of Finland did Aarno Lamminparras hijack Finnair Flight 405",
+    "entity": [
+      "Aarno Lamminparras",
+      "Finnair Flight 405",
+      "hijacking",
+      "Finland",
+      "province",
+      "aviation incident",
+      "1970s"
+    ]
+  },
+  {
+    "Id": 109,
+    "Question": "Who was Carl Sagan's wife before his death in Seattle, Washington, U.S at the age of 62?",
+    "relation": "Who was wife before his in Seattle Washington US at the age of 62",
+    "origin_entity": [
+      "Carl Sagan",
+      "death"
+    ],
+    "Relation": "Who was Carl Sagan's wife before his death in Seattle, Washington, U.S at the age of 62",
+    "entity": [
+      "Carl Sagan",
+      "wife",
+      "death",
+      "Seattle",
+      "Washington",
+      "U.S.",
+      "age 62",
+      "astronomy",
+      "Ann Druyan"
+    ]
+  },
+  {
+    "Id": 110,
+    "Question": "During an annular solar eclipse visible from Canada, Greenland, the North Pole and the Russian Far East, who was the head of government in Greenland?",
+    "relation": "During an annular solar eclipse visible from Canada the North Pole and the Russian Far East who was the head of government in Greenland",
+    "origin_entity": [
+      "Greenland"
+    ],
+    "Relation": "During an annular solar eclipse visible from Canada, Greenland, the North Pole and the Russian Far East, who was the head of government in Greenland",
+    "entity": [
+      "annular solar eclipse",
+      "Canada",
+      "Greenland",
+      "North Pole",
+      "Russian Far East",
+      "head of government",
+      "Greenland politics",
+      "astronomical event"
+    ]
+  },
+  {
+    "Id": 111,
+    "Question": "When the Suez Canal obstruction occurred, which sections of the canal were single-laned?",
+    "relation": "When the obstruction occurred which sections of the were single-laned",
+    "origin_entity": [
+      "Suez",
+      "Canal",
+      "canal"
+    ],
+    "Relation": "When the Suez Canal obstruction occurred, which sections of the canal were single-laned",
+    "entity": [
+      "Suez Canal",
+      "obstruction",
+      "single-laned sections",
+      "2021 Suez Canal obstruction",
+      "Ever Given",
+      "maritime traffic",
+      "Egypt"
+    ]
+  },
+  {
+    "Id": 112,
+    "Question": "What magazine did the Johnson Publishing Company launch when it was founded 80 years ago?",
+    "relation": "What did the launch when it was founded 80 years ago",
+    "origin_entity": [
+      "Johnson Publishing Company",
+      "magazine"
+    ],
+    "Relation": "What magazine was launched by the Johnson Publishing Company at its founding 80 years ago",
+    "entity": [
+      "Johnson Publishing Company",
+      "Ebony",
+      "Jet",
+      "African American media",
+      "1942",
+      "founding"
+    ]
+  },
+  {
+    "Id": 113,
+    "Question": "What happened in the election to the European Parliament after the Danish Unified Patent Court membership referendum was approved with 62.5% of the vote?",
+    "relation": "What happened in the election to the after the was approved with 625% of the vote",
+    "origin_entity": [
+      "European Parliament",
+      "Danish Unified Patent Court membership referendum",
+      "Unified Patent Court"
+    ],
+    "Relation": "What happened in the election to the European Parliament after the Danish Unified Patent Court membership referendum was approved",
+    "entity": [
+      "European Parliament election",
+      "Denmark",
+      "Unified Patent Court",
+      "membership referendum",
+      "62.5% approval",
+      "European Union"
+    ]
+  },
+  {
+    "Id": 114,
+    "Question": "Which university did Gustav Ludwig Hertz attend prior to receiving his doctorate under Heinrich Leopold Rubens?",
+    "relation": "Which university did attend prior to receiving his doctorate under Leopold",
+    "origin_entity": [
+      "Gustav Ludwig Hertz",
+      "Rubens",
+      "Heinrich"
+    ],
+    "Relation": "Which university did Gustav Ludwig Hertz attend before receiving his doctorate under Heinrich Leopold Rubens",
+    "entity": [
+      "Gustav Ludwig Hertz",
+      "Heinrich Leopold Rubens",
+      "University of Berlin",
+      "Humboldt University of Berlin",
+      "physics",
+      "doctorate"
+    ]
+  },
+  {
+    "Id": 115,
+    "Question": "Who was Mina's partner while she was married to Virgilio Crocco?",
+    "relation": "Who was partner while she was married to Virgilio Crocco",
+    "origin_entity": [
+      "Mina"
+    ],
+    "Relation": "Who was Mina's partner while she was married to Virgilio Crocco",
+    "entity": [
+      "Mina",
+      "Virgilio Crocco",
+      "Italian singer",
+      "marriage",
+      "partner",
+      "personal relationships"
+    ]
+  },
+  {
+    "Id": 116,
+    "Question": "When Tanvi Potluri was working at the Johns Hopkins Bloomberg School of Public Health, which organization accredited the school?",
+    "relation": "When Tanvi Potluri was working at the which organization accredited the school",
+    "origin_entity": [
+      "Johns Hopkins Bloomberg School of Public Health"
+    ],
+    "Relation": "When Tanvi Potluri was working at the Johns Hopkins Bloomberg School of Public Health, which organization accredited the school",
+    "entity": [
+      "Tanvi Potluri",
+      "Johns Hopkins Bloomberg School of Public Health",
+      "accreditation",
+      "Council on Education for Public Health",
+      "public health education"
+    ]
+  },
+  {
+    "Id": 117,
+    "Question": "During the Tunisia national football team's first match (against the French B team) which football league had the best Tunisian players come from?",
+    "relation": "During the first match (against the French B team) which football league had the best come from",
+    "origin_entity": [
+      "Tunisia national football team",
+      "Tunisian",
+      "players"
+    ],
+    "Relation": "During the Tunisia national football team's first match against the French B team, which football league had the best Tunisian players come from",
+    "entity": [
+      "Tunisia national football team",
+      "French B team",
+      "first match",
+      "Tunisian Ligue Professionnelle 1",
+      "Tunisian football",
+      "1957"
+    ]
+  },
+  {
+    "Id": 118,
+    "Question": "Who was the first chancellor of University College Leicester, which later became the University of Leicester?",
+    "relation": "Who was the first chancellor of which later became the",
+    "origin_entity": [
+      "University College Leicester",
+      "University of Leicester"
+    ],
+    "Relation": "Who was the first chancellor of University College Leicester, which later became the University of Leicester",
+    "entity": [
+      "University College Leicester",
+      "University of Leicester",
+      "first chancellor",
+      "higher education",
+      "United Kingdom",
+      "founding"
+    ]
+  },
+  {
+    "Id": 119,
+    "Question": "Who was the head of government in the Buenos Aires Province before Axel Kicillof?",
+    "relation": "Who was the head of government in the before",
+    "origin_entity": [
+      "Buenos Aires Province",
+      "Axel Kicillof"
+    ],
+    "Relation": "Who was the head of government in the Buenos Aires Province before Axel Kicillof",
+    "entity": [
+      "Buenos Aires Province",
+      "Axel Kicillof",
+      "head of government",
+      "governor",
+      "Argentina",
+      "political leadership"
+    ]
+  },
+  {
+    "Id": 120,
+    "Question": "Before Ahmad Mahir became Prime Minister of Egypt, what public position did Mustafa al-Nahhas hold?",
+    "relation": "Before Ahmad Mahir became what public position did Mustafa hold",
+    "origin_entity": [
+      "Prime Minister of Egypt",
+      "al-nahhas"
+    ],
+    "Relation": "Before Ahmad Mahir became Prime Minister of Egypt, what public position did Mustafa al-Nahhas hold",
+    "entity": [
+      "Ahmad Mahir",
+      "Mustafa al-Nahhas",
+      "Prime Minister of Egypt",
+      "Wafd Party",
+      "Egyptian politics",
+      "public office"
+    ]
+  },
+  {
+    "Id": 121,
+    "Question": "What NCAA Division I women's basketball team did Kim Mulkey play for before joining the Olympic Games Los Angeles Team?",
+    "relation": "What basketball team did play for before joining the Olympic Games Los Angeles Team",
+    "origin_entity": [
+      "NCAA Division I women",
+      "Kim Mulkey"
+    ],
+    "Relation": "What NCAA Division I women's basketball team did Kim Mulkey play for before joining the Olympic Games Los Angeles Team",
+    "entity": [
+      "Kim Mulkey",
+      "NCAA Division I women's basketball",
+      "Olympic Games Los Angeles Team",
+      "1984 Summer Olympics",
+      "Louisiana Tech Lady Techsters",
+      "basketball career"
+    ]
+  },
+  {
+    "Id": 122,
+    "Question": "Who was the Carolina Panthers' head coach before Brian Burns was drafted?",
+    "relation": "Who was the before Brian Burns was drafted",
+    "origin_entity": [
+      "Carolina Panthers",
+      "head coach"
+    ],
+    "Relation": "Who was the head coach of the Carolina Panthers before Brian Burns was drafted",
+    "entity": [
+      "Carolina Panthers",
+      "Brian Burns",
+      "NFL",
+      "head coach",
+      "draft"
+    ]
+  },
+  {
+    "Id": 123,
+    "Question": "What was Akseli Gallen-Kallela's given name when he died in Stockholm, Sweden at the age of 65?",
+    "relation": "What was given name when he died in Stockholm Sweden at the age of 65",
+    "origin_entity": [
+      "Akseli Gallen-Kallela"
+    ],
+    "Relation": "What was Akseli Gallen-Kallela's given name at the time of his death in Stockholm, Sweden at age 65",
+    "entity": [
+      "Akseli Gallen-Kallela",
+      "Stockholm",
+      "Sweden",
+      "death",
+      "given name",
+      "Finnish artist"
+    ]
+  },
+  {
+    "Id": 124,
+    "Question": "Who succeeded Ma Ying-jeou as head of government in Taipei?",
+    "relation": "Who succeeded as head of government in",
+    "origin_entity": [
+      "Ma Ying-jeou",
+      "Taipei"
+    ],
+    "Relation": "Who succeeded Ma Ying-jeou as head of government in Taipei",
+    "entity": [
+      "Ma Ying-jeou",
+      "Taipei",
+      "head of government",
+      "Taiwan",
+      "succession"
+    ]
+  },
+  {
+    "Id": 125,
+    "Question": "Who was Bill Clinton's stepparent during the time he met Hillary Rodham at Yale and got married?",
+    "relation": "Who was stepparent during the time he met Hillary Rodham at Yale and got married",
+    "origin_entity": [
+      "Bill Clinton",
+      "Clinton's"
+    ],
+    "Relation": "Who was Bill Clinton's stepparent during the period he met Hillary Rodham at Yale and got married",
+    "entity": [
+      "Bill Clinton",
+      "Hillary Rodham",
+      "Yale University",
+      "stepparent",
+      "marriage",
+      "Roger Clinton Sr."
+    ]
+  },
+  {
+    "Id": 126,
+    "Question": "During the First Portuguese Republic (República Portuguesa), what was the first name used for the Portuguese Republic?",
+    "relation": "During the () what was the first name used for the Republic",
+    "origin_entity": [
+      "First Portuguese Republic",
+      "República Portuguesa",
+      "Portuguesa",
+      "portuguese"
+    ],
+    "Relation": "What was the first name used for the Portuguese Republic during the First Portuguese Republic",
+    "entity": [
+      "First Portuguese Republic",
+      "Portuguese Republic",
+      "República Portuguesa",
+      "name",
+      "history of Portugal"
+    ]
+  },
+  {
+    "Id": 127,
+    "Question": "What state was the Kumaon division located in before Uttarakhand?",
+    "relation": "What state was the located in before",
+    "origin_entity": [
+      "Kumaon division",
+      "Uttarakhand"
+    ],
+    "Relation": "What state was the Kumaon division located in before Uttarakhand",
+    "entity": [
+      "Kumaon division",
+      "Uttarakhand",
+      "state",
+      "India",
+      "administrative division"
+    ]
+  },
+  {
+    "Id": 128,
+    "Question": "Before joining AEK Larnaca, which football club did Loukas Louka Senior career play for?",
+    "relation": "Before joining AEK Larnaca which football club did Senior career play for",
+    "origin_entity": [
+      "Loukas Louka"
+    ],
+    "Relation": "Which football club did Loukas Louka play for before joining AEK Larnaca",
+    "entity": [
+      "Loukas Louka",
+      "AEK Larnaca",
+      "football club",
+      "senior career",
+      "Cyprus football"
+    ]
+  },
+  {
+    "Id": 129,
+    "Question": "After having been located in Hebei, which administrative territorial entity is Baoding now in?",
+    "relation": "After having been located in which administrative territorial entity is now in",
+    "origin_entity": [
+      "Hebei",
+      "Baoding"
+    ],
+    "Relation": "Which administrative territorial entity is Baoding in after having been located in Hebei",
+    "entity": [
+      "Baoding",
+      "Hebei",
+      "administrative territorial entity",
+      "China",
+      "location change"
+    ]
+  },
+  {
+    "Id": 130,
+    "Question": "What is the date of the next election for the lower house of the Arizona State Legislature?",
+    "relation": "What is the date of the next election for the of the",
+    "origin_entity": [
+      "Arizona State Legislature",
+      "lower house"
+    ],
+    "Relation": "What is the date of the next election for the lower house of the Arizona State Legislature",
+    "entity": [
+      "Arizona State Legislature",
+      "lower house",
+      "election",
+      "date",
+      "United States elections"
+    ]
+  },
+  {
+    "Id": 131,
+    "Question": "What Act of Congress preceded the Environmental Quality Improvement Act (L. 91-222) in the 91st United States Congress?",
+    "relation": "What preceded the Environmental Quality Improvement Act (L in the",
+    "origin_entity": [
+      "91-222)",
+      "Act of Congress",
+      "91st United States Congress"
+    ],
+    "Relation": "What Act of Congress preceded the Environmental Quality Improvement Act in the 91st United States Congress",
+    "entity": [
+      "Environmental Quality Improvement Act",
+      "91st United States Congress",
+      "Act of Congress",
+      "predecessor",
+      "U.S. environmental law"
+    ]
+  },
+  {
+    "Id": 132,
+    "Question": "Who was Bulent Rauf's spouse when he was leading the society?",
+    "relation": "Who was spouse when he was leading the society",
+    "origin_entity": [
+      "Bulent Rauf"
+    ],
+    "Relation": "Who was the spouse of Bulent Rauf during his leadership of the society",
+    "entity": [
+      "Bulent Rauf",
+      "spouse",
+      "society leadership",
+      "Bulent Rauf's society"
+    ]
+  },
+  {
+    "Id": 133,
+    "Question": "What team was Jürgen Macho playing for when he started his senior career with 0 appearances?",
+    "relation": "What team was playing for when he started his senior career with 0 appearances",
+    "origin_entity": [
+      "Jürgen Macho"
+    ],
+    "Relation": "What team was Jürgen Macho playing for when he started his senior career",
+    "entity": [
+      "Jürgen Macho",
+      "senior career start",
+      "0 appearances",
+      "football team"
+    ]
+  },
+  {
+    "Id": 134,
+    "Question": "What was the worth of the Florida State University in term of business entity when there were 33,486 undergraduates in the fall?",
+    "relation": "What was the worth of the in term of when there were 33486 undergraduates in the fall",
+    "origin_entity": [
+      "business entity",
+      "Florida State University"
+    ],
+    "Relation": "What was the worth of Florida State University as a business entity during a specific enrollment period",
+    "entity": [
+      "Florida State University",
+      "business entity worth",
+      "33,486 undergraduates",
+      "fall enrollment",
+      "university valuation"
+    ]
+  },
+  {
+    "Id": 135,
+    "Question": "During María Consuelo Porras' tenure as Attorney General of Guatemala, who replaced her?",
+    "relation": "During María Consuelo Porras tenure as who replaced her",
+    "origin_entity": [
+      "Attorney General of Guatemala"
+    ],
+    "Relation": "Who replaced María Consuelo Porras during her tenure as Attorney General of Guatemala",
+    "entity": [
+      "María Consuelo Porras",
+      "Attorney General of Guatemala",
+      "replacement",
+      "Guatemalan government"
+    ]
+  },
+  {
+    "Id": 136,
+    "Question": "What company did Carlos Alcaraz become a brand ambassador for when he achieved a No. 1 ranking in singles?",
+    "relation": "What company did Carlos become a brand ambassador for when he achieved a No 1 ranking in singles",
+    "origin_entity": [
+      "Alcaraz"
+    ],
+    "Relation": "What company did Carlos Alcaraz become a brand ambassador for when he achieved No. 1 ranking in singles",
+    "entity": [
+      "Carlos Alcaraz",
+      "brand ambassador",
+      "No. 1 ranking in singles",
+      "tennis",
+      "sponsorship"
+    ]
+  },
+  {
+    "Id": 137,
+    "Question": "What was the Toronto Argonauts' home stadium when they played in the 59th Grey Cup Game?",
+    "relation": "What was the home stadium when they played in the 59th",
+    "origin_entity": [
+      "Toronto Argonauts",
+      "Grey Cup Game"
+    ],
+    "Relation": "What was the home stadium of Toronto Argonauts during the 59th Grey Cup Game",
+    "entity": [
+      "Toronto Argonauts",
+      "home stadium",
+      "59th Grey Cup Game",
+      "Canadian Football League",
+      "stadium history"
+    ]
+  },
+  {
+    "Id": 138,
+    "Question": "During the Enhanced Community Quarantine in Luzon, which metropolitan area was the IATF-EID discussing the petition to reimpose an ECQ on August 2?",
+    "relation": "During the Enhanced Community Quarantine in which was the IATF-EID discussing the petition to reimpose an on August 2",
+    "origin_entity": [
+      "metropolitan area",
+      "Luzon",
+      "ecq"
+    ],
+    "Relation": "Which metropolitan area was the IATF-EID discussing to reimpose an ECQ on August 2 during the Enhanced Community Quarantine in Luzon",
+    "entity": [
+      "Enhanced Community Quarantine in Luzon",
+      "IATF-EID",
+      "petition to reimpose ECQ",
+      "August 2",
+      "metropolitan area",
+      "Philippines",
+      "COVID-19 pandemic"
+    ]
+  },
+  {
+    "Id": 139,
+    "Question": "What football club did Cristian Lucchetti move to when he had 16 senior appearances?",
+    "relation": "What football did move to when he had 16 senior appearances",
+    "origin_entity": [
+      "Cristian Lucchetti",
+      "club"
+    ],
+    "Relation": "What football club did Cristian Lucchetti move to when he had 16 senior appearances",
+    "entity": [
+      "Cristian Lucchetti",
+      "football club move",
+      "16 senior appearances",
+      "football career"
+    ]
+  },
+  {
+    "Id": 140,
+    "Question": "What football club was Theo Bücker a manager for after Nejmeh?",
+    "relation": "What football club was a manager for after Nejmeh",
+    "origin_entity": [
+      "Theo Bücker"
+    ],
+    "Relation": "What football club was Theo Bücker a manager for after Nejmeh",
+    "entity": [
+      "Theo Bücker",
+      "football club manager",
+      "Nejmeh",
+      "managerial career",
+      "football management"
+    ]
+  },
+  {
+    "Id": 141,
+    "Question": "In what US presidential election did William Outis Allison live in Englewood Cliffs, New Jersey (incorporated)?",
+    "relation": "In what US presidential election did live in (incorporated)",
+    "origin_entity": [
+      "Englewood Cliffs, New Jersey",
+      "William Outis Allison"
+    ],
+    "Relation": "In what US presidential election did William Outis Allison live in Englewood Cliffs, New Jersey",
+    "entity": [
+      "William Outis Allison",
+      "Englewood Cliffs, New Jersey",
+      "incorporated",
+      "US presidential election",
+      "residence history",
+      "New Jersey history"
+    ]
+  },
+  {
+    "Id": 142,
+    "Question": "What bird was chosen as the official symbol of Illinois during the Northern Cardinal's tenure?",
+    "relation": "What bird was chosen as the official symbol of during the Northern Cardinals tenure",
+    "origin_entity": [
+      "Illinois"
+    ],
+    "Relation": "What bird was chosen as the official symbol of Illinois during the Northern Cardinal's tenure",
+    "entity": [
+      "Illinois",
+      "Northern Cardinal",
+      "state bird",
+      "official symbol",
+      "Illinois state symbols"
+    ]
+  },
+  {
+    "Id": 143,
+    "Question": "What TV show did Magnus Samuelsson win for the second time as Strongman Super Series champion?",
+    "relation": "What TV show did win for the second time as champion",
+    "origin_entity": [
+      "Magnus Samuelsson",
+      "Strongman Super Series"
+    ],
+    "Relation": "What TV show did Magnus Samuelsson win for the second time as Strongman Super Series champion",
+    "entity": [
+      "Magnus Samuelsson",
+      "Strongman Super Series",
+      "World's Strongest Man",
+      "TV show",
+      "strongman competition"
+    ]
+  },
+  {
+    "Id": 144,
+    "Question": "In which area of mathematics did Ted Kaczynski propose a challenge problem while living in Lombard in November- December?",
+    "relation": "In which of did propose a challenge problem while living in Lombard in November- December",
+    "origin_entity": [
+      "mathematics",
+      "area",
+      "Ted Kaczynski"
+    ],
+    "Relation": "In which area of mathematics did Ted Kaczynski propose a challenge problem while living in Lombard in November-December",
+    "entity": [
+      "Ted Kaczynski",
+      "Unabomber",
+      "mathematics",
+      "challenge problem",
+      "Lombard Illinois",
+      "November-December",
+      "number theory"
+    ]
+  },
+  {
+    "Id": 145,
+    "Question": "When Ian David CRAIG was awarded the Medal of the Order of Australia, who was he more commonly known as?",
+    "relation": null,
+    "origin_entity": null,
+    "Relation": "When Ian David CRAIG was awarded the Medal of the Order of Australia, who was he more commonly known as",
+    "entity": [
+      "Ian David CRAIG",
+      "Order of Australia",
+      "Australian cricket",
+      "cricketer",
+      "nickname"
+    ]
+  },
+  {
+    "Id": 146,
+    "Question": "Who was the Republican People's Party secretary general when İsmet İnönü, of the CHP, formed the new government of Turkey, in coalition with YTP and CKMP?",
+    "relation": "Who was the secretary general when İsmet İnönü of the CHformed the new government of Turkey in coalition with YTP and CKMP",
+    "origin_entity": [
+      "Republican People's Party",
+      "CHP"
+    ],
+    "Relation": "Who was the Republican People's Party secretary general when İsmet İnönü, of the CHP, formed the new government of Turkey, in coalition with YTP and CKMP",
+    "entity": [
+      "Republican People's Party",
+      "CHP",
+      "İsmet İnönü",
+      "Turkey",
+      "YTP",
+      "CKMP",
+      "coalition government",
+      "secretary general"
+    ]
+  },
+  {
+    "Id": 147,
+    "Question": "Who was appointed Deputy of the Prime Minister of Israel when a bloc of right-wing and far-right political parties led by Benjamin Netanyahu won the Israeli legislative elections in December?",
+    "relation": null,
+    "origin_entity": null,
+    "Relation": "Who was appointed Deputy of the Prime Minister of Israel when a bloc of right-wing and far-right political parties led by Benjamin Netanyahu won the Israeli legislative elections in December",
+    "entity": [
+      "Deputy Prime Minister of Israel",
+      "Benjamin Netanyahu",
+      "Israeli legislative elections",
+      "right-wing",
+      "far-right",
+      "December",
+      "Israeli government"
+    ]
+  },
+  {
+    "Id": 148,
+    "Question": "In which war did Guantánamo Bay detention camp open and adopt a training program as a source of interrogation techniques?",
+    "relation": "In which war did open and adopt a training program as a source of",
+    "origin_entity": [
+      "Guantánamo Bay detention camp",
+      "interrogation techniques"
+    ],
+    "Relation": "In which war did Guantánamo Bay detention camp open and adopt a training program as a source of interrogation techniques",
+    "entity": [
+      "Guantánamo Bay detention camp",
+      "War on Terror",
+      "Afghanistan War",
+      "interrogation techniques",
+      "United States",
+      "Cuba"
+    ]
+  },
+  {
+    "Id": 149,
+    "Question": "Which animal is the official symbol for the city of Iwaki in Fukushima Prefecture?",
+    "relation": "Which is the official symbol for the city of in Fukushima Prefecture",
+    "origin_entity": [
+      "Iwaki",
+      "animal"
+    ],
+    "Relation": "Which animal is the official symbol for the city of Iwaki in Fukushima Prefecture",
+    "entity": [
+      "Iwaki",
+      "Fukushima Prefecture",
+      "official symbol",
+      "city symbol",
+      "animal"
+    ]
+  },
+  {
+    "Id": 150,
+    "Question": "While John Lubbock, 1st Baron Avebury was a Member of Parliament for Maidstone, what charitable organization did he become the first president of?",
+    "relation": "While was a Member of Parliament for Maidstone what charitable organization did he become the first president of",
+    "origin_entity": [
+      "John Lubbock, 1st Baron Avebury"
+    ],
+    "Relation": "While John Lubbock, 1st Baron Avebury was a Member of Parliament for Maidstone, what charitable organization did he become the first president of",
+    "entity": [
+      "John Lubbock, 1st Baron Avebury",
+      "Maidstone",
+      "Member of Parliament",
+      "charitable organization",
+      "first president",
+      "19th century Britain"
+    ]
+  },
+  {
+    "Id": 151,
+    "Question": "Prior to playing for the England national under-21 football team, which sports team was David Beckham a member of?",
+    "relation": "Prior to playing for the England national under-21 football team which sports team was a member of",
+    "origin_entity": [
+      "David Beckham"
+    ],
+    "Relation": "Prior to playing for the England national under-21 football team, which sports team was David Beckham a member of",
+    "entity": [
+      "David Beckham",
+      "England national under-21 football team",
+      "Manchester United",
+      "youth team",
+      "football"
+    ]
+  }
+]

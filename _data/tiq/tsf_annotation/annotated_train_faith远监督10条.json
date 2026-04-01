@@ -1,0 +1,308 @@
+[
+    {
+        "Id": 1,
+        "Question": "Who was the Autonomous Governorate of Estonia's Governor of Estonia when they declared sovereignty as the Estonian Autonoomne Eestimaa kubermang?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1385836",
+                "WikidataLabel": "Jaan Poska",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Jaan_Poska"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "train",
+        "silver_tsf": null,
+        "question": "Who was the Autonomous Governorate of Estonia's Governor of Estonia when they declared sovereignty as the Estonian Autonoomne Eestimaa kubermang?",
+        "answers": [
+            {
+                "id": "Q1385836",
+                "label": "Jaan Poska"
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "Question": "Who founded Bucks County when it was one of Pennsylvania's three original counties created by the colonial proprietor?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q209152",
+                "WikidataLabel": "William Penn",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/William_Penn"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "train",
+        "silver_tsf": null,
+        "question": "Who founded Bucks County when it was one of Pennsylvania's three original counties created by the colonial proprietor?",
+        "answers": [
+            {
+                "id": "Q209152",
+                "label": "William Penn"
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "Question": "In which movie were scenes filmed at Princeton University Press during Princeton, New Jersey's time as a publisher?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q681092",
+                "WikidataLabel": "The Happening",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/The_Happening_(2008_film)"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "train",
+        "silver_tsf": null,
+        "question": "In which movie were scenes filmed at Princeton University Press during Princeton, New Jersey's time as a publisher?",
+        "answers": [
+            {
+                "id": "Q681092",
+                "label": "The Happening"
+            }
+        ]
+    },
+    {
+        "Id": 4,
+        "Question": "During DeMarcus Cousins' draft to the Sacramento Kings as the 5th pick, which arena was the Sacramento Kings' home venue?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q93831",
+                "WikidataLabel": "Sleep Train Arena",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/ARCO_Arena"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "train",
+        "silver_tsf": null,
+        "question": "During DeMarcus Cousins' draft to the Sacramento Kings as the 5th pick, which arena was the Sacramento Kings' home venue?",
+        "answers": [
+            {
+                "id": "Q93831",
+                "label": "Sleep Train Arena"
+            }
+        ]
+    },
+    {
+        "Id": 5,
+        "Question": "What major city was Scholastic Corporation founded in by Maurice R Robinson to publish youth magazines, which covered high school sports and social activities?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q1342",
+                "WikidataLabel": "Pittsburgh",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Pittsburgh"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "train",
+        "silver_tsf": null,
+        "question": "What major city was Scholastic Corporation founded in by Maurice R Robinson to publish youth magazines, which covered high school sports and social activities?",
+        "answers": [
+            {
+                "id": "Q1342",
+                "label": "Pittsburgh"
+            }
+        ]
+    },
+    {
+        "Id": 6,
+        "Question": "During Michael Bogdanov's time at the National Theatre, what was his position?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q3387717",
+                "WikidataLabel": "theatre director",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Theatre_director"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "train",
+        "silver_tsf": null,
+        "question": "During Michael Bogdanov's time at the National Theatre, what was his position?",
+        "answers": [
+            {
+                "id": "Q3387717",
+                "label": "theatre director"
+            }
+        ]
+    },
+    {
+        "Id": 7,
+        "Question": "Who was Katharine Hepburn's romantic partner before she won the Academy Award for Best Actress for her performance in Guess Who's Coming to Dinner?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q71275",
+                "WikidataLabel": "Spencer Tracy",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Spencer_Tracy"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "train",
+        "silver_tsf": {
+            "entity": [
+                "Katharine Hepburn"
+            ],
+            "relation": "Who was romantic partner before she won the Academy Award for Best Actress for her performance in Guess Whos Coming to Dinner",
+            "answer_type": "human",
+            "temporal_signal": "BEFORE",
+            "categorization": "Implicit"
+        },
+        "question": "Who was Katharine Hepburn's romantic partner before she won the Academy Award for Best Actress for her performance in Guess Who's Coming to Dinner?",
+        "answers": [
+            {
+                "id": "Q71275",
+                "label": "Spencer Tracy"
+            }
+        ]
+    },
+    {
+        "Id": 8,
+        "Question": "Who recorded and released the version of \"Mule Train\" from the album Sixteen Tons Recorded, as catalog number 40258?",
+        "Temporal signal": [
+            "OVERLAP"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q963827",
+                "WikidataLabel": "Tennessee Ernie Ford",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Tennessee_Ernie_Ford"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "train",
+        "silver_tsf": null,
+        "question": "Who recorded and released the version of \"Mule Train\" from the album Sixteen Tons Recorded, as catalog number 40258?",
+        "answers": [
+            {
+                "id": "Q963827",
+                "label": "Tennessee Ernie Ford"
+            }
+        ]
+    },
+    {
+        "Id": 9,
+        "Question": "What national sports team did Du\u0161an Ivkovi\u0107 coach before coaching Serbia?",
+        "Temporal signal": [
+            "BEFORE"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q931531",
+                "WikidataLabel": "Yugoslavia national basketball team",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Yugoslavia_men%27s_national_basketball_team"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "train",
+        "silver_tsf": null,
+        "question": "What national sports team did Du\u0161an Ivkovi\u0107 coach before coaching Serbia?",
+        "answers": [
+            {
+                "id": "Q931531",
+                "label": "Yugoslavia national basketball team"
+            }
+        ]
+    },
+    {
+        "Id": 10,
+        "Question": "What film award did Barbara Stanwyck receive after her years of being active?",
+        "Temporal signal": [
+            "AFTER"
+        ],
+        "Temporal question type": [
+            "Implicit"
+        ],
+        "Answer": [
+            {
+                "AnswerType": "Entity",
+                "WikidataQid": "Q640353",
+                "WikidataLabel": "Golden Globe Cecil B. DeMille Award",
+                "WikipediaURL": "https://en.wikipedia.org/wiki/Golden_Globe_Cecil_B._DeMille_Award"
+            }
+        ],
+        "Data source": "TIQ",
+        "Question creation date": "2023-07-15",
+        "Data set": "train",
+        "silver_tsf": {
+            "entity": [
+                "Barbara Stanwyck"
+            ],
+            "relation": "What film award did receive after her years of being active",
+            "answer_type": "film award",
+            "temporal_signal": "AFTER",
+            "categorization": "Implicit"
+        },
+        "question": "What film award did Barbara Stanwyck receive after her years of being active?",
+        "answers": [
+            {
+                "id": "Q640353",
+                "label": "Golden Globe Cecil B. DeMille Award"
+            }
+        ]
+    }
+]

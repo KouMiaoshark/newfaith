@@ -1,0 +1,184 @@
+{
+  "summary": {
+    "gold_file": "/home/koumiao/FAITH-main/_data/tiq/tsf_annotation/322_50_1_weici_human_check.json",
+    "pred_file": "/home/koumiao/FAITH-main/_data/tiq/tsf_annotation/324移除句法分析测试性能变化.json",
+    "output_file": "/home/koumiao/FAITH-main/_data/tiq/tsf_annotation/humancheck_result/移除句法分析_check1.json",
+    "gold_total_items": 50,
+    "pred_total_items": 50,
+    "gold_unique_ids": 50,
+    "pred_unique_ids": 50,
+    "matched_by_id": 50,
+    "gold_duplicate_id_count": 0,
+    "pred_duplicate_id_count": 0,
+    "strict_match_count": 32,
+    "gold_contains_pred_count": 34,
+    "pred_contains_gold_count": 38,
+    "strict_accuracy": 0.64,
+    "gold_contains_pred_rate": 0.68,
+    "pred_contains_gold_rate": 0.76
+  },
+  "mismatches": [
+    {
+      "Id": 54,
+      "Question": "What event in which Olympic sports discipline did Paavo Aaltonen compete at the London Olympic Games as part of the Team?",
+      "human_relation_normalized": "compete",
+      "pred_relation_normalized": "compete at",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 205,
+      "Question": "According to a research done by IHL Group during the retail apocalypse, what principle was true regarding the 20 stores announcing the most closures?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "was true regarding",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 245,
+      "Question": "Who was the head coach of the Netherlands national football team when Michel Vorm was a member?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "the head coach of",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 760,
+      "Question": "Who was the Speaker of the House of Representatives when Deputy Sharon Claydon was the incumbent?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "the speaker of",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 768,
+      "Question": "Who was the editor of Physical Review when it was founded by Ernest Merritt and co-founder?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "the editor of",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 840,
+      "Question": "Who was Dave Tollner's chief minister when he was Deputy Chief Minister of the Northern Territory?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "the chief minister when",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 1308,
+      "Question": "What was New York University's ranking in the US in terms of budget when it was ahead of Cornell and had a budget of $14.7 billion?",
+      "human_relation_normalized": "ranking",
+      "pred_relation_normalized": "ranking in",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 1764,
+      "Question": "What professional cycling team was Cadel Evans a member of as he was progressing through the ranks?",
+      "human_relation_normalized": "member of",
+      "pred_relation_normalized": "a member of",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 1906,
+      "Question": "Who held the position of Minority Whip in the Pennsylvania State Senate Leadership while Ryan Aument was Majority Whip?",
+      "human_relation_normalized": "held",
+      "pred_relation_normalized": "held the position of",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 2277,
+      "Question": "During the area +142.52826446393738 of Smøla, who was the head of government?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "the head of government",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 2279,
+      "Question": "Who was leading the State of Buenos Aires Estado de Buenos Aires when the Battle of Cepeda occurred?",
+      "human_relation_normalized": "was leading",
+      "pred_relation_normalized": "leading",
+      "strict_equal": false,
+      "gold_contains_pred": true,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 2759,
+      "Question": "During Gema Igual's time as Alcalde (PP) in Santander, Spain, who was the head of the government?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "the head of the government",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 2819,
+      "Question": "Who was the head of government in Bourges when Yann Galut served as the mayor?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "the head of government in",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 2942,
+      "Question": "Who was the chairperson of the International Mathematical Union prior to Carlos Kenig?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "the chairperson of",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 4466,
+      "Question": "Who was Wilbur Ross' partner before he founded WL Ross & Co and became known as the 'King of Bankruptcy'?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "partner",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 4469,
+      "Question": "Who was the head of government in Sauherad before Bordalen was located in the administrative territorial entity Sauherad?",
+      "human_relation_normalized": "was",
+      "pred_relation_normalized": "the head of government in",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 5721,
+      "Question": "In which general election did Nurul Izzah Anwar get elected as Member of Parliament for Lembah Pantai while representing the Pakatan Harapan faction in Dewan Rakyat?",
+      "human_relation_normalized": "get elected",
+      "pred_relation_normalized": "get elected as",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 5867,
+      "Question": "When Elza Moreira de Sá Peixoto was a teacher, which football club was founded on 1 May in Manaus?",
+      "human_relation_normalized": "was founded",
+      "pred_relation_normalized": "founded",
+      "strict_equal": false,
+      "gold_contains_pred": true,
+      "pred_contains_gold": false
+    }
+  ]
+}

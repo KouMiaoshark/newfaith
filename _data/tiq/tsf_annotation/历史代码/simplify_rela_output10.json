@@ -1,0 +1,182 @@
+[
+  {
+    "Id": 1,
+    "Question": "Who was the Autonomous Governorate of Estonia's Governor of Estonia when they declared sovereignty as the Estonian Autonoomne Eestimaa kubermang?",
+    "relation": "Who was the Governor of when they declared sovereignty as the Estonian Autonoomne Eestimaa kubermang",
+    "Relation": "was the Governor of"
+  },
+  {
+    "Id": 2,
+    "Question": "Who founded Bucks County when it was one of Pennsylvania's three original counties created by the colonial proprietor?",
+    "relation": "Who founded when it was one of three original counties created by the colonial proprietor",
+    "Relation": "founded"
+  },
+  {
+    "Id": 3,
+    "Question": "In which movie were scenes filmed at Princeton University Press during Princeton, New Jersey's time as a publisher?",
+    "relation": "In which movie were scenes filmed at Princeton University Press during time as a publisher",
+    "Relation": "were scenes filmed at"
+  },
+  {
+    "Id": 4,
+    "Question": "During DeMarcus Cousins' draft to the Sacramento Kings as the 5th pick, which arena was the Sacramento Kings' home venue?",
+    "relation": "During DeMarcus Cousins draft to the as the 5th pick which arena was the Sacramento Kings home venue",
+    "Relation": "was the home venue of"
+  },
+  {
+    "Id": 5,
+    "Question": "What major city was Scholastic Corporation founded in by Maurice R Robinson to publish youth magazines, which covered high school sports and social activities?",
+    "relation": "What city was founded in by Maurice R Robinson to publish youth magazines which covered high school sports and social activities",
+    "Relation": "was founded in"
+  },
+  {
+    "Id": 6,
+    "Question": "During Michael Bogdanov's time at the National Theatre, what was his position?",
+    "relation": "During time at the what was his position",
+    "Relation": "was the position of"
+  },
+  {
+    "Id": 7,
+    "Question": "Who was Katharine Hepburn's romantic partner before she won the Academy Award for Best Actress for her performance in Guess Who's Coming to Dinner?",
+    "relation": "Who was romantic partner before she won the Academy Award for Best Actress for her performance in",
+    "Relation": "was the romantic partner of"
+  },
+  {
+    "Id": 8,
+    "Question": "Who recorded and released the version of \"Mule Train\" from the album Sixteen Tons Recorded, as catalog number 40258?",
+    "relation": "Who and released the version of from the album Recorded as catalog number 40258",
+    "Relation": "recorded and released"
+  },
+  {
+    "Id": 9,
+    "Question": "What national sports team did Dušan Ivković coach before coaching Serbia?",
+    "relation": "What national sports team did coach before coaching Serbia",
+    "Relation": "coached"
+  },
+  {
+    "Id": 10,
+    "Question": "What film award did Barbara Stanwyck receive after her years of being active?",
+    "relation": "What film award did receive after her years of being active",
+    "Relation": "received"
+  },
+  {
+    "Id": 11,
+    "Question": "What musical group was on an eighteen-date concert tour using pyrotechnic displays at the time of The Station nightclub fire in West Warwick, Rhode Island, United States?",
+    "relation": "What musical group was on an eighteen-date concert tour using pyrotechnic displays at the time of The in United States",
+    "Relation": "was on a concert tour"
+  },
+  {
+    "Id": 12,
+    "Question": "After the release of N.W.A and the Posse, who became part of N.W.A?",
+    "relation": "After the release of who became part of NWA",
+    "Relation": "became part of"
+  },
+  {
+    "Id": 13,
+    "Question": "When RCD Mallorca was newly promoted to the Segunda División, which club did Spanish footballer Stoichkov sign a four-year contract with?",
+    "relation": "When RCD Mallorca was newly promoted to the which club did Spanish footballer sign a four-year contract with",
+    "Relation": "signed a contract with"
+  },
+  {
+    "Id": 14,
+    "Question": "What sport did Pete Hamilton win the NASCAR national Sportsman division championship in?",
+    "relation": "What sport did win the national championship in",
+    "Relation": "won the championship in"
+  },
+  {
+    "Id": 15,
+    "Question": "During the time Juan M Thompson was harassing his ex-girlfriend and making bomb threats to Jewish Community Centers, was he successful in running for mayor of St Louis?",
+    "relation": "During the time Juan was harassing his ex-girlfriend and making bomb threats to Jewish Community Centers was he successful in running for mayor of St Louis",
+    "Relation": "was successful in running for"
+  },
+  {
+    "Id": 16,
+    "Question": "While a member of UNESCO, which Federated States of Micronesia published The Networker?",
+    "relation": "While a member of UNESCO which Federated States of Micronesia published The Networker",
+    "Relation": "published"
+  },
+  {
+    "Id": 17,
+    "Question": "What album did Alicia Keys release when Norah Jones won the Grammy Award for Best New Artist?",
+    "relation": "What did release when Norah Jones won the Grammy Award for Best New Artist",
+    "Relation": "released"
+  },
+  {
+    "Id": 18,
+    "Question": "What was the third track on the band's second studio album when the song \"We Are Young\" brought them mainstream success?",
+    "relation": "What was the third track on the bands second studio album when the song brought them mainstream success",
+    "Relation": "was the third track on"
+  },
+  {
+    "Id": 19,
+    "Question": "At which association football club did Roberto Mancini begin his managerial career at the age of 36, before eventually winning the Coppa Italia title?",
+    "relation": "At which association football club did begin his managerial career at the age of 36 before eventually the title",
+    "Relation": "began managerial career at"
+  },
+  {
+    "Id": 20,
+    "Question": "During the eruption of Mount Nyiragongo in the Democratic Republic of the Congo which displaced about 400,000 people, what branch of physics was used to monitor the increased activity?",
+    "relation": "During the eruption of in the Democratic Republic of the Congo which displaced about 400000 what branch of physics was used to monitor the increased activity",
+    "Relation": "was used to monitor"
+  },
+  {
+    "Id": 21,
+    "Question": "During Jeremy Corbyn's tenure as Shadow Cabinet leader, what leadership elections took place?",
+    "relation": "During tenure as Shadow Cabinet leader what leadership elections took place",
+    "Relation": "took place during tenure as"
+  },
+  {
+    "Id": 22,
+    "Question": "During Geraldine Van Bibber's time as a member of the Parliamentary group Yukon Party, who were defeated in the Yukon general election and served as the Official Opposition?",
+    "relation": "During time as a member of the Parliamentary group who were defeated in the general election and served as the Official Opposition",
+    "Relation": "were defeated while a member of"
+  },
+  {
+    "Id": 23,
+    "Question": "After being born in Marigliano, Italy, which world championship was Maria Teresa de Filippis the first woman to race in?",
+    "relation": "After being born in Marigliano Italy which was the first woman to race in",
+    "Relation": "was the first woman to race in"
+  },
+  {
+    "Id": 24,
+    "Question": "Who was the rector of the National Autonomous University of Mexico when there were 30,089 postgraduates enrolled (as of update)?",
+    "relation": "Who was the of the when there were 30089 enrolled (as of update)",
+    "Relation": "was rector when"
+  },
+  {
+    "Id": 25,
+    "Question": "During the US Open quarter-final in Kim Clijsters' Grand Slam doubles results, which edition of the tennis tournament did Kim Clijsters maintain her top ten ranking despite a shoulder injury?",
+    "relation": "During the quarter-final in Grand Slam doubles results which edition of the tennis tournament did Kim Clijsters maintain her top ten ranking despite a shoulder injury",
+    "Relation": "maintained top ten ranking during"
+  },
+  {
+    "Id": 26,
+    "Question": "Which production company was behind Iron Man when Stan Winston's company created rubber and metal versions of the armor and used computer-generated imagery to create the character?",
+    "relation": "Which production company was behind when Stan Winstons company created rubber and metal versions of the armor and used computer-generated imagery to create the character",
+    "Relation": "was behind when"
+  },
+  {
+    "Id": 27,
+    "Question": "What role did David Blunkett hold prior to becoming the Shadow Secretary of State for Education and Employment?",
+    "relation": "What role did hold prior to becoming the Shadow Secretary of State for Education and Employment",
+    "Relation": "held prior to becoming"
+  },
+  {
+    "Id": 28,
+    "Question": "After serving as Minister of National Defence, what position was held by Gordon O'Connor?",
+    "relation": "After serving as what position was held by",
+    "Relation": "held after serving as"
+  },
+  {
+    "Id": 29,
+    "Question": "Before Peter Lawford died in Los Angeles, California, who was he married to?",
+    "relation": "Before in Los Angeles California who was he married to",
+    "Relation": "was married to before"
+  },
+  {
+    "Id": 30,
+    "Question": "During the Dutch Golden Age, which artist typified the trend of Baroque paintings against dark backgrounds that became popular from the mid-century onwards?",
+    "relation": "During the which artist typified the trend of Baroque paintings against dark backgrounds that became popular from the mid-century onwards",
+    "Relation": "typified during"
+  }
+]

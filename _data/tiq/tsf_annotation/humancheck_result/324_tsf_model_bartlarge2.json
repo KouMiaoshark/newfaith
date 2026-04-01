@@ -1,0 +1,285 @@
+{
+  "summary": {
+    "gold_total_items": 50,
+    "pred_total_items": 50,
+    "gold_unique_ids": 50,
+    "pred_unique_ids": 50,
+    "matched_by_id": 50,
+    "gold_duplicate_id_count": 0,
+    "pred_duplicate_id_count": 0,
+    "strict_match_count": 24,
+    "gold_contains_pred_count": 33,
+    "pred_contains_gold_count": 37,
+    "strict_accuracy": 0.48,
+    "gold_contains_pred_rate": 0.66,
+    "pred_contains_gold_rate": 0.74,
+    "missing_in_pred_ids": [],
+    "extra_in_pred_ids": [],
+    "config_path": "/home/koumiao/FAITH-main/config/tiq/train_tqu_fer.yml",
+    "input_path": "/home/koumiao/FAITH-main/_data/tiq/tsf_annotation/322_50_2_human_check.json",
+    "predictions_output": "/home/koumiao/FAITH-main/_data/tiq/tsf_annotation/humancheck_result/324_tsf_model_bartlarge-predictions.json",
+    "report_output": "/home/koumiao/FAITH-main/_data/tiq/tsf_annotation/humancheck_result/324_tsf_model_bartlarge2.json"
+  },
+  "mismatches": [
+    {
+      "Id": 54,
+      "Question": "What event in which Olympic sports discipline did Paavo Aaltonen compete at the London Olympic Games as part of the Team?",
+      "human_relation_normalized": "compete",
+      "pred_relation_normalized": "compete at",
+      "pred_tsf": "Paavo Aaltonen||compete at||Olympic sports discipline event||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 205,
+      "Question": "According to a research done by IHL Group during the retail apocalypse, what principle was true regarding the 20 stores announcing the most closures?",
+      "human_relation_normalized": "was true regarding",
+      "pred_relation_normalized": "according to a research done by during the retail apocalypse what principle was true regarding the 20 stores announcing the most closures",
+      "pred_tsf": "IHL Group||According to a research done by during the retail apocalypse what principle was true regarding the 20 stores announcing the most closures||principle||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 245,
+      "Question": "Who was the head coach of the Netherlands national football team when Michel Vorm was a member?",
+      "human_relation_normalized": "was the head coach of",
+      "pred_relation_normalized": "the head coach of",
+      "pred_tsf": "Netherlands national football team Michel Vorm||the head coach of||human||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": true,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 316,
+      "Question": "Who published The Essential Dave Allen London during Dave Allen's career as a comedian and actor?",
+      "human_relation_normalized": "published",
+      "pred_relation_normalized": "who published the essential during dave allens career as a comedian and actor",
+      "pred_tsf": "London Dave Allen||Who published The Essential during Dave Allens career as a comedian and actor||publisher||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 356,
+      "Question": "What ISO standard was Enoch Powell complying with when he was the Minister of Health?",
+      "human_relation_normalized": "complying with",
+      "pred_relation_normalized": "what was complying with when he was the minister of health",
+      "pred_tsf": "ISO ISO standard Enoch Powell||What was complying with when he was the Minister of Health||ISO standard||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 760,
+      "Question": "Who was the Speaker of the House of Representatives when Deputy Sharon Claydon was the incumbent?",
+      "human_relation_normalized": "was the speaker of the house of representatives",
+      "pred_relation_normalized": "the speaker of",
+      "pred_tsf": "House of Representatives||the speaker of||human||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": true,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 768,
+      "Question": "Who was the editor of Physical Review when it was founded by Ernest Merritt and co-founder?",
+      "human_relation_normalized": "was the editor of",
+      "pred_relation_normalized": "the editor of",
+      "pred_tsf": "Physical Review Ernest Merritt||the editor of||human||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": true,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 840,
+      "Question": "Who was Dave Tollner's chief minister when he was Deputy Chief Minister of the Northern Territory?",
+      "human_relation_normalized": "chief minister",
+      "pred_relation_normalized": "was",
+      "pred_tsf": "Dave Tollner||was||human||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 1274,
+      "Question": "During Ethiopia's total fertility rate of +5.693, which general election returned Meles to power?",
+      "human_relation_normalized": "returned meles to power",
+      "pred_relation_normalized": "returned to power",
+      "pred_tsf": "Meles||returned to power||Ethiopian general election||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 1308,
+      "Question": "What was New York University's ranking in the US in terms of budget when it was ahead of Cornell and had a budget of $14.7 billion?",
+      "human_relation_normalized": "ranking in the us in terms of budget",
+      "pred_relation_normalized": "what was ranking in the us in terms of budget when it was ahead of and had a budget of $147 billion",
+      "pred_tsf": "New York University Cornell||What was ranking in the US in terms of budget when it was ahead of and had a budget of $147 billion||school||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 1764,
+      "Question": "What professional cycling team was Cadel Evans a member of as he was progressing through the ranks?",
+      "human_relation_normalized": "member of",
+      "pred_relation_normalized": "a member of",
+      "pred_tsf": "Cadel Evans||a member of||professional cycling team||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 1792,
+      "Question": "In which Scottish council area was Bathgate located after it was moved to West Lothian?",
+      "human_relation_normalized": "located",
+      "pred_relation_normalized": "located in",
+      "pred_tsf": "Scottish council area Bathgate West Lothian||located in||Council area of Scotland||AFTER||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 1906,
+      "Question": "Who held the position of Minority Whip in the Pennsylvania State Senate Leadership while Ryan Aument was Majority Whip?",
+      "human_relation_normalized": "held the position of minority whip",
+      "pred_relation_normalized": "held the position of",
+      "pred_tsf": "Pennsylvania State Senate||held the position of||human||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": true,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 2167,
+      "Question": "Which Olympic event did Gunhild Hoffmeister win two silver and one bronze medal in at the Munich Olympic Games, becoming the only German distance runner to do so?",
+      "human_relation_normalized": "win two silver and one bronze medal in",
+      "pred_relation_normalized": "win",
+      "pred_tsf": "Munich Munich Olympic Games Gunhild Hoffmeister||win||Olympic sporting event||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": true,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 2277,
+      "Question": "During the area +142.52826446393738 of Smøla, who was the head of government?",
+      "human_relation_normalized": "was the head of government",
+      "pred_relation_normalized": "the head of government",
+      "pred_tsf": "Smøla||the head of government||human||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": true,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 2759,
+      "Question": "During Gema Igual's time as Alcalde (PP) in Santander, Spain, who was the head of the government?",
+      "human_relation_normalized": "was the head of the government",
+      "pred_relation_normalized": "the head of",
+      "pred_tsf": "Gema Santander, Spain Spain||the head of||human||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": true,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 2819,
+      "Question": "Who was the head of government in Bourges when Yann Galut served as the mayor?",
+      "human_relation_normalized": "was the head of government in bourges",
+      "pred_relation_normalized": "the head of government in",
+      "pred_tsf": "Bourges Yann Galut||the head of government in||human||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": true,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 2942,
+      "Question": "Who was the chairperson of the International Mathematical Union prior to Carlos Kenig?",
+      "human_relation_normalized": "was the chairperson of",
+      "pred_relation_normalized": "the chairperson of",
+      "pred_tsf": "International Mathematical Union||the chairperson of||human||BEFORE||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": true,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 3438,
+      "Question": "After Atlas Air had 4,056 employees and operated to more than 300 global destinations, what business did they purchase four additional 747-8 freighters from?",
+      "human_relation_normalized": "purchase",
+      "pred_relation_normalized": "after had 4056 employees and operated to more than 300 global destinations what business did they purchase four additional freighters from",
+      "pred_tsf": "747-8 Atlas Air||After had 4056 employees and operated to more than 300 global destinations what business did they purchase four additional freighters from||business||AFTER||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 3464,
+      "Question": "Before Antti Rinne was appointed as Prime Minister, who did he replace as First Deputy Speaker of the Parliament?",
+      "human_relation_normalized": "replace as first deputy speaker",
+      "pred_relation_normalized": "before was appointed as prime minister who did he replace as first deputy speaker of the parliament",
+      "pred_tsf": "Antti Rinne||Before was appointed as Prime Minister who did he replace as First Deputy Speaker of the Parliament||human||BEFORE||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 4141,
+      "Question": "Before the Sydney Olympics, what international team was Carla Overbeck representing with her 170 caps?",
+      "human_relation_normalized": "representing",
+      "pred_relation_normalized": "was representing",
+      "pred_tsf": "Carla Overbeck||was representing||women's national handball team||BEFORE||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 4466,
+      "Question": "Who was Wilbur Ross' partner before he founded WL Ross & Co and became known as the 'King of Bankruptcy'?",
+      "human_relation_normalized": "partner",
+      "pred_relation_normalized": "was",
+      "pred_tsf": "Wilbur Ross WL Ross||was||human||BEFORE||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 4469,
+      "Question": "Who was the head of government in Sauherad before Bordalen was located in the administrative territorial entity Sauherad?",
+      "human_relation_normalized": "was the head of",
+      "pred_relation_normalized": "the head of government in",
+      "pred_tsf": "Sauherad||the head of government in||human||BEFORE||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": false
+    },
+    {
+      "Id": 4829,
+      "Question": "During Rafael Correa's time at his employer Carlos Baca Mancheno, which university awarded him an honorary doctorate?",
+      "human_relation_normalized": "awarded",
+      "pred_relation_normalized": "during time at his employer carlos baca mancheno which university awarded him an honorary doctorate",
+      "pred_tsf": "Rafael Correa||During time at his employer Carlos Baca Mancheno which university awarded him an honorary doctorate||university||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 4947,
+      "Question": "Prior to joining Atlante UTN, which club did Federico Mancinelli play for in his senior career?",
+      "human_relation_normalized": "play for",
+      "pred_relation_normalized": "prior to joining atlante utn which club did play for in his senior career",
+      "pred_tsf": "Mancinelli||Prior to joining Atlante UTN which club did play for in his senior career||association football club||BEFORE||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    },
+    {
+      "Id": 5721,
+      "Question": "In which general election did Nurul Izzah Anwar get elected as Member of Parliament for Lembah Pantai while representing the Pakatan Harapan faction in Dewan Rakyat?",
+      "human_relation_normalized": "get elected",
+      "pred_relation_normalized": "get elected as",
+      "pred_tsf": "Nurul Izzah Anwar Pakatan Harapan Lembah Pantai Dewan Rakyat||get elected as||Malaysian general election||OVERLAP||implicit",
+      "strict_equal": false,
+      "gold_contains_pred": false,
+      "pred_contains_gold": true
+    }
+  ]
+}

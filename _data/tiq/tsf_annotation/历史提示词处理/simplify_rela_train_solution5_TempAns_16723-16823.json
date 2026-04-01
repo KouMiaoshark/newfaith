@@ -1,0 +1,1502 @@
+[
+  {
+    "Id": 16717,
+    "Question": "When Navarre shared a border with Nouvelle-Aquitaine?",
+    "relation": "When shared a border with",
+    "Relation": "shared a border with"
+  },
+  {
+    "Id": 16718,
+    "Question": "When Ibrahim Mohammad Jahfar was bestowed with the title Yang Berhormat Pehin Datu Perdana Menteri Dato Seri Utama Ibrahim Mohammad Jaafar SPMB DSNB DK CBE Ibrahim?",
+    "relation": "When was bestowed with the title Perdana Menteri Dato Seri Utama Ibrahim Mohammad Jaafar SPMB DSNB CBE Ibrahim",
+    "Relation": "was bestowed with the title"
+  },
+  {
+    "Id": 16719,
+    "Question": "When Buchenwald concentration camp was liberated by the United States Army and Dwight D. Eisenhower visited one of its subcamps?",
+    "relation": "When was liberated by the and visited one of its",
+    "Relation": "was liberated by and visited"
+  },
+  {
+    "Id": 16720,
+    "Question": "When Conoco left Ponca City start date?",
+    "relation": "When left start date",
+    "Relation": "left start date"
+  },
+  {
+    "Id": 16721,
+    "Question": "When Conoco left Ponca City end date?",
+    "relation": "When left date",
+    "Relation": "left end date"
+  },
+  {
+    "Id": 16722,
+    "Question": "When Shaul Mofaz was Leader of the Opposition?",
+    "relation": "When was",
+    "Relation": "was Leader of the Opposition"
+  },
+  {
+    "Id": 16723,
+    "Question": "When Amparo Marco Gual was alcaldesa of Castellón de la Plana?",
+    "relation": "When Marco Gual was alcaldesa of",
+    "Relation": "was alcaldesa of"
+  },
+  {
+    "Id": 16724,
+    "Question": "When Zlatoust located in the administrative territorial entity of Russia start date?",
+    "relation": "When located in the administrative territorial entity of start date",
+    "Relation": "located in the administrative territorial entity of start date"
+  },
+  {
+    "Id": 16725,
+    "Question": "When Zlatoust located in the administrative territorial entity of Russia end date?",
+    "relation": "When located in the administrative territorial entity of Russia end date",
+    "Relation": "located in the administrative territorial entity of end date"
+  },
+  {
+    "Id": 16726,
+    "Question": "When Manuel Azaña was President of Spain start date?",
+    "relation": "When was start date",
+    "Relation": "was President of start date"
+  },
+  {
+    "Id": 16727,
+    "Question": "When Manuel Azaña was President of Spain end date?",
+    "relation": "When was end date",
+    "Relation": "was President of Spain end date"
+  },
+  {
+    "Id": 16728,
+    "Question": "When Sergio Fajardo served his term as Governor of Antioquia?",
+    "relation": "When served his term as of",
+    "Relation": "served his term as Governor of"
+  },
+  {
+    "Id": 16729,
+    "Question": "When Herb Brooks died in a car accident?",
+    "relation": "When died in a car accident",
+    "Relation": "died in a car accident"
+  },
+  {
+    "Id": 16730,
+    "Question": "When Lieutenant Governor of New York held office start date?",
+    "relation": "When held office start date",
+    "Relation": "held office start date"
+  },
+  {
+    "Id": 16731,
+    "Question": "When Lieutenant Governor of New York held office end date?",
+    "relation": "When held office end date",
+    "Relation": "held office end date"
+  },
+  {
+    "Id": 16732,
+    "Question": "When Tommy Sheridan was Glasgow City Councillor and Convenor of the Scottish Socialist Party?",
+    "relation": "When was and Convenor of the",
+    "Relation": "was Glasgow City Councillor and Convenor of"
+  },
+  {
+    "Id": 16733,
+    "Question": "When Charles Dickens died in Higham, Kent, England at the age of 58?",
+    "relation": "When died in England at the age of 58",
+    "Relation": "died in Higham, Kent, England"
+  },
+  {
+    "Id": 16734,
+    "Question": "When the impeachment hearings against U.S. President Donald Trump began?",
+    "relation": "When the hearings against US President began",
+    "Relation": "impeachment hearings against began"
+  },
+  {
+    "Id": 16735,
+    "Question": "When the Bulgarian parliamentary elections took place?",
+    "relation": "When the took place",
+    "Relation": "parliamentary elections took place"
+  },
+  {
+    "Id": 16736,
+    "Question": "When Gary Bettman was the commissioner of the NHL?",
+    "relation": "When was the commissioner of the NHL",
+    "Relation": "was the commissioner of"
+  },
+  {
+    "Id": 16737,
+    "Question": "When Helmut Haller's Senior career with FC Augsburg ended start date?",
+    "relation": "When career with ended date",
+    "Relation": "Senior career with FC Augsburg ended start date"
+  },
+  {
+    "Id": 16738,
+    "Question": "When Helmut Haller's Senior career with FC Augsburg ended end date?",
+    "relation": "When Senior career with end date",
+    "Relation": "Senior career with FC Augsburg ended end date"
+  },
+  {
+    "Id": 16739,
+    "Question": "When Cristian Tudor established his senior career with Sheriff Tiraspol start date?",
+    "relation": "When his with",
+    "Relation": "established his senior career with Sheriff Tiraspol start date"
+  },
+  {
+    "Id": 16740,
+    "Question": "When Cristian Tudor established his senior career with Sheriff Tiraspol end date?",
+    "relation": "When established his career with",
+    "Relation": "established his senior career with Sheriff Tiraspol end date"
+  },
+  {
+    "Id": 16741,
+    "Question": "When Dieter Hecking's senior career at Waldhof Mannheim ended start date?",
+    "relation": "When career at ended date",
+    "Relation": "senior career at Waldhof Mannheim ended start date"
+  },
+  {
+    "Id": 16742,
+    "Question": "When Dieter Hecking's senior career at Waldhof Mannheim ended end date?",
+    "relation": "When senior career at end date",
+    "Relation": "senior career at Waldhof Mannheim ended end date"
+  },
+  {
+    "Id": 16743,
+    "Question": "When the Anglo-Siamese Treaty of Kedah was signed start date?",
+    "relation": "When the of was signed start date",
+    "Relation": "was signed start date"
+  },
+  {
+    "Id": 16744,
+    "Question": "When the Anglo-Siamese Treaty of Kedah was signed end date?",
+    "relation": "When the of was signed end date",
+    "Relation": "was signed end date"
+  },
+  {
+    "Id": 16745,
+    "Question": "When Jiří Rusnok was Prime Minister of the Czech Republic start date?",
+    "relation": "When was Prime Minister of the Czech Republic start date",
+    "Relation": "was Prime Minister of the Czech Republic start date"
+  },
+  {
+    "Id": 16746,
+    "Question": "When Jiří Rusnok was Prime Minister of the Czech Republic end date?",
+    "relation": "When was Prime Minister of the Czech Republic end date",
+    "Relation": "was Prime Minister of the Czech Republic end date"
+  },
+  {
+    "Id": 16747,
+    "Question": "When Pavlo Lazarenko was the 5th Prime Minister of Ukraine start date?",
+    "relation": "When was the 5th start date",
+    "Relation": "was the 5th Prime Minister of Ukraine start date"
+  },
+  {
+    "Id": 16748,
+    "Question": "When Pavlo Lazarenko was the 5th Prime Minister of Ukraine end date?",
+    "relation": "When was the 5th end date",
+    "Relation": "was the 5th Prime Minister of Ukraine end date"
+  },
+  {
+    "Id": 16749,
+    "Question": "When the Port of Seattle was formed as outlined in the Port District Act and approved by voters?",
+    "relation": "When the was formed as outlined in the and approved by voters",
+    "Relation": "was formed as outlined in the Port District Act and approved by voters"
+  },
+  {
+    "Id": 16750,
+    "Question": "When Solomon Bundy was a United States Representative from New York start date?",
+    "relation": "When was a United States Representative from start date",
+    "Relation": "was a United States Representative from New York start date"
+  },
+  {
+    "Id": 16751,
+    "Question": "When Solomon Bundy was a United States Representative from New York end date?",
+    "relation": "When was a United States Representative from end date",
+    "Relation": "was a United States Representative from New York end date"
+  },
+  {
+    "Id": 16752,
+    "Question": "When Donald Trump visited the U.K. and met with Elizabeth II and Theresa May?",
+    "relation": null,
+    "Relation": "visited the U.K. and met with Elizabeth II and Theresa May"
+  },
+  {
+    "Id": 16753,
+    "Question": "When Robert DeShaun \"Tractor\" Traylor played during his professional basketball career start date?",
+    "relation": "When Robert DeShaun Tractor played during his professional career start date",
+    "Relation": "played during his professional basketball career start date"
+  },
+  {
+    "Id": 16754,
+    "Question": "When Robert DeShaun \"Tractor\" Traylor played during his professional basketball career end date?",
+    "relation": "When Robert DeShaun Tractor played during his professional career end date",
+    "Relation": "played during his professional basketball career end date"
+  },
+  {
+    "Id": 16755,
+    "Question": "When Günter Schabowski joined the Socialist Unity Party start date?",
+    "relation": "When joined the start date",
+    "Relation": "joined the Socialist Unity Party start date"
+  },
+  {
+    "Id": 16756,
+    "Question": "When Günter Schabowski joined the Socialist Unity Party end date?",
+    "relation": "When joined the date",
+    "Relation": "joined the Socialist Unity Party end date"
+  },
+  {
+    "Id": 16757,
+    "Question": "When Muesee Kazapua ceased to be the head of government in Windhoek start date?",
+    "relation": "When ceased to be the in start date",
+    "Relation": "ceased to be the head of government in Windhoek start date"
+  },
+  {
+    "Id": 16758,
+    "Question": "When Muesee Kazapua ceased to be the head of government in Windhoek end date?",
+    "relation": "When ceased to be the head of government in end date",
+    "Relation": "ceased to be the head of government in Windhoek end date"
+  },
+  {
+    "Id": 16759,
+    "Question": "When the Principality of Serbia obtained its autonomy?",
+    "relation": "When the obtained its autonomy",
+    "Relation": "obtained its autonomy"
+  },
+  {
+    "Id": 16760,
+    "Question": "When A B Yehoshua's voice was recorded?",
+    "relation": "When voice was recorded",
+    "Relation": "voice was recorded"
+  },
+  {
+    "Id": 16761,
+    "Question": "When the first photovoltaic power station in Uganda with a generating capacity of 20 megawatts was commissioned?",
+    "relation": "When the first in with a generating capacity of megawatts was",
+    "Relation": "was commissioned"
+  },
+  {
+    "Id": 16762,
+    "Question": "When Mary Barbour married David Barbour start date?",
+    "relation": "When married David Barbour start date",
+    "Relation": "married start date"
+  },
+  {
+    "Id": 16763,
+    "Question": "When Mary Barbour married David Barbour end date?",
+    "relation": "When Mary Barbour married David Barbour date",
+    "Relation": "married end date"
+  },
+  {
+    "Id": 16764,
+    "Question": "When Danijel Premerl played for Yugoslavia national association football team start date?",
+    "relation": "When played for national association football team start date",
+    "Relation": "played for Yugoslavia national association football team start date"
+  },
+  {
+    "Id": 16765,
+    "Question": "When Danijel Premerl played for Yugoslavia national association football team end date?",
+    "relation": "When played for national team date",
+    "Relation": "played for Yugoslavia national association football team end date"
+  },
+  {
+    "Id": 16766,
+    "Question": "When Aravinda de Silva was playing first-class cricket for the English county Kent?",
+    "relation": "When was playing for the",
+    "Relation": "was playing first-class cricket for the English county Kent"
+  },
+  {
+    "Id": 16767,
+    "Question": "When Silverlink's rail franchise was renewed start date?",
+    "relation": "When rail franchise was renewed start date",
+    "Relation": "rail franchise was renewed start date"
+  },
+  {
+    "Id": 16768,
+    "Question": "When Silverlink's rail franchise was renewed end date?",
+    "relation": "When rail franchise was renewed end date",
+    "Relation": "rail franchise was renewed end date"
+  },
+  {
+    "Id": 16769,
+    "Question": "When David Willcocks lead the Choir of King's College Cambridge in its frequent broadcasts and recordings?",
+    "relation": "When the in its frequent broadcasts and recordings",
+    "Relation": "lead the Choir of King's College Cambridge in broadcasts and recordings"
+  },
+  {
+    "Id": 16770,
+    "Question": "When Tommy Tucker had a 6-for-6 game?",
+    "relation": "When had a 6-for-6 game",
+    "Relation": "had a 6-for-6 game"
+  },
+  {
+    "Id": 16771,
+    "Question": "When Helmut Kohl became a Member of the Bundestag for Rhineland-Palatinate while he chaired the G7?",
+    "relation": "When became a Member of the for Rhineland-Palatinate while he the G7",
+    "Relation": "became a Member of the Bundestag for Rhineland-Palatinate while chaired the G7"
+  },
+  {
+    "Id": 16772,
+    "Question": "When In the Court of the Crimson King became a commercial success?",
+    "relation": "When became a commercial success",
+    "Relation": "became a commercial success"
+  },
+  {
+    "Id": 16773,
+    "Question": "When Jan Šrámek was in the Provisional Government of Czechoslovakia start date?",
+    "relation": "When was in the of start",
+    "Relation": "was in the Provisional Government of Czechoslovakia start date"
+  },
+  {
+    "Id": 16774,
+    "Question": "When Jan Šrámek was in the Provisional Government of Czechoslovakia end date?",
+    "relation": "When was in the of date",
+    "Relation": "was in the Provisional Government of Czechoslovakia end date"
+  },
+  {
+    "Id": 16775,
+    "Question": "When No. 39 Squadron RAF employed all-weather interception during the Cyprus Emergency start date?",
+    "relation": "When employed during the start date",
+    "Relation": "employed all-weather interception during the Cyprus Emergency start date"
+  },
+  {
+    "Id": 16776,
+    "Question": "When No. 39 Squadron RAF employed all-weather interception during the Cyprus Emergency end date?",
+    "relation": "When employed during the end date",
+    "Relation": "employed all-weather interception during the Cyprus Emergency end date"
+  },
+  {
+    "Id": 16777,
+    "Question": "When Bobby Jones turned professional in his golf career?",
+    "relation": "When turned professional in his career",
+    "Relation": "turned professional in his golf career"
+  },
+  {
+    "Id": 16778,
+    "Question": "When the Immigration New Zealand Agency was formed?",
+    "relation": "When the Agency was formed",
+    "Relation": "was formed"
+  },
+  {
+    "Id": 16779,
+    "Question": "When Takayuki Takaguchi was playing for the Yomiuri Giants start date?",
+    "relation": "When was for the date",
+    "Relation": "was playing for the Yomiuri Giants start date"
+  },
+  {
+    "Id": 16780,
+    "Question": "When Takayuki Takaguchi was playing for the Yomiuri Giants end date?",
+    "relation": "When was playing for the date",
+    "Relation": "was playing for the Yomiuri Giants end date"
+  },
+  {
+    "Id": 16781,
+    "Question": "When True Finns achieved second place in the parliamentary election with 17.7% of votes?",
+    "relation": "When achieved in the with 177% of votes",
+    "Relation": "achieved second place in the parliamentary election"
+  },
+  {
+    "Id": 16782,
+    "Question": "When John Heisman coached baseball at the Buchtel?",
+    "relation": "When coached baseball at the",
+    "Relation": "coached baseball at the Buchtel"
+  },
+  {
+    "Id": 16783,
+    "Question": "When Slavko Dacevski made his international debut for Yugoslavia B?",
+    "relation": "When made his debut for",
+    "Relation": "made his international debut for Yugoslavia B"
+  },
+  {
+    "Id": 16784,
+    "Question": "When Tourcoing was the capital of the canton of Tourcoing-Nord?",
+    "relation": "When was the capital of the canton of Tourcoing-Nord",
+    "Relation": "was the capital of the canton of Tourcoing-Nord"
+  },
+  {
+    "Id": 16785,
+    "Question": "When Rommel Adducul played in the Metropolitan Basketball Association?",
+    "relation": "When in the",
+    "Relation": "played in the Metropolitan Basketball Association"
+  },
+  {
+    "Id": 16786,
+    "Question": "When Cuttack District became part of Orissa Province in British India start date?",
+    "relation": "When became part of in start date",
+    "Relation": "became part of Orissa Province in British India start date"
+  },
+  {
+    "Id": 16787,
+    "Question": "When Cuttack District became part of Orissa Province in British India end date?",
+    "relation": "When became part of in end date",
+    "Relation": "became part of Orissa Province in British India end date"
+  },
+  {
+    "Id": 16788,
+    "Question": "When Michel Kafando was appointed as the transitional head of state?",
+    "relation": null,
+    "Relation": "was appointed as the transitional head of state"
+  },
+  {
+    "Id": 16789,
+    "Question": "When the Palestinian suicide bomber attacked a bus and killed 18 people in Jerusalem?",
+    "relation": "When the suicide bomber a bus and 18 in",
+    "Relation": "attacked a bus and killed 18 people in Jerusalem"
+  },
+  {
+    "Id": 16790,
+    "Question": "When the Brighton associated electoral district object had the role of electoral district of South Australia?",
+    "relation": "When the Brighton associated electoral district object had the role of electoral district of",
+    "Relation": "had the role of electoral district of South Australia"
+  },
+  {
+    "Id": 16791,
+    "Question": "When the North Vietnam Democratic Republic of Vietnam Viet Nam Dan chu Cong hoa era began?",
+    "relation": "When the era",
+    "Relation": "era began"
+  },
+  {
+    "Id": 16792,
+    "Question": "When Vivendi partially spun off Universal Music Group?",
+    "relation": "When",
+    "Relation": "partially spun off Universal Music Group"
+  },
+  {
+    "Id": 16793,
+    "Question": "When Xavi Simons' youth career started?",
+    "relation": "When career",
+    "Relation": "youth career started"
+  },
+  {
+    "Id": 16794,
+    "Question": "When Benigno Aquino Sr held position in the Philippine House of Representatives from Tarlac's 2nd district start date?",
+    "relation": "When held position in the Philippine House of Representatives from Tarlacs start date",
+    "Relation": "held position in the Philippine House of Representatives from Tarlac's 2nd district start date"
+  },
+  {
+    "Id": 16795,
+    "Question": "When Benigno Aquino Sr held position in the Philippine House of Representatives from Tarlac's 2nd district end date?",
+    "relation": "When held position in the Philippine House of Representatives from Tarlacs 2nd district date",
+    "Relation": "held position in the Philippine House of Representatives from Tarlac's 2nd district end date"
+  },
+  {
+    "Id": 16796,
+    "Question": "When Palestinian rocket attacks on Israel took place during the month of March?",
+    "relation": "When took during the month of March",
+    "Relation": "rocket attacks on Israel took place during the month of March"
+  },
+  {
+    "Id": 16797,
+    "Question": "When Greysia Polii participated in international badminton tournaments?",
+    "relation": "When in",
+    "Relation": "participated in international badminton tournaments"
+  },
+  {
+    "Id": 16798,
+    "Question": "When Zimbabwe Rhodesia was given responsibility to draw up a constitution, hold elections, and arrange a ceasefire with the Patriotic Front?",
+    "relation": "When was given responsibility to draw up a constitution hold elections and arrange a ceasefire with the Patriotic Front",
+    "Relation": "was given responsibility to draw up a constitution, hold elections, and arrange a ceasefire with the Patriotic Front"
+  },
+  {
+    "Id": 16799,
+    "Question": "When Maxim Kontsevich was a citizen of France?",
+    "relation": "When was a of",
+    "Relation": "was a citizen of France"
+  },
+  {
+    "Id": 16800,
+    "Question": "When Armidale Dumaresq Shire became part of Armidale?",
+    "relation": "When became part of",
+    "Relation": "became part of Armidale"
+  },
+  {
+    "Id": 16801,
+    "Question": "When 47 of the region endorsed the establishment of the South Sulawesi Province in Indonesia?",
+    "relation": "When 47 of the region endorsed the establishment of the Province in Indonesia",
+    "Relation": "endorsed the establishment of the South Sulawesi Province in Indonesia"
+  },
+  {
+    "Id": 16802,
+    "Question": "When The Great Ziegfeld was released?",
+    "relation": "When The was released",
+    "Relation": "was released"
+  },
+  {
+    "Id": 16803,
+    "Question": "When Ants Piip was appointed Head of State?",
+    "relation": "When was appointed",
+    "Relation": "was appointed Head of State"
+  },
+  {
+    "Id": 16804,
+    "Question": "When the Rwandese Republic République Rwandaise (French) disestablished?",
+    "relation": "When the Rwandese Republic République Rwandaise (French) disestablished",
+    "Relation": "disestablished"
+  },
+  {
+    "Id": 16805,
+    "Question": "When Kumar Sangakkara last played in a Test match against India?",
+    "relation": "When last played in a Test match against",
+    "Relation": "last played in a Test match against India"
+  },
+  {
+    "Id": 16806,
+    "Question": "When Al Gore's father was re-elected?",
+    "relation": "When father was re-elected",
+    "Relation": "was re-elected"
+  },
+  {
+    "Id": 16807,
+    "Question": "When Paul Simon was married to the first time in his marriage to Paul Simon Simon?",
+    "relation": "When was married to the first in his to Paul Simon",
+    "Relation": "was married to"
+  },
+  {
+    "Id": 16808,
+    "Question": "When Juan Maldonado Jaimez played his last senior match for Vitória start date?",
+    "relation": "When his match for date",
+    "Relation": "played his last senior match for Vitória start date"
+  },
+  {
+    "Id": 16809,
+    "Question": "When Juan Maldonado Jaimez played his last senior match for Vitória end date?",
+    "relation": "When played his match for",
+    "Relation": "played his last senior match for Vitória end date"
+  },
+  {
+    "Id": 16810,
+    "Question": "When Joaquín Sánchez Garrido became mayor of Toledo, Spain start date?",
+    "relation": "When Garrido became of date",
+    "Relation": "became mayor of Toledo, Spain start date"
+  },
+  {
+    "Id": 16811,
+    "Question": "When Joaquín Sánchez Garrido became mayor of Toledo, Spain end date?",
+    "relation": "When Garrido became of date",
+    "Relation": "became mayor of Toledo, Spain end date"
+  },
+  {
+    "Id": 16812,
+    "Question": "When Zurich became part of the First French Empire start date?",
+    "relation": "When became part of the start date",
+    "Relation": "became part of the First French Empire start date"
+  },
+  {
+    "Id": 16813,
+    "Question": "When Zurich became part of the First French Empire end date?",
+    "relation": "When became part of the end date",
+    "Relation": "became part of the First French Empire end date"
+  },
+  {
+    "Id": 16814,
+    "Question": "When titanium was discovered/invented?",
+    "relation": "When was discovered/invented",
+    "Relation": "was discovered/invented"
+  },
+  {
+    "Id": 16815,
+    "Question": "When Time magazine named David Miranda as one of the world's new generation of leaders?",
+    "relation": "When named as of the of",
+    "Relation": "named as one of the world's new generation of leaders"
+  },
+  {
+    "Id": 16816,
+    "Question": "When Aleksandar Vučić became president of Serbia?",
+    "relation": "When became",
+    "Relation": "became president of Serbia"
+  },
+  {
+    "Id": 16817,
+    "Question": "When Aleksandr Khokhlov was a member of FC Zenit Saint Petersburg start date?",
+    "relation": "When was a member of",
+    "Relation": "was a member of FC Zenit Saint Petersburg start date"
+  },
+  {
+    "Id": 16818,
+    "Question": "When Aleksandr Khokhlov was a member of FC Zenit Saint Petersburg end date?",
+    "relation": "When was a member of",
+    "Relation": "was a member of FC Zenit Saint Petersburg end date"
+  },
+  {
+    "Id": 16819,
+    "Question": "When the Mughal Empire existed in the Lucknow region start date?",
+    "relation": "When the existed in the region start date",
+    "Relation": "existed in the Lucknow region start date"
+  },
+  {
+    "Id": 16820,
+    "Question": "When the Mughal Empire existed in the Lucknow region end date?",
+    "relation": "When the existed in the region end date",
+    "Relation": "existed in the Lucknow region end date"
+  },
+  {
+    "Id": 16821,
+    "Question": "When Maggi Mikaelsson's term as party secretary of the Left Party (Sweden) ended start date?",
+    "relation": "When term as of the () ended date",
+    "Relation": "term as party secretary of the Left Party (Sweden) ended start date"
+  },
+  {
+    "Id": 16822,
+    "Question": "When Maggi Mikaelsson's term as party secretary of the Left Party (Sweden) ended end date?",
+    "relation": "When term as of the () end date",
+    "Relation": "term as party secretary of the Left Party (Sweden) ended end date"
+  },
+  {
+    "Id": 16823,
+    "Question": "When Péter Faragó was a member of the Hungarian Socialist Party?",
+    "relation": "When Faragó was a of the",
+    "Relation": "was a member of the Hungarian Socialist Party"
+  },
+  {
+    "Id": 16824,
+    "Question": "When Kurt Wüthrich won the Kyoto Prize in Advanced Technology?",
+    "relation": "When won the",
+    "Relation": "won the Kyoto Prize in Advanced Technology"
+  },
+  {
+    "Id": 16825,
+    "Question": "When Derrick Henry Lehmer entered Berkeley?",
+    "relation": "When entered Berkeley",
+    "Relation": "entered Berkeley"
+  },
+  {
+    "Id": 16826,
+    "Question": "When Bangladesh won its independence from Pakistan?",
+    "relation": "When Bangladesh won its independence from Pakistan",
+    "Relation": "won independence from Pakistan"
+  },
+  {
+    "Id": 16827,
+    "Question": "When Javaris Crittenton was charged with the murder of Jullian Jones?",
+    "relation": "When was charged with the murder of Jullian Jones",
+    "Relation": "was charged with the murder of"
+  },
+  {
+    "Id": 16828,
+    "Question": "When Mayor Patricia Granet-Brunello's tenure in Digne-les-Bains start date?",
+    "relation": "When Granet-Brunellos tenure in",
+    "Relation": "tenure in Digne-les-Bains start date"
+  },
+  {
+    "Id": 16829,
+    "Question": "When Mayor Patricia Granet-Brunello's tenure in Digne-les-Bains end date?",
+    "relation": "When Patricia Granet-Brunellos tenure in Digne-les-Bains end date",
+    "Relation": "tenure in Digne-les-Bains end date"
+  },
+  {
+    "Id": 16830,
+    "Question": "When the Convention People's Party won the national elections in the British Colony of the Gold Coast?",
+    "relation": "When the won the national elections in the of the",
+    "Relation": "won the national elections in the British Colony of the Gold Coast"
+  },
+  {
+    "Id": 16831,
+    "Question": "When Mark Thompson was the Chief Executive of a television station start date?",
+    "relation": "When was the Chief Executive of a television station start date",
+    "Relation": "was the Chief Executive of a television station start date"
+  },
+  {
+    "Id": 16832,
+    "Question": "When Mark Thompson was the Chief Executive of a television station end date?",
+    "relation": "When was the Chief Executive of a television station end date",
+    "Relation": "was the Chief Executive of a television station end date"
+  },
+  {
+    "Id": 16833,
+    "Question": "During what period of government-directed urban growth and conversion was Suhl the capital of a district of the German Democratic Republic??",
+    "relation": "During what period of government-directed urban growth and conversion was the capital of a of the",
+    "Relation": "was the capital of a district of the German Democratic Republic during government-directed urban growth and conversion"
+  },
+  {
+    "Id": 16834,
+    "Question": "When Matteo Renzi resigned as Secretary of the Democratic Party start date?",
+    "relation": "When resigned as start date",
+    "Relation": "resigned as Secretary of the Democratic Party start date"
+  },
+  {
+    "Id": 16835,
+    "Question": "When Matteo Renzi resigned as Secretary of the Democratic Party end date?",
+    "relation": "When resigned as end date",
+    "Relation": "resigned as Secretary of the Democratic Party end date"
+  },
+  {
+    "Id": 16836,
+    "Question": "When Tony Podesta was married to Heather Podesta?",
+    "relation": "When was to",
+    "Relation": "was married to"
+  },
+  {
+    "Id": 17524,
+    "Question": "When Ernő Schwarz was a member of the Makkabi Brünn sports team end date?",
+    "relation": "When was a member of the sports team date",
+    "Relation": "was a member of the Makkabi Brünn sports team end date"
+  },
+  {
+    "Id": 17525,
+    "Question": "When Norwegian University of Science and Technology was established?",
+    "relation": "When was",
+    "Relation": "was established"
+  },
+  {
+    "Id": 17526,
+    "Question": "When coal consumption reached its peak in China?",
+    "relation": null,
+    "Relation": "reached its peak in China"
+  },
+  {
+    "Id": 17527,
+    "Question": "When Len Koenecke's last MLB appearance was before his death?",
+    "relation": "When last appearance was before his death",
+    "Relation": "last MLB appearance was before his death"
+  },
+  {
+    "Id": 17528,
+    "Question": "When Tamashima was part of the dissolved municipality of Japan Kurashiki?",
+    "relation": "When was part of the dissolved municipality of Japan",
+    "Relation": "was part of the dissolved municipality of Japan Kurashiki"
+  },
+  {
+    "Id": 17529,
+    "Question": "When an increase of 0.33 occurred in Alvdal area?",
+    "relation": "When an increase of 033 in",
+    "Relation": "occurred in Alvdal area"
+  },
+  {
+    "Id": 17530,
+    "Question": "When Geraint Thomas joined the UCI Continental team as a stagiaire?",
+    "relation": "When joined the as a",
+    "Relation": "joined the UCI Continental team as a stagiaire"
+  },
+  {
+    "Id": 17531,
+    "Question": "When Alan García García was the 53rd and 57th President of Peru?",
+    "relation": "When was the and of",
+    "Relation": "was the 53rd and 57th President of Peru"
+  },
+  {
+    "Id": 17532,
+    "Question": "When Slavi Stojanović's managerial career in Latvia ended start date?",
+    "relation": "When Slavi career in ended date",
+    "Relation": "managerial career in Latvia ended start date"
+  },
+  {
+    "Id": 17533,
+    "Question": "When Slavi Stojanović's managerial career in Latvia ended end date?",
+    "relation": "When managerial in end date",
+    "Relation": "managerial career in Latvia ended end date"
+  },
+  {
+    "Id": 17534,
+    "Question": "When the Universal Orlando resort was founded?",
+    "relation": "When the was founded",
+    "Relation": "was founded"
+  },
+  {
+    "Id": 17535,
+    "Question": "When Anonymous coordinated a cyberattack against multiple corporations, law firms, and politicians during Operation Payback?",
+    "relation": null,
+    "Relation": "coordinated a cyberattack during Operation Payback"
+  },
+  {
+    "Id": 17536,
+    "Question": "When Lisle Austin was President of CONCACAF?",
+    "relation": "When was of",
+    "Relation": "was President of CONCACAF"
+  },
+  {
+    "Id": 17537,
+    "Question": "When Emil Artin left the University of Notre Dame start date?",
+    "relation": "When left the start date",
+    "Relation": "left the University of Notre Dame start date"
+  },
+  {
+    "Id": 17538,
+    "Question": "When Emil Artin left the University of Notre Dame end date?",
+    "relation": "When left the date",
+    "Relation": "left the University of Notre Dame end date"
+  },
+  {
+    "Id": 17539,
+    "Question": "When John Ward became a member of the England national rugby league team start date?",
+    "relation": "When became a member of the date",
+    "Relation": "became a member of the England national rugby league team start date"
+  },
+  {
+    "Id": 17540,
+    "Question": "When John Ward became a member of the England national rugby league team end date?",
+    "relation": "When became a member of the",
+    "Relation": "became a member of the England national rugby league team end date"
+  },
+  {
+    "Id": 17541,
+    "Question": "When The Summy Company registered a copyright crediting authors Preston Ware Orem and Mrs. R. R. Forman?",
+    "relation": "When The Summy registered a copyright crediting and Mrs R R Forman",
+    "Relation": "registered a copyright crediting authors"
+  },
+  {
+    "Id": 17542,
+    "Question": "Before the Big 12 (1996-present) and Pac-12 (2010-present) became tied to the Alamo Bowl start date?",
+    "relation": "Before the (1996-present) and (2010-present) became to the date",
+    "Relation": "became tied to the Alamo Bowl start date"
+  },
+  {
+    "Id": 17543,
+    "Question": "Before the Big 12 (1996-present) and Pac-12 (2010-present) became tied to the Alamo Bowl end date?",
+    "relation": "Before the (1996-present) and (2010-present) became to the date",
+    "Relation": "became tied to the Alamo Bowl end date"
+  },
+  {
+    "Id": 17544,
+    "Question": "When Stalinism was in effect?",
+    "relation": "When was in effect",
+    "Relation": "was in effect"
+  },
+  {
+    "Id": 17545,
+    "Question": "When Old Swedish was used start date?",
+    "relation": "When was used start date",
+    "Relation": "was used start date"
+  },
+  {
+    "Id": 17546,
+    "Question": "When Old Swedish was used end date?",
+    "relation": "When was used end date",
+    "Relation": "was used end date"
+  },
+  {
+    "Id": 17547,
+    "Question": "When Liu Shaoqi became the highest-ranking Deputy Chairman of the Chinese Communist Party and the Chairman of the Central Committee of the Chinese Communist Party?",
+    "relation": "When became the highest-ranking Deputy and the of the",
+    "Relation": "became the highest-ranking Deputy Chairman of the Chinese Communist Party and the Chairman of the Central Committee of the Chinese Communist Party"
+  },
+  {
+    "Id": 17548,
+    "Question": "When Douglas Freeman was a member of the Kent sports team?",
+    "relation": "When was a member of the Kent sports team",
+    "Relation": "was a member of the Kent sports team"
+  },
+  {
+    "Id": 17549,
+    "Question": "When Thomas Klestil graduated from the Vienna University of Economics and Business Administration?",
+    "relation": "When graduated from the Vienna University of Economics and Business Administration",
+    "Relation": "graduated from the Vienna University of Economics and Business Administration"
+  },
+  {
+    "Id": 17550,
+    "Question": "When Helen McCrory received her OBE award?",
+    "relation": "When received her",
+    "Relation": "received her OBE award"
+  },
+  {
+    "Id": 17551,
+    "Question": "When Richard Rush wrote the screenplay for the film Air America?",
+    "relation": "When the for the",
+    "Relation": "wrote the screenplay for the film Air America"
+  },
+  {
+    "Id": 17552,
+    "Question": "When forced agricultural collectivization caused a famine which killed millions start date?",
+    "relation": "When agricultural caused a which killed millions start date",
+    "Relation": "caused a famine which killed millions start date"
+  },
+  {
+    "Id": 17553,
+    "Question": "When forced agricultural collectivization caused a famine which killed millions end date?",
+    "relation": "When agricultural caused a which killed millions date",
+    "Relation": "caused a famine which killed millions end date"
+  },
+  {
+    "Id": 17554,
+    "Question": "When Qiang Wei became the Communist Party Secretary of Qinghai?",
+    "relation": "When became the Communist Party Secretary of",
+    "Relation": "became the Communist Party Secretary of Qinghai"
+  },
+  {
+    "Id": 17555,
+    "Question": "When Tina Maze won a gold medal in an Olympic event during February?",
+    "relation": "When won a in an during",
+    "Relation": "won a gold medal in an Olympic event during February"
+  },
+  {
+    "Id": 17556,
+    "Question": "When Elza Moreira de Sá Peixoto was a teacher?",
+    "relation": null,
+    "Relation": "was a teacher"
+  },
+  {
+    "Id": 17557,
+    "Question": "When Jacinto Convit was studying medicine at the Central University of Venezuela?",
+    "relation": "When was studying medicine at the",
+    "Relation": "was studying medicine at the Central University of Venezuela"
+  },
+  {
+    "Id": 17558,
+    "Question": "When Poland national football team competed in their first European Championship?",
+    "relation": "When in their",
+    "Relation": "competed in their first European Championship"
+  },
+  {
+    "Id": 17559,
+    "Question": "When Ian Ross was partnered with Gray Bolte start date?",
+    "relation": "When was partnered with Gray Bolte date",
+    "Relation": "was partnered with Gray Bolte start date"
+  },
+  {
+    "Id": 17560,
+    "Question": "When Ian Ross was partnered with Gray Bolte end date?",
+    "relation": "When was partnered with Bolte",
+    "Relation": "was partnered with Gray Bolte end date"
+  },
+  {
+    "Id": 17561,
+    "Question": "When West Ham United F.C. was owned by the 1890s holdings proportion +0.27?",
+    "relation": "When was owned by the proportion +027",
+    "Relation": "was owned by the 1890s holdings proportion +0.27"
+  },
+  {
+    "Id": 17562,
+    "Question": "When Velsen shared its borders with Haarlemmerliede en Spaarnwoude?",
+    "relation": "When its with",
+    "Relation": "shared its borders with Haarlemmerliede en Spaarnwoude"
+  },
+  {
+    "Id": 17563,
+    "Question": "When Bryan Cranston co-developed and occasionally appeared in a crime drama series?",
+    "relation": "When co-developed and occasionally in a crime",
+    "Relation": "co-developed and occasionally appeared in a crime drama series"
+  },
+  {
+    "Id": 17564,
+    "Question": "When Joanna Natasegara's tenure began?",
+    "relation": "When Natasegaras",
+    "Relation": "tenure began"
+  },
+  {
+    "Id": 17565,
+    "Question": "When Dmitri Mendeleev died?",
+    "relation": "When died",
+    "Relation": "died"
+  },
+  {
+    "Id": 17566,
+    "Question": "When Abdelaziz El Omari led Casablanca start date?",
+    "relation": "When Abdaziz El",
+    "Relation": "led Casablanca start date"
+  },
+  {
+    "Id": 17567,
+    "Question": "When Abdelaziz El Omari led Casablanca end date?",
+    "relation": "When",
+    "Relation": "led Casablanca end date"
+  },
+  {
+    "Id": 17568,
+    "Question": "When was Brest part of the Polish–Lithuanian Commonwealth start date?",
+    "relation": "When was part of the start date",
+    "Relation": "was part of the Polish–Lithuanian Commonwealth start date"
+  },
+  {
+    "Id": 17569,
+    "Question": "When was Brest part of the Polish–Lithuanian Commonwealth end date?",
+    "relation": "When was part of the end date",
+    "Relation": "was part of the Polish–Lithuanian Commonwealth end date"
+  },
+  {
+    "Id": 17570,
+    "Question": "When Sean Fleming became a CFL West All-Star and later a CFL All-Star?",
+    "relation": "When a and later a All-Star",
+    "Relation": "became a CFL West All-Star and later a CFL All-Star"
+  },
+  {
+    "Id": 17571,
+    "Question": "When Water Resources Development Act of was codified?",
+    "relation": "When Water Resources Development Act of was",
+    "Relation": "was codified"
+  },
+  {
+    "Id": 17572,
+    "Question": "When Tiffy Army was the Goalkeeper coach?",
+    "relation": "When was the Goalkeeper coach",
+    "Relation": "was the Goalkeeper coach"
+  },
+  {
+    "Id": 17573,
+    "Question": "When Bristol Connecticut got its name from Bristol England and incorporated as a town?",
+    "relation": "When got its name from and incorporated as a town",
+    "Relation": "got its name from Bristol England and incorporated as a town"
+  },
+  {
+    "Id": 17574,
+    "Question": "When Dean Smith assistant coaching job with Air Force ended start date?",
+    "relation": "When assistant coaching job with ended start date",
+    "Relation": "assistant coaching job with Air Force ended start date"
+  },
+  {
+    "Id": 17575,
+    "Question": "When Dean Smith assistant coaching job with Air Force ended end date?",
+    "relation": "When coaching job with ended end date",
+    "Relation": "assistant coaching job with Air Force ended end date"
+  },
+  {
+    "Id": 17576,
+    "Question": "When Lorenzo Taliaferro was drafted in the fourth round of the NFL draft?",
+    "relation": "When was drafted in the fourth round of the",
+    "Relation": "was drafted in the fourth round of the NFL draft"
+  },
+  {
+    "Id": 17577,
+    "Question": "When Rupert's Land became a part of Canada?",
+    "relation": "When became a part of",
+    "Relation": "became a part of Canada"
+  },
+  {
+    "Id": 17578,
+    "Question": "When Ida Maria Pinnerød became head of government in Bodø?",
+    "relation": "When d became in ø",
+    "Relation": "became head of government in Bodø"
+  },
+  {
+    "Id": 17579,
+    "Question": "When Erna de Vries received the Order of Merit for her accomplishments in Germany?",
+    "relation": "When Vries received the for her in",
+    "Relation": "received the Order of Merit for accomplishments in Germany"
+  },
+  {
+    "Id": 17580,
+    "Question": "When Formiga joined São José following her time as a member of the Brazil women's national football team start date?",
+    "relation": "When joined following her as a member of the date",
+    "Relation": "joined São José following time as a member of the Brazil women's national football team start date"
+  },
+  {
+    "Id": 17581,
+    "Question": "When Formiga joined São José following her time as a member of the Brazil women's national football team end date?",
+    "relation": "When joined following her as a member of the",
+    "Relation": "joined São José following time as a member of the Brazil women's national football team end date"
+  },
+  {
+    "Id": 17582,
+    "Question": "When Flavia Pennetta reached the doubles semifinals at Wimbledon?",
+    "relation": "When the doubles at",
+    "Relation": "reached the doubles semifinals at Wimbledon"
+  },
+  {
+    "Id": 17583,
+    "Question": "When Zynga reached thirty million monthly active users?",
+    "relation": "When reached thirty million monthly active users",
+    "Relation": "reached thirty million monthly active users"
+  },
+  {
+    "Id": 17584,
+    "Question": "When HBO broadcast the documentary about Jerry Weintraub's life?",
+    "relation": "When the about life",
+    "Relation": "broadcast the documentary about"
+  },
+  {
+    "Id": 17585,
+    "Question": "When Israeli armed forces boarded the flotilla and killed 9 flotilla members?",
+    "relation": null,
+    "Relation": "boarded the flotilla and killed members"
+  },
+  {
+    "Id": 17586,
+    "Question": "When Carlos Andrés Pérez ceased to be president of the Republic of Venezuela - República de Venezuela (in Spanish) start date?",
+    "relation": "When ceased to be presint of the Republic of - (in Spanish) date",
+    "Relation": "ceased to be president of the Republic of Venezuela start date"
+  },
+  {
+    "Id": 17587,
+    "Question": "When Carlos Andrés Pérez ceased to be president of the Republic of Venezuela - República de Venezuela (in Spanish) end date?",
+    "relation": "When to be presint of the Republic of Venezuela - ) date",
+    "Relation": "ceased to be president of the Republic of Venezuela end date"
+  },
+  {
+    "Id": 17588,
+    "Question": "When Louis-Maurice Boutet de Monvel passed away?",
+    "relation": "When passed away",
+    "Relation": "passed away"
+  },
+  {
+    "Id": 17589,
+    "Question": "When Orfevre Honours started honoring JRA Horse?",
+    "relation": "When Honours started honoring JRA Horse",
+    "Relation": "started honoring"
+  },
+  {
+    "Id": 17590,
+    "Question": "When Wanderlei Barbosa Castro was vice governor of Tocantins start date?",
+    "relation": "When was of date",
+    "Relation": "was vice governor of Tocantins start date"
+  },
+  {
+    "Id": 17591,
+    "Question": "When Wanderlei Barbosa Castro was vice governor of Tocantins end date?",
+    "relation": "When Castro was of end date",
+    "Relation": "was vice governor of Tocantins end date"
+  },
+  {
+    "Id": 17592,
+    "Question": "When Eliana Stábile's professional football career ended start date?",
+    "relation": "When",
+    "Relation": "professional football career ended start date"
+  },
+  {
+    "Id": 17593,
+    "Question": "When Eliana Stábile's professional football career ended end date?",
+    "relation": "When career end",
+    "Relation": "professional football career ended end date"
+  },
+  {
+    "Id": 17594,
+    "Question": "When Fabiano Caruana had a peak rating?",
+    "relation": "When had a peak rating",
+    "Relation": "had a peak rating"
+  },
+  {
+    "Id": 17595,
+    "Question": "When Peter Winn was acquired by SC Telstar start date?",
+    "relation": "When was by",
+    "Relation": "was acquired by SC Telstar start date"
+  },
+  {
+    "Id": 17596,
+    "Question": "When Peter Winn was acquired by SC Telstar end date?",
+    "relation": "When was by",
+    "Relation": "was acquired by SC Telstar end date"
+  },
+  {
+    "Id": 17597,
+    "Question": "When Kraków was designated a UNESCO World Heritage Site?",
+    "relation": "When was designated a",
+    "Relation": "was designated a UNESCO World Heritage Site"
+  },
+  {
+    "Id": 17598,
+    "Question": "When the Japanese occupation of Kiautschou Bay Leased Territory ended?",
+    "relation": "When the Japanese occupation of ended",
+    "Relation": "ended"
+  },
+  {
+    "Id": 17599,
+    "Question": "When the Ifni War ended?",
+    "relation": "When the ended",
+    "Relation": "ended"
+  },
+  {
+    "Id": 17600,
+    "Question": "When Will Grant was replaced by rookie Kent Hull as a player?",
+    "relation": "When was replaced by as a player",
+    "Relation": "was replaced by rookie Kent Hull as a player"
+  },
+  {
+    "Id": 17601,
+    "Question": "When Vyacheslav Shport was head of government in Khabarovsk Krai start date?",
+    "relation": "When was in",
+    "Relation": "was head of government in Khabarovsk Krai start date"
+  },
+  {
+    "Id": 17602,
+    "Question": "When Vyacheslav Shport was head of government in Khabarovsk Krai end date?",
+    "relation": "When was in",
+    "Relation": "was head of government in Khabarovsk Krai end date"
+  },
+  {
+    "Id": 17603,
+    "Question": "When Infogrames Entertainment (IESA) bought Hasbro Interactive, renaming it Infogrames Interactive and periodically publishing Atari-branded titles??",
+    "relation": "When () bought renaming it and periodically titles",
+    "Relation": "bought Hasbro Interactive, renaming it Infogrames Interactive and periodically publishing Atari-branded titles"
+  },
+  {
+    "Id": 17604,
+    "Question": "When Brandeis University was founded?",
+    "relation": "When was founded",
+    "Relation": "was founded"
+  },
+  {
+    "Id": 17605,
+    "Question": "When MOLISA reported that 750 prostitutes and 300 pimps were arrested?",
+    "relation": "When reported that 750 and 300 were",
+    "Relation": "reported that prostitutes and pimps were arrested"
+  },
+  {
+    "Id": 17606,
+    "Question": "When Wikipedia won the FSF Free Software Award for Projects of Social Benefit?",
+    "relation": "When the for of Benefit",
+    "Relation": "won the FSF Free Software Award for Projects of Social Benefit"
+  },
+  {
+    "Id": 17607,
+    "Question": "When the Muslim Brotherhood assassinated Egyptian Prime Minister Mahmud Fahmi Nokrashi?",
+    "relation": "When the Muslim Brotherhood assassinated",
+    "Relation": "assassinated Egyptian Prime Minister Mahmud Fahmi Nokrashi"
+  },
+  {
+    "Id": 17608,
+    "Question": "When the US Virgin Islands were on the European Union tax haven blacklist?",
+    "relation": "When the were on the European Union blacklist",
+    "Relation": "were on the European Union tax haven blacklist"
+  },
+  {
+    "Id": 17609,
+    "Question": "When Federal Republic of Yugoslavia became the new name given to Yugoslavia start date?",
+    "relation": "When became the new name to date",
+    "Relation": "became the new name given to start date"
+  },
+  {
+    "Id": 17610,
+    "Question": "When Federal Republic of Yugoslavia became the new name given to Yugoslavia end date?",
+    "relation": "When became the given to",
+    "Relation": "became the new name given to end date"
+  },
+  {
+    "Id": 17611,
+    "Question": "When the Liberal Party (UK) dissolved?",
+    "relation": "When the (UK) dissolved",
+    "Relation": "dissolved"
+  },
+  {
+    "Id": 17612,
+    "Question": "When Richard Bokatola appeared in 6 matches for Football team 44?",
+    "relation": "When appeared in matches for 44",
+    "Relation": "appeared in matches for Football team 44"
+  },
+  {
+    "Id": 17613,
+    "Question": "When Laurent Fignon joined a professional cycling team?",
+    "relation": "When joined a",
+    "Relation": "joined a professional cycling team"
+  },
+  {
+    "Id": 17614,
+    "Question": "When Germany women's national football team won their first major tournament?",
+    "relation": "When won their",
+    "Relation": "won their first major tournament"
+  },
+  {
+    "Id": 17615,
+    "Question": "When Aníbal Fernández became Minister of the Interior start date?",
+    "relation": "When became Minister of the Interior start date",
+    "Relation": "became Minister of the Interior start date"
+  },
+  {
+    "Id": 17616,
+    "Question": "When Aníbal Fernández became Minister of the Interior end date?",
+    "relation": "When became Minister of the Interior end date",
+    "Relation": "became Minister of the Interior end date"
+  },
+  {
+    "Id": 17617,
+    "Question": "When was the formation of the Mayor of Seattle office?",
+    "relation": "When was the formation of the Mayor of office",
+    "Relation": "was the formation of the office"
+  },
+  {
+    "Id": 17618,
+    "Question": "When Georges Lautner was a director and screenwriter?",
+    "relation": "When was a director and screenwriter",
+    "Relation": "was a director and screenwriter"
+  },
+  {
+    "Id": 17619,
+    "Question": "When Jamie Vardy's stint at FC Halifax Town ended start date?",
+    "relation": "When stint at ended",
+    "Relation": "stint at FC Halifax Town ended start date"
+  },
+  {
+    "Id": 17620,
+    "Question": "When Jamie Vardy's stint at FC Halifax Town ended end date?",
+    "relation": "When stint at end",
+    "Relation": "stint at FC Halifax Town ended end date"
+  },
+  {
+    "Id": 17621,
+    "Question": "When Héctor Rivoira managed the sport club prior to Olimpo de Bahía Blanca start date?",
+    "relation": "When managed the to",
+    "Relation": "managed the sport club prior to Olimpo de Bahía Blanca start date"
+  },
+  {
+    "Id": 17622,
+    "Question": "When Héctor Rivoira managed the sport club prior to Olimpo de Bahía Blanca end date?",
+    "relation": "When managed the to date",
+    "Relation": "managed the sport club prior to Olimpo de Bahía Blanca end date"
+  },
+  {
+    "Id": 17623,
+    "Question": "When Brian Pallister became the premiere of Manitoba start date?",
+    "relation": "When became the premiere of start date",
+    "Relation": "became the premiere of Manitoba start date"
+  },
+  {
+    "Id": 17624,
+    "Question": "When Brian Pallister became the premiere of Manitoba end date?",
+    "relation": "When became the premiere of end date",
+    "Relation": "became the premiere of Manitoba end date"
+  },
+  {
+    "Id": 17625,
+    "Question": "When Santiago García joined Kasımpaşa S.K.?",
+    "relation": "When joined",
+    "Relation": "joined Kasımpaşa S.K."
+  },
+  {
+    "Id": 17626,
+    "Question": "When the German Democratic Republic was dissolved start date?",
+    "relation": "When the was dissolved start date",
+    "Relation": "was dissolved start date"
+  },
+  {
+    "Id": 17627,
+    "Question": "When the German Democratic Republic was dissolved end date?",
+    "relation": "When the was dissolved end date",
+    "Relation": "was dissolved end date"
+  },
+  {
+    "Id": 17628,
+    "Question": "When Kirzhach was granted town status?",
+    "relation": "When was granted town status",
+    "Relation": "was granted town status"
+  },
+  {
+    "Id": 17629,
+    "Question": "When Dr. Dre married Nicole Plotzkuer?",
+    "relation": "When Plotzkuer",
+    "Relation": "married"
+  },
+  {
+    "Id": 17630,
+    "Question": "When Sancak Kaplan joined as a loanee with a football team after being a member of Malatyaspor start date?",
+    "relation": "When joined as a loanee with a after being a of date",
+    "Relation": "joined as a loanee with a football team start date"
+  },
+  {
+    "Id": 17631,
+    "Question": "When Sancak Kaplan joined as a loanee with a football team after being a member of Malatyaspor end date?",
+    "relation": "When joined as a loanee with a after being a of date",
+    "Relation": "joined as a loanee with a football team end date"
+  },
+  {
+    "Id": 17632,
+    "Question": "When Hassan Nasrallah's affiliation with Amal began start date?",
+    "relation": "When affiliation with began date",
+    "Relation": "affiliation with Amal began start date"
+  },
+  {
+    "Id": 17633,
+    "Question": "When Hassan Nasrallah's affiliation with Amal began end date?",
+    "relation": "When affiliation with began date",
+    "Relation": "affiliation with Amal began end date"
+  },
+  {
+    "Id": 17634,
+    "Question": "When Bobby Bland's career with MCA/Peacock Records began?",
+    "relation": "When career with / began",
+    "Relation": "career with MCA/Peacock Records began"
+  },
+  {
+    "Id": 17635,
+    "Question": "When Hans-Jochen Vogel was replaced as Governing Mayor of Berlin start date?",
+    "relation": "When was replaced as start date",
+    "Relation": "was replaced as Governing Mayor of Berlin start date"
+  },
+  {
+    "Id": 17636,
+    "Question": "When Hans-Jochen Vogel was replaced as Governing Mayor of Berlin end date?",
+    "relation": "When was replaced as end date",
+    "Relation": "was replaced as Governing Mayor of Berlin end date"
+  },
+  {
+    "Id": 17637,
+    "Question": "When Sergei Lvovich Pushkin belonged to a distinguished family of Russian nobility start date?",
+    "relation": "When Sergei Lvovich belonged to a distinguished family of start date",
+    "Relation": "belonged to a distinguished family of Russian nobility start date"
+  },
+  {
+    "Id": 17638,
+    "Question": "When Sergei Lvovich Pushkin belonged to a distinguished family of Russian nobility end date?",
+    "relation": "When Sergei belonged to a distinguished family of Russian nobility end date",
+    "Relation": "belonged to a distinguished family of Russian nobility end date"
+  },
+  {
+    "Id": 17639,
+    "Question": "When Ise Mie was dissolved?",
+    "relation": "When was dissolved",
+    "Relation": "was dissolved"
+  },
+  {
+    "Id": 17640,
+    "Question": "When the Sohn Conference Foundation was launched as the Ira Sohn Research Conference (now called the Sohn Investment Conference)?",
+    "relation": "When the Sohn Conference Foundation was launched as the Sohn Conference (now the Sohn Conference)",
+    "Relation": "was launched as the Ira Sohn Research Conference"
+  },
+  {
+    "Id": 17641,
+    "Question": "When Carlos Sainz Jr. raced in GP3 Series for the first time?",
+    "relation": "When in for the",
+    "Relation": "raced in GP3 Series for the first time"
+  },
+  {
+    "Id": 17642,
+    "Question": "When Cadbury became part of Mondelēz International?",
+    "relation": "When became part of",
+    "Relation": "became part of Mondelēz International"
+  },
+  {
+    "Id": 17643,
+    "Question": "When Romana Bělohlávková held a position as a member of a Czech municipal council in Žďár nad Sázavou?",
+    "relation": "When Romana held a position as a member of a Czech municipal council in",
+    "Relation": "held a position as a member of a Czech municipal council in Žďár nad Sázavou"
+  },
+  {
+    "Id": 17644,
+    "Question": "When Rajat Gupta was convicted for insider trading?",
+    "relation": "When was convicted for",
+    "Relation": "was convicted for insider trading"
+  },
+  {
+    "Id": 17645,
+    "Question": "When France's FIFA rating was +9?",
+    "relation": "When rating was +9",
+    "Relation": "FIFA rating was +9"
+  },
+  {
+    "Id": 17646,
+    "Question": "When Akita replaced Taihei as a dissolved municipality of Japan?",
+    "relation": "When replaced as a dissolved municipality of Japan",
+    "Relation": "replaced as a dissolved municipality of Japan"
+  },
+  {
+    "Id": 17647,
+    "Question": "When Johannes Stark became the chairperson of the Physikalisch-Technische Bundesanstalt start date?",
+    "relation": "When became the chairperson of the date",
+    "Relation": "became the chairperson of the Physikalisch-Technische Bundesanstalt start date"
+  },
+  {
+    "Id": 17648,
+    "Question": "When Johannes Stark became the chairperson of the Physikalisch-Technische Bundesanstalt end date?",
+    "relation": "When became the chairperson of the date",
+    "Relation": "became the chairperson of the Physikalisch-Technische Bundesanstalt end date"
+  },
+  {
+    "Id": 17649,
+    "Question": "When Arthur Conan Doyle's wife died start date?",
+    "relation": "When wife died start date",
+    "Relation": "wife died start date"
+  },
+  {
+    "Id": 17650,
+    "Question": "When Arthur Conan Doyle's wife died end date?",
+    "relation": "When wife end date",
+    "Relation": "wife died end date"
+  },
+  {
+    "Id": 17651,
+    "Question": "When the NAACP was formed?",
+    "relation": "When the was formed",
+    "Relation": "was formed"
+  },
+  {
+    "Id": 17652,
+    "Question": "When the Lateran Treaty was signed?",
+    "relation": "When the was signed",
+    "Relation": "was signed"
+  },
+  {
+    "Id": 17653,
+    "Question": "When Hugo Maradona joined a sports club before being bought by Ascoli?",
+    "relation": "When joined a before being bought by",
+    "Relation": "joined a sports club before being bought by Ascoli"
+  }
+]
