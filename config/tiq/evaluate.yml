@@ -86,6 +86,7 @@ clocq_p: 1000 #  setting for neighborhood function(s)
 clocq_use_api: True # using CLOCQClientInterface
 clocq_host: "https://clocq.mpi-inf.mpg.de/api" # host for client
 clocq_port: "443" # port for client
+clocq_use_entity_linking_fallback: True # augment sparse search-space with entity_linking + neighborhood
 
 #################################################################
 #  Parameters - Silver annotation

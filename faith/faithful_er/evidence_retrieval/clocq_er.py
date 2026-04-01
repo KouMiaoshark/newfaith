@@ -134,10 +134,14 @@ class ClocqRetriever:
             # apply CLOCQ
             start = time.time()
             try:
-                clocq_result = self.clocq.get_search_space(tsf, parameters=self.config["clocq_params"],
-                                                           include_labels=True,
-                                                           include_type=True)
+                clocq_result = self.clocq.get_search_space(
+                    tsf,
+                    parameters=self.config["clocq_params"],
+                    include_labels=True,
+                    include_type=True,
+                )
                 self.logger.info(f"Time taken (clocq.get_search_space): {time.time() - start} seconds")
+                clocq_result = self._augment_with_entity_linking(tsf, clocq_result)
                 # store result in cache
 
             except:
@@ -163,6 +167,66 @@ class ClocqRetriever:
         )
 
         return evidences, question_entities
+
+    def _augment_with_entity_linking(self, question, clocq_result):
+        """
+        When search-space quality drops, augment it with the dedicated entity-linking API.
+        """
+        if not self.config.get("clocq_use_entity_linking_fallback", True):
+            return clocq_result
+        if not hasattr(self.clocq, "entity_linking"):
+            return clocq_result
+
+        try:
+            linked = self.clocq.entity_linking(question, parameters=self.config.get("clocq_params", {}))
+        except Exception as err:
+            self.logger.warning(f"CLOCQ entity linking fallback failed: {err}")
+            return clocq_result
+
+        linkings = linked.get("linkings", []) if isinstance(linked, dict) else []
+        if not linkings:
+            return clocq_result
+
+        existing_ids = {
+            item["item"]["id"]
+            for item in clocq_result.get("kb_item_tuple", [])
+            if item.get("item") and item["item"].get("id")
+        }
+        added_facts = 0
+        for rank, linking in enumerate(linkings):
+            item = linking.get("item", {})
+            item_id = item.get("id")
+            if not item_id or not ENT_PATTERN.match(item_id) or item_id in existing_ids:
+                continue
+
+            clocq_result.setdefault("kb_item_tuple", []).append(
+                {
+                    "item": item,
+                    "question_word": linking.get("mention", item.get("label", "")),
+                    "rank": rank,
+                    "score": linking.get("score", 0.0),
+                }
+            )
+            existing_ids.add(item_id)
+            try:
+                facts = self.clocq.get_neighborhood(
+                    item_id,
+                    p=self.config.get("clocq_p", 1000),
+                    include_labels=True,
+                    include_type=True,
+                )
+                if facts:
+                    clocq_result.setdefault("search_space", []).extend(facts)
+                    added_facts += len(facts)
+            except Exception as err:
+                self.logger.warning(f"Failed to fetch neighborhood for fallback entity {item_id}: {err}")
+
+        if added_facts > 0:
+            self.logger.info(
+                "CLOCQ entity-linking fallback added "
+                f"{added_facts} facts for question: {question}"
+            )
+        return clocq_result
 
     def remove_duplicate_evidence(self, evidences):
         """
